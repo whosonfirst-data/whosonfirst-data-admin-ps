@@ -1,0 +1,102 @@
+{
+  "id": 101922557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23159.960043,
+    "geom:bbox":"35.1800575256,31.635307312,35.182598114,31.6364784241",
+    "geom:latitude":31.635838,
+    "geom:longitude":35.181167,
+    "gn:population":1303,
+    "iso:country":"PS",
+    "lbl:latitude":31.635878,
+    "lbl:longitude":35.181168,
+    "mps:latitude":31.635878,
+    "mps:longitude":35.181168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Marah Rabah"
+    ],
+    "name:nno_x_preferred":[
+        "Marah Rabah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marah Rabah",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.635072,
+    "wd:longitude":35.1887,
+    "wd:wordcount":160,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283101,
+        "gp:id":1936768,
+        "qs:id":547040,
+        "wd:id":"Q6754648"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5f81ff49883c05548061e727dfd898a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922557,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922557,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922557,
+    "wof:lastmodified":1549929825,
+    "wof:name":"Marah Rabah",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":1303,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18005752563477,
+    31.63530731201172,
+    35.18259811401367,
+    31.63647842407227
+],
+  "geometry": {"coordinates":[[[35.18155288696289,31.63642311096191],[35.18259811401367,31.63558769226074],[35.18194580078125,31.63530921936035],[35.18096923828125,31.63530731201172],[35.18025207519531,31.63530731201172],[35.18005752563477,31.63625526428223],[35.18070602416992,31.63647842407227],[35.18155288696289,31.63642311096191]]],"type":"Polygon"}
+}

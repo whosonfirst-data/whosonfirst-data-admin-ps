@@ -1,0 +1,112 @@
+{
+  "id": 101921209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":161041.684684,
+    "geom:bbox":"35.161113739,32.305393219,35.1697883606,32.3088684082",
+    "geom:latitude":32.307369,
+    "geom:longitude":35.165132,
+    "gn:population":2091,
+    "iso:country":"PS",
+    "lbl:latitude":32.306527,
+    "lbl:longitude":35.164704,
+    "mps:latitude":32.306527,
+    "mps:longitude":35.164704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0632\u0627\u0631\u064a\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Bizzariya"
+    ],
+    "name:dut_x_preferred":[
+        "Bizziriya"
+    ],
+    "name:eng_x_preferred":[
+        "Bizziriya"
+    ],
+    "name:nno_x_preferred":[
+        "Bizziriya"
+    ],
+    "name:unk_x_variant":[
+        "Baz\u0101r\u012byah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bizzariya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":865,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284284,
+        "gp:id":1937300,
+        "qs:id":79933,
+        "wd:id":"Q4919451"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"68579e72c7b7fe5ffe2148815c7741f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921209,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921209,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921209,
+    "wof:lastmodified":1549929799,
+    "wof:name":"Bizzariya",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2091,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16111373901367,
+    32.30539321899414,
+    35.1697883605957,
+    32.30886840820312
+],
+  "geometry": {"coordinates":[[[35.16483306884766,32.30539321899414],[35.16458511352539,32.30539321899414],[35.1630973815918,32.30633926391602],[35.16111373901367,32.30718231201172],[35.16123580932617,32.30855178833008],[35.16260147094727,32.30855178833008],[35.16458129882812,32.3076057434082],[35.16743469238281,32.30886840820312],[35.1697883605957,32.30865859985352],[35.16854858398438,32.30728912353516],[35.16706085205078,32.3067626953125],[35.16483306884766,32.30539321899414]]],"type":"Polygon"}
+}

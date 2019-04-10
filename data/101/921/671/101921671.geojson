@@ -1,0 +1,112 @@
+{
+  "id": 101921671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000014,
+    "geom:area_square_m":143836.498413,
+    "geom:bbox":"35.2276916504,32.0919456482,35.2329292297,32.0980186462",
+    "geom:latitude":32.095884,
+    "geom:longitude":35.230765,
+    "gn:population":1604,
+    "iso:country":"PS",
+    "lbl:latitude":32.097083,
+    "lbl:longitude":35.23011,
+    "mps:latitude":32.097083,
+    "mps:longitude":35.23011,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "Y\u0101s\u016bf"
+    ],
+    "name:ara_x_variant":[
+        "\u064a\u0627\u0633\u0648\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "Yasuf"
+    ],
+    "name:dut_x_preferred":[
+        "Yasuf"
+    ],
+    "name:eng_x_preferred":[
+        "Yasuf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05e1\u05d5\u05e3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30fc\u30b9\u30fc\u30d5"
+    ],
+    "name:nno_x_preferred":[
+        "Yasuf"
+    ],
+    "name:unk_x_variant":[
+        "Yasouf"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Yasuf",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281295,
+        "gp:id":1937300,
+        "wd:id":"Q2918617",
+        "wk:page":"Yasuf"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"afbad4c79d6a9cde463bf06ea6622639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "empire_id":136253049,
+            "locality_id":101921671,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921671,
+    "wof:lastmodified":1534985966,
+    "wof:name":"Yasuf",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:population":1604,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613199
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22769165039062,
+    32.09194564819336,
+    35.23292922973633,
+    32.09801864624023
+],
+  "geometry": {"coordinates":[[[35.23248291015625,32.09745025634766],[35.23292922973633,32.09355926513672],[35.23270416259766,32.09194564819336],[35.2318115234375,32.09318161010742],[35.23159027099609,32.09517288208008],[35.23092269897461,32.09650039672852],[35.22980880737305,32.09536361694336],[35.22869110107422,32.09422302246094],[35.22769165039062,32.09593200683594],[35.22869491577148,32.09688186645508],[35.22969818115234,32.09801864624023],[35.23181533813477,32.09801864624023],[35.23248291015625,32.09745025634766]]],"type":"Polygon"}
+}

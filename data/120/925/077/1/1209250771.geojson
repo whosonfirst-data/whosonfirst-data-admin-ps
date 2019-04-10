@@ -1,0 +1,87 @@
+{
+  "id": 1209250771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.13333,31.65,35.13333,31.65",
+    "geom:latitude":31.65,
+    "geom:longitude":35.13333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Efrata",
+    "gn:cc2":"PS",
+    "gn:country_code":"PS",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":283991,
+    "gn:latitude":31.65,
+    "gn:longitude":35.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Efrata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Efratah",
+        "Efrata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283991,
+        "wk:page":"Efrat"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c103a0db7f681e462a0e1b0da4917f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209250771,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209250771,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209250771,
+    "wof:lastmodified":1549929770,
+    "wof:name":"Efrata",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13333,
+    31.65,
+    35.13333,
+    31.65
+],
+  "geometry": {"coordinates":[35.13333,31.65],"type":"Point"}
+}

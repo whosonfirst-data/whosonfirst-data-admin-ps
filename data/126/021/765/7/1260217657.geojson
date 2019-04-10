@@ -1,0 +1,85 @@
+{
+  "id": 1260217657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18333,31.81667,35.18333,31.81667",
+    "geom:latitude":31.81667,
+    "geom:longitude":35.18333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Khirbat al `Alawinah",
+    "gn:country_code":"PS",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283182,
+    "gn:latitude":31.81667,
+    "gn:longitude":35.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khirbat al \u2018Al\u0101winah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat el \u2018Al\u0101wina",
+        "Khirbat al \u2018Al\u0101winah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283182
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6bc0f544c1f923434ccdc34539c43a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1260217657,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1260217657,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1260217657,
+    "wof:lastmodified":1549929666,
+    "wof:name":"Khirbat al `Alawinah",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18333,
+    31.81667,
+    35.18333,
+    31.81667
+],
+  "geometry": {"coordinates":[35.18333,31.81667],"type":"Point"}
+}

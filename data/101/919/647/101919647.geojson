@@ -1,0 +1,87 @@
+{
+  "id": 101919647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000003,
+    "geom:area_square_m":26651.420655,
+    "geom:bbox":"34.9891624451,31.5370101929,34.9920959473,31.5386295319",
+    "geom:latitude":31.537803,
+    "geom:longitude":34.99076,
+    "iso:country":"PS",
+    "lbl:latitude":31.53803,
+    "lbl:longitude":34.99115,
+    "mps:latitude":31.53803,
+    "mps:longitude":34.99115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Humsa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85687577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283653,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"61284de242de565c6c293c75c960c5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101919647,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "locality_id":101919647,
+            "region_id":85687577
+        }
+    ],
+    "wof:id":101919647,
+    "wof:lastmodified":1534985971,
+    "wof:name":"Humsa",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613301
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98916244506836,
+    31.53701019287109,
+    34.99209594726562,
+    31.53862953186035
+],
+  "geometry": {"coordinates":[[[34.98961639404297,31.53751945495605],[34.99017333984375,31.53814888000488],[34.99108123779297,31.53862953186035],[34.99156951904297,31.53851127624512],[34.99209594726562,31.53818321228027],[34.99199295043945,31.53749465942383],[34.99090957641602,31.53743362426758],[34.98989486694336,31.53710174560547],[34.98916244506836,31.53701019287109],[34.98916244506836,31.53748893737793],[34.98961639404297,31.53751945495605]]],"type":"Polygon"}
+}

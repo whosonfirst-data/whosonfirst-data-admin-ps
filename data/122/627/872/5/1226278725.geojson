@@ -1,0 +1,84 @@
+{
+  "id": 1226278725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.32526,31.3421,34.32526,31.3421",
+    "geom:latitude":31.3421,
+    "geom:longitude":34.32526,
+    "gn:admin1_code":"GZ",
+    "gn:asciiname":"Bani Suhela",
+    "gn:country_code":"PS",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870559,
+    "gn:latitude":31.3421,
+    "gn:longitude":34.32526,
+    "gn:modification_date":"2011-06-15",
+    "gn:name":"Bani Suhela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bani Suhaila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870559
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a2c457885b4b0b21b31b578ffcb22246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1226278725,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1226278725,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1226278725,
+    "wof:lastmodified":1549928935,
+    "wof:name":"Bani Suhela",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.32526,
+    31.3421,
+    34.32526,
+    31.3421
+],
+  "geometry": {"coordinates":[34.32526,31.3421],"type":"Point"}
+}

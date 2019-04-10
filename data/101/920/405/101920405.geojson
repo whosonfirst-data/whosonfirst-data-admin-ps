@@ -1,0 +1,156 @@
+{
+  "id": 101920405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":58064.370554,
+    "geom:bbox":"34.3403739929,31.3436145782,34.3454208374,31.3479309082",
+    "geom:latitude":31.346433,
+    "geom:longitude":34.342785,
+    "gn:population":31272,
+    "iso:country":"PS",
+    "lbl:latitude":31.346812,
+    "lbl:longitude":34.343245,
+    "mps:latitude":31.346812,
+    "mps:longitude":34.343245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0633\u0647\u064a\u0644\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:cat_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:cze_x_preferred":[
+        "Ban\u00ed Suhajla"
+    ],
+    "name:dut_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:fre_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:ger_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d9 \u05e1\u05d5\u05d4\u05d9\u05dc\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30cb\u30fb\u30b9\u30d8\u30a4\u30e9"
+    ],
+    "name:nno_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:nob_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0646\u06cc \u0633\u0647\u06cc\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bani Suhajla"
+    ],
+    "name:sco_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:spa_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:tur_x_preferred":[
+        "Bani S\u00fcheyla"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u06cc \u0633\u06c1\u06cc\u0644\u06c1"
+    ],
+    "name:wel_x_preferred":[
+        "Bani Suheila"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bani Suheila",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.342778,
+    "wd:longitude":34.325344,
+    "wd:wordcount":740,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281148,
+        "gp:id":1979600,
+        "wd:id":"Q1983186",
+        "wk:page":"Bani Suheila"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"83b49f93fde22789f6f1520eb78420e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920405,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920405,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920405,
+    "wof:lastmodified":1549928904,
+    "wof:name":"Bani Suheila",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:population":31272,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34037399291992,
+    31.34361457824707,
+    34.34542083740234,
+    31.34793090820312
+],
+  "geometry": {"coordinates":[[[34.34086227416992,31.34361457824707],[34.34037399291992,31.34382629394531],[34.34156799316406,31.34539604187012],[34.34056854248047,31.34630584716797],[34.34144592285156,31.34664726257324],[34.34199523925781,31.34605407714844],[34.34254837036133,31.34665107727051],[34.34232711791992,31.34714508056641],[34.34347534179688,31.34780311584473],[34.34400177001953,31.34793090820312],[34.34490203857422,31.34792709350586],[34.34542083740234,31.34789276123047],[34.34516906738281,31.34731292724609],[34.344482421875,31.3475456237793],[34.34417724609375,31.34671783447266],[34.34348297119141,31.34596252441406],[34.34336853027344,31.34567832946777],[34.34254837036133,31.34597778320312],[34.34173965454102,31.34511756896973],[34.34125518798828,31.34449005126953],[34.34088516235352,31.34377288818359],[34.34086227416992,31.34361457824707]]],"type":"Polygon"}
+}

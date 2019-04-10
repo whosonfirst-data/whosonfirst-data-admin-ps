@@ -1,0 +1,83 @@
+{
+  "id": 101919451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000044,
+    "geom:area_square_m":457865.868644,
+    "geom:bbox":"34.9918518066,32.1375312805,35.0,32.1452598572",
+    "geom:latitude":32.141406,
+    "geom:longitude":34.996626,
+    "gn:population":713,
+    "iso:country":"PS",
+    "lbl:latitude":32.141253,
+    "lbl:longitude":34.996956,
+    "mps:latitude":32.141253,
+    "mps:longitude":34.996956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Izbat Salman",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889510,
+        "gp:id":1937157
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f94f2aac25e8e2d803f4d01547efebc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "empire_id":136253049,
+            "locality_id":101919451,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101919451,
+    "wof:lastmodified":1534985969,
+    "wof:name":"'Izbat Salman",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":713,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613261
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99185180664062,
+    32.13753128051758,
+    35.0,
+    32.14525985717773
+],
+  "geometry": {"coordinates":[[[35.0,32.14436721801758],[35.0,32.13887023925781],[34.99801254272461,32.13821411132812],[34.99576950073242,32.13753128051758],[34.99452590942383,32.1376838684082],[34.99406051635742,32.13934326171875],[34.99314880371094,32.13998794555664],[34.99185180664062,32.14099502563477],[34.99229431152344,32.14178848266602],[34.99321746826172,32.1419563293457],[34.994384765625,32.14291000366211],[34.99423980712891,32.14467239379883],[34.99616241455078,32.14525985717773],[34.9976806640625,32.14491271972656],[34.99988174438477,32.14444732666016],[35.0,32.14436721801758]]],"type":"Polygon"}
+}

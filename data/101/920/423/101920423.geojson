@@ -1,0 +1,91 @@
+{
+  "id": 101920423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17575.810113,
+    "geom:bbox":"34.3473548889,31.3399658203,34.3494720459,31.3416366577",
+    "geom:latitude":31.340591,
+    "geom:longitude":34.348489,
+    "geonames:id":"6967863,7870670",
+    "iso:country":"PS",
+    "lbl:latitude":31.34049,
+    "lbl:longitude":34.348679,
+    "mps:latitude":31.34049,
+    "mps:longitude":34.348679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Abasan al Jadida",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.340514,
+    "wd:longitude":34.344603,
+    "wd:wordcount":329,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123264,
+        "wd:id":"Q1814855"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a1373e86505be83361a1a524aa931396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920423,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920423,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920423,
+    "wof:lastmodified":1549928900,
+    "wof:name":"'Abasan al Jadida",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34735488891602,
+    31.3399658203125,
+    34.34947204589844,
+    31.34163665771484
+],
+  "geometry": {"coordinates":[[[34.34840393066406,31.3399658203125],[34.34784317016602,31.34000015258789],[34.34735488891602,31.34005355834961],[34.34780502319336,31.34066963195801],[34.34822463989258,31.34061813354492],[34.34846115112305,31.34088897705078],[34.34814834594727,31.3411693572998],[34.34835052490234,31.34163665771484],[34.34880828857422,31.34159469604492],[34.34857177734375,31.34119606018066],[34.34947204589844,31.34075736999512],[34.34910583496094,31.34012603759766],[34.34840393066406,31.3399658203125]]],"type":"Polygon"}
+}

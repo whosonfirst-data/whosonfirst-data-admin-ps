@@ -1,0 +1,109 @@
+{
+  "id": 101921289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":120186.862607,
+    "geom:bbox":"35.4640808105,32.272983551,35.4687995911,32.2767219543",
+    "geom:latitude":32.274601,
+    "geom:longitude":35.466593,
+    "gn:population":176,
+    "iso:country":"PS",
+    "lbl:latitude":32.274173,
+    "lbl:longitude":35.466638,
+    "mps:latitude":32.274173,
+    "mps:longitude":35.466638,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0631\u0627\u0633 \u0627\u0644\u0623\u062d\u0645\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Khirbet ar-Ras al-Ahmar"
+    ],
+    "name:dut_x_preferred":[
+        "Khirbet ar-Ras al-Ahmar"
+    ],
+    "name:eng_x_preferred":[
+        "Khirbet ar-Ras al-Ahmar"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat ar R\u0101s al A\u1e29mar"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet ar Ras al Ahmar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7897875,
+        "gp:id":1937304,
+        "qs:id":744256,
+        "wd:id":"Q16893371"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0bec9950235071b677c778580be34df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921289,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921289,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921289,
+    "wof:lastmodified":1549929810,
+    "wof:name":"Khirbet ar Ras al Ahmar",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46408081054688,
+    32.27298355102539,
+    35.46879959106445,
+    32.2767219543457
+],
+  "geometry": {"coordinates":[[[35.46408081054688,32.27445983886719],[35.46455764770508,32.27579498291016],[35.46612548828125,32.2752571105957],[35.46722793579102,32.27605438232422],[35.46785736083984,32.2767219543457],[35.46879959106445,32.27645111083984],[35.46863555908203,32.27445220947266],[35.46784973144531,32.27431869506836],[35.46831893920898,32.27298355102539],[35.46659088134766,32.27298736572266],[35.46423721313477,32.27352523803711],[35.46408081054688,32.27445983886719]]],"type":"Polygon"}
+}

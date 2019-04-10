@@ -1,0 +1,116 @@
+{
+  "id": 101920575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":59473.044256,
+    "geom:bbox":"34.350112915,31.2988986969,34.3571205139,31.3036212921",
+    "geom:latitude":31.301244,
+    "geom:longitude":34.353704,
+    "iso:country":"PS",
+    "lbl:latitude":31.301506,
+    "lbl:longitude":34.354234,
+    "mps:latitude":31.301506,
+    "mps:longitude":34.354234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0632\u0627\u0639\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Khuza'a"
+    ],
+    "name:dut_x_preferred":[
+        "Khuza'a"
+    ],
+    "name:eng_x_preferred":[
+        "Khuza'a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05d5\u05d6\u05d0\u05e2\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Khuza'a i Khan Yunis"
+    ],
+    "name:nob_x_preferred":[
+        "Khuza'a"
+    ],
+    "name:pol_x_preferred":[
+        "Chuza\u2019a"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0632\u0627\u0639\u06c1\u060c \u062e\u0627\u0646 \u06cc\u0648\u0646\u0633"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khuza'a",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870489,
+        "gp:id":56123281,
+        "wd:id":"Q1814882"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0843202c71e2cdbd73df78070b09b3f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920575,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920575,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920575,
+    "wof:lastmodified":1549928920,
+    "wof:name":"Khuza'a",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35011291503906,
+    31.29889869689941,
+    34.35712051391602,
+    31.30362129211426
+],
+  "geometry": {"coordinates":[[[34.35078811645508,31.29889869689941],[34.3502311706543,31.2994441986084],[34.35011291503906,31.299560546875],[34.35233688354492,31.30077934265137],[34.35380935668945,31.3017520904541],[34.35546493530273,31.30274963378906],[34.35645294189453,31.30343627929688],[34.35647583007812,31.30362129211426],[34.35672378540039,31.30356788635254],[34.35692977905273,31.30323791503906],[34.35712051391602,31.30291557312012],[34.35664749145508,31.30256080627441],[34.35601043701172,31.30223655700684],[34.35529708862305,31.30171775817871],[34.35470581054688,31.30137062072754],[34.3541259765625,31.30091857910156],[34.35384750366211,31.30114555358887],[34.35322189331055,31.30085563659668],[34.35277557373047,31.30053329467773],[34.35251998901367,31.30032730102539],[34.35266494750977,31.30005836486816],[34.35194396972656,31.29965019226074],[34.35143280029297,31.2993335723877],[34.35105895996094,31.29906272888184],[34.35078811645508,31.29889869689941]]],"type":"Polygon"}
+}

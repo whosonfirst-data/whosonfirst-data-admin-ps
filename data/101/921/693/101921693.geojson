@@ -1,0 +1,117 @@
+{
+  "id": 101921693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":170011.454994,
+    "geom:bbox":"35.3276901245,32.0787315369,35.3389549255,32.0825538635",
+    "geom:latitude":32.080898,
+    "geom:longitude":35.333812,
+    "gn:population":4316,
+    "iso:country":"PS",
+    "lbl:latitude":32.08086,
+    "lbl:longitude":35.333258,
+    "mps:latitude":32.08086,
+    "mps:longitude":35.333258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Qusra"
+    ],
+    "name:dut_x_preferred":[
+        "Qusra"
+    ],
+    "name:eng_x_preferred":[
+        "Qusra"
+    ],
+    "name:fre_x_preferred":[
+        "Qusra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e1\u05e8\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Qusra"
+    ],
+    "name:unk_x_variant":[
+        "Kusrah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qusra",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282283,
+        "gp:id":1937300,
+        "wd:id":"Q3928087",
+        "wk:page":"Qusra"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5efc7d770b2fb04dd42033736c064f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921693,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921693,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921693,
+    "wof:lastmodified":1549929840,
+    "wof:name":"Qusra",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":4316,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32769012451172,
+    32.07873153686523,
+    35.33895492553711,
+    32.08255386352539
+],
+  "geometry": {"coordinates":[[[35.32884216308594,32.08137893676758],[35.32769012451172,32.08128356933594],[35.32792282104492,32.08235931396484],[35.32953262329102,32.08255386352539],[35.33240509033203,32.08206176757812],[35.33424377441406,32.08147430419922],[35.33493041992188,32.08059310913086],[35.33700180053711,32.08156967163086],[35.3382682800293,32.08147048950195],[35.33895492553711,32.08019638061523],[35.33757400512695,32.07970809936523],[35.33504486083984,32.07873153686523],[35.33470153808594,32.08000564575195],[35.33286285400391,32.07991027832031],[35.33113861083984,32.08137893676758],[35.32884216308594,32.08137893676758]]],"type":"Polygon"}
+}

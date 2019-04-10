@@ -1,0 +1,277 @@
+{
+  "id": 101920497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":155244.653783,
+    "geom:bbox":"34.3151168823,31.3232402802,34.3229026794,31.3346405029",
+    "geom:latitude":31.330148,
+    "geom:longitude":34.319726,
+    "gn:population":173183,
+    "iso:country":"PS",
+    "lbl:latitude":31.330422,
+    "lbl:longitude":34.320637,
+    "mps:latitude":31.330422,
+    "mps:longitude":34.320637,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Kh\u0101n Y\u016bnis"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0627\u0646 \u064a\u0648\u0646\u0633",
+        "Kh\u0101n Y\u016bnus"
+    ],
+    "name:aze_x_preferred":[
+        "Xan-Yunis"
+    ],
+    "name:baq_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:ben_x_preferred":[
+        "\u0996\u09be\u09a8 \u0987\u0989\u09a8\u09bf\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u043d \u042e\u043d\u0438\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:cze_x_preferred":[
+        "Ch\u00e1n J\u00fanis"
+    ],
+    "name:dan_x_preferred":[
+        "Khan Younis"
+    ],
+    "name:dut_x_preferred":[
+        "Khan Younis"
+    ],
+    "name:eng_x_colloquial":[
+        "Hanoet Ydnaa",
+        "Hanot Ydna",
+        "Hanut Yona",
+        "Khaan Yoenis",
+        "Khaan Yoenus",
+        "Khan Yonis",
+        "Khan Yonus",
+        "Khan Yunis"
+    ],
+    "name:eng_x_preferred":[
+        "Khan Yunus"
+    ],
+    "name:eng_x_variant":[
+        "Han\u00f8t Y\u00f0n\u00e5",
+        "Khan Younes",
+        "Khan Yumus",
+        "Kh\u00e5n Y\u00f8nis",
+        "Kh\u00e5n Y\u00f8nus",
+        "Yunas",
+        "Yunus",
+        "Khan Yunis"
+    ],
+    "name:epo_x_preferred":[
+        "\u0124an Junis"
+    ],
+    "name:est_x_preferred":[
+        "Kh\u0101n Y\u016bnis"
+    ],
+    "name:fin_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:fre_x_preferred":[
+        "Khan Youn\u00e8s"
+    ],
+    "name:ger_x_preferred":[
+        "Chan Yunis"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03b1\u03bd \u0393\u03b9\u03bf\u03c5\u03bd\u03af\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a96\u0abe\u0aa8 \u0aaf\u0ac1\u0aa8\u0abf\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05d0\u05df \u05d9\u05d5\u05e0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u093e\u0928 \u092f\u0941\u0928\u0941\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:ind_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:ita_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30f3\u30e6\u30fc\u30cb\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c96\u0cbe\u0ca8\u0ccd \u0caf\u0cc1\u0ca8\u0cbf\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uce78\uc720\ub2c8\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Hanjunisa"
+    ],
+    "name:lit_x_preferred":[
+        "Chan Junisas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0916\u093e\u0928 \u092f\u0941\u0928\u093f\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:nno_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:nob_x_preferred":[
+        "Khan Younis"
+    ],
+    "name:nor_x_preferred":[
+        "Khan Younis"
+    ],
+    "name:per_x_preferred":[
+        "\u062e\u0627\u0646\u200c\u06cc\u0648\u0646\u0633"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062e\u0627\u0646 \u06cc\u0648\u0646\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Chan Junis"
+    ],
+    "name:por_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d-\u042e\u043d\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9b\u0dcf\u0db1\u0dca \u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Jan Yun\u00eds"
+    ],
+    "name:spa_x_variant":[
+        "Jan Yunis"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043d \u0408\u0443\u043d\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0ba9\u0bcd  \u0baf\u0bc2\u0ba9\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c16\u0c3e\u0c28\u0c4d \u0c2f\u0c42\u0c28\u0c3f\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e02\u0e48\u0e32\u0e19 \u0e22\u0e39\u0e19\u0e34\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Han Yunus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043d-\u042e\u043d\u0456\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Kh\u0101n Y\u016bnus"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0627\u0646 \u06cc\u0648\u0646\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Khan Yunis"
+    ],
+    "name:wel_x_preferred":[
+        "Khan Yunis"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khan Yunis",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.343889,
+    "wd:longitude":34.3025,
+    "wd:wordcount":1610,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0263f1d8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":281124,
+        "gp:id":1979600,
+        "wd:id":"Q309348",
+        "wk:page":"Khan Yunis"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a1c83919d6930c8e3e9ec443b05eff87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920497,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920497,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920497,
+    "wof:lastmodified":1549928913,
+    "wof:name":"Khan Yunis",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:population":173183,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31511688232422,
+    31.32324028015137,
+    34.32290267944336,
+    31.33464050292969
+],
+  "geometry": {"coordinates":[[[34.32131195068359,31.32324028015137],[34.32094573974609,31.3237476348877],[34.3206672668457,31.32408332824707],[34.32059097290039,31.32406425476074],[34.32086944580078,31.32677841186523],[34.32102584838867,31.32874870300293],[34.32110595703125,31.32950019836426],[34.3206901550293,31.32922554016113],[34.32006072998047,31.32952690124512],[34.31951522827148,31.33004760742188],[34.31913375854492,31.33069610595703],[34.31877136230469,31.33135986328125],[34.31821823120117,31.33211326599121],[34.3177604675293,31.33247756958008],[34.31718444824219,31.33211708068848],[34.31695938110352,31.33225059509277],[34.31650161743164,31.33164596557617],[34.31583023071289,31.33214950561523],[34.3161735534668,31.33271408081055],[34.31593704223633,31.33290863037109],[34.316650390625,31.3333911895752],[34.31613159179688,31.33376502990723],[34.31567764282227,31.33338928222656],[34.31511688232422,31.33382034301758],[34.31584930419922,31.33431243896484],[34.31642532348633,31.33464050292969],[34.31669998168945,31.33450317382812],[34.31642150878906,31.33422470092773],[34.31716537475586,31.33345603942871],[34.31740188598633,31.33363914489746],[34.31821823120117,31.33280563354492],[34.31888961791992,31.33195877075195],[34.31910705566406,31.33217430114746],[34.31990051269531,31.33159637451172],[34.3202018737793,31.33132171630859],[34.32054138183594,31.33163833618164],[34.32082366943359,31.33150291442871],[34.32114028930664,31.33185386657715],[34.32138824462891,31.33179473876953],[34.32144546508789,31.3323974609375],[34.32209014892578,31.33245468139648],[34.32196044921875,31.33158874511719],[34.32182693481445,31.33045387268066],[34.32244110107422,31.33037948608398],[34.32244873046875,31.33007431030273],[34.32206344604492,31.33004379272461],[34.32207107543945,31.32981300354004],[34.32157897949219,31.3297176361084],[34.3214225769043,31.32851600646973],[34.32144546508789,31.3272647857666],[34.32132720947266,31.32585334777832],[34.32119369506836,31.32501602172852],[34.32111358642578,31.32429504394531],[34.32108306884766,31.3242301940918],[34.32209396362305,31.3242301940918],[34.32252883911133,31.32468605041504],[34.32290267944336,31.32445335388184],[34.32232284545898,31.32401084899902],[34.32178497314453,31.32363319396973],[34.32131195068359,31.32324028015137]]],"type":"Polygon"}
+}

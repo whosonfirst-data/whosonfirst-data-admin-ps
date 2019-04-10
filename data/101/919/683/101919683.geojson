@@ -1,0 +1,193 @@
+{
+  "id": 101919683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9359.161064,
+    "geom:bbox":"34.5136108398,31.5314559937,34.5154685974,31.5327205658",
+    "geom:latitude":31.532032,
+    "geom:longitude":34.514514,
+    "gn:population":56919,
+    "iso:country":"PS",
+    "lbl:latitude":31.53204,
+    "lbl:longitude":34.514453,
+    "mps:latitude":31.53204,
+    "mps:longitude":34.514453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0644\u0627\u0647\u064a\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:ces_x_preferred":[
+        "Bajt Lah\u00edja"
+    ],
+    "name:cym_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:cze_x_preferred":[
+        "Bajt Lah\u00edja"
+    ],
+    "name:deu_x_preferred":[
+        "Bait Lahiya"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:eus_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a\u200c\u0644\u0627\u0647\u06cc\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:ger_x_preferred":[
+        "Bait Lahiya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05dc\u05d4\u05d9\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:ita_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a4\u30c8\u30a5\u30fb\u30e9\u30d2\u30a2"
+    ],
+    "name:min_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:nld_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:nob_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:nor_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:nor_x_variant":[
+        "Beit Lahia"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a\u200c\u0644\u0627\u0647\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Lahija"
+    ],
+    "name:por_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:sco_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:tur_x_preferred":[
+        "Beyt Lahya"
+    ],
+    "name:unk_x_variant":[
+        "Bayt L\u0101hiya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0644\u0627\u06c1\u06cc\u0627"
+    ],
+    "name:wel_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Lahiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":31.5539,
+    "wd:longitude":34.501381,
+    "wd:population":59540,
+    "wd:wordcount":1126,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913267,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281145,
+        "gp:id":1979608,
+        "wd:id":"Q803986",
+        "wk:page":"Beit Lahia"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fff4313ec97199a7ba182e86fa0e65ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919683,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919683,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101919683,
+    "wof:lastmodified":1549928917,
+    "wof:name":"Beit Lahiya",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:population":59540,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51361083984375,
+    31.53145599365234,
+    34.51546859741211,
+    31.5327205657959
+],
+  "geometry": {"coordinates":[[[34.51361083984375,31.53181648254395],[34.51446533203125,31.53241920471191],[34.51472854614258,31.53221321105957],[34.51530838012695,31.5327205657959],[34.51546859741211,31.53253936767578],[34.51517105102539,31.53217697143555],[34.51501083374023,31.53193855285645],[34.51401138305664,31.53145599365234],[34.51361083984375,31.53181648254395]]],"type":"Polygon"}
+}

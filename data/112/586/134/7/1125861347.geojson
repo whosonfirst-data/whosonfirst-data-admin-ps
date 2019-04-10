@@ -1,0 +1,107 @@
+{
+  "id": 1125861347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.48347,31.5272,34.48347,31.5272",
+    "geom:latitude":31.5272,
+    "geom:longitude":34.48347,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":168568,
+    "gn:population":168568,
+    "iso:country":"PS",
+    "lbl:latitude":31.5272,
+    "lbl:longitude":34.48347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0627\u0644\u064a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Jabalia"
+    ],
+    "name:nor_x_preferred":[
+        "Jabalia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0431\u0430\u043b\u0438\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Jabaliya"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281129,
+    "qs_pg:gn_pop":168568,
+    "qs_pg:name":"Jab\u0101ly\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":123898,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913267,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281129,
+        "qs_pg:id":123898
+    },
+    "wof:country":"PS",
+    "wof:created":1497293841,
+    "wof:geomhash":"ac546ab09a2ec4832bdfd8440c72402f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1125861347,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1125861347,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1125861347,
+    "wof:lastmodified":1549928883,
+    "wof:name":"Jab\u0101ly\u0101",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:population":168568,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.48347,
+    31.5272,
+    34.48347,
+    31.5272
+],
+  "geometry": {"coordinates":[34.48347,31.5272],"type":"Point"}
+}

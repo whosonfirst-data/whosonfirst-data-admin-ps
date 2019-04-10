@@ -1,0 +1,87 @@
+{
+  "id": 1243485609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51667,32.25,35.51667,32.25",
+    "geom:latitude":32.25,
+    "geom:longitude":35.51667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Nahal Hemdat",
+    "gn:cc2":"PS",
+    "gn:country_code":"PS",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282605,
+    "gn:latitude":32.25,
+    "gn:longitude":35.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Na\u1e96al H\u0331emdat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hemdat",
+        "Na\u1e96al H\u0331emdat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282605,
+        "wk:page":"Hemdat"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"01c0dbf1b06f64997fadc88408736b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243485609,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243485609,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1243485609,
+    "wof:lastmodified":1549929916,
+    "wof:name":"Nahal Hemdat",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51667,
+    32.25,
+    35.51667,
+    32.25
+],
+  "geometry": {"coordinates":[35.51667,32.25],"type":"Point"}
+}

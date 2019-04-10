@@ -1,0 +1,74 @@
+{
+  "id": 1293525865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23333,31.73333,35.23333,31.73333",
+    "geom:latitude":31.73333,
+    "geom:longitude":35.23333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Khirbat Za`kukah",
+    "gn:country_code":"PS",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283072,
+    "gn:latitude":31.73333,
+    "gn:longitude":35.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khirbat Za\u2018k\u016bkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Khirbat Za\u2018kuka",
+        "Khirbat Za\u2018k\u016bkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283072
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0773ccfcdf9c03a7a66b8e1a44d00a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1293525865,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1293525865,
+    "wof:lastmodified":1549930787,
+    "wof:name":"Khirbat Za`kukah",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891457
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23333,
+    31.73333,
+    35.23333,
+    31.73333
+],
+  "geometry": {"coordinates":[35.23333,31.73333],"type":"Point"}
+}

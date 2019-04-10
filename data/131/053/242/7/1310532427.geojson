@@ -1,0 +1,86 @@
+{
+  "id": 1310532427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03547,32.33636,35.03547,32.33636",
+    "geom:latitude":32.33636,
+    "geom:longitude":35.03547,
+    "gn:admin1_code":"WE",
+    "gn:admin2_code":"7870644",
+    "gn:asciiname":"Shuwaykah",
+    "gn:country_code":"PS",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":281801,
+    "gn:latitude":32.33636,
+    "gn:longitude":35.03547,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Shuwaykah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuweika",
+        "Shuwaykah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281801
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d2ab08c799ebd1da99a52334c5f4136d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310532427,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310532427,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1310532427,
+    "wof:lastmodified":1549929772,
+    "wof:name":"Shuwaykah",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03547,
+    32.33636,
+    35.03547,
+    32.33636
+],
+  "geometry": {"coordinates":[35.03547,32.33636],"type":"Point"}
+}

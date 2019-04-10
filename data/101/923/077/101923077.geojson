@@ -1,0 +1,93 @@
+{
+  "id": 101923077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11062.144758,
+    "geom:bbox":"35.1231269836,31.38945961,35.1247024536,31.3907222748",
+    "geom:latitude":31.389997,
+    "geom:longitude":35.124045,
+    "iso:country":"PS",
+    "lbl:latitude":31.390016,
+    "lbl:longitude":35.124048,
+    "mps:latitude":31.390016,
+    "mps:longitude":35.124048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062a\u0648\u0627\u0645\u064a\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat el Tuweimin"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet at Tawamin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281556,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3b509fb9b7a8bf03caf6081bfdcf4534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923077,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923077,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923077,
+    "wof:lastmodified":1549929784,
+    "wof:name":"Khirbet at Tawamin",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12312698364258,
+    31.38945960998535,
+    35.12470245361328,
+    31.39072227478027
+],
+  "geometry": {"coordinates":[[[35.12428283691406,31.38945960998535],[35.12396621704102,31.38954925537109],[35.12312698364258,31.38982009887695],[35.12343978881836,31.39000129699707],[35.12386322021484,31.39054298400879],[35.12417602539062,31.39072227478027],[35.12438583374023,31.39036178588867],[35.12470245361328,31.38991165161133],[35.12459945678711,31.38955116271973],[35.12428283691406,31.38945960998535]]],"type":"Polygon"}
+}

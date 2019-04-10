@@ -1,0 +1,81 @@
+{
+  "id": 1310136491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24002,32.05384,35.24002,32.05384",
+    "geom:latitude":32.05384,
+    "geom:longitude":35.24002,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Ma`ale Levona",
+    "gn:country_code":"PS",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282989,
+    "gn:latitude":32.05384,
+    "gn:longitude":35.24002,
+    "gn:modification_date":"2017-12-03",
+    "gn:name":"Ma\u2018ale Levona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282989
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"eebda5f915be11b80150934cfff17a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310136491,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310136491,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1310136491,
+    "wof:lastmodified":1549929660,
+    "wof:name":"Ma`ale Levona",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24002,
+    32.05384,
+    35.24002,
+    32.05384
+],
+  "geometry": {"coordinates":[35.24002,32.05384],"type":"Point"}
+}

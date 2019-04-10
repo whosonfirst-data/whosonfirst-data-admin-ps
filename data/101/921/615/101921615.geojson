@@ -1,0 +1,109 @@
+{
+  "id": 101921615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000007,
+    "geom:area_square_m":73077.863319,
+    "geom:bbox":"35.3377456665,32.1171913147,35.3414268494,32.1205177307",
+    "geom:latitude":32.119115,
+    "geom:longitude":35.339505,
+    "gn:population":7707,
+    "iso:country":"PS",
+    "lbl:latitude":32.1191,
+    "lbl:longitude":35.339379,
+    "mps:latitude":32.1191,
+    "mps:longitude":35.339379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u0631\u0628\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Aqraba"
+    ],
+    "name:dut_x_preferred":[
+        "Aqraba"
+    ],
+    "name:eng_x_preferred":[
+        "Aqraba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e7\u05e8\u05d1\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Aqraba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0440\u0430\u0431\u0430"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Aqraba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.126436,
+    "wd:longitude":35.343561,
+    "wd:wordcount":1605,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284922,
+        "gp:id":1937300,
+        "wd:id":"Q2918318",
+        "wk:page":"Aqraba"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e9e5dddfd88afb9c053e6332880a3c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "empire_id":136253049,
+            "locality_id":101921615,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921615,
+    "wof:lastmodified":1534985973,
+    "wof:name":"Aqraba",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":7707,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613353
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33774566650391,
+    32.11719131469727,
+    35.34142684936523,
+    32.12051773071289
+],
+  "geometry": {"coordinates":[[[35.33843231201172,32.11719131469727],[35.33785629272461,32.11875915527344],[35.33774566650391,32.11973571777344],[35.33946990966797,32.12012481689453],[35.34142684936523,32.12051773071289],[35.34142303466797,32.11914443969727],[35.33981323242188,32.11826705932617],[35.33843231201172,32.11719131469727]]],"type":"Polygon"}
+}

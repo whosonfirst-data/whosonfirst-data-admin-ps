@@ -1,0 +1,120 @@
+{
+  "id": 101920659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22070.7501,
+    "geom:bbox":"34.3062324524,31.2838764191,34.3077697754,31.2855682373",
+    "geom:latitude":31.284713,
+    "geom:longitude":34.307071,
+    "gn:population":6211,
+    "iso:country":"PS",
+    "lbl:latitude":31.284694,
+    "lbl:longitude":34.307086,
+    "mps:latitude":31.284694,
+    "mps:longitude":34.307086,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0648\u0643"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Bayuk"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Bayuk"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Bayuk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d1\u05d0\u05d9\u05d5\u05e7"
+    ],
+    "name:ind_x_preferred":[
+        "Al-Bayuk"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Bayuk"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Bajuk"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Bayuk"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Bayuk",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913365,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6967857,
+        "gp:id":1979609,
+        "wd:id":"Q59624"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"11453c0c2ba3eaf89d0ea9b78bd803e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920659,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920659,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920659,
+    "wof:lastmodified":1549928922,
+    "wof:name":"Al Bayuk",
+    "wof:parent_id":1091913365,
+    "wof:placetype":"locality",
+    "wof:population":6211,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.30623245239258,
+    31.28387641906738,
+    34.30776977539062,
+    31.28556823730469
+],
+  "geometry": {"coordinates":[[[34.30775833129883,31.28387641906738],[34.30698776245117,31.28400421142578],[34.30637741088867,31.28405952453613],[34.30623245239258,31.28403091430664],[34.3064079284668,31.28482818603516],[34.30647659301758,31.28556823730469],[34.30776977539062,31.28539848327637],[34.30775833129883,31.28387641906738]]],"type":"Polygon"}
+}

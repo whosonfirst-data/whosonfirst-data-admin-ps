@@ -1,0 +1,86 @@
+{
+  "id": 1276370943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52417,32.17305,35.52417,32.17305",
+    "geom:latitude":32.17305,
+    "geom:longitude":35.52417,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Nahal Argaman",
+    "gn:country_code":"PS",
+    "gn:dem":-180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":282609,
+    "gn:latitude":32.17305,
+    "gn:longitude":35.52417,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Na\u1e96al Argaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Argaman",
+        "Nahal Argeman",
+        "Na\u1e96al Argaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282609
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2fd7ef8087a9b000645300d649f2f5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1276370943,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1276370943,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1276370943,
+    "wof:lastmodified":1549929773,
+    "wof:name":"Nahal Argaman",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52417,
+    32.17305,
+    35.52417,
+    32.17305
+],
+  "geometry": {"coordinates":[35.52417,32.17305],"type":"Point"}
+}

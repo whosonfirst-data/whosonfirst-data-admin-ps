@@ -1,0 +1,115 @@
+{
+  "id": 101921419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":275536.597546,
+    "geom:bbox":"35.1663360596,32.2098693848,35.1723327637,32.2168960571",
+    "geom:latitude":32.213701,
+    "geom:longitude":35.1697,
+    "gn:population":2243,
+    "iso:country":"PS",
+    "lbl:latitude":32.213714,
+    "lbl:longitude":35.170242,
+    "mps:latitude":32.213714,
+    "mps:longitude":35.170242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u062a"
+    ],
+    "name:dut_x_preferred":[
+        "Jit"
+    ],
+    "name:eng_x_preferred":[
+        "Jit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Jit i Qalqilya"
+    ],
+    "name:por_x_preferred":[
+        "Jit"
+    ],
+    "name:unk_x_variant":[
+        "Qaryat J\u012bt"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jit",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":840,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283449,
+        "gp:id":1937300,
+        "qs:id":123954,
+        "wd:id":"Q6203219"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"473406eb78236925e3ee74cb9ae08291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921419,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921419,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921419,
+    "wof:lastmodified":1549929822,
+    "wof:name":"Jit",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":2243,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16633605957031,
+    32.20986938476562,
+    35.17233276367188,
+    32.21689605712891
+],
+  "geometry": {"coordinates":[[[35.16713714599609,32.21519470214844],[35.16633605957031,32.21632766723633],[35.16953277587891,32.21689605712891],[35.17046737670898,32.21666717529297],[35.17166900634766,32.21587371826172],[35.17233276367188,32.21429061889648],[35.17171478271484,32.21123123168945],[35.16940307617188,32.20986938476562],[35.16753768920898,32.21134185791016],[35.1683349609375,32.21372222900391],[35.16713714599609,32.21519470214844]]],"type":"Polygon"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226273641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06836,31.99835,35.06836,31.99835",
+    "geom:latitude":31.99835,
+    "geom:longitude":35.06836,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Dayr 'Abu Mash'al",
+    "gn:country_code":"PS",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870991,
+    "gn:latitude":31.99835,
+    "gn:longitude":35.06836,
+    "gn:modification_date":"2011-06-20",
+    "gn:name":"Dayr 'Abu Mash'al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870991
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5471419149e24a570dd8dcc41dda409a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226273641,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226273641,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226273641,
+    "wof:lastmodified":1549929892,
+    "wof:name":"Dayr 'Abu Mash'al",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06836,
+    31.99835,
+    35.06836,
+    31.99835
+],
+  "geometry": {"coordinates":[35.06836,31.99835],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1125916775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3898,32.33004,35.3898,32.33004",
+    "geom:latitude":32.33004,
+    "geom:longitude":35.3898,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":538,
+    "gn:population":538,
+    "iso:country":"PS",
+    "lbl:latitude":32.33004,
+    "lbl:longitude":35.3898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u063a\u0631\u0629"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7896871,
+    "qs_pg:gn_pop":538,
+    "qs_pg:name":"Ath Thaghrah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":744254,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7896871,
+        "qs_pg:id":744254
+    },
+    "wof:country":"PS",
+    "wof:created":1497296345,
+    "wof:geomhash":"9fe1c71c8e799cf125f1c62fc797f614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125916775,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125916775,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125916775,
+    "wof:lastmodified":1549929768,
+    "wof:name":"Ath Thaghrah",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":538,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3898,
+    32.33004,
+    35.3898,
+    32.33004
+],
+  "geometry": {"coordinates":[35.3898,32.33004],"type":"Point"}
+}

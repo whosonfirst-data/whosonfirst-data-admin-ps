@@ -1,0 +1,113 @@
+{
+  "id": 1376891713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.248789,31.79864,35.248789,31.79864",
+    "geom:latitude":31.79864,
+    "geom:longitude":35.248789,
+    "iso:country":"PS",
+    "lbl:latitude":31.798248,
+    "lbl:longitude":35.248695,
+    "mps:latitude":31.798248,
+    "mps:longitude":35.248695,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u0633\u0648\u064a\u0629"
+    ],
+    "name:ces_x_preferred":[
+        "Isavija"
+    ],
+    "name:cze_x_preferred":[
+        "Isavija"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Issawiya"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Issawiya"
+    ],
+    "name:fra_x_preferred":[
+        "Issawiya"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Issawiya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05e1\u05d0\u05d5\u05d5\u05d9\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Al-Issawiya"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Issawiya"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u043b-\u0418\u0441\u0430\u0432\u0438\u0458\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b-\u0418\u0441\u0430\u0432\u0438\u0458\u0430"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al 'Isawiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1360,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q947454"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"71ef53c28aa8dd28cbf345c913b3409d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":1376891713,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1376891713,
+    "wof:lastmodified":1549931464,
+    "wof:name":"Al 'Isawiya",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101922191
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.248789,
+    31.79864,
+    35.248789,
+    31.79864
+],
+  "geometry": {"coordinates":[35.248789,31.79864],"type":"Point"}
+}

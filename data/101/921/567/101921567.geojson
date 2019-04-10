@@ -1,0 +1,90 @@
+{
+  "id": 101921567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000015,
+    "geom:area_square_m":153306.201986,
+    "geom:bbox":"35.0,32.1388702393,35.0059432983,32.144367218",
+    "geom:latitude":32.141355,
+    "geom:longitude":35.00191,
+    "gn:population":713,
+    "iso:country":"PS",
+    "lbl:latitude":32.140694,
+    "lbl:longitude":35.001414,
+    "mps:latitude":32.140694,
+    "mps:longitude":35.001414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0633\u0644\u0645\u0627\u0646"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Izbat Salm\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Izbat Salman",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889510,
+        "gp:id":1937157,
+        "qs:id":743862
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5244cc093b05aa6260210544fde3a753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "empire_id":136253049,
+            "locality_id":101921567,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921567,
+    "wof:lastmodified":1534985969,
+    "wof:name":"'Izbat Salman",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":713,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613261
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    32.13887023925781,
+    35.00594329833984,
+    32.14436721801758
+],
+  "geometry": {"coordinates":[[[35.0,32.14436721801758],[35.00125885009766,32.14351272583008],[35.00222778320312,32.14187622070312],[35.00484085083008,32.1427001953125],[35.00594329833984,32.14176559448242],[35.00442886352539,32.14129257202148],[35.00360488891602,32.14094161987305],[35.00250625610352,32.1394157409668],[35.00058364868164,32.13906478881836],[35.0,32.13887023925781],[35.0,32.14436721801758]]],"type":"Polygon"}
+}

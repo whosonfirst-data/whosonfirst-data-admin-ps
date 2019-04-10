@@ -1,0 +1,108 @@
+{
+  "id": 101921775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":141514.785195,
+    "geom:bbox":"35.4412536621,32.0225563049,35.4448928833,32.0276603699",
+    "geom:latitude":32.024879,
+    "geom:longitude":35.442972,
+    "iso:country":"PS",
+    "lbl:latitude":32.024847,
+    "lbl:longitude":35.443007,
+    "mps:latitude":32.024847,
+    "mps:longitude":35.443007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Fasayil"
+    ],
+    "name:dut_x_preferred":[
+        "Phasa\u00eblis"
+    ],
+    "name:eng_x_preferred":[
+        "Fasayil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05d0\u05d9\u05dc"
+    ],
+    "name:nld_x_preferred":[
+        "Phasa\u00eblis"
+    ],
+    "name:nno_x_preferred":[
+        "Fasayil"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fasayil",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":32.025,
+    "wd:longitude":35.443333,
+    "wd:wordcount":1124,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300,
+        "wd:id":"Q2540208"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0cc59f72a6076d37cf19abcb20f36d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921775,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921775,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921775,
+    "wof:lastmodified":1549929852,
+    "wof:name":"Fasayil",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44125366210938,
+    32.02255630493164,
+    35.44489288330078,
+    32.02766036987305
+],
+  "geometry": {"coordinates":[[[35.44213485717773,32.02262878417969],[35.44157028198242,32.02379989624023],[35.44125366210938,32.02566528320312],[35.4414176940918,32.02717971801758],[35.44255065917969,32.02766036987305],[35.44351959228516,32.0264892578125],[35.44473266601562,32.02558898925781],[35.44489288330078,32.02434539794922],[35.44480895996094,32.02324295043945],[35.4435920715332,32.02255630493164],[35.44213485717773,32.02262878417969]]],"type":"Polygon"}
+}

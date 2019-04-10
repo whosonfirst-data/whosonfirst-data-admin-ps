@@ -1,0 +1,93 @@
+{
+  "id": 101922695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19189.715228,
+    "geom:bbox":"35.0897789001,31.5662956238,35.0919914246,31.567522049",
+    "geom:latitude":31.566831,
+    "geom:longitude":35.090701,
+    "iso:country":"PS",
+    "lbl:latitude":31.566853,
+    "lbl:longitude":35.090679,
+    "mps:latitude":31.566853,
+    "mps:longitude":35.090679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062d\u0633\u0643\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat \u1e28asakah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet al Hasaka",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283724,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8acecd9248cc78dda4cc34111aa92975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922695,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922695,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922695,
+    "wof:lastmodified":1549929839,
+    "wof:name":"Khirbet al Hasaka",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08977890014648,
+    31.5662956237793,
+    35.09199142456055,
+    31.5675220489502
+],
+  "geometry": {"coordinates":[[[35.08977890014648,31.56634521484375],[35.08977890014648,31.56721496582031],[35.09019470214844,31.5675220489502],[35.09127426147461,31.56716537475586],[35.09199142456055,31.56670570373535],[35.09181213378906,31.5662956237793],[35.09121322631836,31.56655120849609],[35.09091567993164,31.56634521484375],[35.08977890014648,31.56634521484375]]],"type":"Polygon"}
+}

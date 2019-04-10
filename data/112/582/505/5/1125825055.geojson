@@ -1,0 +1,108 @@
+{
+  "id": 1125825055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.12908,32.0547,35.12908,32.0547",
+    "geom:latitude":32.0547,
+    "geom:longitude":35.12908,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2673,
+    "gn:population":2673,
+    "iso:country":"PS",
+    "lbl:latitude":32.0547,
+    "lbl:longitude":35.12908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0627\u0648\u0629 \u0628\u0646\u064a \u0632\u064a\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Qarawat Bani Zeid"
+    ],
+    "name:eng_x_preferred":[
+        "Qarawat Bani Zeid"
+    ],
+    "name:nno_x_preferred":[
+        "Qarawat Bani Zeid"
+    ],
+    "name:unk_x_variant":[
+        "Qarawat Bani Zeid"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":282438,
+    "qs_pg:gn_pop":2673,
+    "qs_pg:name":"Qar\u0101wat Ban\u012b Zayd",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123935,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282438,
+        "qs_pg:id":123935,
+        "wd:id":"Q7266762"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292239,
+    "wof:geomhash":"67bde4ca3b35dc72ca850e8eb979cf3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125825055,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125825055,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125825055,
+    "wof:lastmodified":1549929740,
+    "wof:name":"Qar\u0101wat Ban\u012b Zayd",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":2673,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12908,
+    32.0547,
+    35.12908,
+    32.0547
+],
+  "geometry": {"coordinates":[35.12908,32.0547],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 101920713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5188.415737,
+    "geom:bbox":"34.285369873,31.2617778778,34.2869338989,31.2626514435",
+    "geom:latitude":31.262203,
+    "geom:longitude":34.286187,
+    "iso:country":"PS",
+    "lbl:latitude":31.262206,
+    "lbl:longitude":34.28619,
+    "mps:latitude":31.262206,
+    "mps:longitude":34.28619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Shokat as-Sufi"
+    ],
+    "name:eng_x_preferred":[
+        "Shokat as-Sufi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e7\u05d0\u05d8 \u05d0\u05e1 \u05e1\u05d5\u05e4\u05d9"
+    ],
+    "name:ind_x_preferred":[
+        "Shokat as-Sufi"
+    ],
+    "name:nno_x_preferred":[
+        "Shokat as-Sufi"
+    ],
+    "name:pol_x_preferred":[
+        "Szokat as-Sufi"
+    ],
+    "name:spa_x_preferred":[
+        "Shokat as-Sufi"
+    ],
+    "name:swe_x_preferred":[
+        "Shokat as-Sufi"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Shoka",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913365,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870523,
+        "gp:id":1979609,
+        "wd:id":"Q59769",
+        "wk:page":"Shokat as-Sufi"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"96c0ca8d6d4d77948fed59270ad17803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920713,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920713,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920713,
+    "wof:lastmodified":1549928928,
+    "wof:name":"Al Shoka",
+    "wof:parent_id":1091913365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.28536987304688,
+    31.26177787780762,
+    34.28693389892578,
+    31.26265144348145
+],
+  "geometry": {"coordinates":[[[34.28558349609375,31.26177787780762],[34.28536987304688,31.26199340820312],[34.28673553466797,31.26265144348145],[34.28693389892578,31.26232719421387],[34.28558349609375,31.26177787780762]]],"type":"Polygon"}
+}

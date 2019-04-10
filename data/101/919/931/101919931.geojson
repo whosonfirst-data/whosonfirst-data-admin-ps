@@ -1,0 +1,126 @@
+{
+  "id": 101919931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":188515.048097,
+    "geom:bbox":"34.3762817383,31.4322280884,34.380897522,31.4397392273",
+    "geom:latitude":31.436057,
+    "geom:longitude":34.378404,
+    "iso:country":"PS",
+    "lbl:latitude":31.435192,
+    "lbl:longitude":34.378404,
+    "mps:latitude":31.435192,
+    "mps:longitude":34.378404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:cat_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:dut_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:eng_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05d6\u05d0\u05d5\u05d9\u05d9\u05d3\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ba\u30fb\u30b6\u30ef\u30a4\u30c0"
+    ],
+    "name:nno_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u0627\u06cc\u062f\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Az-Zawajda"
+    ],
+    "name:spa_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u0627\u06cc\u062f\u06c1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Az Zawayda",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913317,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870299,
+        "gp:id":1979608,
+        "wd:id":"Q59623",
+        "wk:page":"Az-Zawayda"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1861e89891b0a15a12778d05283c33fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919931,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919931,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101919931,
+    "wof:lastmodified":1549928933,
+    "wof:name":"Az Zawayda",
+    "wof:parent_id":1091913317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.37628173828125,
+    31.43222808837891,
+    34.38089752197266,
+    31.43973922729492
+],
+  "geometry": {"coordinates":[[[34.37899780273438,31.43941116333008],[34.380615234375,31.43973922729492],[34.38064956665039,31.43962097167969],[34.38076782226562,31.43912315368652],[34.38089752197266,31.43869209289551],[34.38016891479492,31.43824577331543],[34.37972640991211,31.43765449523926],[34.37900161743164,31.4367504119873],[34.37944030761719,31.43631172180176],[34.37953186035156,31.43555641174316],[34.37953948974609,31.43480682373047],[34.37881469726562,31.4336051940918],[34.37965774536133,31.43287086486816],[34.37897872924805,31.43222808837891],[34.37763214111328,31.43253898620605],[34.37684631347656,31.43301963806152],[34.37628173828125,31.43366813659668],[34.37665557861328,31.4339427947998],[34.37639617919922,31.43437767028809],[34.37659454345703,31.43484306335449],[34.37726593017578,31.43534278869629],[34.3772087097168,31.43563842773438],[34.37767791748047,31.43614959716797],[34.37713623046875,31.43645477294922],[34.37639236450195,31.43692588806152],[34.37793350219727,31.43747138977051],[34.37730026245117,31.4379768371582],[34.37740325927734,31.43890571594238],[34.37693023681641,31.4389591217041],[34.37791061401367,31.43917465209961],[34.37899780273438,31.43941116333008]]],"type":"Polygon"}
+}

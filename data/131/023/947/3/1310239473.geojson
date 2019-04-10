@@ -1,0 +1,81 @@
+{
+  "id": 1310239473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23333,31.65,35.23333,31.65",
+    "geom:latitude":31.65,
+    "geom:longitude":35.23333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Noqedim",
+    "gn:country_code":"PS",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282512,
+    "gn:latitude":31.65,
+    "gn:longitude":35.23333,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Noqedim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282512
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3821b8a5e208849567e1cfee6aded27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310239473,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310239473,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1310239473,
+    "wof:lastmodified":1549929707,
+    "wof:name":"Noqedim",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23333,
+    31.65,
+    35.23333,
+    31.65
+],
+  "geometry": {"coordinates":[35.23333,31.65],"type":"Point"}
+}

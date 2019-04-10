@@ -1,0 +1,126 @@
+{
+  "id": 101919927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6635.929433,
+    "geom:bbox":"34.3718032837,31.4397621155,34.3729896545,31.4407596588",
+    "geom:latitude":31.440229,
+    "geom:longitude":34.372372,
+    "iso:country":"PS",
+    "lbl:latitude":31.440243,
+    "lbl:longitude":34.372313,
+    "mps:latitude":31.440243,
+    "mps:longitude":34.372313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:cat_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:dut_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:eng_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05d6\u05d0\u05d5\u05d9\u05d9\u05d3\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ba\u30fb\u30b6\u30ef\u30a4\u30c0"
+    ],
+    "name:nno_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u0627\u06cc\u062f\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Az-Zawajda"
+    ],
+    "name:spa_x_preferred":[
+        "Az-Zawayda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0632\u0648\u0627\u06cc\u062f\u06c1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Az Zawayda",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913317,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870299,
+        "gp:id":1979608,
+        "wd:id":"Q59623",
+        "wk:page":"Az-Zawayda"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3163d0289e4a3cec0c520d3a2db560b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919927,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919927,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101919927,
+    "wof:lastmodified":1549928933,
+    "wof:name":"Az Zawayda",
+    "wof:parent_id":1091913317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.37180328369141,
+    31.43976211547852,
+    34.37298965454102,
+    31.44075965881348
+],
+  "geometry": {"coordinates":[[[34.37261581420898,31.43976211547852],[34.37180328369141,31.44009017944336],[34.37215042114258,31.44075965881348],[34.37240600585938,31.4406795501709],[34.3725471496582,31.44047737121582],[34.37298965454102,31.44017028808594],[34.37261581420898,31.43976211547852]]],"type":"Polygon"}
+}

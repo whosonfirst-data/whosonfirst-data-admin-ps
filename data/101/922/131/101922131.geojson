@@ -1,0 +1,104 @@
+{
+  "id": 101922131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":14661.031002,
+    "geom:bbox":"35.2143211365,31.834708349,35.2160020564,31.8365592957",
+    "geom:latitude":31.835488,
+    "geom:longitude":35.215189,
+    "iso:country":"PS",
+    "lbl:latitude":31.83511,
+    "lbl:longitude":35.216487,
+    "mps:latitude":31.83511,
+    "mps:longitude":35.216487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062d\u0646\u064a\u0646\u0627"
+    ],
+    "name:cze_x_preferred":[
+        "Bejt Chanina"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Hanina"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Hanina"
+    ],
+    "name:fre_x_preferred":[
+        "Beit Hanina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d7\u05e0\u05d9\u05e0\u05d0"
+    ],
+    "name:ind_x_preferred":[
+        "Beit Hanina"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Hanina"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u062d\u0646\u06cc\u0646\u0627"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Hanina",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284335,
+        "wd:id":"Q2919614",
+        "wk:page":"Beit Hanina"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"824c934b233a40402e9c6c629ef16c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922131,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922131,
+    "wof:lastmodified":1549931490,
+    "wof:name":"Beit Hanina",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21432113647461,
+    31.83470834904951,
+    35.21600205635988,
+    31.8365592956543
+],
+  "geometry": {"coordinates":[[[[35.21432113647461,31.8353443145752],[35.21460342407227,31.83575057983398],[35.21474838256836,31.83607864379883],[35.21500778198242,31.8365592956543],[35.21515655517578,31.83639526367188],[35.21520233154297,31.83621215820312],[35.21522521972656,31.83595275878906],[35.21534729003906,31.83575057983398],[35.21541595458984,31.83554840087891],[35.21590042114258,31.83558654785156],[35.21600205635988,31.83561734640226],[35.21594991049226,31.83470834904951],[35.21548461914062,31.83493041992188],[35.21520233154297,31.83503723144531],[35.21493148803711,31.83498764038086],[35.21467208862305,31.83513259887695],[35.21432113647461,31.8353443145752]]]],"type":"MultiPolygon"}
+}

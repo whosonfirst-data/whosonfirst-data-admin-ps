@@ -1,0 +1,103 @@
+{
+  "id": 101921021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000055,
+    "geom:area_square_m":576897.131297,
+    "geom:bbox":"35.0533752441,32.3993034363,35.0669670105,32.4061813354",
+    "geom:latitude":32.402347,
+    "geom:longitude":35.060699,
+    "gn:population":4165,
+    "iso:country":"PS",
+    "lbl:latitude":32.402431,
+    "lbl:longitude":35.062608,
+    "mps:latitude":32.402431,
+    "mps:longitude":35.062608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Baqa ash-Sharqiyya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e7\u05d4 \u05d0-\u05e9\u05e8\u05e7\u05d9\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Baqa ash-Sharqiyya"
+    ],
+    "name:unk_x_variant":[
+        "B\u0101qat ash Sharq\u012byah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Baqa ash Sharqiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.410583,
+    "wd:longitude":35.069142,
+    "wd:wordcount":847,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284426,
+        "gp:id":56123341,
+        "qs:id":123992,
+        "wd:id":"Q4857765"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b585023eb01cd68be3f99188394fc38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "empire_id":136253049,
+            "locality_id":101921021,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921021,
+    "wof:lastmodified":1534985972,
+    "wof:name":"Baqa ash Sharqiya",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":4165,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613323
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05337524414062,
+    32.3993034362793,
+    35.06696701049805,
+    32.40618133544922
+],
+  "geometry": {"coordinates":[[[35.06581115722656,32.40201568603516],[35.06538009643555,32.40091323852539],[35.06104278564453,32.39931106567383],[35.05641555786133,32.3993034362793],[35.05337524414062,32.40077590942383],[35.05366134643555,32.40347290039062],[35.05568695068359,32.40286254882812],[35.05771255493164,32.40163803100586],[35.06017303466797,32.40213394165039],[35.05828857421875,32.40470886230469],[35.06132125854492,32.40618133544922],[35.06262588500977,32.40495681762695],[35.06638336181641,32.40594482421875],[35.06696701049805,32.40459442138672],[35.06581115722656,32.40201568603516]]],"type":"Polygon"}
+}

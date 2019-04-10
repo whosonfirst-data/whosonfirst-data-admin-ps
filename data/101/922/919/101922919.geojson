@@ -1,0 +1,93 @@
+{
+  "id": 101922919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2011.696437,
+    "geom:bbox":"35.0265007019,31.4304561615,35.0269088745,31.4310264587",
+    "geom:latitude":31.430725,
+    "geom:longitude":35.026717,
+    "iso:country":"PS",
+    "lbl:latitude":31.430715,
+    "lbl:longitude":35.02671,
+    "mps:latitude":31.430715,
+    "mps:longitude":35.02671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0639\u0633\u062c\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Ab\u016b al \u2018Asj\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Abu al 'Asja",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892515,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"7d92b07fbf68f9b25e29f77bcd3f4630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922919,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922919,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922919,
+    "wof:lastmodified":1549929876,
+    "wof:name":"Abu al 'Asja",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0265007019043,
+    31.43045616149902,
+    35.02690887451172,
+    31.43102645874023
+],
+  "geometry": {"coordinates":[[[35.0265007019043,31.43045616149902],[35.02657699584961,31.43097686767578],[35.02690887451172,31.43102645874023],[35.02689743041992,31.43077659606934],[35.02687072753906,31.43049430847168],[35.02687072753906,31.43045806884766],[35.0265007019043,31.43045616149902]]],"type":"Polygon"}
+}

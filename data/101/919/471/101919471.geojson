@@ -1,0 +1,87 @@
+{
+  "id": 101919471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000007,
+    "geom:area_square_m":74978.675752,
+    "geom:bbox":"34.976524353,31.5726051331,34.9800109863,31.5766830444",
+    "geom:latitude":31.57488,
+    "geom:longitude":34.978249,
+    "iso:country":"PS",
+    "lbl:latitude":31.574555,
+    "lbl:longitude":34.97883,
+    "mps:latitude":31.574555,
+    "mps:longitude":34.97883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bir Musallam",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85687577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891888,
+        "gp:id":56123329
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"016095bd16c9cbbebf301e722750ad78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101919471,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "locality_id":101919471,
+            "region_id":85687577
+        }
+    ],
+    "wof:id":101919471,
+    "wof:lastmodified":1534985974,
+    "wof:name":"Bir Musallam",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613379
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97652435302734,
+    31.57260513305664,
+    34.98001098632812,
+    31.57668304443359
+],
+  "geometry": {"coordinates":[[[34.97836685180664,31.57260513305664],[34.97799682617188,31.57464408874512],[34.97652816772461,31.57511138916016],[34.97652435302734,31.57668113708496],[34.97743988037109,31.57668304443359],[34.97835922241211,31.57621383666992],[34.97909545898438,31.57542991638184],[34.98001098632812,31.57449150085449],[34.97928237915039,31.57291984558105],[34.97836685180664,31.57260513305664]]],"type":"Polygon"}
+}

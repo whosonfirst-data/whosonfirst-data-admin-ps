@@ -1,0 +1,93 @@
+{
+  "id": 101921557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28886.256014,
+    "geom:bbox":"35.3786048889,32.1465797424,35.3807601929,32.148223877",
+    "geom:latitude":32.147343,
+    "geom:longitude":35.379728,
+    "iso:country":"PS",
+    "lbl:latitude":32.147402,
+    "lbl:longitude":35.379749,
+    "mps:latitude":32.147402,
+    "mps:longitude":35.379749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062c\u0645\u0627\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Ar Rajm\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ar Rajman",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7896863,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d7260a25e46dd35f07af924ccf3ec9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921557,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921557,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921557,
+    "wof:lastmodified":1549929834,
+    "wof:name":"Ar Rajman",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37860488891602,
+    32.14657974243164,
+    35.38076019287109,
+    32.14822387695312
+],
+  "geometry": {"coordinates":[[[35.37860488891602,32.14658355712891],[35.37917709350586,32.14822387695312],[35.38042449951172,32.14822006225586],[35.38076019287109,32.14677429199219],[35.38008117675781,32.14657974243164],[35.37860488891602,32.14658355712891]]],"type":"Polygon"}
+}

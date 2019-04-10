@@ -1,0 +1,93 @@
+{
+  "id": 101922675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":30468.424045,
+    "geom:bbox":"35.1442565918,31.5915565491,35.1470298767,31.594625473",
+    "geom:latitude":31.59321,
+    "geom:longitude":35.14575,
+    "iso:country":"PS",
+    "lbl:latitude":31.593304,
+    "lbl:longitude":35.145962,
+    "mps:latitude":31.593304,
+    "mps:longitude":35.145962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u0647\u0648\u0649"
+    ],
+    "name:unk_x_variant":[
+        "Sham\u0101l\u012byah al Haw\u00e1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Shamaliyyat al Hawa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891725,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3dad872285367e8a0d11a809cab8eaf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922675,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922675,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922675,
+    "wof:lastmodified":1549929838,
+    "wof:name":"Shamaliyyat al Hawa",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14425659179688,
+    31.59155654907227,
+    35.14702987670898,
+    31.59462547302246
+],
+  "geometry": {"coordinates":[[[35.14425659179688,31.59233283996582],[35.14474868774414,31.59240531921387],[35.14534378051758,31.59282684326172],[35.1456298828125,31.59382629394531],[35.14565658569336,31.59438133239746],[35.14604187011719,31.59451484680176],[35.14651107788086,31.59462547302246],[35.14690017700195,31.5946044921875],[35.14702987670898,31.59442710876465],[35.14658737182617,31.5937385559082],[35.14635467529297,31.59302711486816],[35.14594268798828,31.59260559082031],[35.14545059204102,31.59220695495605],[35.14506149291992,31.59165191650391],[35.14485168457031,31.59155654907227],[35.1442756652832,31.59213256835938],[35.14425659179688,31.59233283996582]]],"type":"Polygon"}
+}

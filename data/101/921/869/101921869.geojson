@@ -1,0 +1,85 @@
+{
+  "id": 101921869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000044,
+    "geom:area_square_m":456847.990227,
+    "geom:bbox":"35.1677322388,31.9608039856,35.1769256592,31.9695682526",
+    "geom:latitude":31.964495,
+    "geom:longitude":35.171996,
+    "iso:country":"PS",
+    "lbl:latitude":31.96461,
+    "lbl:longitude":35.171614,
+    "mps:latitude":31.96461,
+    "mps:longitude":35.171614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0634\u062e\u064a\u062f\u0645"
+    ],
+    "name:unk_x_variant":[
+        "Abu Shueidin"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Abu Shukheidim",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285190,
+        "gp:id":56123351
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b0adf3e7ade42981e520678de93ec07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921869,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921869,
+    "wof:lastmodified":1534985969,
+    "wof:name":"Abu Shukheidim",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613267
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16773223876953,
+    31.9608039855957,
+    35.17692565917969,
+    31.96956825256348
+],
+  "geometry": {"coordinates":[[[35.17692565917969,31.96088981628418],[35.17583847045898,31.96114349365234],[35.17405700683594,31.96198463439941],[35.17208099365234,31.9621524810791],[35.16960906982422,31.96164703369141],[35.16822814941406,31.9608039855957],[35.1682243347168,31.96232032775879],[35.16773223876953,31.96324729919434],[35.16852188110352,31.96459579467773],[35.16921234130859,31.96586036682129],[35.1693115234375,31.9678840637207],[35.16960525512695,31.96956825256348],[35.17158508300781,31.96898078918457],[35.17178344726562,31.96796798706055],[35.17217636108398,31.96695709228516],[35.17405700683594,31.96628379821777],[35.17534255981445,31.96552467346191],[35.17633056640625,31.96434593200684],[35.17652893066406,31.96282958984375],[35.17692565917969,31.96088981628418]]],"type":"Polygon"}
+}

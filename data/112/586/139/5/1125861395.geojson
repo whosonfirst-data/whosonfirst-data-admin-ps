@@ -1,0 +1,111 @@
+{
+  "id": 1125861395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27757,32.29688,35.27757,32.29688",
+    "geom:latitude":32.29688,
+    "geom:longitude":35.27757,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2226,
+    "gn:population":2226,
+    "iso:country":"PS",
+    "lbl:latitude":32.29688,
+    "lbl:longitude":35.27757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Y\u0101\u015f\u012bd"
+    ],
+    "name:ara_x_variant":[
+        "\u064a\u0627\u0635\u064a\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Yasid"
+    ],
+    "name:dut_x_preferred":[
+        "Yasid"
+    ],
+    "name:eng_x_preferred":[
+        "Yasid"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05e1\u05d9\u05d3"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281297,
+    "qs_pg:gn_pop":2226,
+    "qs_pg:name":"Y\u0101\u015f\u012bd",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123903,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281297,
+        "qs_pg:id":123903,
+        "wd:id":"Q6897577"
+    },
+    "wof:country":"PS",
+    "wof:created":1497293843,
+    "wof:geomhash":"dd98712dc31a3f2fff27e573f7df4eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125861395,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125861395,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125861395,
+    "wof:lastmodified":1549929759,
+    "wof:name":"Y\u0101\u015f\u012bd",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2226,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27757,
+    32.29688,
+    35.27757,
+    32.29688
+],
+  "geometry": {"coordinates":[35.27757,32.29688],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101921483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":115156.18206,
+    "geom:bbox":"35.0147438049,32.1829605103,35.0202522278,32.1863250732",
+    "geom:latitude":32.184549,
+    "geom:longitude":35.017359,
+    "gn:population":1157,
+    "iso:country":"PS",
+    "lbl:latitude":32.184502,
+    "lbl:longitude":35.017359,
+    "mps:latitude":32.184502,
+    "mps:longitude":35.017359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u064a \u0625\u0644\u064a\u0627\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Nabi Ilyas"
+    ],
+    "name:eng_x_preferred":[
+        "Nabi Ilyas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d1\u05d9 \u05d0\u05dc\u05d9\u05d0\u05e1"
+    ],
+    "name:nno_x_preferred":[
+        "Nabi Ilyas"
+    ],
+    "name:unk_x_variant":[
+        "En Nab\u012b Ily\u0101s"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nabi Elyas",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":392,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284962,
+        "gp:id":1937157,
+        "qs:id":547107,
+        "wd:id":"Q2898754"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"450a4d1239b3d618b6567cb253077094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921483,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921483,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921483,
+    "wof:lastmodified":1549929818,
+    "wof:name":"An Nabi Elyas",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":1157,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01474380493164,
+    32.18296051025391,
+    35.0202522277832,
+    32.18632507324219
+],
+  "geometry": {"coordinates":[[[35.01518249511719,32.18632507324219],[35.01705551147461,32.18567276000977],[35.01749420166016,32.18567276000977],[35.01958847045898,32.18502044677734],[35.0202522277832,32.18399047851562],[35.01959228515625,32.18296051025391],[35.01860046386719,32.18333435058594],[35.01716995239258,32.18333053588867],[35.0157356262207,32.18379974365234],[35.01474380493164,32.18435668945312],[35.01479339599609,32.18498611450195],[35.01518249511719,32.18632507324219]]],"type":"Polygon"}
+}

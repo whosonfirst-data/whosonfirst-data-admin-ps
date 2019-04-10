@@ -1,0 +1,115 @@
+{
+  "id": 101921311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":352367.33431,
+    "geom:bbox":"35.2890472412,32.2674026489,35.2992744446,32.274646759",
+    "geom:latitude":32.271193,
+    "geom:longitude":35.294434,
+    "gn:population":2604,
+    "iso:country":"PS",
+    "lbl:latitude":32.271105,
+    "lbl:longitude":35.294434,
+    "mps:latitude":32.271105,
+    "mps:longitude":35.294434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0637\u0644\u0648\u0632\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Talluza"
+    ],
+    "name:dut_x_preferred":[
+        "Talluza"
+    ],
+    "name:eng_x_preferred":[
+        "Talluza"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05dc\u05d5\u05d6\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "\u0162all\u016bzah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Talluza",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.271111,
+    "wd:longitude":35.293889,
+    "wd:wordcount":1495,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281662,
+        "gp:id":1937300,
+        "qs:id":123906,
+        "wd:id":"Q6811409",
+        "wk:page":"Talluza"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c5ab96fa6549a57609888104439c85b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921311,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921311,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921311,
+    "wof:lastmodified":1549929806,
+    "wof:name":"Talluza",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2604,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28904724121094,
+    32.26740264892578,
+    35.29927444458008,
+    32.2746467590332
+],
+  "geometry": {"coordinates":[[[35.29725646972656,32.26740264892578],[35.29508590698242,32.26832580566406],[35.29291915893555,32.26937866210938],[35.29121398925781,32.27056503295898],[35.2909049987793,32.2716178894043],[35.28919982910156,32.27096176147461],[35.28904724121094,32.27241134643555],[35.29090881347656,32.27280426025391],[35.29245758056641,32.27333068847656],[35.29369735717773,32.2746467590332],[35.29431915283203,32.27359008789062],[35.29633331298828,32.27319717407227],[35.29927444458008,32.2713508605957],[35.29818725585938,32.27016448974609],[35.29679489135742,32.26950836181641],[35.29725646972656,32.26740264892578]]],"type":"Polygon"}
+}

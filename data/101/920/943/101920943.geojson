@@ -1,0 +1,93 @@
+{
+  "id": 101920943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21363.081011,
+    "geom:bbox":"35.324634552,32.4348716736,35.3269424438,32.4363365173",
+    "geom:latitude":32.435621,
+    "geom:longitude":35.325589,
+    "iso:country":"PS",
+    "lbl:latitude":32.4357,
+    "lbl:longitude":35.32559,
+    "mps:latitude":32.4357,
+    "mps:longitude":35.32559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0633\u0628\u0639\u064a\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Sab\u2018ein"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Sab'ein",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282104,
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"dfaa41b3c45c36fa088e0af951a3eaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920943,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920943,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920943,
+    "wof:lastmodified":1549929865,
+    "wof:name":"Khirbet Sab'ein",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32463455200195,
+    32.43487167358398,
+    35.32694244384766,
+    32.43633651733398
+],
+  "geometry": {"coordinates":[[[35.32463455200195,32.43487167358398],[35.32463455200195,32.43584823608398],[35.32564544677734,32.43633651733398],[35.32694244384766,32.43584823608398],[35.32622146606445,32.43523406982422],[35.32463455200195,32.43487167358398]]],"type":"Polygon"}
+}

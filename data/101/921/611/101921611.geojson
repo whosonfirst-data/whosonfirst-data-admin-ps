@@ -1,0 +1,86 @@
+{
+  "id": 101921611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":44608.084126,
+    "geom:bbox":"35.2554473877,32.1209259033,35.2574806213,32.1236114502",
+    "geom:latitude":32.122267,
+    "geom:longitude":35.256467,
+    "iso:country":"PS",
+    "lbl:latitude":32.122245,
+    "lbl:longitude":35.256486,
+    "mps:latitude":32.122245,
+    "mps:longitude":35.256486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Za'tara",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9dcc37eed9d29af44c2185a9a98f7678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921611,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921611,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921611,
+    "wof:lastmodified":1549929839,
+    "wof:name":"Za'tara",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25544738769531,
+    32.12092590332031,
+    35.25748062133789,
+    32.12361145019531
+],
+  "geometry": {"coordinates":[[[35.25555038452148,32.12153244018555],[35.25544738769531,32.12265777587891],[35.25585556030273,32.12361145019531],[35.25727844238281,32.12326431274414],[35.25748062133789,32.12231063842773],[35.25748062133789,32.12136077880859],[35.25616073608398,32.12092590332031],[35.25555038452148,32.12153244018555]]],"type":"Polygon"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1327462609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.99086,32.15847,34.99086,32.15847",
+    "geom:latitude":32.15847,
+    "geom:longitude":34.99086,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Ras `Atiyah",
+    "gn:country_code":"PS",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283092,
+    "gn:latitude":32.15847,
+    "gn:longitude":34.99086,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u0101s \u2018A\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0633 \u0639\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Ras \u2018Atiya",
+        "Khirbat Ra\u2019s \u2018A\u0163\u012byah",
+        "R\u0101s \u2018A\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283092,
+        "wk:page":"Ras_Atiya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1350572c889e2169bc0b6cd3f502a8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327462609,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327462609,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1327462609,
+    "wof:lastmodified":1549929923,
+    "wof:name":"Ras `Atiyah",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99086,
+    32.15847,
+    34.99086,
+    32.15847
+],
+  "geometry": {"coordinates":[34.99086,32.15847],"type":"Point"}
+}

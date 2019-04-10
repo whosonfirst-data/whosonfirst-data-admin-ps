@@ -1,0 +1,96 @@
+{
+  "id": 1175613277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13873.437181,
+    "geom:bbox":"35.3709907532,32.4650421143,35.385925293,32.4816055298",
+    "geom:latitude":32.475455,
+    "geom:longitude":35.380108,
+    "iso:country":"PS",
+    "lbl:latitude":32.481235,
+    "lbl:longitude":35.385039,
+    "mps:latitude":32.481235,
+    "mps:longitude":35.385039,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm Q\u0101b\u016bb"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u0642\u0627\u0628\u0648\u0628"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm Qabub",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895636,
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"34779bf93edd98f4c0dc216c7a0b2176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613277,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613277,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613277,
+    "wof:lastmodified":1549929613,
+    "wof:name":"Umm Qabub",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101920845,
+        101920809
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37099075317383,
+    32.46504211425781,
+    35.38592529296875,
+    32.48160552978516
+],
+  "geometry": {"coordinates":[[[[35.37099075317383,32.46504211425781],[35.37109375,32.46564865112305],[35.37181091308594,32.46564865112305],[35.37198257446289,32.4650993347168],[35.3715705871582,32.4650993347168],[35.37099075317383,32.46504211425781]]],[[[35.38461685180664,32.48086547851562],[35.38429260253906,32.48160552978516],[35.38527297973633,32.48160552978516],[35.38592529296875,32.48086547851562],[35.38549041748047,32.48086547851562],[35.38461685180664,32.48086547851562]]]],"type":"MultiPolygon"}
+}

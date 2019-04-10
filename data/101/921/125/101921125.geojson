@@ -1,0 +1,86 @@
+{
+  "id": 101921125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":35785.88114,
+    "geom:bbox":"35.3395423889,32.347202301,35.3416061401,32.3494377136",
+    "geom:latitude":32.348396,
+    "geom:longitude":35.340543,
+    "iso:country":"PS",
+    "lbl:latitude":32.348395,
+    "lbl:longitude":35.340522,
+    "mps:latitude":32.348395,
+    "mps:longitude":35.340522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mantiqat al Heish",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6c5169ef7704c7f6c649aaecb0af2ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921125,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921125,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921125,
+    "wof:lastmodified":1549929793,
+    "wof:name":"Mantiqat al Heish",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33954238891602,
+    32.34720230102539,
+    35.34160614013672,
+    32.34943771362305
+],
+  "geometry": {"coordinates":[[[35.33954238891602,32.34872055053711],[35.33992004394531,32.34943771362305],[35.34114074707031,32.34943389892578],[35.3414192199707,32.34855651855469],[35.34160614013672,32.34775924682617],[35.34057235717773,32.34720230102539],[35.33963394165039,32.34784317016602],[35.33954238891602,32.34872055053711]]],"type":"Polygon"}
+}

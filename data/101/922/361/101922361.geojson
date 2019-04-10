@@ -1,0 +1,86 @@
+{
+  "id": 101922361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":35445.037423,
+    "geom:bbox":"35.2399177551,31.7145938873,35.2424087524,31.7194137573",
+    "geom:latitude":31.717139,
+    "geom:longitude":35.241252,
+    "gn:population":1397,
+    "iso:country":"PS",
+    "lbl:latitude":31.718351,
+    "lbl:longitude":35.240715,
+    "mps:latitude":31.718351,
+    "mps:longitude":35.240715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0629 \u0627\u0644\u0646\u0639\u0645\u0627\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Khallat an Nu\u2018m\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"khallet an Nu'man",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890353,
+        "qs:id":743872
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0b16b2128dae0c116c08194a4c508627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922361,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922361,
+    "wof:lastmodified":1549931444,
+    "wof:name":"khallet an Nu'man",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:population":1397,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891725
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23991775512695,
+    31.7145938873291,
+    35.24240875244141,
+    31.71941375732422
+],
+  "geometry": {"coordinates":[[[35.24010467529297,31.71821022033691],[35.23991775512695,31.71885108947754],[35.23996353149414,31.71941375732422],[35.24034118652344,31.71929359436035],[35.24081039428711,31.71885108947754],[35.24137496948242,31.71837043762207],[35.24137496948242,31.7177677154541],[35.24179840087891,31.71712493896484],[35.24203109741211,31.71640205383301],[35.24221801757812,31.7155590057373],[35.24240875244141,31.71479415893555],[35.24165344238281,31.7145938873291],[35.24165344238281,31.71519660949707],[35.24142074584961,31.71599960327148],[35.24132537841797,31.71688461303711],[35.24090576171875,31.7177677154541],[35.24010467529297,31.71821022033691]]],"type":"Polygon"}
+}

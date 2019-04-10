@@ -1,0 +1,115 @@
+{
+  "id": 101922373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000002,
+    "geom:area_square_m":17207.326733,
+    "geom:bbox":"35.1609344482,31.7133674622,35.1629371643,31.7148227692",
+    "geom:latitude":31.714131,
+    "geom:longitude":35.161915,
+    "gn:population":9003,
+    "iso:country":"PS",
+    "lbl:latitude":31.714148,
+    "lbl:longitude":35.161898,
+    "mps:latitude":31.714148,
+    "mps:longitude":35.161898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0636\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Khader"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Khader"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Khader"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d7'\u05d3\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Khader"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Khader i Betlehem"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062e\u0636\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Chadr"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Khadr"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Khadr",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285061,
+        "gp:id":1937286,
+        "qs:id":433142,
+        "wd:id":"Q1996562"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"84dfe433a2257ae94c6dad825b7f25ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "empire_id":136253049,
+            "locality_id":101922373,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922373,
+    "wof:lastmodified":1534985966,
+    "wof:name":"Al Khadr",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":9003,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613193
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16093444824219,
+    31.7133674621582,
+    35.16293716430664,
+    31.71482276916504
+],
+  "geometry": {"coordinates":[[[35.16094589233398,31.71377563476562],[35.16093444824219,31.71390533447266],[35.16131973266602,31.71432304382324],[35.16152954101562,31.71445274353027],[35.16199493408203,31.71466255187988],[35.16223907470703,31.71479225158691],[35.16282272338867,31.71482276916504],[35.16293716430664,31.71472358703613],[35.16292572021484,31.71450424194336],[35.16265869140625,31.71413421630859],[35.16222763061523,31.71382522583008],[35.16193771362305,31.71361541748047],[35.16159820556641,31.7133674621582],[35.16127014160156,31.7133960723877],[35.16110992431641,31.71355628967285],[35.16094589233398,31.71377563476562]]],"type":"Polygon"}
+}

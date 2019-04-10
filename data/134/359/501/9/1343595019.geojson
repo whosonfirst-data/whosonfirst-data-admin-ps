@@ -1,0 +1,85 @@
+{
+  "id": 1343595019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54663,32.36361,35.54663,32.36361",
+    "geom:latitude":32.36361,
+    "geom:longitude":35.54663,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Khirbat as Sakut",
+    "gn:country_code":"PS",
+    "gn:dem":-231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283140,
+    "gn:latitude":32.36361,
+    "gn:longitude":35.54663,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khirbat as S\u0101k\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat es S\u0101k\u016bt",
+        "Khirbat as S\u0101k\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283140
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"7300d5537b5c20e2986e758f50b4bbe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1343595019,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1343595019,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1343595019,
+    "wof:lastmodified":1549929767,
+    "wof:name":"Khirbat as Sakut",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54663,
+    32.36360999999999,
+    35.54663,
+    32.36360999999999
+],
+  "geometry": {"coordinates":[35.54663,32.36360999999999],"type":"Point"}
+}

@@ -1,0 +1,138 @@
+{
+  "id": 1126043711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06611,31.39671,35.06611,31.39671",
+    "geom:latitude":31.39671,
+    "geom:longitude":35.06611,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":19355,
+    "gn:population":19355,
+    "iso:country":"PS",
+    "lbl:latitude":31.39671,
+    "lbl:longitude":35.06611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0648\u0639"
+    ],
+    "name:cat_x_preferred":[
+        "As-Samu"
+    ],
+    "name:dut_x_preferred":[
+        "As-samu"
+    ],
+    "name:eng_x_preferred":[
+        "As-Samu"
+    ],
+    "name:fre_x_preferred":[
+        "As-Samu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05e1\u05de\u05d5\u05e2"
+    ],
+    "name:ind_x_preferred":[
+        "Es Samu"
+    ],
+    "name:jav_x_preferred":[
+        "Es Samu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30fb\u30b5\u30e0"
+    ],
+    "name:nno_x_preferred":[
+        "As-Samu"
+    ],
+    "name:nob_x_preferred":[
+        "As-Samu"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0648\u0639"
+    ],
+    "name:pol_x_preferred":[
+        "As-Samu"
+    ],
+    "name:unk_x_variant":[
+        "Eshtemoa\u2018"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0648\u0639"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284583,
+    "qs_pg:gn_pop":19355,
+    "qs_pg:name":"As Sam\u016b\u2018",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":547095,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284583,
+        "qs_pg:id":547095,
+        "wd:id":"Q1768653"
+    },
+    "wof:country":"PS",
+    "wof:created":1497302306,
+    "wof:geomhash":"ed1ab66e21dd86771e0c5360989e6568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043711,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043711,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043711,
+    "wof:lastmodified":1549929901,
+    "wof:name":"As Sam\u016b\u2018",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":19355,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06611,
+    31.39671,
+    35.06611,
+    31.39671
+],
+  "geometry": {"coordinates":[35.06611,31.39671],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1310238723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.53333,31.55,34.53333,31.55",
+    "geom:latitude":31.55,
+    "geom:longitude":34.53333,
+    "gn:admin1_code":"GZ",
+    "gn:asciiname":"Erez",
+    "gn:country_code":"PS",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281137,
+    "gn:latitude":31.55,
+    "gn:longitude":34.53333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Erez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913267,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281137
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"92a0fc9e80dee9ade025e34d0c8a0de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1310238723,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1310238723,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1310238723,
+    "wof:lastmodified":1549928882,
+    "wof:name":"Erez",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.53333,
+    31.55,
+    34.53333,
+    31.55
+],
+  "geometry": {"coordinates":[34.53333,31.55],"type":"Point"}
+}

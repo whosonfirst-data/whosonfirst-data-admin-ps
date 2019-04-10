@@ -1,0 +1,88 @@
+{
+  "id": 1310635139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27399,31.7421,35.27399,31.7421",
+    "geom:latitude":31.7421,
+    "geom:longitude":35.27399,
+    "gn:admin1_code":"WE",
+    "gn:admin2_code":"7870654",
+    "gn:asciiname":"Khirbat az Zu`rurah",
+    "gn:country_code":"PS",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283134,
+    "gn:latitude":31.7421,
+    "gn:longitude":35.27399,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Khirbat az Zu\u2018r\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat az Za\u2018r\u016brah",
+        "Khirbat ez Za\u2018r\u016bra",
+        "Khirbat az Za\u2018rura",
+        "Khirbat az Zu\u2018r\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283134
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8ef23ed4ce6a852fd8c60990a903cafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310635139,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310635139,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1310635139,
+    "wof:lastmodified":1549929893,
+    "wof:name":"Khirbat az Zu`rurah",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27399000000001,
+    31.7421,
+    35.27399000000001,
+    31.7421
+],
+  "geometry": {"coordinates":[35.27399000000001,31.7421],"type":"Point"}
+}

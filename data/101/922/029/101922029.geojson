@@ -1,0 +1,81 @@
+{
+  "id": 101922029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1078.366553,
+    "geom:bbox":"35.2110290527,31.8627624512,35.2114976595,31.8631439466",
+    "geom:latitude":31.862929,
+    "geom:longitude":35.211209,
+    "gn:population":1169,
+    "iso:country":"PS",
+    "lbl:latitude":31.863135,
+    "lbl:longitude":35.211976,
+    "mps:latitude":31.863135,
+    "mps:longitude":35.211976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qalandiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282461,
+        "gp:id":1937180,
+        "qs:id":79889
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a9e4ec4879c7fc0523d34a2727a15a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922029,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922029,
+    "wof:lastmodified":1549931485,
+    "wof:name":"Qalandiya",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:population":1169,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21102905273438,
+    31.86276245117188,
+    35.21149765948535,
+    31.86314394661247
+],
+  "geometry": {"coordinates":[[[[35.21104431152344,31.86276245117188],[35.21102905273438,31.86305046081543],[35.21102905273438,31.86314394661247],[35.21149416967161,31.86292317765947],[35.21149765948535,31.86286892538743],[35.21121215820312,31.86279106140137],[35.21104431152344,31.86276245117188]]]],"type":"MultiPolygon"}
+}

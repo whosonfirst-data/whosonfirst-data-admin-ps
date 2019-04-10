@@ -1,0 +1,118 @@
+{
+  "id": 101921737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":1250797.804262,
+    "geom:bbox":"35.3554573059,32.0503234863,35.3706512451,32.0649642944",
+    "geom:latitude":32.058605,
+    "geom:longitude":35.364841,
+    "gn:population":2157,
+    "iso:country":"PS",
+    "lbl:latitude":32.058368,
+    "lbl:longitude":35.366625,
+    "mps:latitude":32.058368,
+    "mps:longitude":35.366625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0645\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043c\u0435\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Duma"
+    ],
+    "name:dut_x_preferred":[
+        "Duma"
+    ],
+    "name:eng_x_preferred":[
+        "Duma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05de\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Duma i Nablus"
+    ],
+    "name:unk_x_variant":[
+        "D\u014dma"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Duma",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284013,
+        "gp:id":1937300,
+        "qs:id":123966,
+        "wd:id":"Q2760852",
+        "wk:page":"Duma, Nablus"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fd69912dcc51f8eb422c4b1ec663bcb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921737,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921737,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921737,
+    "wof:lastmodified":1549929845,
+    "wof:name":"Duma",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2157,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3554573059082,
+    32.05032348632812,
+    35.37065124511719,
+    32.06496429443359
+],
+  "geometry": {"coordinates":[[[35.36845779418945,32.05082702636719],[35.36607360839844,32.05032348632812],[35.36458587646484,32.05184936523438],[35.36349487304688,32.05362701416016],[35.3643913269043,32.05472564697266],[35.36330032348633,32.05540466308594],[35.36310577392578,32.05794143676758],[35.36101913452148,32.05802917480469],[35.35972595214844,32.057861328125],[35.35763931274414,32.05837249755859],[35.3554573059082,32.06057357788086],[35.35873794555664,32.06226348876953],[35.35983276367188,32.06319046020508],[35.36152648925781,32.06420516967773],[35.36321640014648,32.06471252441406],[35.36510467529297,32.06496429443359],[35.3677864074707,32.06487655639648],[35.36867523193359,32.06301116943359],[35.36847686767578,32.06148910522461],[35.36996459960938,32.05996322631836],[35.37045669555664,32.05767822265625],[35.37065124511719,32.05471801757812],[35.3703498840332,32.05302429199219],[35.36885833740234,32.05209732055664],[35.36845779418945,32.05082702636719]]],"type":"Polygon"}
+}

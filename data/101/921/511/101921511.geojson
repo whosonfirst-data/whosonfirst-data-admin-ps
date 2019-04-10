@@ -1,0 +1,98 @@
+{
+  "id": 101921511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4899.709043,
+    "geom:bbox":"35.5296783447,32.1698646545,35.5305786133,32.1706314087",
+    "geom:latitude":32.170236,
+    "geom:longitude":35.530087,
+    "gn:population":200,
+    "iso:country":"PS",
+    "lbl:latitude":32.17022,
+    "lbl:longitude":35.530094,
+    "mps:latitude":32.17022,
+    "mps:longitude":35.530094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062c \u0627\u0644\u063a\u0632\u0627\u0644"
+    ],
+    "name:unk_x_variant":[
+        "Marj al Ghaz\u0101l"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marj al Ghazal",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898045,
+        "gp:id":1937300,
+        "qs:id":744258
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"40070bf51bbd934ae8796d6dfcee4246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921511,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921511,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921511,
+    "wof:lastmodified":1549929816,
+    "wof:name":"Marj al Ghazal",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52967834472656,
+    32.16986465454102,
+    35.53057861328125,
+    32.17063140869141
+],
+  "geometry": {"coordinates":[[[35.52970504760742,32.16986465454102],[35.52967834472656,32.17039489746094],[35.53036117553711,32.17063140869141],[35.53057861328125,32.17044448852539],[35.53026580810547,32.16991806030273],[35.52970504760742,32.16986465454102]]],"type":"Polygon"}
+}

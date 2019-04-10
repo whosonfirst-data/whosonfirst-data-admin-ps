@@ -1,0 +1,86 @@
+{
+  "id": 101922743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":334416.91858,
+    "geom:bbox":"35.0673980713,31.5454883575,35.0759277344,31.5545425415",
+    "geom:latitude":31.549772,
+    "geom:longitude":35.072412,
+    "iso:country":"PS",
+    "lbl:latitude":31.549905,
+    "lbl:longitude":35.073898,
+    "mps:latitude":31.549905,
+    "mps:longitude":35.073898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kureise",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a5f3298aa6671bf6225d287a8275cd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922743,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922743,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922743,
+    "wof:lastmodified":1549929846,
+    "wof:name":"Kureise",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06739807128906,
+    31.54548835754395,
+    35.075927734375,
+    31.55454254150391
+],
+  "geometry": {"coordinates":[[[35.06739807128906,31.54844284057617],[35.06882095336914,31.54957580566406],[35.07094955444336,31.55062294006348],[35.07186508178711,31.55166816711426],[35.07308197021484,31.55140686035156],[35.07318496704102,31.55271339416504],[35.07511138916016,31.55454254150391],[35.075927734375,31.55280303955078],[35.07572555541992,31.55071449279785],[35.07532119750977,31.54862594604492],[35.07410430908203,31.54784202575684],[35.07257843017578,31.54879760742188],[35.07217407226562,31.54757881164551],[35.07217788696289,31.54636001586914],[35.07085800170898,31.54548835754395],[35.07055282592773,31.5466194152832],[35.06983947753906,31.54748916625977],[35.06902694702148,31.54748725891113],[35.06770324707031,31.54757308959961],[35.06739807128906,31.54844284057617]]],"type":"Polygon"}
+}

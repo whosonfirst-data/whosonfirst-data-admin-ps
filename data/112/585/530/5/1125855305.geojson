@@ -1,0 +1,111 @@
+{
+  "id": 1125855305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0296,31.59618,35.0296,31.59618",
+    "geom:latitude":31.59618,
+    "geom:longitude":35.0296,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9159,
+    "gn:population":9159,
+    "iso:country":"PS",
+    "lbl:latitude":31.59618,
+    "lbl:longitude":35.0296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0623\u0648\u0644\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Ula"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Ula"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Ula"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Aula"
+    ],
+    "name:unk_x_variant":[
+        "Beit Aul\u0101"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284347,
+    "qs_pg:gn_pop":9159,
+    "qs_pg:name":"Bayt \u016al\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":123990,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284347,
+        "qs_pg:id":123990,
+        "wd:id":"Q4881463"
+    },
+    "wof:country":"PS",
+    "wof:created":1497293593,
+    "wof:geomhash":"c18290bda222d538092c20e678ea9032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855305,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855305,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125855305,
+    "wof:lastmodified":1549929766,
+    "wof:name":"Bayt \u016al\u0101",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":9159,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0296,
+    31.59618,
+    35.0296,
+    31.59618
+],
+  "geometry": {"coordinates":[35.0296,31.59618],"type":"Point"}
+}

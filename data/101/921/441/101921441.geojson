@@ -1,0 +1,98 @@
+{
+  "id": 101921441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18422.160944,
+    "geom:bbox":"35.0551490784,32.1959190369,35.056640625,32.197883606",
+    "geom:latitude":32.196907,
+    "geom:longitude":35.055971,
+    "gn:population":442,
+    "iso:country":"PS",
+    "lbl:latitude":32.196922,
+    "lbl:longitude":35.05606,
+    "mps:latitude":32.196922,
+    "mps:longitude":35.05606,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0635\u064a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat \u015e\u012br"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Sir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283086,
+        "gp:id":1937289,
+        "qs:id":547035
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"742c2486d89ec06f5de901750c211277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921441,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921441,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921441,
+    "wof:lastmodified":1549929816,
+    "wof:name":"Khirbet Sir",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05514907836914,
+    32.19591903686523,
+    35.056640625,
+    32.19788360595703
+],
+  "geometry": {"coordinates":[[[35.05557250976562,32.19706726074219],[35.0557861328125,32.19788360595703],[35.05663681030273,32.1976432800293],[35.056640625,32.19694900512695],[35.05635452270508,32.19637298583984],[35.05553817749023,32.19591903686523],[35.05514907836914,32.19640350341797],[35.05557250976562,32.19706726074219]]],"type":"Polygon"}
+}

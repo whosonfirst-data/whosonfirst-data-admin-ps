@@ -1,0 +1,108 @@
+{
+  "id": 1126023907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29094,32.08664,35.29094,32.08664",
+    "geom:latitude":32.08664,
+    "geom:longitude":35.29094,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2906,
+    "gn:population":2906,
+    "iso:country":"PS",
+    "lbl:latitude":32.08664,
+    "lbl:longitude":35.29094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0641\u064a\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Talfit"
+    ],
+    "name:dut_x_preferred":[
+        "Talfit"
+    ],
+    "name:eng_x_preferred":[
+        "Talfit"
+    ],
+    "name:unk_x_variant":[
+        "Tilf\u012bt"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281675,
+    "qs_pg:gn_pop":2906,
+    "qs_pg:name":"Talf\u012bt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123908,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281675,
+        "qs_pg:id":123908,
+        "wd:id":"Q7679433"
+    },
+    "wof:country":"PS",
+    "wof:created":1497301006,
+    "wof:geomhash":"79af21010fa03be83b6284d70cf1d803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023907,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023907,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126023907,
+    "wof:lastmodified":1549929888,
+    "wof:name":"Talf\u012bt",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2906,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29094,
+    32.08664,
+    35.29094,
+    32.08664
+],
+  "geometry": {"coordinates":[35.29094,32.08664],"type":"Point"}
+}

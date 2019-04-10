@@ -1,0 +1,93 @@
+{
+  "id": 101921007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4602.378451,
+    "geom:bbox":"35.3767623901,32.4055976868,35.3779411316,32.4060974121",
+    "geom:latitude":32.405821,
+    "geom:longitude":35.377418,
+    "iso:country":"PS",
+    "lbl:latitude":32.405848,
+    "lbl:longitude":35.377414,
+    "mps:latitude":32.405848,
+    "mps:longitude":35.377414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0645\u0631\u0627\u062d \u0627\u0644\u0631\u0647\u0649"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Mar\u0101\u1e29 ar Rah\u00e1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Marah ar Raha",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895638,
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c9dd00be9b2444553f13cd6fd6979b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921007,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921007,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921007,
+    "wof:lastmodified":1549929775,
+    "wof:name":"Khirbet Marah ar Raha",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37676239013672,
+    32.40559768676758,
+    35.3779411315918,
+    32.40609741210938
+],
+  "geometry": {"coordinates":[[[35.37676239013672,32.40560150146484],[35.37720489501953,32.40609741210938],[35.3777961730957,32.40609741210938],[35.3779411315918,32.40559768676758],[35.37676239013672,32.40560150146484]]],"type":"Polygon"}
+}

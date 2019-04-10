@@ -1,0 +1,87 @@
+{
+  "id": 1242888605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28373,31.74187,35.28373,31.74187",
+    "geom:latitude":31.74187,
+    "geom:longitude":35.28373,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"As Sawahirah ash Sharqiyah",
+    "gn:country_code":"PS",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537204,
+    "gn:latitude":31.74187,
+    "gn:longitude":35.28373,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"As Saw\u0101\u1e29irah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627\u062d\u0631\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "As Saw\u0101\u1e29irah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537204
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"31b30c6794704994dcafaed69d2c0b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1242888605,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1242888605,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1242888605,
+    "wof:lastmodified":1549929905,
+    "wof:name":"As Sawahirah ash Sharqiyah",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28373,
+    31.74187,
+    35.28373,
+    31.74187
+],
+  "geometry": {"coordinates":[35.28373,31.74187],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101919665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000002,
+    "geom:area_square_m":18682.899568,
+    "geom:bbox":"34.9852905273,31.5341320038,34.9878044128,31.5356616974",
+    "geom:latitude":31.534833,
+    "geom:longitude":34.98673,
+    "iso:country":"PS",
+    "lbl:latitude":31.534841,
+    "lbl:longitude":34.986731,
+    "mps:latitude":31.534841,
+    "mps:longitude":34.986731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0635\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat \u1e28ums\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Humsa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85687577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283653,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a65bbf838130facc811d659366f5f8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101919665,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "locality_id":101919665,
+            "region_id":85687577
+        }
+    ],
+    "wof:id":101919665,
+    "wof:lastmodified":1534985971,
+    "wof:name":"Humsa",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613301
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98529052734375,
+    31.53413200378418,
+    34.9878044128418,
+    31.5356616973877
+],
+  "geometry": {"coordinates":[[[34.98529052734375,31.53413200378418],[34.98644256591797,31.53520965576172],[34.98714065551758,31.53554153442383],[34.9875602722168,31.5356616973877],[34.9878044128418,31.5350341796875],[34.98710632324219,31.53446388244629],[34.98640823364258,31.53422355651855],[34.98529052734375,31.53413200378418]]],"type":"Polygon"}
+}

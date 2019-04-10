@@ -1,0 +1,100 @@
+{
+  "id": 101922595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22901.232258,
+    "geom:bbox":"35.2168922424,31.6188030243,35.219291687,31.620344162",
+    "geom:latitude":31.619553,
+    "geom:longitude":35.2181,
+    "gn:population":999,
+    "iso:country":"PS",
+    "lbl:latitude":31.619661,
+    "lbl:longitude":35.218183,
+    "mps:latitude":31.619661,
+    "mps:longitude":35.218183,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u064a\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Al Man\u012byah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Maniya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":367,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890391,
+        "gp:id":56123332,
+        "qs:id":743886,
+        "wd:id":"Q4702799"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9ca1d5b4f9955d407d0d89913467b95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922595,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922595,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922595,
+    "wof:lastmodified":1549929828,
+    "wof:name":"Al Maniya",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":999,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21689224243164,
+    31.61880302429199,
+    35.21929168701172,
+    31.6203441619873
+],
+  "geometry": {"coordinates":[[[35.21689224243164,31.61890602111816],[35.21725082397461,31.61993408203125],[35.21773147583008,31.6203441619873],[35.21857070922852,31.62013816833496],[35.21929168701172,31.61931610107422],[35.21893310546875,31.61880302429199],[35.21784973144531,31.61921501159668],[35.21689224243164,31.61890602111816]]],"type":"Polygon"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 101921117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18148.64512,
+    "geom:bbox":"35.3709182739,32.3530693054,35.3727302551,32.354434967",
+    "geom:latitude":32.353822,
+    "geom:longitude":35.371789,
+    "iso:country":"PS",
+    "lbl:latitude":32.353795,
+    "lbl:longitude":35.371788,
+    "mps:latitude":32.353795,
+    "mps:longitude":35.371788,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u062d\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Salhab"
+    ],
+    "name:dut_x_preferred":[
+        "Salhab"
+    ],
+    "name:eng_x_preferred":[
+        "Salhab"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Sal\u1e29ab"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Salhab",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":929,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283088,
+        "gp:id":1937299,
+        "wd:id":"Q7404415"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a1785d706b2bca65e29faefbaec1453c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921117,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921117,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921117,
+    "wof:lastmodified":1549929792,
+    "wof:name":"Salhab",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37091827392578,
+    32.35306930541992,
+    35.37273025512695,
+    32.35443496704102
+],
+  "geometry": {"coordinates":[[[35.37102127075195,32.35443496704102],[35.37273025512695,32.35426330566406],[35.3723258972168,32.35306930541992],[35.37091827392578,32.35349655151367],[35.37102127075195,32.35443496704102]]],"type":"Polygon"}
+}

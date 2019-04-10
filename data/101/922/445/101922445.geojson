@@ -1,0 +1,93 @@
+{
+  "id": 101922445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":44441.325051,
+    "geom:bbox":"35.2665634155,31.6829032898,35.2691764832,31.6848430634",
+    "geom:latitude":31.683886,
+    "geom:longitude":35.267862,
+    "iso:country":"PS",
+    "lbl:latitude":31.683904,
+    "lbl:longitude":35.267862,
+    "mps:latitude":31.683904,
+    "mps:longitude":35.267862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0634\u0646\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Al Khushnah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Khushna",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890654,
+        "gp:id":56125346
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9fe302acde5b065a360a31c71c84740f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922445,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922445,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922445,
+    "wof:lastmodified":1549929814,
+    "wof:name":"Al Khushna",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26656341552734,
+    31.68290328979492,
+    35.2691764831543,
+    31.68484306335449
+],
+  "geometry": {"coordinates":[[[35.26811981201172,31.68484306335449],[35.26856994628906,31.68480491638184],[35.26893997192383,31.6846752166748],[35.2691764831543,31.68369674682617],[35.26898956298828,31.68303680419922],[35.26852035522461,31.68309020996094],[35.26811599731445,31.6829776763916],[35.267578125,31.68299674987793],[35.26703262329102,31.68290328979492],[35.26662826538086,31.68338394165039],[35.26656341552734,31.68403053283691],[35.26686477661133,31.68473243713379],[35.26811981201172,31.68484306335449]]],"type":"Polygon"}
+}

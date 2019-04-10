@@ -1,0 +1,114 @@
+{
+  "id": 1125931557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39604,32.34042,35.39604,32.34042",
+    "geom:latitude":32.34042,
+    "geom:longitude":35.39604,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2323,
+    "gn:population":2323,
+    "iso:country":"PS",
+    "lbl:latitude":32.34042,
+    "lbl:longitude":35.39604,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0627\u0633\u064a\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Tayasir"
+    ],
+    "name:dut_x_preferred":[
+        "Tayasir"
+    ],
+    "name:eng_x_preferred":[
+        "Tayasir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d9\u05d0\u05e1\u05d9\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Tayasir"
+    ],
+    "name:unk_x_variant":[
+        "Tayaseer"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281623,
+    "qs_pg:gn_pop":2323,
+    "qs_pg:name":"Tay\u0101s\u012br",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123904,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281623,
+        "qs_pg:id":123904,
+        "wd:id":"Q4120042"
+    },
+    "wof:country":"PS",
+    "wof:created":1497296820,
+    "wof:geomhash":"b168918bd0278f1f7563862628ec3f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125931557,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125931557,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125931557,
+    "wof:lastmodified":1549929758,
+    "wof:name":"Tay\u0101s\u012br",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":2323,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39604,
+    32.34042,
+    35.39604,
+    32.34042
+],
+  "geometry": {"coordinates":[35.39604,32.34042],"type":"Point"}
+}

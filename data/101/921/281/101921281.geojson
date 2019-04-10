@@ -1,0 +1,108 @@
+{
+  "id": 101921281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":127880.002859,
+    "geom:bbox":"35.0743255615,32.2767677307,35.0825386047,32.2801628113",
+    "geom:latitude":32.27805,
+    "geom:longitude":35.078894,
+    "gn:population":2174,
+    "iso:country":"PS",
+    "lbl:latitude":32.278301,
+    "lbl:longitude":35.079174,
+    "mps:latitude":32.278301,
+    "mps:longitude":35.079174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0641\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Shufa"
+    ],
+    "name:eng_x_preferred":[
+        "Shufa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e4\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Shufa i Tulkarm"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Shufa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281819,
+        "gp:id":1937300,
+        "qs:id":79879,
+        "wd:id":"Q7504651"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3f02ea42fbb7e2c1474b476654488012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921281,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921281,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921281,
+    "wof:lastmodified":1549929805,
+    "wof:name":"Shufa",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":2174,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07432556152344,
+    32.27676773071289,
+    35.08253860473633,
+    32.2801628112793
+],
+  "geometry": {"coordinates":[[[35.07432556152344,32.27676773071289],[35.07535171508789,32.27734756469727],[35.07649230957031,32.27783584594727],[35.07763290405273,32.27870941162109],[35.07865524291992,32.2801628112793],[35.07968521118164,32.27967834472656],[35.0810546875,32.27861404418945],[35.08253860473633,32.27774429321289],[35.08151245117188,32.27706527709961],[35.08037185668945,32.27716064453125],[35.07809066772461,32.27696228027344],[35.07660675048828,32.2768669128418],[35.07432556152344,32.27676773071289]]],"type":"Polygon"}
+}

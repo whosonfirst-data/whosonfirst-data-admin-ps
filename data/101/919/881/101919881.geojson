@@ -1,0 +1,86 @@
+{
+  "id": 101919881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":356036.22225,
+    "geom:bbox":"34.9903030396,31.4486618042,34.9992675781,31.4576015472",
+    "geom:latitude":31.453456,
+    "geom:longitude":34.995632,
+    "iso:country":"PS",
+    "lbl:latitude":31.454402,
+    "lbl:longitude":34.994443,
+    "mps:latitude":31.454402,
+    "mps:longitude":34.994443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hadab al 'Alaqa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0a81c3187a908c1808c7c5c4a7bf8b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919881,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919881,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101919881,
+    "wof:lastmodified":1549929855,
+    "wof:name":"Hadab al 'Alaqa",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99030303955078,
+    31.44866180419922,
+    34.999267578125,
+    31.45760154724121
+],
+  "geometry": {"coordinates":[[[34.99030303955078,31.45280647277832],[34.99221038818359,31.45394325256348],[34.99323272705078,31.45621299743652],[34.99484634399414,31.45760154724121],[34.99587631225586,31.45684623718262],[34.99602508544922,31.4554615020752],[34.99778747558594,31.45596885681152],[34.99882125854492,31.45395469665527],[34.99926376342773,31.45219230651855],[34.999267578125,31.4509334564209],[34.99677658081055,31.44866180419922],[34.99589157104492,31.45004653930664],[34.99720764160156,31.45168495178223],[34.99617767333984,31.45344734191895],[34.99397659301758,31.4515552520752],[34.99030303955078,31.45280647277832]]],"type":"Polygon"}
+}

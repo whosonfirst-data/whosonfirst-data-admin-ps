@@ -1,0 +1,93 @@
+{
+  "id": 101922447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":25159.537777,
+    "geom:bbox":"35.1817131042,31.6769638062,35.1836357117,31.6789188385",
+    "geom:latitude":31.677932,
+    "geom:longitude":35.182804,
+    "iso:country":"PS",
+    "lbl:latitude":31.677952,
+    "lbl:longitude":35.1829,
+    "mps:latitude":31.677952,
+    "mps:longitude":35.1829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0646\u062c\u0644\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat an Na\u1e29lah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet an Nahla",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890660,
+        "gp:id":1936768
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"7f54bd1bd7f7c3b5cd0b3fd3d676a555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922447,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922447,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922447,
+    "wof:lastmodified":1549929814,
+    "wof:name":"Khirbet an Nahla",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18171310424805,
+    31.67696380615234,
+    35.18363571166992,
+    31.67891883850098
+],
+  "geometry": {"coordinates":[[[35.18171310424805,31.67716979980469],[35.18267440795898,31.67891883850098],[35.18351364135742,31.67891883850098],[35.18363571166992,31.67758178710938],[35.18243408203125,31.67696380615234],[35.18171310424805,31.67716979980469]]],"type":"Polygon"}
+}

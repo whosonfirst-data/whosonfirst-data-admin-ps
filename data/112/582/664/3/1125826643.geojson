@@ -1,0 +1,98 @@
+{
+  "id": 1125826643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.12348,31.66322,35.12348,31.66322",
+    "geom:latitude":31.66322,
+    "geom:longitude":35.12348,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":183,
+    "gn:population":183,
+    "iso:country":"PS",
+    "lbl:latitude":31.66322,
+    "lbl:longitude":35.12348,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0629 \u0633\u0643\u0627\u0631\u064a\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Bayt Zakar\u012by\u0101"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283124,
+    "qs_pg:gn_pop":183,
+    "qs_pg:name":"Khallat Sak\u0101ry\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":547047,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283124,
+        "qs_pg:id":547047
+    },
+    "wof:country":"PS",
+    "wof:created":1497292305,
+    "wof:geomhash":"00a7192ef74c2f49fa02badeffb842c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125826643,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125826643,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125826643,
+    "wof:lastmodified":1549929745,
+    "wof:name":"Khallat Sak\u0101ry\u0101",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12348,
+    31.66322,
+    35.12348,
+    31.66322
+],
+  "geometry": {"coordinates":[35.12348,31.66322],"type":"Point"}
+}

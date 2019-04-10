@@ -1,0 +1,105 @@
+{
+  "id": 101921907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000005,
+    "geom:area_square_m":56684.037071,
+    "geom:bbox":"35.0271186829,31.9425392151,35.0307502747,31.9448280334",
+    "geom:latitude":31.943689,
+    "geom:longitude":35.029087,
+    "iso:country":"PS",
+    "lbl:latitude":31.943673,
+    "lbl:longitude":35.029087,
+    "mps:latitude":31.943673,
+    "mps:longitude":35.029087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0646\u0639\u0644\u064a\u0646"
+    ],
+    "name:dan_x_preferred":[
+        "Ni'lin"
+    ],
+    "name:eng_x_preferred":[
+        "Ni'lin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e2\u05dc\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Ni'lin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0430\u043b\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Ni'leen"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ni'lin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.946606,
+    "wd:longitude":35.021647,
+    "wd:wordcount":2323,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870321,
+        "gp:id":56123316,
+        "wd:id":"Q2918718",
+        "wk:page":"Ni'lin"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6b1f1edf5004fcb89587029fb353f1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921907,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921907,
+    "wof:lastmodified":1534985967,
+    "wof:name":"Ni'lin",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613221
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02711868286133,
+    31.94253921508789,
+    35.0307502746582,
+    31.94482803344727
+],
+  "geometry": {"coordinates":[[[35.02711868286133,31.94371604919434],[35.02841567993164,31.94460487365723],[35.02988433837891,31.94482803344727],[35.0307502746582,31.94387054443359],[35.03049468994141,31.94298362731934],[35.02867889404297,31.94253921508789],[35.0274658203125,31.9433479309082],[35.02711868286133,31.94371604919434]]],"type":"Polygon"}
+}

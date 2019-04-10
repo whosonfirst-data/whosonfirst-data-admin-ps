@@ -1,0 +1,79 @@
+{
+  "id": 101920809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000001,
+    "geom:area_square_m":8834.133155,
+    "geom:bbox":"35.3842926025,32.4808654785,35.385925293,32.4816055298",
+    "geom:latitude":32.481218,
+    "geom:longitude":35.385039,
+    "iso:country":"PS",
+    "lbl:latitude":32.481235,
+    "lbl:longitude":35.385039,
+    "mps:latitude":32.481235,
+    "mps:longitude":35.385039,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm Qabub",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895636,
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"620c30ec8dc75ae9af768e0cdc890162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101920809,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920809,
+    "wof:lastmodified":1534985970,
+    "wof:name":"Umm Qabub",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613277
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38429260253906,
+    32.48086547851562,
+    35.38592529296875,
+    32.48160552978516
+],
+  "geometry": {"coordinates":[[[35.38461685180664,32.48086547851562],[35.38429260253906,32.48160552978516],[35.38527297973633,32.48160552978516],[35.38592529296875,32.48086547851562],[35.38549041748047,32.48086547851562],[35.38461685180664,32.48086547851562]]],"type":"Polygon"}
+}

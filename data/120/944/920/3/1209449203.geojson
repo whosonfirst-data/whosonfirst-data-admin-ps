@@ -1,0 +1,92 @@
+{
+  "id": 1209449203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23681,31.68553,35.23681,31.68553",
+    "geom:latitude":31.68553,
+    "geom:longitude":35.23681,
+    "gn:admin1_code":"WE",
+    "gn:admin2_code":"7870463",
+    "gn:asciiname":"Buraydi`ah",
+    "gn:country_code":"PS",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283122,
+    "gn:latitude":31.68553,
+    "gn:longitude":35.23681,
+    "gn:modification_date":"2017-09-06",
+    "gn:name":"Buray\u1e11i\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0636\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Bureida\u2018a",
+        "Khirbat Burayda\u2018ah",
+        "Khirbat Bureidhi\u2018a",
+        "Khirbat Buraydhi\u2018ah",
+        "Buray\u1e11i\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283122
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"80707876b81b40a7f6499adadabb1e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209449203,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209449203,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209449203,
+    "wof:lastmodified":1549929906,
+    "wof:name":"Buraydi`ah",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23681,
+    31.68553,
+    35.23681,
+    31.68553
+],
+  "geometry": {"coordinates":[35.23681,31.68553],"type":"Point"}
+}

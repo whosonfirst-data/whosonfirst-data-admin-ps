@@ -1,0 +1,108 @@
+{
+  "id": 1376891697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.230602,31.812943,35.230602,31.812943",
+    "geom:latitude":31.812943,
+    "geom:longitude":35.230602,
+    "iso:country":"PS",
+    "lbl:latitude":31.81066,
+    "lbl:longitude":35.232905,
+    "mps:latitude":31.81066,
+    "mps:longitude":35.232905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0641\u0627\u0637"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160u'afat"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160u'afat"
+    ],
+    "name:eng_x_preferred":[
+        "Shuafat"
+    ],
+    "name:fre_x_preferred":[
+        "Shuafat"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e2\u05e4\u05d0\u05d8"
+    ],
+    "name:ind_x_preferred":[
+        "Shuafat"
+    ],
+    "name:mac_x_preferred":[
+        "\u0428\u0443\u0430\u0444\u0430\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0443\u0430\u0444\u0430\u0442"
+    ],
+    "name:pol_x_preferred":[
+        "Szuafat"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Shu'fat",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":3083,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281818,
+        "wd:id":"Q2915231"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e3716c272a82298e219623034272af11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":1376891697,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1376891697,
+    "wof:lastmodified":1549931461,
+    "wof:name":"Shu'fat",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101922181
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.230602,
+    31.812943,
+    35.230602,
+    31.812943
+],
+  "geometry": {"coordinates":[35.230602,31.812943],"type":"Point"}
+}

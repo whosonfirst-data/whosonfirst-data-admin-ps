@@ -1,0 +1,163 @@
+{
+  "id": 101920067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8594.016736,
+    "geom:bbox":"34.3578643799,31.422372818,34.3594245911,31.4233474731",
+    "geom:latitude":31.422885,
+    "geom:longitude":34.358638,
+    "iso:country":"PS",
+    "lbl:latitude":31.422814,
+    "lbl:longitude":34.358756,
+    "mps:latitude":31.422814,
+    "mps:longitude":34.358756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0628\u0644\u062d"
+    ],
+    "name:baq_x_preferred":[
+        "Deir al-Balah"
+    ],
+    "name:cat_x_preferred":[
+        "Deir al-Balah"
+    ],
+    "name:cze_x_preferred":[
+        "Dajr al-Balah"
+    ],
+    "name:dut_x_preferred":[
+        "Dayr al-Balah"
+    ],
+    "name:eng_x_preferred":[
+        "Deir al-Balah"
+    ],
+    "name:epo_x_preferred":[
+        "Deir el-Balah"
+    ],
+    "name:fre_x_preferred":[
+        "Deir el-Balah"
+    ],
+    "name:ger_x_preferred":[
+        "Dair al-Balah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05d0\u05dc-\u05d1\u05dc\u05d7"
+    ],
+    "name:ita_x_preferred":[
+        "Dayr al-Balah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30fc\u30eb\u30fb\u30d0\u30e9\u30d5"
+    ],
+    "name:nno_x_preferred":[
+        "Deir al-Balah"
+    ],
+    "name:nob_x_preferred":[
+        "Deir al-Balah"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u06cc\u0631 \u0627\u0644\u0628\u0644\u062d"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr al-Balah"
+    ],
+    "name:por_x_preferred":[
+        "Deir al-Balah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0439\u0440 \u0430\u043b\u044c-\u0411\u0430\u043b\u0430\u0445"
+    ],
+    "name:sco_x_preferred":[
+        "Deir al-Balah"
+    ],
+    "name:spa_x_preferred":[
+        "Deir al-Balah"
+    ],
+    "name:tur_x_preferred":[
+        "Deir al Balah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0631 \u0627\u0644\u0628\u0644\u062d"
+    ],
+    "name:wel_x_preferred":[
+        "Deir al-Balah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir al Balah",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":31.418994,
+    "wd:longitude":34.351603,
+    "wd:population":49751,
+    "wd:wordcount":5832,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913317,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979608,
+        "wd:id":"Q557383"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a31910e26e08eb1b5b1fb7cc400beac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920067,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920067,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920067,
+    "wof:lastmodified":1549928887,
+    "wof:name":"Deir al Balah",
+    "wof:parent_id":1091913317,
+    "wof:placetype":"locality",
+    "wof:population":49751,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35786437988281,
+    31.42237281799316,
+    34.35942459106445,
+    31.42334747314453
+],
+  "geometry": {"coordinates":[[[34.35870742797852,31.42237281799316],[34.35786437988281,31.42293739318848],[34.35831451416016,31.42334747314453],[34.35837554931641,31.42334175109863],[34.35867691040039,31.42317581176758],[34.35883331298828,31.42327308654785],[34.35915374755859,31.42305564880371],[34.35942459106445,31.42281913757324],[34.35870742797852,31.42237281799316]]],"type":"Polygon"}
+}

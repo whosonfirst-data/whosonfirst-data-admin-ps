@@ -1,0 +1,74 @@
+{
+  "id": 101919853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4569.399533,
+    "geom:bbox":"34.9134941101,31.4564609528,34.9143829346,31.4571342468",
+    "geom:latitude":31.45677,
+    "geom:longitude":34.913919,
+    "iso:country":"PS",
+    "lbl:latitude":31.456798,
+    "lbl:longitude":34.913883,
+    "mps:latitude":31.456798,
+    "mps:longitude":34.913883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Mirsim",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937307,
+        "wd:id":"Q2402197"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e989c1f936009abbfab8c35902453826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":101919853,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":101919853,
+    "wof:lastmodified":1549930441,
+    "wof:name":"Beit Mirsim",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91349411010742,
+    31.45646095275879,
+    34.91438293457031,
+    31.45713424682617
+],
+  "geometry": {"coordinates":[[[34.91351699829102,31.45657730102539],[34.91351699829102,31.45676231384277],[34.91349411010742,31.45699882507324],[34.91398620605469,31.45713424682617],[34.91412353515625,31.45698356628418],[34.91436004638672,31.4567813873291],[34.91438293457031,31.45652961730957],[34.91400909423828,31.45646095275879],[34.91351699829102,31.45657730102539]]],"type":"Polygon"}
+}

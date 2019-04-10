@@ -1,0 +1,112 @@
+{
+  "id": 101921327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":929530.952303,
+    "geom:bbox":"35.1232528687,32.2551422119,35.1370811462,32.2648200989",
+    "geom:latitude":32.259965,
+    "geom:longitude":35.12998,
+    "gn:population":5740,
+    "iso:country":"PS",
+    "lbl:latitude":32.260936,
+    "lbl:longitude":35.129848,
+    "mps:latitude":32.260936,
+    "mps:longitude":35.129848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0644\u064a\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Lid"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05dc\u05d9\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Lid"
+    ],
+    "name:unk_x_variant":[
+        "Beit L\u012bd"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Lid",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.260556,
+    "wd:longitude":35.114722,
+    "wd:wordcount":920,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284313,
+        "gp:id":56123342,
+        "qs:id":123981,
+        "wd:id":"Q2903283",
+        "wk:page":"Beit Lid"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"31ae74dbe5200be4ce8d18804c981aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921327,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921327,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921327,
+    "wof:lastmodified":1549929808,
+    "wof:name":"Beit Lid",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":5740,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12325286865234,
+    32.25514221191406,
+    35.13708114624023,
+    32.26482009887695
+],
+  "geometry": {"coordinates":[[[35.12510681152344,32.25720596313477],[35.12325668334961,32.2577018737793],[35.12345123291016,32.25894165039062],[35.12325286865234,32.26117324829102],[35.12432479858398,32.26258087158203],[35.12588119506836,32.26274871826172],[35.12773132324219,32.26407241821289],[35.12919235229492,32.26482009887695],[35.13143157958984,32.26482009887695],[35.13259887695312,32.26358032226562],[35.13376998901367,32.2634162902832],[35.13493728637695,32.26110076904297],[35.13659286499023,32.26018905639648],[35.13708114624023,32.25845336914062],[35.13679122924805,32.25746154785156],[35.13445663452148,32.25588607788086],[35.13338470458984,32.25514221191406],[35.13231658935547,32.25555419921875],[35.13202285766602,32.25704574584961],[35.13007354736328,32.25712585449219],[35.12832260131836,32.25654602050781],[35.12578964233398,32.25588226318359],[35.12510681152344,32.25720596313477]]],"type":"Polygon"}
+}

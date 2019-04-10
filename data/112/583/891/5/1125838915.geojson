@@ -1,0 +1,108 @@
+{
+  "id": 1125838915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16593,32.04935,35.16593,32.04935",
+    "geom:latitude":32.04935,
+    "geom:longitude":35.16593,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5015,
+    "gn:population":5015,
+    "iso:country":"PS",
+    "lbl:latitude":32.04935,
+    "lbl:longitude":35.16593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0632\u064a\u062f \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0632\u0627\u0631\u0639 \u0627\u0644\u0646\u0648\u0628\u0627\u0646\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Zeid al-Sharqiya"
+    ],
+    "name:nno_x_preferred":[
+        "Bani Zeid al-Sharqiya"
+    ],
+    "name:unk_x_variant":[
+        "Maz\u0101ri\u2018 en N\u016bb\u0101n\u012b"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":282783,
+    "qs_pg:gn_pop":5015,
+    "qs_pg:name":"Ban\u012b Zayd ash Sh\u0101rq\u012byah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":79895,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282783,
+        "qs_pg:id":79895,
+        "wd:id":"Q4855732"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292844,
+    "wof:geomhash":"cbbbfa35e696a90cb0a22be6634f0144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838915,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838915,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125838915,
+    "wof:lastmodified":1549929751,
+    "wof:name":"Ban\u012b Zayd ash Sh\u0101rq\u012byah",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":5015,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16593,
+    32.04935,
+    35.16593,
+    32.04935
+],
+  "geometry": {"coordinates":[35.16593,32.04935],"type":"Point"}
+}

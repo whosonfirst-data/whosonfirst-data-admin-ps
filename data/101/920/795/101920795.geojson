@@ -1,0 +1,93 @@
+{
+  "id": 101920795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7252.784811,
+    "geom:bbox":"35.3885192871,32.4866104126,35.3895797729,32.4874572754",
+    "geom:latitude":32.486975,
+    "geom:longitude":35.389038,
+    "iso:country":"PS",
+    "lbl:latitude":32.486979,
+    "lbl:longitude":35.389048,
+    "mps:latitude":32.486979,
+    "mps:longitude":35.389048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0623\u0628\u0648 \u0639\u0646\u0642\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Ab\u016b \u2018Anqar"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Abu 'Anqar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900429,
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d9fc074b6442c0cd8a26135470096130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920795,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920795,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920795,
+    "wof:lastmodified":1549929860,
+    "wof:name":"Khirbet Abu 'Anqar",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38851928710938,
+    32.48661041259766,
+    35.38957977294922,
+    32.48745727539062
+],
+  "geometry": {"coordinates":[[[35.38851928710938,32.48661041259766],[35.38851928710938,32.48714065551758],[35.38914489746094,32.48745727539062],[35.38957977294922,32.48713684082031],[35.38957977294922,32.48676681518555],[35.38914489746094,32.48661041259766],[35.38851928710938,32.48661041259766]]],"type":"Polygon"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101921843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000013,
+    "geom:area_square_m":136714.5874,
+    "geom:bbox":"35.1173057556,31.9709758759,35.1249160767,31.975358963",
+    "geom:latitude":31.972818,
+    "geom:longitude":35.121902,
+    "gn:population":2978,
+    "iso:country":"PS",
+    "lbl:latitude":31.973706,
+    "lbl:longitude":35.122911,
+    "mps:latitude":31.973706,
+    "mps:longitude":35.122911,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u0644\u0644\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Beitillu"
+    ],
+    "name:eng_x_preferred":[
+        "Beitillu"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beitillu",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284330,
+        "gp:id":1937180,
+        "qs:id":123985,
+        "wd:id":"Q4881490",
+        "wk:page":"Beitillu"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"60221422a6dc91aa183f977fbcf0150c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921843,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921843,
+    "wof:lastmodified":1534985976,
+    "wof:name":"Beitillu",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":2978,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613413
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11730575561523,
+    31.97097587585449,
+    35.12491607666016,
+    31.9753589630127
+],
+  "geometry": {"coordinates":[[[35.11730575561523,31.97198486328125],[35.11869049072266,31.97215461730957],[35.12086486816406,31.97240829467773],[35.12205123901367,31.9726619720459],[35.12145614624023,31.97409439086914],[35.12204742431641,31.9753589630127],[35.12372970581055,31.97468757629395],[35.12491607666016,31.97384452819824],[35.12412643432617,31.97283363342285],[35.12472152709961,31.9719066619873],[35.12323760986328,31.97182083129883],[35.12205123901367,31.97139930725098],[35.12086486816406,31.97156715393066],[35.11918640136719,31.97097587585449],[35.11760330200195,31.97131156921387],[35.11730575561523,31.97198486328125]]],"type":"Polygon"}
+}

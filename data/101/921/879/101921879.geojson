@@ -1,0 +1,106 @@
+{
+  "id": 101921879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000005,
+    "geom:area_square_m":52692.351201,
+    "geom:bbox":"35.211643219,31.9568195343,35.2158889771,31.9590015411",
+    "geom:latitude":31.957847,
+    "geom:longitude":35.21378,
+    "gn:population":1693,
+    "iso:country":"PS",
+    "lbl:latitude":31.957896,
+    "lbl:longitude":35.213779,
+    "mps:latitude":31.957896,
+    "mps:longitude":35.213779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "Jifn\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0641\u0646\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Jifna"
+    ],
+    "name:eng_x_preferred":[
+        "Jifna"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05e4\u05e0\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Jifna"
+    ],
+    "name:unk_x_variant":[
+        "Jifn\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jifna",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283464,
+        "gp:id":56123353,
+        "wd:id":"Q6192257",
+        "wk:page":"Jifna"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"43ea890c2f1ceb5c33edf102cc4c7e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921879,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921879,
+    "wof:lastmodified":1534985973,
+    "wof:name":"Jifna",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1693,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613355
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21164321899414,
+    31.95681953430176,
+    35.21588897705078,
+    31.9590015411377
+],
+  "geometry": {"coordinates":[[[35.21588897705078,31.95723724365234],[35.21567153930664,31.95681953430176],[35.21332931518555,31.95714378356934],[35.21164321899414,31.95793342590332],[35.21278381347656,31.9590015411377],[35.21452713012695,31.9584903717041],[35.21588897705078,31.95723724365234]]],"type":"Polygon"}
+}

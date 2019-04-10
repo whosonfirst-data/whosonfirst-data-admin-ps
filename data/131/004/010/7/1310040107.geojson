@@ -1,0 +1,67 @@
+{
+  "id": 1310040107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98333,32.08333,34.98333,32.08333",
+    "geom:latitude":32.08333,
+    "geom:longitude":34.98333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Mazor Atiqa",
+    "gn:country_code":"PS",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282779,
+    "gn:latitude":32.08333,
+    "gn:longitude":34.98333,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Mazor Atiqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282779
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4ab750fd8daaa3fe6dbf8c4acdc9dee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":1310040107,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1310040107,
+    "wof:lastmodified":1549930304,
+    "wof:name":"Mazor Atiqa",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98333,
+    32.08333,
+    34.98333,
+    32.08333
+],
+  "geometry": {"coordinates":[34.98333,32.08333],"type":"Point"}
+}

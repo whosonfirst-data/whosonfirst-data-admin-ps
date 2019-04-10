@@ -1,0 +1,86 @@
+{
+  "id": 101921091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":90524.981736,
+    "geom:bbox":"35.3379669189,32.3700027466,35.3433952332,32.3735046387",
+    "geom:latitude":32.371876,
+    "geom:longitude":35.340732,
+    "iso:country":"PS",
+    "lbl:latitude":32.371679,
+    "lbl:longitude":35.340773,
+    "mps:latitude":32.371679,
+    "mps:longitude":35.340773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Kufeir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937297
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6a186a646fc6a86837bc416a260070c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921091,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921091,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921091,
+    "wof:lastmodified":1549929799,
+    "wof:name":"Al Kufeir",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33796691894531,
+    32.37000274658203,
+    35.3433952331543,
+    32.37350463867188
+],
+  "geometry": {"coordinates":[[[35.33967590332031,32.37231063842773],[35.33796691894531,32.37299346923828],[35.33917236328125,32.37350463867188],[35.34078216552734,32.37298965454102],[35.34218978881836,32.37256240844727],[35.3433952331543,32.37247848510742],[35.34188461303711,32.37076950073242],[35.34097671508789,32.37000274658203],[35.33916854858398,32.37102890014648],[35.33967590332031,32.37231063842773]]],"type":"Polygon"}
+}

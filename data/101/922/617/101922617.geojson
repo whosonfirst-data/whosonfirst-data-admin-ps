@@ -1,0 +1,108 @@
+{
+  "id": 101922617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":24526.397765,
+    "geom:bbox":"35.0133209229,31.6127281189,35.0150566101,31.6149024963",
+    "geom:latitude":31.613977,
+    "geom:longitude":35.01429,
+    "gn:population":878,
+    "iso:country":"PS",
+    "lbl:latitude":31.61408,
+    "lbl:longitude":35.01436,
+    "mps:latitude":31.61408,
+    "mps:longitude":35.01436,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u062a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Hatta"
+    ],
+    "name:pol_x_preferred":[
+        "Hatta"
+    ],
+    "name:swe_x_preferred":[
+        "Hitta.se"
+    ],
+    "name:unk_x_variant":[
+        "\u1e28att\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hitta",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":345,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890747,
+        "gp:id":56123330,
+        "wd:id":"Q4166544"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"822db2415031a962ddc5c4b9df7d0527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922617,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922617,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922617,
+    "wof:lastmodified":1549929832,
+    "wof:name":"Hitta",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":878,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01332092285156,
+    31.61272811889648,
+    35.01505661010742,
+    31.61490249633789
+],
+  "geometry": {"coordinates":[[[35.0141487121582,31.6132640838623],[35.01393508911133,31.61363792419434],[35.01362609863281,31.61382865905762],[35.01332092285156,31.61409187316895],[35.01333236694336,31.61428451538086],[35.01337814331055,31.6145076751709],[35.01362609863281,31.61481094360352],[35.01376724243164,31.61490249633789],[35.0140495300293,31.61488914489746],[35.01415634155273,31.61488342285156],[35.0143928527832,31.61477088928223],[35.0145149230957,31.61471176147461],[35.01479339599609,31.61457252502441],[35.0148811340332,31.61453056335449],[35.0149040222168,31.6145076751709],[35.01505661010742,31.61435890197754],[35.01505661010742,31.61417579650879],[35.01501083374023,31.6138916015625],[35.01495361328125,31.61354827880859],[35.01494216918945,31.61311340332031],[35.01477813720703,31.61272811889648],[35.01451873779297,31.61274719238281],[35.01444625854492,31.61289978027344],[35.01435089111328,31.61309242248535],[35.0141487121582,31.6132640838623]]],"type":"Polygon"}
+}

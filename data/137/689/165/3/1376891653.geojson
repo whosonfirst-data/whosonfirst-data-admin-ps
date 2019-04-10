@@ -1,0 +1,83 @@
+{
+  "id": 1376891653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.197335,31.744702,35.197335,31.744702",
+    "geom:latitude":31.744702,
+    "geom:longitude":35.197335,
+    "iso:country":"PS",
+    "lbl:latitude":31.744976,
+    "lbl:longitude":35.197599,
+    "mps:latitude":31.744976,
+    "mps:longitude":35.197599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Safafa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1615,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284305,
+        "gp:id":22724703,
+        "qs:id":989429,
+        "wd:id":"Q814904",
+        "wk:page":"Beit Safafa"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d005bbaa337dcba7736404f3e3a2019b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":1376891653,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1376891653,
+    "wof:lastmodified":1549931455,
+    "wof:name":"Beit Safafa",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101922293,
+        101922303,
+        101922305
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.197335,
+    31.744702,
+    35.197335,
+    31.744702
+],
+  "geometry": {"coordinates":[35.197335,31.744702],"type":"Point"}
+}

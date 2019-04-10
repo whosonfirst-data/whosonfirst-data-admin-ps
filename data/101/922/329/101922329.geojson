@@ -1,0 +1,105 @@
+{
+  "id": 101922329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":84605.753421,
+    "geom:bbox":"35.2378921509,31.7230739594,35.2406768799,31.7286682129",
+    "geom:latitude":31.725958,
+    "geom:longitude":35.239186,
+    "iso:country":"PS",
+    "lbl:latitude":31.725681,
+    "lbl:longitude":35.239323,
+    "mps:latitude":31.725681,
+    "mps:longitude":35.239323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0637\u0648\u0628\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Umm \u0162\u016bb\u0101"
+    ],
+    "name:ces_x_preferred":[
+        "Umm Tuba"
+    ],
+    "name:cze_x_preferred":[
+        "Umm Tuba"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Tuba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0637\u0648\u0628\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dd \u05d8\u05d5\u05d1\u05d0"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645 \u0637\u0648\u0628\u06cc"
+    ],
+    "name:unk_x_variant":[
+        "Umm \u0162\u016bb\u00e1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm Tuba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1156,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283075,
+        "wd:id":"Q2897524",
+        "wk:page":"Umm Tuba"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2a734dd3f4738e06379b98e1621243e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922329,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922329,
+    "wof:lastmodified":1549931442,
+    "wof:name":"Umm Tuba",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891681
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23789215087891,
+    31.72307395935059,
+    35.24067687988281,
+    31.72866821289062
+],
+  "geometry": {"coordinates":[[[35.23841094970703,31.72407150268555],[35.23847579956055,31.72512435913086],[35.23854064941406,31.72573280334473],[35.23834609985352,31.72695159912109],[35.23789215087891,31.72800445556641],[35.23841094970703,31.72855758666992],[35.23892974853516,31.72866821289062],[35.23931884765625,31.72850227355957],[35.23957824707031,31.72828102111816],[35.23996734619141,31.72783660888672],[35.23944854736328,31.72722816467285],[35.23970794677734,31.72650909423828],[35.24009323120117,31.72600936889648],[35.24015808105469,31.72512245178223],[35.24067687988281,31.72479057312012],[35.24048233032227,31.72429275512695],[35.23989868164062,31.7240161895752],[35.23950958251953,31.72307395935059],[35.23841094970703,31.72407150268555]]],"type":"Polygon"}
+}

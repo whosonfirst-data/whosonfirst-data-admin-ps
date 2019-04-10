@@ -1,0 +1,116 @@
+{
+  "id": 101921917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":275163.283648,
+    "geom:bbox":"35.0998420715,31.940202713,35.1129875183,31.9439964294",
+    "geom:latitude":31.942078,
+    "geom:longitude":35.105949,
+    "gn:population":1641,
+    "iso:country":"PS",
+    "lbl:latitude":31.942389,
+    "lbl:longitude":35.106049,
+    "mps:latitude":31.942389,
+    "mps:longitude":35.106049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0643\u0631\u0643\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0627\u0633 \u0643\u0631\u0643\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Ras Karkar"
+    ],
+    "name:eng_x_preferred":[
+        "Ras Karkar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e1 \u05db\u05e8\u05db\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Ras Karkar"
+    ],
+    "name:unk_x_variant":[
+        "R\u0101s Karkar"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ras Karkar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1019,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282185,
+        "gp:id":1937180,
+        "qs:id":79883,
+        "wd:id":"Q2903530",
+        "wk:page":"Ras Karkar"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d66555f2061f2ae29586baf949bfeb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921917,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921917,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921917,
+    "wof:lastmodified":1549929875,
+    "wof:name":"Ras Karkar",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1641,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0998420715332,
+    31.9402027130127,
+    35.11298751831055,
+    31.94399642944336
+],
+  "geometry": {"coordinates":[[[35.0998420715332,31.94120788574219],[35.10033798217773,31.94264221191406],[35.10241317749023,31.94264221191406],[35.10171890258789,31.94382286071777],[35.10369491577148,31.94390869140625],[35.10586929321289,31.94374084472656],[35.10754776000977,31.94399642944336],[35.10755157470703,31.94289970397949],[35.10814666748047,31.9418888092041],[35.11081314086914,31.94239807128906],[35.11209869384766,31.94239807128906],[35.11298751831055,31.94164085388184],[35.11190032958984,31.94113349914551],[35.11071395874023,31.94104957580566],[35.10982513427734,31.94037437438965],[35.10794830322266,31.9402027130127],[35.10676193237305,31.94096183776855],[35.10429000854492,31.94112777709961],[35.10300827026367,31.94112586975098],[35.10122680664062,31.94120979309082],[35.0998420715332,31.94120788574219]]],"type":"Polygon"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 101921729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":103038.124156,
+    "geom:bbox":"35.1735191345,32.0599212646,35.1787223816,32.0640182495",
+    "geom:latitude":32.062094,
+    "geom:longitude":35.176275,
+    "gn:population":224,
+    "iso:country":"PS",
+    "lbl:latitude":32.061749,
+    "lbl:longitude":35.177181,
+    "mps:latitude":32.061749,
+    "mps:longitude":35.177181,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0642\u064a\u0633"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Qeis"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Qeis",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283097,
+        "gp:id":1937300,
+        "qs:id":547038
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a1bad9b945900053b2327e169423a027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921729,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921729,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921729,
+    "wof:lastmodified":1549929844,
+    "wof:name":"Khirbet Qeis",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:population":224,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17351913452148,
+    32.05992126464844,
+    35.1787223815918,
+    32.06401824951172
+],
+  "geometry": {"coordinates":[[[35.176513671875,32.06361770629883],[35.17667388916016,32.0628776550293],[35.17753982543945,32.06294631958008],[35.1787223815918,32.06180191040039],[35.17817306518555,32.06072998046875],[35.17683029174805,32.06052780151367],[35.17557144165039,32.05992126464844],[35.17580795288086,32.06079483032227],[35.1762809753418,32.06113052368164],[35.17596435546875,32.0615348815918],[35.1749382019043,32.06159973144531],[35.17351913452148,32.0628776550293],[35.17359924316406,32.06341552734375],[35.17486190795898,32.06321334838867],[35.17620086669922,32.06401824951172],[35.176513671875,32.06361770629883]]],"type":"Polygon"}
+}

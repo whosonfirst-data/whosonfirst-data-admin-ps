@@ -1,0 +1,174 @@
+{
+  "id": 101919649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":54171.988118,
+    "geom:bbox":"34.5384216309,31.5365467072,34.5434074402,31.5394229889",
+    "geom:latitude":31.537911,
+    "geom:longitude":34.540857,
+    "gn:population":37392,
+    "iso:country":"PS",
+    "lbl:latitude":31.538019,
+    "lbl:longitude":34.540688,
+    "mps:latitude":31.538019,
+    "mps:longitude":34.540688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062d\u0627\u0646\u0648\u0646"
+    ],
+    "name:baq_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:chi_x_preferred":[
+        "\u62dc\u7279\u54c8\u519c"
+    ],
+    "name:cze_x_preferred":[
+        "Bajt Han\u00fan"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:epo_x_preferred":[
+        "Bait Hanun"
+    ],
+    "name:fin_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:fre_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:ger_x_preferred":[
+        "Beit Hanun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d7\u05d0\u05e0\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Beit Hanun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a4\u30c8\u30fb\u30cf\u30cc\u30fc\u30f3"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:oci_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a\u200c\u062d\u0627\u0646\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Hanun"
+    ],
+    "name:por_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0425\u0430\u043d\u0443\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:spa_x_preferred":[
+        "Bait Hanun"
+    ],
+    "name:swe_x_preferred":[
+        "Beit Hanun"
+    ],
+    "name:tur_x_preferred":[
+        "Beyt Hanun"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u062d\u0627\u0646\u0648\u0646"
+    ],
+    "name:wel_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Hanun",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.541453,
+    "wd:longitude":34.536278,
+    "wd:wordcount":1587,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913267,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281146,
+        "gp:id":1979608,
+        "wd:id":"Q74176",
+        "wk:page":"Beit Hanoun"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f0dbdf82fe68fe303400c9d612e38ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919649,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919649,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101919649,
+    "wof:lastmodified":1549928916,
+    "wof:name":"Beit Hanun",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:population":37392,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.53842163085938,
+    31.53654670715332,
+    34.54340744018555,
+    31.5394229888916
+],
+  "geometry": {"coordinates":[[[34.54279708862305,31.53654670715332],[34.54256820678711,31.53663063049316],[34.5422477722168,31.53678703308105],[34.54190063476562,31.53694534301758],[34.54165267944336,31.53707122802734],[34.5414924621582,31.53712844848633],[34.54128265380859,31.53724098205566],[34.54109191894531,31.53727149963379],[34.54080200195312,31.53736877441406],[34.54047393798828,31.53746604919434],[34.54029083251953,31.53749656677246],[34.5400276184082,31.53760147094727],[34.53960037231445,31.53777313232422],[34.53936767578125,31.53783226013184],[34.5391731262207,31.53789329528809],[34.53884124755859,31.53800964355469],[34.53859710693359,31.53809547424316],[34.53842163085938,31.53820610046387],[34.5385627746582,31.53834342956543],[34.53867721557617,31.53849220275879],[34.53889083862305,31.53865242004395],[34.53910064697266,31.53890228271484],[34.53934860229492,31.53908920288086],[34.53964614868164,31.5394229888916],[34.53975677490234,31.53909111022949],[34.53995895385742,31.53901481628418],[34.54013442993164,31.53890419006348],[34.54043579101562,31.53878974914551],[34.54067993164062,31.53863716125488],[34.54104614257812,31.53855133056641],[34.54127883911133,31.538330078125],[34.54169464111328,31.53812789916992],[34.54190826416016,31.53800773620605],[34.5421028137207,31.53789138793945],[34.54233169555664,31.53778266906738],[34.54253005981445,31.53769493103027],[34.54278182983398,31.53762435913086],[34.54299545288086,31.53755760192871],[34.54326629638672,31.53749847412109],[34.54340744018555,31.53740310668945],[34.54335784912109,31.53733444213867],[34.54329299926758,31.5372486114502],[34.54323959350586,31.53714370727539],[34.54320907592773,31.53711128234863],[34.54314041137695,31.53702926635742],[34.54310607910156,31.5369987487793],[34.54306411743164,31.53694343566895],[34.54302215576172,31.53688430786133],[34.54298400878906,31.53678512573242],[34.54294586181641,31.53673553466797],[34.54282760620117,31.53658676147461],[34.54279708862305,31.53654670715332]]],"type":"Polygon"}
+}

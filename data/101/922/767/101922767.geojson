@@ -1,0 +1,93 @@
+{
+  "id": 101922767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":31809.149575,
+    "geom:bbox":"35.0363121033,31.5122108459,35.0392684937,31.514087677",
+    "geom:latitude":31.513217,
+    "geom:longitude":35.037885,
+    "iso:country":"PS",
+    "lbl:latitude":31.513401,
+    "lbl:longitude":35.03811,
+    "mps:latitude":31.513401,
+    "mps:longitude":35.03811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0641\u0627\u062f\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Raf\u0101dah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rafada",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891963,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f06214c800bcd29c28ca21a92f568289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922767,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922767,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922767,
+    "wof:lastmodified":1549929849,
+    "wof:name":"Rafada",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03631210327148,
+    31.51221084594727,
+    35.03926849365234,
+    31.51408767700195
+],
+  "geometry": {"coordinates":[[[35.03714370727539,31.51294898986816],[35.03631210327148,31.51288986206055],[35.03654479980469,31.51351737976074],[35.03744125366211,31.51408767700195],[35.03826904296875,31.51408767700195],[35.03863525390625,31.51374816894531],[35.03880310058594,31.51300811767578],[35.03926849365234,31.51258087158203],[35.03903961181641,31.51223945617676],[35.0384407043457,31.51221084594727],[35.03804016113281,31.51249504089355],[35.03763961791992,31.51292037963867],[35.03763961791992,31.51303482055664],[35.03714370727539,31.51294898986816]]],"type":"Polygon"}
+}

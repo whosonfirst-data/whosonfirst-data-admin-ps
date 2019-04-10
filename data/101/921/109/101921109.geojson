@@ -1,0 +1,92 @@
+{
+  "id": 101921109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":35663.426395,
+    "geom:bbox":"35.1697807312,32.3564491272,35.1736030579,32.3586120605",
+    "geom:latitude":32.357715,
+    "geom:longitude":35.171354,
+    "gn:population":953,
+    "iso:country":"PS",
+    "lbl:latitude":32.357447,
+    "lbl:longitude":35.170905,
+    "mps:latitude":32.357447,
+    "mps:longitude":35.170905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ar Rama",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284889,
+        "gp:id":1937300,
+        "qs:id":79959
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e19884eafc26cb9ad89a64962be5d905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921109,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921109,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921109,
+    "wof:lastmodified":1549929791,
+    "wof:name":"Ar Rama",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":953,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16978073120117,
+    32.35644912719727,
+    35.17360305786133,
+    32.35861206054688
+],
+  "geometry": {"coordinates":[[[35.16978073120117,32.35703659057617],[35.17047500610352,32.3580207824707],[35.17151641845703,32.35861206054688],[35.17360305786133,32.35861206054688],[35.17163467407227,32.35752868652344],[35.17140197753906,32.35644912719727],[35.16978073120117,32.35703659057617]]],"type":"Polygon"}
+}

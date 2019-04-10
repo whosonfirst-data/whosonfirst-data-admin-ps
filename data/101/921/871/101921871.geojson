@@ -1,0 +1,112 @@
+{
+  "id": 101921871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":912144.377151,
+    "geom:bbox":"35.2815055847,31.9597129822,35.3019561768,31.9726657867",
+    "geom:latitude":31.96546,
+    "geom:longitude":35.291868,
+    "gn:population":4156,
+    "iso:country":"PS",
+    "lbl:latitude":31.965651,
+    "lbl:longitude":35.291714,
+    "mps:latitude":31.965651,
+    "mps:longitude":35.291714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u062c\u0631\u064a\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Deir Jarir"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Jarir"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Jarir"
+    ],
+    "name:unk_x_variant":[
+        "Dayr Jar\u012br"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Jarir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.964444,
+    "wd:longitude":35.295833,
+    "wd:wordcount":940,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284069,
+        "gp:id":1937300,
+        "qs:id":274797,
+        "wd:id":"Q5252515",
+        "wk:page":"Deir Jarir"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"45400c9bb6fc719b48f3fdbd8234d2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921871,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921871,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921871,
+    "wof:lastmodified":1549929877,
+    "wof:name":"Deir Jarir",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":4156,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2815055847168,
+    31.95971298217773,
+    35.30195617675781,
+    31.97266578674316
+],
+  "geometry": {"coordinates":[[[35.28315353393555,31.96844482421875],[35.2815055847168,31.96957206726074],[35.28166961669922,31.97097778320312],[35.28266143798828,31.97266578674316],[35.28480529785156,31.97196197509766],[35.28612518310547,31.97083473205566],[35.28793716430664,31.96942710876465],[35.28909301757812,31.96914482116699],[35.29272079467773,31.96829986572266],[35.29404067993164,31.968017578125],[35.29420471191406,31.96576690673828],[35.29734039306641,31.96492004394531],[35.29882431030273,31.96365356445312],[35.30179214477539,31.96252632141113],[35.30195617675781,31.96083831787109],[35.29997634887695,31.96041679382324],[35.29865646362305,31.96126174926758],[35.29832458496094,31.95971488952637],[35.29832458496094,31.95971298217773],[35.29784393310547,31.95998001098633],[35.29547500610352,31.96000289916992],[35.2947883605957,31.95989418029785],[35.29436492919922,31.96056175231934],[35.29271697998047,31.96126556396484],[35.29024124145508,31.96267509460449],[35.28958511352539,31.9642219543457],[35.28826522827148,31.96689605712891],[35.28645324707031,31.96759986877441],[35.28414154052734,31.96830368041992],[35.28315353393555,31.96844482421875]]],"type":"Polygon"}
+}

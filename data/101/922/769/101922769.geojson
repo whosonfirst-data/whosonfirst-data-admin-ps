@@ -1,0 +1,131 @@
+{
+  "id": 101922769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":202511.185029,
+    "geom:bbox":"35.1272315979,31.5097332001,35.1332511902,31.516708374",
+    "geom:latitude":31.513649,
+    "geom:longitude":35.13059,
+    "iso:country":"PS",
+    "lbl:latitude":31.513105,
+    "lbl:longitude":35.131388,
+    "mps:latitude":31.513105,
+    "mps:longitude":35.131388,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0646\u0639\u064a\u0645"
+    ],
+    "name:cat_x_preferred":[
+        "Bani Na'im"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u5c3c\u90a3\u4f9d\u59c6"
+    ],
+    "name:dut_x_preferred":[
+        "Bani Na'im"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Na'im"
+    ],
+    "name:fre_x_preferred":[
+        "Bani Na'im"
+    ],
+    "name:ger_x_preferred":[
+        "Bani Na'im"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d9 \u05e0\u05e2\u05d9\u05dd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30cb\u30fb\u30ca\u30fc\u30a4\u30e0"
+    ],
+    "name:nno_x_preferred":[
+        "Bani Na'im"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0646\u06cc \u0646\u0639\u06cc\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Bani Naim"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u06cc \u0646\u0639\u06cc\u0645"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bani Na'im",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.516111,
+    "wd:longitude":35.164167,
+    "wd:wordcount":3734,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870434,
+        "gp:id":1937307,
+        "wd:id":"Q2918596",
+        "wk:page":"Bani Na'im"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5bb1ffbbb75d147e56468f36b34a228d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922769,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922769,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922769,
+    "wof:lastmodified":1549929851,
+    "wof:name":"Bani Na'im",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12723159790039,
+    31.50973320007324,
+    35.13325119018555,
+    31.51670837402344
+],
+  "geometry": {"coordinates":[[[35.12723159790039,31.51519012451172],[35.12723159790039,31.51579666137695],[35.12829971313477,31.51569557189941],[35.12882232666016,31.51564598083496],[35.12944412231445,31.5161018371582],[35.13032531738281,31.51670837402344],[35.13130187988281,31.51640510559082],[35.13165664672852,31.51549530029297],[35.13174438476562,31.51466178894043],[35.13209915161133,31.51435852050781],[35.13280487060547,31.51413154602051],[35.13298416137695,31.51360130310059],[35.13315963745117,31.51307106018066],[35.13325119018555,31.51216125488281],[35.13209915161133,31.51155471801758],[35.1318244934082,31.51117134094238],[35.13121795654297,31.51033973693848],[35.12980270385742,31.50973320007324],[35.12953567504883,31.51056671142578],[35.13042068481445,31.51124954223633],[35.13037109375,31.51148986816406],[35.13024139404297,31.51215934753418],[35.12962341308594,31.51352310180664],[35.12884521484375,31.51388931274414],[35.12784957885742,31.51435661315918],[35.12723159790039,31.51519012451172]]],"type":"Polygon"}
+}

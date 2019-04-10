@@ -1,0 +1,78 @@
+{
+  "id": 101922369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":22.34829,
+    "geom:bbox":"35.2022094727,31.7133789062,35.202293396,31.7134742737",
+    "geom:latitude":31.713413,
+    "geom:longitude":35.202254,
+    "iso:country":"PS",
+    "lbl:latitude":31.71234,
+    "lbl:longitude":35.201063,
+    "mps:latitude":31.71234,
+    "mps:longitude":35.201063,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al 'Aza Camp",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1936768
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"89c857f03fbd2c0a6f1b9f4146baa237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "empire_id":136253049,
+            "locality_id":101922369,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922369,
+    "wof:lastmodified":1534985977,
+    "wof:name":"Al 'Aza Camp",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613437
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20220947265625,
+    31.71337890625,
+    35.20229339599609,
+    31.71347427368164
+],
+  "geometry": {"coordinates":[[[35.20229339599609,31.71347427368164],[35.2022590637207,31.7133846282959],[35.20220947265625,31.71337890625],[35.20229339599609,31.71347427368164]]],"type":"Polygon"}
+}

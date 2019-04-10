@@ -1,0 +1,117 @@
+{
+  "id": 1125825071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97748,32.16523,34.97748,32.16523",
+    "geom:latitude":32.16523,
+    "geom:longitude":34.97748,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5945,
+    "gn:population":5945,
+    "iso:country":"PS",
+    "lbl:latitude":32.16523,
+    "lbl:longitude":34.97748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u0644\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Hableh"
+    ],
+    "name:eng_x_preferred":[
+        "Hableh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d1\u05dc\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Hableh"
+    ],
+    "name:pol_x_preferred":[
+        "Habla"
+    ],
+    "name:unk_x_variant":[
+        "Habla"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0628\u0644\u06d2"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283843,
+    "qs_pg:gn_pop":5945,
+    "qs_pg:name":"\u1e28ablah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":123963,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283843,
+        "qs_pg:id":123963,
+        "wd:id":"Q2917125"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292239,
+    "wof:geomhash":"c3ee8d20c955a3f51a5924e34050d464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125825071,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125825071,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125825071,
+    "wof:lastmodified":1549929735,
+    "wof:name":"\u1e28ablah",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":5945,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97748,
+    32.16523,
+    34.97748,
+    32.16523
+],
+  "geometry": {"coordinates":[34.97748,32.16523],"type":"Point"}
+}

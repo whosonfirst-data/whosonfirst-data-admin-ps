@@ -1,0 +1,114 @@
+{
+  "id": 1125824793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18418,32.31934,35.18418,32.31934",
+    "geom:latitude":32.31934,
+    "geom:longitude":35.18418,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6079,
+    "gn:population":6079,
+    "iso:country":"PS",
+    "lbl:latitude":32.31934,
+    "lbl:longitude":35.18418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u0629 \u0627\u0644\u0638\u0647\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Silat ad-Dhahr"
+    ],
+    "name:dut_x_preferred":[
+        "Silat ad-Dhahr"
+    ],
+    "name:eng_x_preferred":[
+        "Silat ad-Dhahr"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05dc\u05ea \u05d0-\u05d3'\u05d0\u05d4\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Silat ad-Dhahr"
+    ],
+    "name:unk_x_variant":[
+        "Saylat a\u1e11 \u1e10ahr"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281790,
+    "qs_pg:gn_pop":6079,
+    "qs_pg:name":"S\u012blat az\u0327 Z\u0327ahr",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":123913,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281790,
+        "qs_pg:id":123913,
+        "wd:id":"Q2898957"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292227,
+    "wof:geomhash":"3b36db92d067715dca37e8a4016f2694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824793,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824793,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125824793,
+    "wof:lastmodified":1549929727,
+    "wof:name":"S\u012blat az\u0327 Z\u0327ahr",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":6079,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18418,
+    32.31934,
+    35.18418,
+    32.31934
+],
+  "geometry": {"coordinates":[35.18418,32.31934],"type":"Point"}
+}

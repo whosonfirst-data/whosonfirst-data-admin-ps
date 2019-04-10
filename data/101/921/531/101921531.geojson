@@ -1,0 +1,115 @@
+{
+  "id": 101921531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":89383.841685,
+    "geom:bbox":"35.3436126709,32.1568260193,35.3480491638,32.1616477966",
+    "geom:latitude":32.15918,
+    "geom:longitude":35.345825,
+    "gn:population":101,
+    "iso:country":"PS",
+    "lbl:latitude":32.1592,
+    "lbl:longitude":35.345792,
+    "mps:latitude":32.1592,
+    "mps:longitude":35.345792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Y\u0101n\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "\u064a\u0627\u0646\u0648\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Yanun"
+    ],
+    "name:dut_x_preferred":[
+        "Yanun"
+    ],
+    "name:eng_x_preferred":[
+        "Yanun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05e0\u05d5\u05df"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Yanun",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.145436,
+    "wd:longitude":35.355683,
+    "wd:wordcount":3886,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281307,
+        "gp:id":56123299,
+        "qs:id":79863,
+        "wd:id":"Q8048992",
+        "wk:page":"Yanun"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6a48c41fc6cb1d242fddc1e6846224cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921531,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921531,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921531,
+    "wof:lastmodified":1549929825,
+    "wof:name":"Yanun",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34361267089844,
+    32.15682601928711,
+    35.34804916381836,
+    32.16164779663086
+],
+  "geometry": {"coordinates":[[[35.34361267089844,32.1575813293457],[35.34574508666992,32.16059494018555],[35.34645462036133,32.16164779663086],[35.34804916381836,32.16059112548828],[35.34645080566406,32.15878295898438],[35.34556198120117,32.15682601928711],[35.34361267089844,32.1575813293457]]],"type":"Polygon"}
+}

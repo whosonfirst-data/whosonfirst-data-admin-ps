@@ -1,0 +1,116 @@
+{
+  "id": 101921581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":47939.484258,
+    "geom:bbox":"35.2187309265,32.1341781616,35.2210464478,32.1377563477",
+    "geom:latitude":32.135817,
+    "geom:longitude":35.219849,
+    "iso:country":"PS",
+    "lbl:latitude":32.135637,
+    "lbl:longitude":35.219832,
+    "mps:latitude":32.135637,
+    "mps:longitude":35.219832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u0627\u0639\u064a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Jamma'in"
+    ],
+    "name:eng_x_preferred":[
+        "Jamma'in"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05de\u05d0\u05e2\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Jammain"
+    ],
+    "name:nob_x_preferred":[
+        "Jammain"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u043c\u0430\u0438\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0639\u0627\u0646"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jamma'in",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":32.131111,
+    "wd:longitude":35.200833,
+    "wd:wordcount":1655,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870664,
+        "gp:id":1937300,
+        "wd:id":"Q2896581",
+        "wk:page":"Jamma'in"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c31e2a1f148be20c30f7895800681c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921581,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921581,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921581,
+    "wof:lastmodified":1549929830,
+    "wof:name":"Jamma'in",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21873092651367,
+    32.13417816162109,
+    35.22104644775391,
+    32.13775634765625
+],
+  "geometry": {"coordinates":[[[35.21981048583984,32.13417816162109],[35.21963119506836,32.134765625],[35.21907424926758,32.13516616821289],[35.21902847290039,32.13582229614258],[35.21894454956055,32.13615036010742],[35.21873092651367,32.13644409179688],[35.21881484985352,32.13698959350586],[35.21920013427734,32.13710021972656],[35.21924591064453,32.13764953613281],[35.21954345703125,32.13775634765625],[35.22001647949219,32.13735580444336],[35.21984481811523,32.13673400878906],[35.22027206420898,32.13655471801758],[35.22057342529297,32.13593292236328],[35.22104644775391,32.13534927368164],[35.22104644775391,32.134765625],[35.22057342529297,32.13436126708984],[35.21981048583984,32.13417816162109]]],"type":"Polygon"}
+}

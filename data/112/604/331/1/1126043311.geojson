@@ -1,0 +1,101 @@
+{
+  "id": 1126043311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33061,31.29278,34.33061,31.29278",
+    "geom:latitude":31.29278,
+    "geom:longitude":34.33061,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5464,
+    "gn:population":5464,
+    "iso:country":"PS",
+    "lbl:latitude":31.29278,
+    "lbl:longitude":34.33061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u062e\u0627\u0631\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Al Fukhkh\u0101r\u012b"
+    ],
+    "name:unk_x_variant":[
+        "El Fukhkhari"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281160,
+    "qs_pg:gn_pop":5464,
+    "qs_pg:name":"Al Fukhkh\u0101r\u012b",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":547016,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281160,
+        "qs_pg:id":547016
+    },
+    "wof:country":"PS",
+    "wof:created":1497302285,
+    "wof:geomhash":"b0b67ac96ca106f1b42d4cae1d81f249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1126043311,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1126043311,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1126043311,
+    "wof:lastmodified":1549928935,
+    "wof:name":"Al Fukhkh\u0101r\u012b",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:population":5464,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33061,
+    31.29278,
+    34.33061,
+    31.29278
+],
+  "geometry": {"coordinates":[34.33061,31.29278],"type":"Point"}
+}

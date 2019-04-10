@@ -1,0 +1,129 @@
+{
+  "id": 101921833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":121789.80036,
+    "geom:bbox":"35.1988182068,31.9775238037,35.2078285217,31.9831237793",
+    "geom:latitude":31.980448,
+    "geom:longitude":35.203539,
+    "gn:population":6398,
+    "iso:country":"PS",
+    "lbl:latitude":31.980479,
+    "lbl:longitude":35.203539,
+    "mps:latitude":31.980479,
+    "mps:longitude":35.203539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u0632\u064a\u062a"
+    ],
+    "name:dut_x_preferred":[
+        "Bir Zeit"
+    ],
+    "name:eng_x_preferred":[
+        "Birzeit"
+    ],
+    "name:epo_x_preferred":[
+        "Bir Zeit"
+    ],
+    "name:fre_x_preferred":[
+        "Bir Zeit"
+    ],
+    "name:ger_x_preferred":[
+        "Bir Zait"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e8 \u05d6\u05d9\u05ea"
+    ],
+    "name:ita_x_preferred":[
+        "Bir Zeit"
+    ],
+    "name:nno_x_preferred":[
+        "Bir Zeit"
+    ],
+    "name:pol_x_preferred":[
+        "Bir Zajt"
+    ],
+    "name:spa_x_preferred":[
+        "Birzeit"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bir Zeit",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.972222,
+    "wd:longitude":35.195556,
+    "wd:wordcount":1349,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284237,
+        "gp:id":56123351,
+        "wd:id":"Q212381",
+        "wk:page":"Birzeit"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c8c47e031ade3e6d84585c5d65ba59a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921833,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921833,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921833,
+    "wof:lastmodified":1549929862,
+    "wof:name":"Bir Zeit",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":6398,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19881820678711,
+    31.97752380371094,
+    35.20782852172852,
+    31.98312377929688
+],
+  "geometry": {"coordinates":[[[35.1994743347168,31.98216438293457],[35.19881820678711,31.98312377929688],[35.20059967041016,31.98312377929688],[35.20163345336914,31.98224449157715],[35.20341873168945,31.9814453125],[35.20473098754883,31.98032379150391],[35.20613861083984,31.97960472106934],[35.20782852172852,31.97864532470703],[35.2067985534668,31.97752380371094],[35.20510864257812,31.9786434173584],[35.20304107666016,31.97992515563965],[35.20163345336914,31.98152542114258],[35.20013427734375,31.98160362243652],[35.1994743347168,31.98216438293457]]],"type":"Polygon"}
+}

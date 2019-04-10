@@ -1,0 +1,117 @@
+{
+  "id": 1126023973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34547,32.12495,35.34547,32.12495",
+    "geom:latitude":32.12495,
+    "geom:longitude":35.34547,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7707,
+    "gn:population":7707,
+    "iso:country":"PS",
+    "lbl:latitude":32.12495,
+    "lbl:longitude":35.34547,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u0631\u0628\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Aqraba"
+    ],
+    "name:dut_x_preferred":[
+        "Aqraba"
+    ],
+    "name:eng_x_preferred":[
+        "Aqraba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e7\u05e8\u05d1\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Aqraba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0440\u0430\u0431\u0430"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Aqraba"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284922,
+    "qs_pg:gn_pop":7707,
+    "qs_pg:name":"\u2018Aqrab\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":124004,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284922,
+        "qs_pg:id":124004,
+        "wd:id":"Q2918318"
+    },
+    "wof:country":"PS",
+    "wof:created":1497301010,
+    "wof:geomhash":"8fdbe268dfd566d27c8b958b6a2d153a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023973,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023973,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126023973,
+    "wof:lastmodified":1549929887,
+    "wof:name":"\u2018Aqrab\u0101",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":7707,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34547,
+    32.12495,
+    35.34547,
+    32.12495
+],
+  "geometry": {"coordinates":[35.34547,32.12495],"type":"Point"}
+}

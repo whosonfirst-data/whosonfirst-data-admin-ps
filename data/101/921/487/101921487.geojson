@@ -1,0 +1,115 @@
+{
+  "id": 101921487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":188692.16068,
+    "geom:bbox":"35.2465896606,32.181640625,35.2524757385,32.1862068176",
+    "geom:latitude":32.184098,
+    "geom:longitude":35.249361,
+    "gn:population":2500,
+    "iso:country":"PS",
+    "lbl:latitude":32.184301,
+    "lbl:longitude":35.248717,
+    "mps:latitude":32.184301,
+    "mps:longitude":35.248717,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "B\u016br\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u0631\u064a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Burin"
+    ],
+    "name:dut_x_preferred":[
+        "Burin"
+    ],
+    "name:eng_x_preferred":[
+        "Burin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Burin i Nablus"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Burin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":492,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284214,
+        "gp:id":1937300,
+        "qs:id":123977,
+        "wd:id":"Q2896916"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a5ef017309a24f81c5bdb9d3797bdfee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921487,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921487,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921487,
+    "wof:lastmodified":1549929820,
+    "wof:name":"Burin",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24658966064453,
+    32.181640625,
+    35.25247573852539,
+    32.18620681762695
+],
+  "geometry": {"coordinates":[[[35.2466926574707,32.18410110473633],[35.24710464477539,32.18620681762695],[35.24885940551758,32.18620681762695],[35.25040817260742,32.18524169921875],[35.25195693969727,32.18541717529297],[35.25247573852539,32.18436050415039],[35.25185394287109,32.1826057434082],[35.25164794921875,32.181640625],[35.25061416625977,32.18251800537109],[35.24958419799805,32.18286895751953],[35.24813842773438,32.18207931518555],[35.24658966064453,32.18295669555664],[35.2466926574707,32.18410110473633]]],"type":"Polygon"}
+}

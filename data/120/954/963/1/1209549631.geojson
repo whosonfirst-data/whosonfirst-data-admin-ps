@@ -1,0 +1,82 @@
+{
+  "id": 1209549631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29057,31.72328,35.29057,31.72328",
+    "geom:latitude":31.72328,
+    "geom:longitude":35.29057,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Al-Ubeidiya",
+    "gn:country_code":"PS",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870396,
+    "gn:latitude":31.72328,
+    "gn:longitude":35.29057,
+    "gn:modification_date":"2011-06-14",
+    "gn:name":"Al-Ubeidiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870396,
+        "wk:page":"Al-Ubeidiya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1fa607e6943e9fca853ced790a2738c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209549631,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209549631,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209549631,
+    "wof:lastmodified":1549929913,
+    "wof:name":"Al-Ubeidiya",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29057,
+    31.72328,
+    35.29057,
+    31.72328
+],
+  "geometry": {"coordinates":[35.29057,31.72328],"type":"Point"}
+}

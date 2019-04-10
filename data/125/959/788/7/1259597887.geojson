@@ -1,0 +1,87 @@
+{
+  "id": 1259597887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20897,31.68063,35.20897,31.68063",
+    "geom:latitude":31.68063,
+    "geom:longitude":35.20897,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khallat Hamad",
+    "gn:country_code":"PS",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890659,
+    "gn:latitude":31.68063,
+    "gn:longitude":35.20897,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khallat \u1e28amad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0629 \u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khallat \u1e28amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890659
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"394df15bd4f88bda74823197bb259b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1259597887,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1259597887,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1259597887,
+    "wof:lastmodified":1549929772,
+    "wof:name":"Khallat Hamad",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20897,
+    31.68063,
+    35.20897,
+    31.68063
+],
+  "geometry": {"coordinates":[35.20897,31.68063],"type":"Point"}
+}

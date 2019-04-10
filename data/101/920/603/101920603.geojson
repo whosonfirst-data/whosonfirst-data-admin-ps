@@ -1,0 +1,93 @@
+{
+  "id": 101920603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":32088.302367,
+    "geom:bbox":"34.301990509,31.2943668365,34.3039131165,31.2963695526",
+    "geom:latitude":31.295361,
+    "geom:longitude":34.303031,
+    "iso:country":"PS",
+    "lbl:latitude":31.295383,
+    "lbl:longitude":34.303031,
+    "mps:latitude":31.295383,
+    "mps:longitude":34.303031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064f\u0645 \u0643\u0645\u064a\u0644"
+    ],
+    "name:unk_x_variant":[
+        "Mukheimil"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm Kameil",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281117,
+        "gp:id":1979609
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2f27a654bd97c0e6635d783841a699b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920603,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920603,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920603,
+    "wof:lastmodified":1549928917,
+    "wof:name":"Umm Kameil",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3019905090332,
+    31.29436683654785,
+    34.30391311645508,
+    31.2963695526123
+],
+  "geometry": {"coordinates":[[[34.30332183837891,31.29436683654785],[34.3023681640625,31.29460334777832],[34.3019905090332,31.29460334777832],[34.30227661132812,31.29562377929688],[34.30226516723633,31.2962818145752],[34.30376434326172,31.2963695526123],[34.30382537841797,31.29534339904785],[34.30391311645508,31.29447364807129],[34.30332183837891,31.29436683654785]]],"type":"Polygon"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101921965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":24962.057228,
+    "geom:bbox":"35.1585121155,31.8959674835,35.1607627869,31.8976993561",
+    "geom:latitude":31.896756,
+    "geom:longitude":35.159714,
+    "iso:country":"PS",
+    "lbl:latitude":31.896749,
+    "lbl:longitude":35.159805,
+    "mps:latitude":31.896749,
+    "mps:longitude":35.159805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0643\u0641\u0631 \u0634\u064a\u0627\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Kafr Shiyy\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Kafr Sheiyan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890073,
+        "gp:id":56122359
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"700138ce0975a3204346d3b70a4ca883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921965,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921965,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921965,
+    "wof:lastmodified":1549929879,
+    "wof:name":"Khirbet Kafr Sheiyan",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15851211547852,
+    31.89596748352051,
+    35.16076278686523,
+    31.8976993560791
+],
+  "geometry": {"coordinates":[[[35.15883636474609,31.89596748352051],[35.15851211547852,31.89612007141113],[35.15853118896484,31.89651489257812],[35.15909576416016,31.89671897888184],[35.15950393676758,31.89764022827148],[35.15973281860352,31.8976993560791],[35.16076278686523,31.89732551574707],[35.16059494018555,31.89654541015625],[35.16005325317383,31.8961124420166],[35.15883636474609,31.89596748352051]]],"type":"Polygon"}
+}

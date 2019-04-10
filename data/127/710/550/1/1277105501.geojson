@@ -1,0 +1,93 @@
+{
+  "id": 1277105501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.48333,31.53333,34.48333,31.53333",
+    "geom:latitude":31.53333,
+    "geom:longitude":34.48333,
+    "gn:admin1_code":"GZ",
+    "gn:admin2_code":"7870263",
+    "gn:asciiname":"An Nazlah",
+    "gn:cc2":"PS",
+    "gn:country_code":"PS",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":281152,
+    "gn:latitude":31.53333,
+    "gn:longitude":34.48333,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"An Nazlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuzle",
+        "En Nazle",
+        "El Nesleh",
+        "Nazla",
+        "En Nezle",
+        "Nazlah",
+        "An Nazlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913267,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281152,
+        "wk:page":"Nazla"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"394ed86a01f901009ee8287839007f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1277105501,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1277105501,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1277105501,
+    "wof:lastmodified":1549928937,
+    "wof:name":"An Nazlah",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.48333,
+    31.53333,
+    34.48333,
+    31.53333
+],
+  "geometry": {"coordinates":[34.48333,31.53333],"type":"Point"}
+}

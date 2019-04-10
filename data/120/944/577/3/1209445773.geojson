@@ -1,0 +1,86 @@
+{
+  "id": 1209445773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45567,32.20278,35.45567,32.20278",
+    "geom:latitude":32.20278,
+    "geom:longitude":35.45567,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Bayt `Abd al Qadir",
+    "gn:country_code":"PS",
+    "gn:dem":-105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":284360,
+    "gn:latitude":32.20278,
+    "gn:longitude":35.45567,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bayt \u2018Abd al Q\u0101dir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit \u2018Abdul Qadir",
+        "Beit \u2018Abd el Q\u0101dir",
+        "Bayt \u2018Abd al Q\u0101dir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284360
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"61a5d2d9f4bc91321d1c44048c1f3d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209445773,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209445773,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209445773,
+    "wof:lastmodified":1549929905,
+    "wof:name":"Bayt `Abd al Qadir",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45567,
+    32.20278,
+    35.45567,
+    32.20278
+],
+  "geometry": {"coordinates":[35.45567,32.20278],"type":"Point"}
+}

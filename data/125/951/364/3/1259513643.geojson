@@ -1,0 +1,81 @@
+{
+  "id": 1259513643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03333,32.01667,35.03333,32.01667",
+    "geom:latitude":32.01667,
+    "geom:longitude":35.03333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"'Ofarim",
+    "gn:country_code":"PS",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282490,
+    "gn:latitude":32.01667,
+    "gn:longitude":35.03333,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"\u2019Ofarim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282490
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a93990c498310e61f1413759e6b22559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1259513643,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1259513643,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1259513643,
+    "wof:lastmodified":1549929711,
+    "wof:name":"'Ofarim",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03333,
+    32.01667,
+    35.03333,
+    32.01667
+],
+  "geometry": {"coordinates":[35.03333,32.01667],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 101921495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":144710.657223,
+    "geom:bbox":"35.0324287415,32.1797142029,35.0433883667,32.1823692322",
+    "geom:latitude":32.181039,
+    "geom:longitude":35.037482,
+    "gn:population":228,
+    "iso:country":"PS",
+    "lbl:latitude":32.181068,
+    "lbl:longitude":35.035117,
+    "mps:latitude":32.181068,
+    "mps:longitude":35.035117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0637\u0628\u064a\u0628"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Izbate\u1e6d e\u1e6d \u1e6cab\u012bb"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Izbat at Tabib",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283574,
+        "gp:id":56123302,
+        "qs:id":79909
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"dddfc25c2710d233dcc144e377e4c8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921495,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921495,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921495,
+    "wof:lastmodified":1549929821,
+    "wof:name":"'Izbat at Tabib",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03242874145508,
+    32.17971420288086,
+    35.04338836669922,
+    32.18236923217773
+],
+  "geometry": {"coordinates":[[[35.04217910766602,32.17971420288086],[35.03964233398438,32.18074035644531],[35.03876113891602,32.18017959594727],[35.03744125366211,32.18064498901367],[35.0359001159668,32.18026733398438],[35.03446960449219,32.17998504638672],[35.0327033996582,32.18138885498047],[35.03242874145508,32.18196105957031],[35.0334587097168,32.18236923217773],[35.03545379638672,32.18195343017578],[35.03919982910156,32.18130111694336],[35.04250335693359,32.18149566650391],[35.04338836669922,32.18112182617188],[35.04217910766602,32.17971420288086]]],"type":"Polygon"}
+}

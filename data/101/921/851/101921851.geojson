@@ -1,0 +1,104 @@
+{
+  "id": 101921851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":330404.506934,
+    "geom:bbox":"35.0871543884,31.9692630768,35.0953865051,31.9788722992",
+    "geom:latitude":31.973536,
+    "geom:longitude":35.0907,
+    "iso:country":"PS",
+    "lbl:latitude":31.972123,
+    "lbl:longitude":35.092009,
+    "mps:latitude":31.972123,
+    "mps:longitude":35.092009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u0627\u0644\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Jammala"
+    ],
+    "name:eng_x_preferred":[
+        "Jammala"
+    ],
+    "name:unk_x_variant":[
+        "Jam\u0101l\u012byah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jammala",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.974736,
+    "wd:longitude":35.091714,
+    "wd:wordcount":317,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283520,
+        "gp:id":1937180,
+        "wd:id":"Q6147912",
+        "wk:page":"Jammala"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"58d36dae55f4648581f9e2cd1dc4d384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921851,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921851,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921851,
+    "wof:lastmodified":1549929875,
+    "wof:name":"Jammala",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08715438842773,
+    31.96926307678223,
+    35.09538650512695,
+    31.97887229919434
+],
+  "geometry": {"coordinates":[[[35.09538650512695,31.97099304199219],[35.09530258178711,31.97085952758789],[35.0938606262207,31.97048950195312],[35.09355926513672,31.97035980224609],[35.09318542480469,31.97078514099121],[35.09170150756836,31.97061538696289],[35.08932876586914,31.9698543548584],[35.08824157714844,31.96926307678223],[35.08715438842773,31.97018814086914],[35.08814239501953,31.97120094299316],[35.09011840820312,31.97246742248535],[35.09120178222656,31.97331047058105],[35.08932495117188,31.97415161132812],[35.0892219543457,31.97516441345215],[35.08833312988281,31.97617340087891],[35.08734130859375,31.9766788482666],[35.08724212646484,31.97768974304199],[35.08951568603516,31.97887229919434],[35.09070205688477,31.97752571105957],[35.0911979675293,31.97626113891602],[35.09149932861328,31.97466087341309],[35.09367370605469,31.97331428527832],[35.09416961669922,31.97221755981445],[35.09476470947266,31.97204971313477],[35.09538650512695,31.97099304199219]]],"type":"Polygon"}
+}

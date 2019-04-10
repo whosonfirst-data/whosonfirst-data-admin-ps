@@ -1,0 +1,98 @@
+{
+  "id": 1126023963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2342,31.84945,35.2342,31.84945",
+    "geom:latitude":31.84945,
+    "geom:longitude":35.2342,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":24838,
+    "gn:population":24838,
+    "iso:country":"PS",
+    "lbl:latitude":31.84945,
+    "lbl:longitude":35.2342,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0645 \u0648\u0636\u0627\u062d\u064a\u0629 \u0627\u0644\u0628\u0631\u064a\u062f"
+    ],
+    "name:unk_x_variant":[
+        "R\u0101m"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284890,
+    "qs_pg:gn_pop":24838,
+    "qs_pg:name":"Ar R\u0101m wa \u1e10\u0101\u1e29iyat al Bar\u012bd",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":124002,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284890,
+        "qs_pg:id":124002
+    },
+    "wof:country":"PS",
+    "wof:created":1497301009,
+    "wof:geomhash":"03470e1a640d1ad604e88d8629bd39df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023963,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023963,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126023963,
+    "wof:lastmodified":1549929887,
+    "wof:name":"Ar R\u0101m wa \u1e10\u0101\u1e29iyat al Bar\u012bd",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":24838,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2342,
+    31.84945,
+    35.2342,
+    31.84945
+],
+  "geometry": {"coordinates":[35.2342,31.84945],"type":"Point"}
+}

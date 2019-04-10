@@ -1,0 +1,103 @@
+{
+  "id": 101921015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":51028.729676,
+    "geom:bbox":"35.3271026611,32.402381897,35.3300132751,32.4047470093",
+    "geom:latitude":32.403582,
+    "geom:longitude":35.328483,
+    "gn:population":235,
+    "iso:country":"PS",
+    "lbl:latitude":32.40359,
+    "lbl:longitude":35.328455,
+    "mps:latitude":32.40359,
+    "mps:longitude":35.328455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Telfit"
+    ],
+    "name:dut_x_preferred":[
+        "Telfit"
+    ],
+    "name:eng_x_preferred":[
+        "Telfit"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Telfit",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":374,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281603,
+        "gp:id":1936736,
+        "qs:id":79874,
+        "wd:id":"Q7697199"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6442eed591593b38c18b2d9fc4626e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921015,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921015,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921015,
+    "wof:lastmodified":1549929777,
+    "wof:name":"Telfit",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32710266113281,
+    32.40238189697266,
+    35.33001327514648,
+    32.40474700927734
+],
+  "geometry": {"coordinates":[[[35.32868576049805,32.40474700927734],[35.32966232299805,32.40410614013672],[35.33001327514648,32.40290451049805],[35.32815933227539,32.40238189697266],[35.32710266113281,32.40321350097656],[35.32732772827148,32.40455627441406],[35.32868576049805,32.40474700927734]]],"type":"Polygon"}
+}

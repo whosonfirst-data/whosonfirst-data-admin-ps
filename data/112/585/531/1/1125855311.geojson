@@ -1,0 +1,95 @@
+{
+  "id": 1125855311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28774,32.1426,35.28774,32.1426",
+    "geom:latitude":32.1426,
+    "geom:longitude":35.28774,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8535,
+    "gn:population":8535,
+    "iso:country":"PS",
+    "lbl:latitude":32.1426,
+    "lbl:longitude":35.28774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Beita al Fauqa"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284362,
+    "qs_pg:gn_pop":8535,
+    "qs_pg:name":"Bayt\u0101 al Fawq\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":123991,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284362,
+        "qs_pg:id":123991
+    },
+    "wof:country":"PS",
+    "wof:created":1497293593,
+    "wof:geomhash":"9bd828d2484fa862ddf2163b083e610e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855311,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855311,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125855311,
+    "wof:lastmodified":1549929765,
+    "wof:name":"Bayt\u0101 al Fawq\u0101",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":8535,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28774,
+    32.1426,
+    35.28774,
+    32.1426
+],
+  "geometry": {"coordinates":[35.28774,32.1426],"type":"Point"}
+}

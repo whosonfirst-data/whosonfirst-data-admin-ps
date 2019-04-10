@@ -1,0 +1,91 @@
+{
+  "id": 101923069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10191.292952,
+    "geom:bbox":"35.1259651184,31.3909053802,35.1272239685,31.392168045",
+    "geom:latitude":31.391462,
+    "geom:longitude":35.126523,
+    "gn:population":117,
+    "iso:country":"PS",
+    "lbl:latitude":31.391495,
+    "lbl:longitude":35.126534,
+    "mps:latitude":31.391495,
+    "mps:longitude":35.126534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Bir al 'Idd",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284255,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3f8a47ba90f8786a89e2a84d208a7720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923069,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923069,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923069,
+    "wof:lastmodified":1549929797,
+    "wof:name":"Khirbet Bir al 'Idd",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1259651184082,
+    31.39090538024902,
+    35.12722396850586,
+    31.39216804504395
+],
+  "geometry": {"coordinates":[[[35.12627792358398,31.39090538024902],[35.1259651184082,31.39108467102051],[35.1259651184082,31.39162635803223],[35.12638473510742,31.39198684692383],[35.12638473510742,31.39216804504395],[35.12712097167969,31.39162635803223],[35.12722396850586,31.39126586914062],[35.12627792358398,31.39090538024902]]],"type":"Polygon"}
+}

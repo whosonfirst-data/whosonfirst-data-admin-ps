@@ -1,0 +1,93 @@
+{
+  "id": 101923099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9658.172573,
+    "geom:bbox":"35.1104316711,31.37474823,35.1124191284,31.3756008148",
+    "geom:latitude":31.375223,
+    "geom:longitude":35.111371,
+    "iso:country":"PS",
+    "lbl:latitude":31.375179,
+    "lbl:longitude":35.111372,
+    "mps:latitude":31.375179,
+    "mps:longitude":35.111372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u064a\u0628\u0629 \u0627\u0644\u0646\u0628\u064a"
+    ],
+    "name:unk_x_variant":[
+        "Hurubat an Nabi"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Haribat an Nabi",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283650,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"450e1e969e83819bb0af3cc39b6297f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923099,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923099,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923099,
+    "wof:lastmodified":1549929788,
+    "wof:name":"Haribat an Nabi",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11043167114258,
+    31.37474822998047,
+    35.11241912841797,
+    31.37560081481934
+],
+  "geometry": {"coordinates":[[[35.11142349243164,31.37474822998047],[35.11043167114258,31.37522125244141],[35.11076354980469,31.3755054473877],[35.11131286621094,31.37560081481934],[35.11241912841797,31.37531852722168],[35.11142349243164,31.37474822998047]]],"type":"Polygon"}
+}

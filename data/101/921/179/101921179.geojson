@@ -1,0 +1,110 @@
+{
+  "id": 101921179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":198878.383074,
+    "geom:bbox":"35.0998191833,32.3224411011,35.1066665649,32.3265113831",
+    "geom:latitude":32.324591,
+    "geom:longitude":35.103058,
+    "iso:country":"PS",
+    "lbl:latitude":32.324374,
+    "lbl:longitude":35.103058,
+    "mps:latitude":32.324374,
+    "mps:longitude":35.103058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0639\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Bal'a"
+    ],
+    "name:eng_x_preferred":[
+        "Bal'a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05e2\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Bal'a"
+    ],
+    "name:unk_x_variant":[
+        "Bala"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bal'a",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":32.333167,
+    "wd:longitude":35.108653,
+    "wd:wordcount":980,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870329,
+        "gp:id":56123340,
+        "wd:id":"Q4849622",
+        "wk:page":"Bal'a"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"635a683dae4bde876896b24afa572a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921179,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921179,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921179,
+    "wof:lastmodified":1549929794,
+    "wof:name":"Bal'a",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09981918334961,
+    32.32244110107422,
+    35.10666656494141,
+    32.32651138305664
+],
+  "geometry": {"coordinates":[[[35.10438537597656,32.32321929931641],[35.10153579711914,32.32244110107422],[35.10004806518555,32.32360076904297],[35.09981918334961,32.32486343383789],[35.10084533691406,32.32622146606445],[35.10232925415039,32.32651138305664],[35.10312652587891,32.32583236694336],[35.10449600219727,32.32583618164062],[35.10575103759766,32.326416015625],[35.10666656494141,32.32554626464844],[35.10666656494141,32.32457733154297],[35.10507202148438,32.32341384887695],[35.10438537597656,32.32321929931641]]],"type":"Polygon"}
+}

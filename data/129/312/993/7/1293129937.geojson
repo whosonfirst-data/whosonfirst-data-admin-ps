@@ -1,0 +1,81 @@
+{
+  "id": 1293129937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43333,31.96667,35.43333,31.96667",
+    "geom:latitude":31.96667,
+    "geom:longitude":35.43333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Nahl Mivsam",
+    "gn:country_code":"PS",
+    "gn:dem":-101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282588,
+    "gn:latitude":31.96667,
+    "gn:longitude":35.43333,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Na\u1e96l Mivsam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282588
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"521c1dc9a7343b2e04d864701727c51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293129937,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293129937,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1293129937,
+    "wof:lastmodified":1549929757,
+    "wof:name":"Nahl Mivsam",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43333,
+    31.96667,
+    35.43333,
+    31.96667
+],
+  "geometry": {"coordinates":[35.43333,31.96667],"type":"Point"}
+}

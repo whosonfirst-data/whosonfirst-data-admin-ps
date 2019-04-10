@@ -1,0 +1,81 @@
+{
+  "id": 1226778083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11667,32.15,35.11667,32.15",
+    "geom:latitude":32.15,
+    "geom:longitude":35.11667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Yaqqir",
+    "gn:country_code":"PS",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281303,
+    "gn:latitude":32.15,
+    "gn:longitude":35.11667,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Yaqqir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281303
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3c5796600a56006d28b64cd8e17b337a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226778083,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226778083,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226778083,
+    "wof:lastmodified":1549929918,
+    "wof:name":"Yaqqir",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11667,
+    32.15,
+    35.11667,
+    32.15
+],
+  "geometry": {"coordinates":[35.11667,32.15],"type":"Point"}
+}

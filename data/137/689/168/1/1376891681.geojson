@@ -1,0 +1,97 @@
+{
+  "id": 1376891681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.242193,31.728512,35.242193,31.728512",
+    "geom:latitude":31.728512,
+    "geom:longitude":35.242193,
+    "iso:country":"PS",
+    "lbl:latitude":31.728676,
+    "lbl:longitude":35.24237,
+    "mps:latitude":31.728676,
+    "mps:longitude":35.24237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0637\u0648\u0628\u0627"
+    ],
+    "name:cze_x_preferred":[
+        "Umm Tuba"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Tuba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dd \u05d8\u05d5\u05d1\u05d0"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645 \u0637\u0648\u0628\u06cc"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm Tuba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1156,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283075,
+        "wd:id":"Q2897524",
+        "wk:page":"Umm Tuba"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fa40f41b28921231ca73bc5ad15739f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":1376891681,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1376891681,
+    "wof:lastmodified":1549931459,
+    "wof:name":"Umm Tuba",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101922315,
+        101922317,
+        101922323,
+        101922329
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.242193,
+    31.728512,
+    35.242193,
+    31.728512
+],
+  "geometry": {"coordinates":[35.242193,31.728512],"type":"Point"}
+}

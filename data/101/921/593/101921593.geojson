@@ -1,0 +1,100 @@
+{
+  "id": 101921593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":164776.349366,
+    "geom:bbox":"35.2518615723,32.1332092285,35.2587585449,32.1387290955",
+    "geom:latitude":32.136932,
+    "geom:longitude":35.255879,
+    "geonames:id":"283636,7870319",
+    "iso:country":"PS",
+    "lbl:latitude":32.137175,
+    "lbl:longitude":35.257029,
+    "mps:latitude":32.137175,
+    "mps:longitude":35.257029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0627\u0631\u0629"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d5\u05d0\u05e8\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Huwara"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Huwwara",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":32.1525,
+    "wd:longitude":35.256667,
+    "wd:wordcount":1672,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300,
+        "wd:id":"Q2898928"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"455bf7588b126bb7f5e74ea01d5dac81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921593,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921593,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921593,
+    "wof:lastmodified":1549929831,
+    "wof:name":"Huwwara",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25186157226562,
+    32.13320922851562,
+    35.25875854492188,
+    32.13872909545898
+],
+  "geometry": {"coordinates":[[[35.25186157226562,32.13837814331055],[35.25310134887695,32.13872909545898],[35.25448226928711,32.13837432861328],[35.25654983520508,32.13837432861328],[35.25848388671875,32.13837432861328],[35.25875854492188,32.13649749755859],[35.25765228271484,32.13579177856445],[35.25792694091797,32.13414764404297],[35.25668716430664,32.13320922851562],[35.25654983520508,32.13473510742188],[35.25613784790039,32.13637924194336],[35.25544738769531,32.13684844970703],[35.25434494018555,32.13684844970703],[35.25241088867188,32.13673400878906],[35.25186157226562,32.13837814331055]]],"type":"Polygon"}
+}

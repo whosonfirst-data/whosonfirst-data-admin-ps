@@ -1,0 +1,89 @@
+{
+  "id": 1310341359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17095,32.04111,35.17095,32.04111",
+    "geom:latitude":32.04111,
+    "geom:longitude":35.17095,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Brura",
+    "gn:country_code":"PS",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":284865,
+    "gn:latitude":32.04111,
+    "gn:longitude":35.17095,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u0631\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ar\u016bra",
+        "Brura",
+        "\u2018\u0100r\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284865
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"929c8b4672f7b14924cfd3a5177e492b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310341359,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310341359,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1310341359,
+    "wof:lastmodified":1549929715,
+    "wof:name":"Brura",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17095,
+    32.04111,
+    35.17095,
+    32.04111
+],
+  "geometry": {"coordinates":[35.17095,32.04111],"type":"Point"}
+}

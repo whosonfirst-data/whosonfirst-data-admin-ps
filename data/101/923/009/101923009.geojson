@@ -1,0 +1,92 @@
+{
+  "id": 101923009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2589.240376,
+    "geom:bbox":"35.1318435669,31.400636673,35.1334075928,31.4016418457",
+    "geom:latitude":31.401187,
+    "geom:longitude":35.132715,
+    "gn:population":452,
+    "iso:country":"PS",
+    "lbl:latitude":31.401175,
+    "lbl:longitude":35.132791,
+    "mps:latitude":31.401175,
+    "mps:longitude":35.132791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ma'in",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891515,
+        "gp:id":1937307,
+        "qs:id":1155590
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e6eb0b30d5cdeeed612fe2d16ae048b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923009,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923009,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923009,
+    "wof:lastmodified":1549929776,
+    "wof:name":"Ma'in",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":452,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13184356689453,
+    31.40063667297363,
+    35.13340759277344,
+    31.40164184570312
+],
+  "geometry": {"coordinates":[[[35.13340759277344,31.40063667297363],[35.13184356689453,31.40164184570312],[35.13289260864258,31.40128135681152],[35.13340759277344,31.40063667297363]]],"type":"Polygon"}
+}

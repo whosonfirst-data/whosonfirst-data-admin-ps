@@ -1,0 +1,78 @@
+{
+  "id": 101923041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":4245.997957,
+    "geom:bbox":"35.1347923279,31.395149231,35.1356315613,31.3960514069",
+    "geom:latitude":31.395584,
+    "geom:longitude":35.135205,
+    "iso:country":"PS",
+    "lbl:latitude":31.395577,
+    "lbl:longitude":35.135203,
+    "mps:latitude":31.395577,
+    "mps:longitude":35.135203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Maghayir al 'Abeed",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c732dd1cec06de88297a2f4f114fe672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101923041,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923041,
+    "wof:lastmodified":1534985965,
+    "wof:name":"Maghayir al 'Abeed",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613171
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13479232788086,
+    31.39514923095703,
+    35.1356315612793,
+    31.39605140686035
+],
+  "geometry": {"coordinates":[[[35.13542175292969,31.39514923095703],[35.13500213623047,31.39533042907715],[35.13479232788086,31.39605140686035],[35.13531875610352,31.39587020874023],[35.1356315612793,31.39542007446289],[35.13542175292969,31.39514923095703]]],"type":"Polygon"}
+}

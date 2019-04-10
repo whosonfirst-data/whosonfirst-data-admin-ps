@@ -1,0 +1,93 @@
+{
+  "id": 101922665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":269699.76145,
+    "geom:bbox":"35.082950592,31.5960025787,35.0878181458,31.6063537598",
+    "geom:latitude":31.601726,
+    "geom:longitude":35.085355,
+    "iso:country":"PS",
+    "lbl:latitude":31.601846,
+    "lbl:longitude":35.085318,
+    "mps:latitude":31.601846,
+    "mps:longitude":35.085318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0642\u0627\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Al Baqq\u0101r"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Baqqar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283132,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c593182b05b98ecb34f58585bc902a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922665,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922665,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922665,
+    "wof:lastmodified":1549929844,
+    "wof:name":"Al Baqqar",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08295059204102,
+    31.59600257873535,
+    35.08781814575195,
+    31.60635375976562
+],
+  "geometry": {"coordinates":[[[35.08295059204102,31.59850311279297],[35.08343887329102,31.6005916595459],[35.0836296081543,31.60201072692871],[35.08431243896484,31.60376358032227],[35.08518600463867,31.60468292236328],[35.08460235595703,31.60526657104492],[35.08479309082031,31.60626792907715],[35.08547592163086,31.60635375976562],[35.08645248413086,31.60601997375488],[35.08781814575195,31.60502052307129],[35.08752822875977,31.60376739501953],[35.08665084838867,31.60393333435059],[35.08694458007812,31.60259819030762],[35.08723831176758,31.60218048095703],[35.08684921264648,31.60126304626465],[35.08675384521484,31.59984397888184],[35.08558654785156,31.59742164611816],[35.08568572998047,31.59600257873535],[35.08539199829102,31.59708786010742],[35.08412170410156,31.59792137145996],[35.08295059204102,31.59850311279297]]],"type":"Polygon"}
+}

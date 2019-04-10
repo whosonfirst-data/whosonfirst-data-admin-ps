@@ -1,0 +1,88 @@
+{
+  "id": 101919625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000011,
+    "geom:area_square_m":115209.023528,
+    "geom:bbox":"34.990234375,31.5397224426,34.995300293,31.5442066193",
+    "geom:latitude":31.541995,
+    "geom:longitude":34.992291,
+    "iso:country":"PS",
+    "lbl:latitude":31.541933,
+    "lbl:longitude":34.992252,
+    "mps:latitude":31.541933,
+    "mps:longitude":34.992252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Suba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85687577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281753,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"45783ee53bfe94282bb64df87821ff8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101919625,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "locality_id":101919625,
+            "region_id":85687577
+        }
+    ],
+    "wof:id":101919625,
+    "wof:lastmodified":1534985970,
+    "wof:name":"Suba",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613279
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.990234375,
+    31.53972244262695,
+    34.99530029296875,
+    31.5442066192627
+],
+  "geometry": {"coordinates":[[[34.990234375,31.54226112365723],[34.99040222167969,31.5442066192627],[34.99320220947266,31.5428638458252],[34.99530029296875,31.54241943359375],[34.99390411376953,31.54166793823242],[34.99408340454102,31.53972244262695],[34.99338531494141,31.54001998901367],[34.99145889282227,31.54091453552246],[34.99040985107422,31.54136276245117],[34.990234375,31.54226112365723]]],"type":"Polygon"}
+}

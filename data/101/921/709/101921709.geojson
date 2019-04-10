@@ -1,0 +1,124 @@
+{
+  "id": 101921709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":187803.486616,
+    "geom:bbox":"35.2354011536,32.0675086975,35.2433128357,32.0721168518",
+    "geom:latitude":32.07002,
+    "geom:longitude":35.23956,
+    "gn:population":2439,
+    "iso:country":"PS",
+    "lbl:latitude":32.069741,
+    "lbl:longitude":35.239829,
+    "mps:latitude":32.069741,
+    "mps:longitude":35.239829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0628\u0646 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Lubban ash-Sharqiya"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Lubban ash-Sharqiya"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Lubban ash-Sharqiya"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0644\u0628\u0646 \u0627\u0644\u0634\u0631\u0642\u06cc\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d0\u05df \u05d0-\u05e9\u05e8\u05e7\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Lubban ash-Sharqiya"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0644\u0628\u0646 \u0627\u0644\u0634\u0631\u0642\u06cc\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Lubban esh Sharqiya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Lubban ash Sharqiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.071111,
+    "wd:longitude":35.241111,
+    "wd:wordcount":2139,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282997,
+        "gp:id":1937300,
+        "qs:id":547027,
+        "wd:id":"Q4702744",
+        "wk:page":"Al-Lubban ash-Sharqiya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2f088b4d283300122b1dbc2963edffe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921709,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921709,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921709,
+    "wof:lastmodified":1549929839,
+    "wof:name":"Al Lubban ash Sharqiya",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2439,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23540115356445,
+    32.06750869750977,
+    35.24331283569336,
+    32.07211685180664
+],
+  "geometry": {"coordinates":[[[35.23979568481445,32.06750869750977],[35.23898315429688,32.06843185424805],[35.23709106445312,32.06969833374023],[35.23540115356445,32.06964111328125],[35.23560333251953,32.07090759277344],[35.23743057250977,32.07107925415039],[35.23857879638672,32.07183074951172],[35.23966217041016,32.07107925415039],[35.24074172973633,32.07211685180664],[35.24202728271484,32.07107925415039],[35.24331283569336,32.06998443603516],[35.24222946166992,32.068603515625],[35.24128341674805,32.06958389282227],[35.24060440063477,32.06785583496094],[35.23979568481445,32.06750869750977]]],"type":"Polygon"}
+}

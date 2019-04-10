@@ -1,0 +1,101 @@
+{
+  "id": 101921791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":946534.289877,
+    "geom:bbox":"35.3380088806,32.0124359131,35.3503265381,32.0251274109",
+    "geom:latitude":32.018484,
+    "geom:longitude":35.344028,
+    "gn:population":2328,
+    "iso:country":"PS",
+    "lbl:latitude":32.018824,
+    "lbl:longitude":35.343609,
+    "mps:latitude":32.018824,
+    "mps:longitude":35.343609,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u064a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Mughaiyir"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Mughayyir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285024,
+        "gp:id":1937300,
+        "qs:id":124009,
+        "qs_pg:id":124009
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"316c47f191c66d3b9cd110903763069a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921791,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921791,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921791,
+    "wof:lastmodified":1549929853,
+    "wof:name":"Al Mughayyir",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":2328,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33800888061523,
+    32.01243591308594,
+    35.35032653808594,
+    32.02512741088867
+],
+  "geometry": {"coordinates":[[[35.34704208374023,32.01336669921875],[35.34505462646484,32.01243591308594],[35.34416198730469,32.01337051391602],[35.34247589111328,32.01421737670898],[35.3390998840332,32.01447296142578],[35.33800888061523,32.01591491699219],[35.33900451660156,32.01743698120117],[35.33910751342773,32.01861953735352],[35.33910751342773,32.02082061767578],[35.33940887451172,32.02200698852539],[35.3411979675293,32.02268218994141],[35.34228897094727,32.02285003662109],[35.34417724609375,32.0236930847168],[35.34666442871094,32.02512741088867],[35.34795379638672,32.02504348754883],[35.34616470336914,32.02326583862305],[35.34705352783203,32.02165985107422],[35.34923934936523,32.02013397216797],[35.35032653808594,32.01818466186523],[35.34943008422852,32.01590347290039],[35.34774398803711,32.01641082763672],[35.34615325927734,32.01556777954102],[35.34744262695312,32.01421356201172],[35.34704208374023,32.01336669921875]]],"type":"Polygon"}
+}

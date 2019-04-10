@@ -1,0 +1,95 @@
+{
+  "id": 1125822499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11516,31.42013,35.11516,31.42013",
+    "geom:latitude":31.42013,
+    "geom:longitude":35.11516,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1077,
+    "gn:population":1077,
+    "iso:country":"PS",
+    "lbl:latitude":31.42013,
+    "lbl:longitude":35.11516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0629 \u0635\u0627\u0644\u062d"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7891512,
+    "qs_pg:gn_pop":1077,
+    "qs_pg:name":"Khallat \u015e\u0101li\u1e29",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":744092,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891512,
+        "qs_pg:id":744092
+    },
+    "wof:country":"PS",
+    "wof:created":1497292133,
+    "wof:geomhash":"5018af6e3cac46e0e5eb62038a0fd76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125822499,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125822499,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125822499,
+    "wof:lastmodified":1549929719,
+    "wof:name":"Khallat \u015e\u0101li\u1e29",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":1077,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11516,
+    31.42013,
+    35.11516,
+    31.42013
+],
+  "geometry": {"coordinates":[35.11516,31.42013],"type":"Point"}
+}

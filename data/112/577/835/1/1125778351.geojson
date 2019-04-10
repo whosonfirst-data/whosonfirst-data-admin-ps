@@ -1,0 +1,95 @@
+{
+  "id": 1125778351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5268,32.16716,35.5268,32.16716",
+    "geom:latitude":32.16716,
+    "geom:longitude":35.5268,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":200,
+    "gn:population":200,
+    "iso:country":"PS",
+    "lbl:latitude":32.16716,
+    "lbl:longitude":35.5268,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062c \u0627\u0644\u063a\u0632\u0627\u0644"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7898045,
+    "qs_pg:gn_pop":200,
+    "qs_pg:name":"Marj al Ghaz\u0101l",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":744258,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898045,
+        "qs_pg:id":744258
+    },
+    "wof:country":"PS",
+    "wof:created":1497290362,
+    "wof:geomhash":"6453ba7b4d70a15ee8ead1b2f16d7e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125778351,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125778351,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125778351,
+    "wof:lastmodified":1549929685,
+    "wof:name":"Marj al Ghaz\u0101l",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5268,
+    32.16716,
+    35.5268,
+    32.16716
+],
+  "geometry": {"coordinates":[35.5268,32.16716],"type":"Point"}
+}

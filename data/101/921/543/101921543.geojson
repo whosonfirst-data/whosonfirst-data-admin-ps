@@ -1,0 +1,106 @@
+{
+  "id": 101921543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000008,
+    "geom:area_square_m":88018.740153,
+    "geom:bbox":"35.2943496704,32.1548538208,35.2993354797,32.1577987671",
+    "geom:latitude":32.156279,
+    "geom:longitude":35.29669,
+    "gn:population":5563,
+    "iso:country":"PS",
+    "lbl:latitude":32.156531,
+    "lbl:longitude":35.297068,
+    "mps:latitude":32.156531,
+    "mps:longitude":35.297068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u0631\u062a\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Awarta"
+    ],
+    "name:eng_x_preferred":[
+        "Awarta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d5\u05d5\u05e8\u05ea\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Awarta"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Awart\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Awarta",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.161444,
+    "wd:longitude":35.286392,
+    "wd:wordcount":1863,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284547,
+        "gp:id":56123321,
+        "wd:id":"Q2905293",
+        "wk:page":"Awarta"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"022d614165e227e57a0df8e42a330a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "empire_id":136253049,
+            "locality_id":101921543,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921543,
+    "wof:lastmodified":1534985966,
+    "wof:name":"'Awarta",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":5563,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613189
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29434967041016,
+    32.15485382080078,
+    35.29933547973633,
+    32.15779876708984
+],
+  "geometry": {"coordinates":[[[35.29455184936523,32.1568489074707],[35.29597854614258,32.15719223022461],[35.29689407348633,32.15779876708984],[35.29791259765625,32.15736389160156],[35.29933547973633,32.15571975708008],[35.29780960083008,32.15528869628906],[35.29648590087891,32.15537261962891],[35.29546737670898,32.15485382080078],[35.29434967041016,32.15615463256836],[35.29455184936523,32.1568489074707]]],"type":"Polygon"}
+}

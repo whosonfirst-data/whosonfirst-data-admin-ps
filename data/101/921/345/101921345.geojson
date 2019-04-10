@@ -1,0 +1,93 @@
+{
+  "id": 101921345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28071.542172,
+    "geom:bbox":"35.3717079163,32.2438621521,35.3738098145,32.2458763123",
+    "geom:latitude":32.245021,
+    "geom:longitude":35.372608,
+    "iso:country":"PS",
+    "lbl:latitude":32.245041,
+    "lbl:longitude":35.372587,
+    "mps:latitude":32.245041,
+    "mps:longitude":35.372587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062a\u0644 \u0627\u0644\u063a\u0627\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Tall al Gh\u0101r"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kirbet Tall al Ghar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7896867,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1344e64f1e64739c922023f754ce938f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921345,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921345,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921345,
+    "wof:lastmodified":1549929814,
+    "wof:name":"Kirbet Tall al Ghar",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37170791625977,
+    32.24386215209961,
+    35.37380981445312,
+    32.24587631225586
+],
+  "geometry": {"coordinates":[[[35.37244033813477,32.24580001831055],[35.37380981445312,32.24587631225586],[35.37335205078125,32.24463272094727],[35.37170791625977,32.24386215209961],[35.37170791625977,32.24533462524414],[35.37244033813477,32.24580001831055]]],"type":"Polygon"}
+}

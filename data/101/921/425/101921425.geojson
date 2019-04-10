@@ -1,0 +1,112 @@
+{
+  "id": 101921425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":318754.666138,
+    "geom:bbox":"35.2811965942,32.197303772,35.2878761292,32.2036399841",
+    "geom:latitude":32.200728,
+    "geom:longitude":35.284292,
+    "iso:country":"PS",
+    "lbl:latitude":32.200695,
+    "lbl:longitude":35.284228,
+    "mps:latitude":32.200695,
+    "mps:longitude":35.284228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Ni\u2018l\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0639\u0644\u064a\u0646"
+    ],
+    "name:dan_x_preferred":[
+        "Ni'lin"
+    ],
+    "name:eng_x_preferred":[
+        "Ni'lin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e2\u05dc\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Ni'lin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0430\u043b\u0438\u043d"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Balata Camp",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282529,
+        "gp:id":1937290,
+        "qs_pg:id":1301023,
+        "wd:id":"Q2918718"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5090b1068977c8ff18080b4faca964e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921425,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921425,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921425,
+    "wof:lastmodified":1549929822,
+    "wof:name":"Balata Camp",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28119659423828,
+    32.19730377197266,
+    35.28787612915039,
+    32.20363998413086
+],
+  "geometry": {"coordinates":[[[35.28119659423828,32.20285034179688],[35.28412628173828,32.20363998413086],[35.28787612915039,32.20310592651367],[35.28706741333008,32.20185089111328],[35.28689575195312,32.19979476928711],[35.28601455688477,32.19730377197266],[35.28581237792969,32.19731521606445],[35.28310775756836,32.19808197021484],[35.2816047668457,32.19816589355469],[35.28171539306641,32.19935607910156],[35.28119659423828,32.20111846923828],[35.2813720703125,32.20244216918945],[35.28119659423828,32.20285034179688]]],"type":"Polygon"}
+}

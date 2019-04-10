@@ -1,0 +1,98 @@
+{
+  "id": 101920873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":189152.579851,
+    "geom:bbox":"35.1335945129,32.4535331726,35.1409950256,32.4581184387",
+    "geom:latitude":32.456151,
+    "geom:longitude":35.137597,
+    "gn:population":550,
+    "iso:country":"PS",
+    "lbl:latitude":32.455844,
+    "lbl:longitude":35.138158,
+    "mps:latitude":32.455844,
+    "mps:longitude":35.138158,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm D\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u062f\u0627\u0631"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm Dar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893467,
+        "gp:id":1937299,
+        "qs:id":1179263
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fc0a35aba2962f0c8276ca0bb8c6c95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920873,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920873,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920873,
+    "wof:lastmodified":1549929861,
+    "wof:name":"Umm Dar",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":550,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13359451293945,
+    32.45353317260742,
+    35.14099502563477,
+    32.4581184387207
+],
+  "geometry": {"coordinates":[[[35.13480377197266,32.45807647705078],[35.13494491577148,32.45791244506836],[35.13709259033203,32.4581184387207],[35.13844680786133,32.45730972290039],[35.13932037353516,32.45724105834961],[35.14035797119141,32.45717620849609],[35.14099502563477,32.45650100708008],[35.13982772827148,32.45478439331055],[35.13964462280273,32.45393753051758],[35.13884735107422,32.45427322387695],[35.13868713378906,32.45353317260742],[35.13717651367188,32.45353317260742],[35.13717651367188,32.45467758178711],[35.13645935058594,32.45548629760742],[35.13486862182617,32.45616149902344],[35.13478851318359,32.45649719238281],[35.13439178466797,32.45703887939453],[35.13359451293945,32.45737457275391],[35.13359451293945,32.45783615112305],[35.13479614257812,32.45806503295898],[35.13480377197266,32.45807647705078]]],"type":"Polygon"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 101921339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":442266.567264,
+    "geom:bbox":"35.1816291809,32.247253418,35.1921958923,32.2556037903",
+    "geom:latitude":32.252252,
+    "geom:longitude":35.187455,
+    "gn:population":2681,
+    "iso:country":"PS",
+    "lbl:latitude":32.252651,
+    "lbl:longitude":35.187535,
+    "mps:latitude":32.252651,
+    "mps:longitude":35.187535,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0634\u0631\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "Deir Sharaf"
+    ],
+    "name:dut_x_preferred":[
+        "Deir Sharaf"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Sharaf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05e9\u05e8\u05e3"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Sharaf"
+    ],
+    "name:unk_x_variant":[
+        "Dayr Sharaf"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Sharaf",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":306,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284054,
+        "gp:id":1937302,
+        "qs:id":274796,
+        "wd:id":"Q2903582",
+        "wk:page":"Deir Sharaf"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ab68d92b3b0079ddad2b0b5b16bf33f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921339,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921339,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921339,
+    "wof:lastmodified":1549929809,
+    "wof:name":"Deir Sharaf",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2681,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1816291809082,
+    32.24725341796875,
+    35.19219589233398,
+    32.2556037902832
+],
+  "geometry": {"coordinates":[[[35.18544006347656,32.25090789794922],[35.1847038269043,32.25236892700195],[35.1816291809082,32.25434875488281],[35.1816291809082,32.2556037902832],[35.1834716796875,32.25550079345703],[35.1849479675293,32.25508117675781],[35.18703460693359,32.25487518310547],[35.18814086914062,32.25497817993164],[35.18949127197266,32.25393295288086],[35.19047546386719,32.25476837158203],[35.19158172607422,32.25476837158203],[35.19145584106445,32.25351715087891],[35.19145965576172,32.25257873535156],[35.19219589233398,32.25174331665039],[35.19145965576172,32.25048828125],[35.18949127197266,32.25080108642578],[35.18924713134766,32.24923706054688],[35.19133758544922,32.24829864501953],[35.19133758544922,32.24725341796875],[35.18973922729492,32.24767303466797],[35.18912506103516,32.24871444702148],[35.18863296508789,32.24965286254883],[35.18752670288086,32.25038528442383],[35.18740463256836,32.24923706054688],[35.18728256225586,32.24777603149414],[35.18519592285156,32.24777603149414],[35.18605422973633,32.24923706054688],[35.18691253662109,32.25048828125],[35.18544006347656,32.25090789794922]]],"type":"Polygon"}
+}

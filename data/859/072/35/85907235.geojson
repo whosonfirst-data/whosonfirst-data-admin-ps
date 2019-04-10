@@ -1,0 +1,139 @@
+{
+  "id": 85907235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.236448,31.852972,35.236448,31.852972",
+    "geom:latitude":31.852972,
+    "geom:longitude":35.236448,
+    "gn:id":"",
+    "iso:country":"PS",
+    "lbl:latitude":31.852972,
+    "lbl:longitude":35.236448,
+    "mps:latitude":31.857136,
+    "mps:longitude":35.234568,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u063a\u0627\u062a \u0632\u0626\u064a\u0641"
+    ],
+    "name:ces_x_preferred":[
+        "Pisgat Ze'ev"
+    ],
+    "name:deu_x_preferred":[
+        "Pisgat Ze\u2019ev"
+    ],
+    "name:eng_x_preferred":[
+        "Pisgat Ze'ev"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05d2\u05ea \u05d6\u05d0\u05d1"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0441\u0433\u0430\u0442-\u0417\u0435\u044d\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Pisgat Ze'ev"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05e1\u05d2\u05ea \u05d6\u05d0\u05d1"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":3093,
+    "qs:local_sum":12688,
+    "qs:localhoods":16,
+    "qs:name":"Pisgat Ze'ev",
+    "qs:name_adm0":"Palestine",
+    "qs:name_adm1":"West Bank",
+    "qs:name_adm2":"Jerusalem",
+    "qs:name_local":"\u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photo_max":75,
+    "qs:photo_sum":138,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":28289408,
+    "qs:woe_adm1":23424988,
+    "qs:woe_adm2":24549736,
+    "qs:woe_lau":0,
+    "qs:woe_local":56126012,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1492,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        101922113,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724710,
+        "qs:id":14510,
+        "qs_pg:id":14510,
+        "wd:id":"Q1028231"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"7341754b394f57c1bf658ccca1a5330d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922113,
+            "neighbourhood_id":85907235,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922113,
+            "neighbourhood_id":85907235,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":85907235,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549929928,
+    "wof:name":"Pisgat Ze'ev",
+    "wof:parent_id":101922113,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.236448,
+    31.852972,
+    35.236448,
+    31.852972
+],
+  "geometry": {"coordinates":[35.236448,31.852972],"type":"Point"}
+}

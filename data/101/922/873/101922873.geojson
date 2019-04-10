@@ -1,0 +1,93 @@
+{
+  "id": 101922873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":139861.908727,
+    "geom:bbox":"35.1396713257,31.4495506287,35.1437988281,31.4539680481",
+    "geom:latitude":31.45175,
+    "geom:longitude":35.141758,
+    "iso:country":"PS",
+    "lbl:latitude":31.451524,
+    "lbl:longitude":35.141178,
+    "mps:latitude":31.451524,
+    "mps:longitude":35.141178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0646\u0629 \u0627\u0644\u0631\u0627\u0633"
+    ],
+    "name:unk_x_variant":[
+        "Qurnat ar R\u0101s"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qurnet ar Ras",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892550,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b682baf341329a7d981b4481e4604c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922873,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922873,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922873,
+    "wof:lastmodified":1549929870,
+    "wof:name":"Qurnet ar Ras",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13967132568359,
+    31.44955062866211,
+    35.143798828125,
+    31.4539680480957
+],
+  "geometry": {"coordinates":[[[35.13976287841797,31.45030403137207],[35.13967132568359,31.45147514343262],[35.13985824584961,31.45260047912598],[35.14131164550781,31.45340538024902],[35.1417350769043,31.4539680480957],[35.14234161376953,31.45392799377441],[35.14295196533203,31.45384788513184],[35.14360809326172,31.45368766784668],[35.14365386962891,31.45328521728516],[35.14374923706055,31.4526424407959],[35.1434211730957,31.4521598815918],[35.14267349243164,31.45175743103027],[35.14365768432617,31.45123672485352],[35.143798828125,31.45059394836426],[35.14351654052734,31.45023155212402],[35.14262771606445,31.45015144348145],[35.14157867431641,31.44955062866211],[35.13976287841797,31.45030403137207]]],"type":"Polygon"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 101921047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":70407.08094,
+    "geom:bbox":"35.206413269,32.3866462708,35.2098426819,32.3906211853",
+    "geom:latitude":32.388815,
+    "geom:longitude":35.208345,
+    "iso:country":"PS",
+    "lbl:latitude":32.38893,
+    "lbl:longitude":35.208228,
+    "mps:latitude":32.38893,
+    "mps:longitude":35.208228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fahma al Jadida",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123308
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b3fbb68619e5db417aaff2a9c3bc8069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921047,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921047,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921047,
+    "wof:lastmodified":1549929781,
+    "wof:name":"Fahma al Jadida",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20641326904297,
+    32.38664627075195,
+    35.20984268188477,
+    32.39062118530273
+],
+  "geometry": {"coordinates":[[[35.20904159545898,32.38664627075195],[35.20801544189453,32.38742446899414],[35.20755767822266,32.38848876953125],[35.20641326904297,32.38936233520508],[35.20675659179688,32.39042663574219],[35.20801162719727,32.38965225219727],[35.20927047729492,32.39062118530273],[35.20984268188477,32.38945770263672],[35.20881271362305,32.38848876953125],[35.20984268188477,32.38742446899414],[35.20904159545898,32.38664627075195]]],"type":"Polygon"}
+}

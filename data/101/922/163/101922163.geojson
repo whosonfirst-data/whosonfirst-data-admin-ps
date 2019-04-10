@@ -1,0 +1,107 @@
+{
+  "id": 101922163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":5.198378,
+    "geom:bbox":"35.1762542725,31.8204593658,35.17628479,31.8205032349",
+    "geom:latitude":31.820484,
+    "geom:longitude":35.176268,
+    "gn:population":1734,
+    "iso:country":"PS",
+    "lbl:latitude":31.82258,
+    "lbl:longitude":35.178586,
+    "mps:latitude":31.82258,
+    "mps:longitude":35.178586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0625\u0643\u0633\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Iksa"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Iksa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d0\u05d9\u05db\u05e1\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Iksa"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u0627\u06a9\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Iksa"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Iksa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        421200701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284331,
+        "gp:id":1937180,
+        "qs:id":79942,
+        "wd:id":"Q4881448",
+        "wk:page":"Beit Iksa"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fa4bad1be5094ddeb1c160e8281d790a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "empire_id":136253049,
+            "locality_id":101922163,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922163,
+    "wof:lastmodified":1534985965,
+    "wof:name":"Beit Iksa",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":1734,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613185
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17625427246094,
+    31.82045936584473,
+    35.17628479003906,
+    31.82050323486328
+],
+  "geometry": {"coordinates":[[[35.17628479003906,31.82048988342285],[35.17625427246094,31.82045936584473],[35.17626571655273,31.82050323486328],[35.17628479003906,31.82048988342285]]],"type":"Polygon"}
+}

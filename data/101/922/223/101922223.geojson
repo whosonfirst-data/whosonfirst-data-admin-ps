@@ -1,0 +1,75 @@
+{
+  "id": 101922223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3464.952021,
+    "geom:bbox":"35.2490005493,31.7748947144,35.2496795654,31.776266098",
+    "geom:latitude":31.77551,
+    "geom:longitude":35.2493,
+    "iso:country":"PS",
+    "lbl:latitude":31.775213,
+    "lbl:longitude":35.249221,
+    "mps:latitude":31.775213,
+    "mps:longitude":35.249221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"As Shayyah",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890171
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"19e520454ec148a6ea3b5aa967a4b4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922223,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922223,
+    "wof:lastmodified":1549931410,
+    "wof:name":"As Shayyah",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891587
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24900054931641,
+    31.77489471435547,
+    35.24967956542969,
+    31.77626609802246
+],
+  "geometry": {"coordinates":[[[35.24967956542969,31.77620506286621],[35.24946212768555,31.77577781677246],[35.24936676025391,31.77537727355957],[35.24946212768555,31.77517127990723],[35.24908065795898,31.77489471435547],[35.24900054931641,31.77506637573242],[35.24909973144531,31.77546501159668],[35.24940490722656,31.77607154846191],[35.24962997436523,31.77626609802246],[35.24967956542969,31.77620506286621]]],"type":"Polygon"}
+}

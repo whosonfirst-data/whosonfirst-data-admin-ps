@@ -1,0 +1,101 @@
+{
+  "id": 101921141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":746630.947779,
+    "geom:bbox":"35.0426254272,32.3394622803,35.058971405,32.3516807556",
+    "geom:latitude":32.346062,
+    "geom:longitude":35.049149,
+    "geonames:id":"283166,7873922",
+    "iso:country":"PS",
+    "lbl:latitude":32.347296,
+    "lbl:longitude":35.04791,
+    "mps:latitude":32.347296,
+    "mps:longitude":35.04791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Al-Jarushiya"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Jarushiya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d2'\u05d0\u05e8\u05d5\u05e9\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Jarushiya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Jarushiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300,
+        "wd:id":"Q4702617"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3d8f53c3bcdbd63b10a4f7421e19adf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921141,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921141,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921141,
+    "wof:lastmodified":1549929794,
+    "wof:name":"Al Jarushiya",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04262542724609,
+    32.33946228027344,
+    35.0589714050293,
+    32.35168075561523
+],
+  "geometry": {"coordinates":[[[35.05724716186523,32.33946228027344],[35.05579376220703,32.34003448486328],[35.0533332824707,32.34260559082031],[35.05029678344727,32.34358596801758],[35.04885101318359,32.34370422363281],[35.04639434814453,32.34419250488281],[35.04306793212891,32.34418869018555],[35.04263305664062,32.34541702270508],[35.04262542724609,32.34872817993164],[35.04638290405273,32.35008239746094],[35.04753494262695,32.35168075561523],[35.04985046386719,32.35021209716797],[35.05187225341797,32.351318359375],[35.0510139465332,32.34738922119141],[35.05173873901367,32.34505844116211],[35.05448532104492,32.34543228149414],[35.05376434326172,32.34383392333984],[35.05607986450195,32.34224319458008],[35.05796051025391,32.34224319458008],[35.0589714050293,32.34163284301758],[35.05724716186523,32.33946228027344]]],"type":"Polygon"}
+}

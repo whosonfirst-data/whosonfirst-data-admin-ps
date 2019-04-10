@@ -1,0 +1,89 @@
+{
+  "id": 1175613315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":82485.49379,
+    "geom:bbox":"34.2265930176,31.325674057,34.2352371216,31.3329563141",
+    "geom:latitude":31.330341,
+    "geom:longitude":34.231984,
+    "iso:country":"PS",
+    "lbl:latitude":31.331537,
+    "lbl:longitude":34.233739,
+    "mps:latitude":31.331537,
+    "mps:longitude":34.233739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Mawais (Rafah)",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913365,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979600
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d99c6db9f41d6971bebc3f548d7c758e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1175613315,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1175613315,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1175613315,
+    "wof:lastmodified":1549928882,
+    "wof:name":"Al Mawais (Rafah)",
+    "wof:parent_id":1091913365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101920485,
+        101920459
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.22659301757812,
+    31.32567405700684,
+    34.23523712158203,
+    31.33295631408691
+],
+  "geometry": {"coordinates":[[[[34.22719573974609,31.32567405700684],[34.22659301757812,31.32693481445312],[34.22850799560547,31.32720375061035],[34.22881317138672,31.32631874084473],[34.22719573974609,31.32567405700684]]],[[[34.2315673828125,31.33096313476562],[34.23199844360352,31.33223342895508],[34.23310852050781,31.33199882507324],[34.23309707641602,31.33281326293945],[34.23523712158203,31.33295631408691],[34.23510360717773,31.3315601348877],[34.23457717895508,31.33164024353027],[34.234375,31.33054161071777],[34.2315673828125,31.33096313476562]]]],"type":"MultiPolygon"}
+}

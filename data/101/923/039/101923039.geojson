@@ -1,0 +1,93 @@
+{
+  "id": 101923039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6897.34263,
+    "geom:bbox":"35.1429901123,31.3952445984,35.1442527771,31.3963260651",
+    "geom:latitude":31.395731,
+    "geom:longitude":35.143537,
+    "iso:country":"PS",
+    "lbl:latitude":31.3957,
+    "lbl:longitude":35.143535,
+    "mps:latitude":31.3957,
+    "mps:longitude":35.143535,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0627\u0648\u064a\u0633"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat el Kuwaiyis"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qawawis",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283024,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ffba26458c6164ff977caa07cf2ae765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923039,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923039,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923039,
+    "wof:lastmodified":1549929780,
+    "wof:name":"Qawawis",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14299011230469,
+    31.39524459838867,
+    35.14425277709961,
+    31.39632606506348
+],
+  "geometry": {"coordinates":[[[35.14341354370117,31.39524459838867],[35.14309692382812,31.39587593078613],[35.14299011230469,31.39632606506348],[35.14351654052734,31.39614677429199],[35.14425277709961,31.39542579650879],[35.14341354370117,31.39524459838867]]],"type":"Polygon"}
+}

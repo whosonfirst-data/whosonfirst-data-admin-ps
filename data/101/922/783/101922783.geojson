@@ -1,0 +1,90 @@
+{
+  "id": 101922783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000004,
+    "geom:area_square_m":43325.226146,
+    "geom:bbox":"35.0,31.4890136719,35.0029716492,31.4920597076",
+    "geom:latitude":31.49034,
+    "geom:longitude":35.001343,
+    "gn:population":267,
+    "iso:country":"PS",
+    "lbl:latitude":31.489968,
+    "lbl:longitude":35.00194,
+    "mps:latitude":31.489968,
+    "mps:longitude":35.00194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0641\u0642\u064a\u0642\u064a\u0633"
+    ],
+    "name:unk_x_variant":[
+        "Fuqayq\u012bs"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fuqeiqis",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891140,
+        "gp:id":1937307,
+        "qs:id":744072
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b1a050d0ef7e5e8381f30bdc6a1c880d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101922783,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922783,
+    "wof:lastmodified":1534985965,
+    "wof:name":"Fuqeiqis",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613173
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    31.489013671875,
+    35.00297164916992,
+    31.4920597076416
+],
+  "geometry": {"coordinates":[[[35.0,31.49176597595215],[35.00102233886719,31.4920597076416],[35.00106430053711,31.49174118041992],[35.00090026855469,31.49124526977539],[35.00073623657227,31.49067687988281],[35.00077819824219,31.49053573608398],[35.00139617919922,31.49050140380859],[35.00177001953125,31.49060821533203],[35.0024299621582,31.49075126647949],[35.00251388549805,31.49032592773438],[35.00272369384766,31.48986434936523],[35.00297164916992,31.48940467834473],[35.00293350219727,31.48908615112305],[35.00255966186523,31.489013671875],[35.00210571289062,31.48904800415039],[35.00139999389648,31.4895076751709],[35.00007629394531,31.49021530151367],[35.0,31.490234375],[35.0,31.49176597595215]]],"type":"Polygon"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101921395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":207499.387222,
+    "geom:bbox":"35.2926597595,32.2178153992,35.3010559082,32.2236557007",
+    "geom:latitude":32.22012,
+    "geom:longitude":35.297471,
+    "iso:country":"PS",
+    "lbl:latitude":32.219376,
+    "lbl:longitude":35.297059,
+    "mps:latitude":32.219376,
+    "mps:longitude":35.297059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u064a\u0645 \u0639\u0633\u0643\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Camp d'Askar"
+    ],
+    "name:dut_x_preferred":[
+        "Askar"
+    ],
+    "name:eng_x_preferred":[
+        "Askar"
+    ],
+    "name:fra_x_preferred":[
+        "Askar"
+    ],
+    "name:fre_x_preferred":[
+        "Askar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e1\u05db\u05e8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30ab\u30eb\u30fb\u30ad\u30e3\u30f3\u30d7"
+    ],
+    "name:pol_x_preferred":[
+        "Ob\u00f3z Askar"
+    ],
+    "name:spa_x_preferred":[
+        "Campamento de Askar"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Askar Camp",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123362,
+        "wd:id":"Q4302319"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0c8982323c513d80e9faca00347c9804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921395,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921395,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921395,
+    "wof:lastmodified":1549929813,
+    "wof:name":"'Askar Camp",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29265975952148,
+    32.21781539916992,
+    35.30105590820312,
+    32.22365570068359
+],
+  "geometry": {"coordinates":[[[35.30105590820312,32.22334671020508],[35.30105209350586,32.22251510620117],[35.30099487304688,32.2225341796875],[35.30050659179688,32.22247695922852],[35.30030059814453,32.22200393676758],[35.30050659179688,32.22159194946289],[35.30050659179688,32.22123718261719],[35.30022811889648,32.22052764892578],[35.29974365234375,32.22017669677734],[35.29904937744141,32.21987915039062],[35.29849243164062,32.21887969970703],[35.29807281494141,32.21793365478516],[35.29793548583984,32.21781539916992],[35.29502105712891,32.21787643432617],[35.29265975952148,32.21799850463867],[35.29377365112305,32.21894073486328],[35.29648208618164,32.22088623046875],[35.29919052124023,32.22283172607422],[35.30051040649414,32.22365570068359],[35.30105590820312,32.22334671020508]]],"type":"Polygon"}
+}

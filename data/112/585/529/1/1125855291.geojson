@@ -1,0 +1,111 @@
+{
+  "id": 1125855291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37127,32.19303,35.37127,32.19303",
+    "geom:latitude":32.19303,
+    "geom:longitude":35.37127,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3487,
+    "gn:population":3487,
+    "iso:country":"PS",
+    "lbl:latitude":32.19303,
+    "lbl:longitude":35.37127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062f\u062c\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Dajan"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Dajan"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Dajan"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Dajan i Nablus"
+    ],
+    "name:unk_x_variant":[
+        "Beit Dajan"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284343,
+    "qs_pg:gn_pop":3487,
+    "qs_pg:name":"Bayt Dajan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123989,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284343,
+        "qs_pg:id":123989,
+        "wd:id":"Q12200452"
+    },
+    "wof:country":"PS",
+    "wof:created":1497293593,
+    "wof:geomhash":"5fa2050c4e693e10b86f450316b618de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855291,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855291,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125855291,
+    "wof:lastmodified":1549929764,
+    "wof:name":"Bayt Dajan",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":3487,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37127,
+    32.19303,
+    35.37127,
+    32.19303
+],
+  "geometry": {"coordinates":[35.37127,32.19303],"type":"Point"}
+}

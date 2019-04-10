@@ -1,0 +1,110 @@
+{
+  "id": 101921619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":875962.952426,
+    "geom:bbox":"35.0934677124,32.1155204773,35.1034698486,32.1315383911",
+    "geom:latitude":32.123311,
+    "geom:longitude":35.099409,
+    "iso:country":"PS",
+    "lbl:latitude":32.123202,
+    "lbl:longitude":35.100659,
+    "mps:latitude":32.123202,
+    "mps:longitude":35.100659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0627\u0648\u0629 \u0628\u0646\u064a \u062d\u0633\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Qarawat Bani Hassan"
+    ],
+    "name:dut_x_preferred":[
+        "Qarawat Bani Hassan"
+    ],
+    "name:eng_x_preferred":[
+        "Qarawat Bani Hassan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d0\u05d5\u05d5\u05ea \u05d1\u05e0\u05d9 \u05d7\u05e1\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Qarawat Bani Hassan"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qarawat Bani Hassan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":32.128,
+    "wd:longitude":35.099,
+    "wd:wordcount":1961,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870324,
+        "gp:id":1937157,
+        "wd:id":"Q2897029",
+        "wk:page":"Qarawat Bani Hassan"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"acc5494986cc8fda8290ce8d4aa9f35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921619,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921619,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921619,
+    "wof:lastmodified":1549929840,
+    "wof:name":"Qarawat Bani Hassan",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09346771240234,
+    32.11552047729492,
+    35.10346984863281,
+    32.13153839111328
+],
+  "geometry": {"coordinates":[[[35.09928512573242,32.13022613525391],[35.10104751586914,32.13088226318359],[35.1029167175293,32.13097763061523],[35.10346984863281,32.1301383972168],[35.1020393371582,32.1289176940918],[35.10171127319336,32.12835693359375],[35.10204315185547,32.12713623046875],[35.10314559936523,32.12507629394531],[35.10325622558594,32.12311172485352],[35.10227203369141,32.11814498901367],[35.0997428894043,32.11711120605469],[35.0988655090332,32.1156120300293],[35.09765243530273,32.11552047729492],[35.09688186645508,32.11598587036133],[35.09523391723633,32.11579895019531],[35.0943489074707,32.11710739135742],[35.09346771240234,32.11813735961914],[35.09456634521484,32.11870193481445],[35.09676742553711,32.11870193481445],[35.09819793701172,32.12010955810547],[35.09808731079102,32.12160873413086],[35.09819030761719,32.12525939941406],[35.09577178955078,32.12525939941406],[35.09444808959961,32.1273193359375],[35.09631729125977,32.1273193359375],[35.09719848632812,32.12835311889648],[35.09763717651367,32.12994384765625],[35.09796524047852,32.13153839111328],[35.09928512573242,32.13022613525391]]],"type":"Polygon"}
+}

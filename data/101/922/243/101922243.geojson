@@ -1,0 +1,73 @@
+{
+  "id": 101922243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11999.010344,
+    "geom:bbox":"35.2337493896,31.768447876,35.2351074219,31.7703475952",
+    "geom:latitude":31.769488,
+    "geom:longitude":35.234384,
+    "iso:country":"PS",
+    "lbl:latitude":31.769794,
+    "lbl:longitude":35.234485,
+    "mps:latitude":31.769794,
+    "mps:longitude":35.234485,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jerusalem (Al Quds)",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PS",
+    "wof:geomhash":"df550566f926aafa498316ee49c5cc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922243,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922243,
+    "wof:lastmodified":1549931417,
+    "wof:name":"Jerusalem (Al Quds)",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891589
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23374938964844,
+    31.76844787597656,
+    35.235107421875,
+    31.77034759521484
+],
+  "geometry": {"coordinates":[[[35.2337532043457,31.76877021789551],[35.23403930664062,31.76890182495117],[35.23435592651367,31.76933288574219],[35.23427963256836,31.76961326599121],[35.23397827148438,31.76982879638672],[35.23385238647461,31.7700023651123],[35.23374938964844,31.77026176452637],[35.2340202331543,31.77030563354492],[35.23429870605469,31.7701530456543],[35.23452758789062,31.77012062072754],[35.23469161987305,31.7701530456543],[35.2350959777832,31.77034759521484],[35.235107421875,31.77020835876465],[35.23500823974609,31.77008819580078],[35.23476791381836,31.76986122131348],[35.2347412109375,31.76966667175293],[35.23475646972656,31.7691593170166],[35.23464202880859,31.76891136169434],[35.23456573486328,31.76870727539062],[35.23413467407227,31.76844787597656],[35.2337532043457,31.76877021789551]]],"type":"Polygon"}
+}

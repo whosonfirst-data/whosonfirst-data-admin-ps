@@ -1,0 +1,85 @@
+{
+  "id": 101922949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000001,
+    "geom:area_square_m":12710.49258,
+    "geom:bbox":"35.2382354736,31.4223461151,35.2396278381,31.4234199524",
+    "geom:latitude":31.422819,
+    "geom:longitude":35.238986,
+    "gn:population":407,
+    "iso:country":"PS",
+    "lbl:latitude":31.422866,
+    "lbl:longitude":35.238987,
+    "mps:latitude":31.422866,
+    "mps:longitude":35.238987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Najada",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891516,
+        "gp:id":1937307,
+        "qs:id":744094
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"21d7f49418382d9f46ca189248bcaf5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101922949,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922949,
+    "wof:lastmodified":1534985968,
+    "wof:name":"An Najada",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":407,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613245
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23823547363281,
+    31.4223461151123,
+    35.23962783813477,
+    31.42341995239258
+],
+  "geometry": {"coordinates":[[[35.2396240234375,31.4223461151123],[35.23823547363281,31.42235565185547],[35.23852157592773,31.42330551147461],[35.23921585083008,31.42341995239258],[35.23962783813477,31.42305946350098],[35.2396240234375,31.4223461151123]]],"type":"Polygon"}
+}

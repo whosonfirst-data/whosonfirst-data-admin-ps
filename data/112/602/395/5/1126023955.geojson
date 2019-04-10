@@ -1,0 +1,108 @@
+{
+  "id": 1126023955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.07781,31.4695,35.07781,31.4695",
+    "geom:latitude":31.4695,
+    "geom:longitude":35.07781,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3369,
+    "gn:population":3369,
+    "iso:country":"PS",
+    "lbl:latitude":31.4695,
+    "lbl:longitude":35.07781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u062d\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Ar-Rihiya"
+    ],
+    "name:eng_x_preferred":[
+        "Ar-Rihiya"
+    ],
+    "name:nno_x_preferred":[
+        "Ar-Rihiya"
+    ],
+    "name:unk_x_variant":[
+        "R\u012bh\u012bya"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284881,
+    "qs_pg:gn_pop":3369,
+    "qs_pg:name":"Ar R\u012b\u1e29\u012byah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":124001,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284881,
+        "qs_pg:id":124001,
+        "wd:id":"Q4783023"
+    },
+    "wof:country":"PS",
+    "wof:created":1497301009,
+    "wof:geomhash":"bbb7b1a4fe35cf9755a3464a6a6eac58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023955,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023955,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126023955,
+    "wof:lastmodified":1549929886,
+    "wof:name":"Ar R\u012b\u1e29\u012byah",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":3369,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07781,
+    31.4695,
+    35.07781,
+    31.4695
+],
+  "geometry": {"coordinates":[35.07781,31.4695],"type":"Point"}
+}

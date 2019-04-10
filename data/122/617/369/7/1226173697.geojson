@@ -1,0 +1,87 @@
+{
+  "id": 1226173697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41667,32.2,35.41667,32.2",
+    "geom:latitude":32.2,
+    "geom:longitude":35.41667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Hamra",
+    "gn:cc2":"PS",
+    "gn:country_code":"PS",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":283766,
+    "gn:latitude":32.2,
+    "gn:longitude":35.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u0331amra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Attarot",
+        "H\u0331amra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283766,
+        "wk:page":"Hamra%2C_Bik%27at_HaYarden"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4dcc601c923f1f2f8e089aa19944410b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226173697,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226173697,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226173697,
+    "wof:lastmodified":1549929889,
+    "wof:name":"Hamra",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41667,
+    32.2,
+    35.41667,
+    32.2
+],
+  "geometry": {"coordinates":[35.41667,32.2],"type":"Point"}
+}

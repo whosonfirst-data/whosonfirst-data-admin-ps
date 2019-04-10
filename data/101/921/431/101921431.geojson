@@ -1,0 +1,106 @@
+{
+  "id": 101921431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":430215.72143,
+    "geom:bbox":"35.1088905334,32.2012405396,35.1178131104,32.2090148926",
+    "geom:latitude":32.20454,
+    "geom:longitude":35.113674,
+    "gn:population":1624,
+    "iso:country":"PS",
+    "lbl:latitude":32.204101,
+    "lbl:longitude":35.114567,
+    "mps:latitude":32.204101,
+    "mps:longitude":35.114567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0642\u0629 \u0627\u0644\u062d\u0637\u0628"
+    ],
+    "name:nno_x_preferred":[
+        "Baqat al-Hatab"
+    ],
+    "name:unk_x_variant":[
+        "Baka"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Baqat al Hatab",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.204736,
+    "wd:longitude":35.114853,
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284427,
+        "gp:id":1937157,
+        "qs:id":79947,
+        "wd:id":"Q4857778",
+        "wk:page":"Baqat al-Hatab"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9f67a33dd48b91d02f4607140071732a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921431,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921431,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921431,
+    "wof:lastmodified":1549929815,
+    "wof:name":"Baqat al Hatab",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":1624,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10889053344727,
+    32.20124053955078,
+    35.11781311035156,
+    32.20901489257812
+],
+  "geometry": {"coordinates":[[[35.11196899414062,32.20901489257812],[35.11207962036133,32.20807647705078],[35.11219024658203,32.20667266845703],[35.1132926940918,32.20770263671875],[35.11395263671875,32.20695495605469],[35.11406326293945,32.20835876464844],[35.11538314819336,32.20864105224609],[35.11571502685547,32.20742416381836],[35.1167106628418,32.20592498779297],[35.11737060546875,32.20517730712891],[35.11737060546875,32.2043342590332],[35.11781311035156,32.20330429077148],[35.11715316772461,32.20180511474609],[35.1156120300293,32.20170974731445],[35.11407089233398,32.20180511474609],[35.11362838745117,32.20180130004883],[35.11263656616211,32.20124053955078],[35.11142730712891,32.20124053955078],[35.10977172851562,32.2018928527832],[35.10889053344727,32.20357894897461],[35.10977172851562,32.20367431640625],[35.11142349243164,32.20442581176758],[35.11252212524414,32.20517349243164],[35.11109161376953,32.20620346069336],[35.11042785644531,32.20882415771484],[35.11196899414062,32.20901489257812]]],"type":"Polygon"}
+}

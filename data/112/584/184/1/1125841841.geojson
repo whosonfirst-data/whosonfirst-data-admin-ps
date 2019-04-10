@@ -1,0 +1,168 @@
+{
+  "id": 1125841841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22631,31.70095,35.22631,31.70095",
+    "geom:latitude":31.70095,
+    "geom:longitude":35.22631,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":14921,
+    "gn:population":14921,
+    "iso:country":"PS",
+    "lbl:latitude":31.70095,
+    "lbl:longitude":35.22631,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u0627\u062d\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0642\u0644 \u0627\u0644\u0631\u0639\u0627\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:dut_x_preferred":[
+        "Bayt Sahur"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:fre_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:ger_x_preferred":[
+        "Bait Sahur"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03c9\u03c1\u03af\u03bf\u03bd \u03c4\u03c9\u03bd \u03a0\u03bf\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e1\u05d0\u05d7\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:ita_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:jav_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0435\u0458\u0442 \u0421\u0430\u0445\u0443\u0440"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:nob_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u0633\u0627\u062d\u0648\u0631"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u06cc\u062a \u0633\u0627\u062d\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Sahur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0421\u0430\u0445\u0443\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:swe_x_preferred":[
+        "Beit Sahour"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0421\u0430\u0445\u0443\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Beit Sa\u1e25\u016br"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0633\u0627\u062d\u0648\u0631"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284304,
+    "qs_pg:gn_pop":14921,
+    "qs_pg:name":"Bayt S\u0101\u1e29\u016br",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":203659,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284304,
+        "qs_pg:id":203659,
+        "wd:id":"Q803990"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292968,
+    "wof:geomhash":"43276b65a6f214c7937f2291e58de64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125841841,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125841841,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125841841,
+    "wof:lastmodified":1549929760,
+    "wof:name":"Bayt S\u0101\u1e29\u016br",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":14921,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22631,
+    31.70095,
+    35.22631,
+    31.70095
+],
+  "geometry": {"coordinates":[35.22631,31.70095],"type":"Point"}
+}

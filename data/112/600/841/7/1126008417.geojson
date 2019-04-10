@@ -1,0 +1,105 @@
+{
+  "id": 1126008417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05122,32.3856,35.05122,32.3856",
+    "geom:latitude":32.3856,
+    "geom:longitude":35.05122,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3052,
+    "gn:population":3052,
+    "iso:country":"PS",
+    "lbl:latitude":32.3856,
+    "lbl:longitude":35.05122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u062a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Zeita"
+    ],
+    "name:nno_x_preferred":[
+        "Zeita i Tulkarm"
+    ],
+    "name:unk_x_variant":[
+        "Zeit\u0101"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281226,
+    "qs_pg:gn_pop":3052,
+    "qs_pg:name":"Zayt\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":547005,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281226,
+        "qs_pg:id":547005,
+        "wd:id":"Q8068604"
+    },
+    "wof:country":"PS",
+    "wof:created":1497300120,
+    "wof:geomhash":"37119885afbbaefe082e312bc779552f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126008417,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126008417,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126008417,
+    "wof:lastmodified":1549929884,
+    "wof:name":"Zayt\u0101",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":3052,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05122,
+    32.3856,
+    35.05122,
+    32.3856
+],
+  "geometry": {"coordinates":[35.05122,32.3856],"type":"Point"}
+}

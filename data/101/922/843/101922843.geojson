@@ -1,0 +1,93 @@
+{
+  "id": 101922843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1125.154261,
+    "geom:bbox":"35.1284599304,31.4582653046,35.1289596558,31.4590568542",
+    "geom:latitude":31.458728,
+    "geom:longitude":35.128727,
+    "iso:country":"PS",
+    "lbl:latitude":31.458814,
+    "lbl:longitude":35.128782,
+    "mps:latitude":31.458814,
+    "mps:longitude":35.128782,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u0631 \u0627\u0644\u0639\u0631\u0648\u0633"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Raq\u2018ah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Biyar al 'Arus",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283090,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9c4ed7fda84eaa79efffd9f6543448ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922843,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922843,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922843,
+    "wof:lastmodified":1549929860,
+    "wof:name":"Biyar al 'Arus",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12845993041992,
+    31.45826530456543,
+    35.12895965576172,
+    31.45905685424805
+],
+  "geometry": {"coordinates":[[[35.12876510620117,31.45905685424805],[35.12895965576172,31.45887184143066],[35.12846374511719,31.45826530456543],[35.12845993041992,31.45826721191406],[35.12876510620117,31.45905685424805]]],"type":"Polygon"}
+}

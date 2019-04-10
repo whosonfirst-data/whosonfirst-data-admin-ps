@@ -1,0 +1,86 @@
+{
+  "id": 1327364545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15,32.21667,35.15,32.21667",
+    "geom:latitude":32.21667,
+    "geom:longitude":35.15,
+    "gn:admin1_code":"WE",
+    "gn:admin2_code":"7870649",
+    "gn:asciiname":"Qedumim `Illit",
+    "gn:country_code":"PS",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282352,
+    "gn:latitude":32.21667,
+    "gn:longitude":35.15,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Qedumim \u2018Illit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qedumim Zefon",
+        "Qedumim \u2018Illit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282352
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"85c56b36974feedfcb5f3dbb15afbd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327364545,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327364545,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1327364545,
+    "wof:lastmodified":1549929919,
+    "wof:name":"Qedumim `Illit",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15,
+    32.21667,
+    35.15,
+    32.21667
+],
+  "geometry": {"coordinates":[35.15,32.21667],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 101920925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18686.385283,
+    "geom:bbox":"35.1267776489,32.4448661804,35.1287536621,32.4465904236",
+    "geom:latitude":32.445785,
+    "geom:longitude":35.127625,
+    "gn:population":933,
+    "iso:country":"PS",
+    "lbl:latitude":32.445592,
+    "lbl:longitude":35.127542,
+    "mps:latitude":32.445592,
+    "mps:longitude":35.127542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0628\u062f\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Zibda"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Zabda",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281219,
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9d8fa3564ba782443b5dfc9f298aa9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920925,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920925,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920925,
+    "wof:lastmodified":1549929863,
+    "wof:name":"Zabda",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":933,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12677764892578,
+    32.44486618041992,
+    35.12875366210938,
+    32.44659042358398
+],
+  "geometry": {"coordinates":[[[35.12754440307617,32.44659042358398],[35.12747955322266,32.44605255126953],[35.12773513793945,32.44605255126953],[35.12843322753906,32.44632339477539],[35.12875366210938,32.44599914550781],[35.12856292724609,32.44562149047852],[35.12799072265625,32.44562149047852],[35.12792587280273,32.4450798034668],[35.12728881835938,32.44486618041992],[35.12703704833984,32.44502639770508],[35.12709808349609,32.44562149047852],[35.12690734863281,32.44605255126953],[35.12677764892578,32.44659042358398],[35.12754440307617,32.44659042358398]]],"type":"Polygon"}
+}

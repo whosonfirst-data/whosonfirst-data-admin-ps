@@ -1,0 +1,111 @@
+{
+  "id": 1126043393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91246,31.37952,34.91246,31.37952",
+    "geom:latitude":31.37952,
+    "geom:longitude":34.91246,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3232,
+    "gn:population":3232,
+    "iso:country":"PS",
+    "lbl:latitude":31.37952,
+    "lbl:longitude":34.91246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0627\u0636\u064a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Ramadin"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Ramadin"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Ramadien"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644-\u0631\u0627\u0645\u062f\u06cc\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Mudeimina"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283077,
+    "qs_pg:gn_pop":3232,
+    "qs_pg:name":"Ar Ram\u0101\u1e11\u012bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":547033,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283077,
+        "qs_pg:id":547033,
+        "wd:id":"Q4703124"
+    },
+    "wof:country":"PS",
+    "wof:created":1497302289,
+    "wof:geomhash":"6f4d829422ce686b07987ac1da5ec5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043393,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043393,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043393,
+    "wof:lastmodified":1549929894,
+    "wof:name":"Ar Ram\u0101\u1e11\u012bn",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":3232,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91246,
+    31.37952,
+    34.91246,
+    31.37952
+],
+  "geometry": {"coordinates":[34.91246,31.37952],"type":"Point"}
+}

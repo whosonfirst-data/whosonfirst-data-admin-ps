@@ -1,0 +1,111 @@
+{
+  "id": 1125915293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17928,31.65534,35.17928,31.65534",
+    "geom:latitude":31.65534,
+    "geom:longitude":35.17928,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":793,
+    "gn:population":793,
+    "iso:country":"PS",
+    "lbl:latitude":31.65534,
+    "lbl:longitude":35.17928,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0635\u0631\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Masara"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Masara"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e2\u05e1\u05e8\u05d4"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644-\u0645\u0633\u0627\u0631\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat al Ma\u2018\u015farah"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7915247,
+    "qs_pg:gn_pop":793,
+    "qs_pg:name":"Al Ma\u2018\u015farah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":744829,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7915247,
+        "qs_pg:id":744829,
+        "wd:id":"Q4702859"
+    },
+    "wof:country":"PS",
+    "wof:created":1497296297,
+    "wof:geomhash":"8bd82d4ce6e62fb19b45ada5574139ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125915293,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125915293,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125915293,
+    "wof:lastmodified":1549929766,
+    "wof:name":"Al Ma\u2018\u015farah",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":793,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17928,
+    31.65534,
+    35.17928,
+    31.65534
+],
+  "geometry": {"coordinates":[35.17928,31.65534],"type":"Point"}
+}

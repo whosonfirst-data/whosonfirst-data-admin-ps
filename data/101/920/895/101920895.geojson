@@ -1,0 +1,101 @@
+{
+  "id": 101920895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":84030.788319,
+    "geom:bbox":"35.1431083679,32.4536361694,35.1463241577,32.4576187134",
+    "geom:latitude":32.455363,
+    "geom:longitude":35.144931,
+    "gn:population":503,
+    "iso:country":"PS",
+    "lbl:latitude":32.455178,
+    "lbl:longitude":35.144961,
+    "mps:latitude":32.455178,
+    "mps:longitude":35.144961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Khulj\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0644\u062c\u0627\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat al Khulj\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Khuljan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7893468,
+        "gp:id":1937299,
+        "qs:id":744102
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6e343ab87973d60f2468d90fd5e49b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920895,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920895,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920895,
+    "wof:lastmodified":1549929863,
+    "wof:name":"Al Khuljan",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":503,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14310836791992,
+    32.45363616943359,
+    35.14632415771484,
+    32.45761871337891
+],
+  "geometry": {"coordinates":[[[35.14310836791992,32.45411682128906],[35.14363861083984,32.45549774169922],[35.1448860168457,32.45703887939453],[35.14624786376953,32.45761871337891],[35.14632415771484,32.45671844482422],[35.14613342285156,32.45591735839844],[35.14624786376953,32.45453643798828],[35.14541625976562,32.45389556884766],[35.14345169067383,32.45363616943359],[35.14310836791992,32.45411682128906]]],"type":"Polygon"}
+}

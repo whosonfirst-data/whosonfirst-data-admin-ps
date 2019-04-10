@@ -1,0 +1,86 @@
+{
+  "id": 1260323269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55859,32.28822,35.55859,32.28822",
+    "geom:latitude":32.28822,
+    "geom:longitude":35.55859,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Ash Shaykh Falih",
+    "gn:country_code":"PS",
+    "gn:dem":-303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":284754,
+    "gn:latitude":32.28822,
+    "gn:longitude":35.55859,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ash Shaykh F\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheikh Falih",
+        "Esh Sheikh Falih",
+        "Ash Shaykh F\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284754
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"cfbec43a8b06778280efdc2e5d74dc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1260323269,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1260323269,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1260323269,
+    "wof:lastmodified":1549929757,
+    "wof:name":"Ash Shaykh Falih",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55859,
+    32.28822,
+    35.55859,
+    32.28822
+],
+  "geometry": {"coordinates":[35.55859,32.28822],"type":"Point"}
+}

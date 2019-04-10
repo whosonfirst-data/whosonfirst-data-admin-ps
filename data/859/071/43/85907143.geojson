@@ -1,0 +1,136 @@
+{
+  "id": 85907143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.236807,31.75532,35.236807,31.75532",
+    "geom:latitude":31.75532,
+    "geom:longitude":35.236807,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:latitude":31.75002,
+    "gn:longitude":35.24686,
+    "iso:country":"PS",
+    "lbl:latitude":31.75532,
+    "lbl:longitude":35.236807,
+    "mps:latitude":31.756196,
+    "mps:longitude":35.237787,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u0644\u0645\u0643\u0628\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Jabel Mukabir"
+    ],
+    "name:unk_x_variant":[
+        "Jabel Mukabir",
+        "Jabal al Mukabbir"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Jabal al Mukabbir",
+    "qs:local_max":3093,
+    "qs:local_sum":12688,
+    "qs:localhoods":16,
+    "qs:name":"Jabel Mukabir",
+    "qs:name_adm0":"Palestine",
+    "qs:name_adm1":"West Bank",
+    "qs:name_adm2":"Jerusalem",
+    "qs:name_local":"\u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photo_max":572,
+    "qs:photo_sum":1112,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":28289408,
+    "qs:woe_adm1":23424988,
+    "qs:woe_adm2":24549736,
+    "qs:woe_lau":0,
+    "qs:woe_local":56126012,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7890121,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Jabel Mukabir",
+    "qs_pg:name_adm0":"Palestine",
+    "qs_pg:name_adm1":"West Bank",
+    "qs_pg:photos":1031,
+    "qs_pg:photos_1k":209,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1031,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":212393,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":28289408,
+    "qs_pg:woe_id":22724630,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890121,
+        "gp:id":22724630,
+        "qs:id":212393,
+        "qs_pg:id":212393
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9e37d220da803f9b9a8076143c59f88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85907143,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85907143,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930559,
+    "wof:name":"Jabel Mukabir",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126091009
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.236807,
+    31.75532,
+    35.236807,
+    31.75532
+],
+  "geometry": {"coordinates":[35.236807,31.75532],"type":"Point"}
+}

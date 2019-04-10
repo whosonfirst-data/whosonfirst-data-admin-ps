@@ -1,0 +1,81 @@
+{
+  "id": 101921169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000018,
+    "geom:area_square_m":190062.050336,
+    "geom:bbox":"35.2235603333,32.3241195679,35.2314567566,32.331615448",
+    "geom:latitude":32.328018,
+    "geom:longitude":35.227316,
+    "geonames:id":"283493,283570",
+    "iso:country":"PS",
+    "lbl:latitude":32.327396,
+    "lbl:longitude":35.226927,
+    "mps:latitude":32.327396,
+    "mps:longitude":35.226927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jaba'",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123346,
+        "wd:id":"Q357840"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"cd480ab28a71901b7e1454ecf3ac6d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101921169,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921169,
+    "wof:lastmodified":1534985973,
+    "wof:name":"Jaba'",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613351
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22356033325195,
+    32.32411956787109,
+    35.2314567565918,
+    32.33161544799805
+],
+  "geometry": {"coordinates":[[[35.22356033325195,32.32847213745117],[35.22403717041016,32.3297119140625],[35.22627639770508,32.33144760131836],[35.22910308837891,32.33161544799805],[35.23007965087891,32.33078765869141],[35.22764205932617,32.33070373535156],[35.22637557983398,32.3304557800293],[35.22530364990234,32.32929992675781],[35.22676467895508,32.32904815673828],[35.22764205932617,32.32847213745117],[35.22842025756836,32.32681655883789],[35.23095321655273,32.3255729675293],[35.2314567565918,32.32455062866211],[35.23130416870117,32.32411956787109],[35.22968673706055,32.3248291015625],[35.22695922851562,32.32582473754883],[35.22588729858398,32.32665252685547],[35.2255973815918,32.32838821411133],[35.22356033325195,32.32847213745117]]],"type":"Polygon"}
+}

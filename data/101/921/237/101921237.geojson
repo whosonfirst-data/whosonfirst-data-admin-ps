@@ -1,0 +1,115 @@
+{
+  "id": 101921237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":252207.737442,
+    "geom:bbox":"35.2746505737,32.29322052,35.282245636,32.2987518311",
+    "geom:latitude":32.295922,
+    "geom:longitude":35.277871,
+    "gn:population":2226,
+    "iso:country":"PS",
+    "lbl:latitude":32.295979,
+    "lbl:longitude":35.27813,
+    "mps:latitude":32.295979,
+    "mps:longitude":35.27813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u0635\u064a\u062f"
+    ],
+    "name:ara_x_variant":[
+        "Y\u0101\u015f\u012bd"
+    ],
+    "name:cat_x_preferred":[
+        "Yasid"
+    ],
+    "name:dut_x_preferred":[
+        "Yasid"
+    ],
+    "name:eng_x_preferred":[
+        "Yasid"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05e1\u05d9\u05d3"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Yasid",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.296569,
+    "wd:longitude":35.277669,
+    "wd:wordcount":310,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281297,
+        "gp:id":1937300,
+        "qs:id":123903,
+        "wd:id":"Q6897577",
+        "wk:page":"Yasid"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4e294bf493c0c8685075f43b826f6d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921237,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921237,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921237,
+    "wof:lastmodified":1549929802,
+    "wof:name":"Yasid",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2226,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27465057373047,
+    32.29322052001953,
+    35.28224563598633,
+    32.29875183105469
+],
+  "geometry": {"coordinates":[[[35.27713012695312,32.29335403442383],[35.27666473388672,32.29519653320312],[35.27480316162109,32.29427719116211],[35.27465057373047,32.29585647583008],[35.27480697631836,32.29783248901367],[35.27790832519531,32.29875183105469],[35.27852630615234,32.29756546020508],[35.27992248535156,32.29716873168945],[35.28085327148438,32.29624938964844],[35.28224563598633,32.29519271850586],[35.28069686889648,32.29413986206055],[35.27930068969727,32.29467010498047],[35.27914428710938,32.29322052001953],[35.27713012695312,32.29335403442383]]],"type":"Polygon"}
+}

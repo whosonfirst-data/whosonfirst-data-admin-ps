@@ -1,0 +1,93 @@
+{
+  "id": 101923063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4811.596355,
+    "geom:bbox":"35.1433105469,31.3916358948,35.1449928284,31.3924484253",
+    "geom:latitude":31.391934,
+    "geom:longitude":35.144334,
+    "iso:country":"PS",
+    "lbl:latitude":31.392068,
+    "lbl:longitude":35.144627,
+    "mps:latitude":31.392068,
+    "mps:longitude":35.144627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062a\u0628\u0627\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat at Tabb\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet at Tabban",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281694,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5ccd3ad5d425457a672fe2fd7fb204bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923063,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923063,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923063,
+    "wof:lastmodified":1549929797,
+    "wof:name":"Khirbet at Tabban",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.143310546875,
+    31.39163589477539,
+    35.14499282836914,
+    31.39244842529297
+],
+  "geometry": {"coordinates":[[[35.14393997192383,31.39163589477539],[35.14352035522461,31.39163589477539],[35.143310546875,31.39172744750977],[35.14414978027344,31.39190673828125],[35.14467620849609,31.39244842529297],[35.14499282836914,31.39190864562988],[35.14393997192383,31.39163589477539]]],"type":"Polygon"}
+}

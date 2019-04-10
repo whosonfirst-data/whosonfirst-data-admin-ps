@@ -1,0 +1,115 @@
+{
+  "id": 101921551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":723332.61368,
+    "geom:bbox":"35.0384864807,32.1490859985,35.0554161072,32.1566810608",
+    "geom:latitude":32.152617,
+    "geom:longitude":35.047102,
+    "gn:population":4218,
+    "iso:country":"PS",
+    "lbl:latitude":32.153227,
+    "lbl:longitude":35.046973,
+    "mps:latitude":32.153227,
+    "mps:longitude":35.046973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062b\u0644\u062b"
+    ],
+    "name:dut_x_preferred":[
+        "Kafr Thulth"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Thulth"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05ea'\u05d5\u05dc\u05ea'"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Thulth"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr Thulth",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.1525,
+    "wd:longitude":35.044167,
+    "wd:wordcount":1898,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283351,
+        "gp:id":1937157,
+        "qs:id":123947,
+        "qs_pg:id":123947,
+        "wd:id":"Q2903619",
+        "wk:page":"Kafr Thulth"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b91cb8b83ce8b747249b40e3c8b5de63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921551,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921551,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921551,
+    "wof:lastmodified":1549929827,
+    "wof:name":"Kafr Thulth",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":4218,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03848648071289,
+    32.14908599853516,
+    35.05541610717773,
+    32.15668106079102
+],
+  "geometry": {"coordinates":[[[35.05507278442383,32.15240859985352],[35.05501556396484,32.15089416503906],[35.05224990844727,32.15040969848633],[35.05115127563477,32.15031433105469],[35.04894638061523,32.15040588378906],[35.04938507080078,32.15134048461914],[35.04762649536133,32.15049743652344],[35.04641723632812,32.15002822875977],[35.04575729370117,32.15011978149414],[35.04432678222656,32.14955520629883],[35.0432243347168,32.14908599853516],[35.04179382324219,32.14927291870117],[35.04212188720703,32.15039443969727],[35.04058074951172,32.15086364746094],[35.03848648071289,32.15095138549805],[35.03969573974609,32.15226745605469],[35.0411262512207,32.15339279174805],[35.0420036315918,32.15404891967773],[35.04354476928711,32.15526962280273],[35.04497528076172,32.15526962280273],[35.04618453979492,32.15592956542969],[35.04750442504883,32.15639877319336],[35.04805755615234,32.15668106079102],[35.0500373840332,32.156494140625],[35.0500373840332,32.15593338012695],[35.04938125610352,32.15489959716797],[35.04981994628906,32.15452575683594],[35.05037307739258,32.15415191650391],[35.05434799194336,32.15360641479492],[35.05541610717773,32.15320587158203],[35.05507278442383,32.15240859985352]]],"type":"Polygon"}
+}

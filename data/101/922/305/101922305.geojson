@@ -1,0 +1,106 @@
+{
+  "id": 101922305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":124511.617631,
+    "geom:bbox":"35.2092857361,31.7299175262,35.2155952454,31.7353363037",
+    "geom:latitude":31.732475,
+    "geom:longitude":35.212677,
+    "iso:country":"PS",
+    "lbl:latitude":31.731926,
+    "lbl:longitude":35.213251,
+    "mps:latitude":31.731926,
+    "mps:longitude":35.213251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0635\u0641\u0627\u0641\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "Bejt Safafa"
+    ],
+    "name:deu_x_preferred":[
+        "Beit Safafa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e6\u05e4\u05d0\u05e4\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Beit Safafa"
+    ],
+    "name:jav_x_preferred":[
+        "Beit Safafa"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Safafa"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Safafa"
+    ],
+    "name:unk_x_variant":[
+        "Bayt \u015eaf\u0101f\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Safafa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1615,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284305,
+        "loc:id":"n2006021761",
+        "wd:id":"Q814904",
+        "wk:page":"Beit Safafa"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4918c6fd9dcf6e9f712e7a7c54b52546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922305,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922305,
+    "wof:lastmodified":1549931436,
+    "wof:name":"Beit Safafa",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891653
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20928573608398,
+    31.72991752624512,
+    35.21559524536133,
+    31.73533630371094
+],
+  "geometry": {"coordinates":[[[35.20983123779297,31.73533630371094],[35.2105598449707,31.7346363067627],[35.2114372253418,31.73440361022949],[35.21222686767578,31.73419570922852],[35.21265411376953,31.73396301269531],[35.21295547485352,31.73357391357422],[35.213623046875,31.73295211791992],[35.21404647827148,31.73256301879883],[35.21447372436523,31.73209571838379],[35.21547317504883,31.73180961608887],[35.21559524536133,31.73149871826172],[35.21547317504883,31.73110961914062],[35.21495819091797,31.73022842407227],[35.21401596069336,31.72991752624512],[35.21332168579102,31.73017692565918],[35.21225738525391,31.73152542114258],[35.21225738525391,31.73201751708984],[35.21213531494141,31.73258781433105],[35.2118034362793,31.73287391662598],[35.21125793457031,31.73310661315918],[35.21001434326172,31.73359870910645],[35.20928573608398,31.7337818145752],[35.20934677124023,31.73435211181641],[35.20949554443359,31.73492240905762],[35.20983123779297,31.73533630371094]]],"type":"Polygon"}
+}

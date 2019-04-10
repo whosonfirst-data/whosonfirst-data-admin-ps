@@ -1,0 +1,84 @@
+{
+  "id": 101921461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000008,
+    "geom:area_square_m":87976.043693,
+    "geom:bbox":"35.1630935669,32.1884231567,35.1679801941,32.19140625",
+    "geom:latitude":32.19007,
+    "geom:longitude":35.165311,
+    "gn:population":634,
+    "iso:country":"PS",
+    "lbl:latitude":32.189845,
+    "lbl:longitude":35.16446,
+    "mps:latitude":32.189845,
+    "mps:longitude":35.16446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Far'ata",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283964,
+        "gp:id":1937300,
+        "qs:id":79922
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ce489bf3899bb5f053eaa675c2f22a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "empire_id":136253049,
+            "locality_id":101921461,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921461,
+    "wof:lastmodified":1534985968,
+    "wof:name":"Far'ata",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":634,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613233
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16309356689453,
+    32.18842315673828,
+    35.1679801940918,
+    32.19140625
+],
+  "geometry": {"coordinates":[[[35.16336059570312,32.18842315673828],[35.16309356689453,32.18963241577148],[35.16340637207031,32.19072723388672],[35.16442489624023,32.19125366210938],[35.16522598266602,32.19027328491211],[35.16606903076172,32.19140625],[35.1672248840332,32.19136810302734],[35.1679801940918,32.19034957885742],[35.16713714599609,32.18963241577148],[35.16580581665039,32.18917846679688],[35.16460418701172,32.18898773193359],[35.16336059570312,32.18842315673828]]],"type":"Polygon"}
+}

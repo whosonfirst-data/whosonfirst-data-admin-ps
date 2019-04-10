@@ -1,0 +1,106 @@
+{
+  "id": 101921359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000028,
+    "geom:area_square_m":289758.277342,
+    "geom:bbox":"35.0585289001,32.2420539856,35.0702705383,32.2461280823",
+    "geom:latitude":32.243963,
+    "geom:longitude":35.064776,
+    "gn:population":1107,
+    "iso:country":"PS",
+    "lbl:latitude":32.244554,
+    "lbl:longitude":35.065354,
+    "mps:latitude":32.244554,
+    "mps:longitude":35.065354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0635\u0648\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Kafr Sur"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Sur"
+    ],
+    "name:fre_x_preferred":[
+        "Kufr Sour"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e1\u05d5\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Sur"
+    ],
+    "name:unk_x_variant":[
+        "Kafr \u015e\u016br"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr Sur",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283353,
+        "gp:id":1937300,
+        "wd:id":"Q6346216",
+        "wk:page":"Kafr Sur"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f412715c46531b980a03f9b039772ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "empire_id":136253049,
+            "locality_id":101921359,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921359,
+    "wof:lastmodified":1534985972,
+    "wof:name":"Kafr Sur",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":1107,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613343
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05852890014648,
+    32.2420539855957,
+    35.07027053833008,
+    32.24612808227539
+],
+  "geometry": {"coordinates":[[[35.05852890014648,32.24253463745117],[35.05978012084961,32.24370193481445],[35.06148910522461,32.24467086791992],[35.06354141235352,32.24505996704102],[35.06479263305664,32.24612808227539],[35.06707382202148,32.24584197998047],[35.06832885742188,32.24555206298828],[35.06969833374023,32.24526214599609],[35.07027053833008,32.24429321289062],[35.06901931762695,32.24293518066406],[35.06764984130859,32.24293518066406],[35.06605529785156,32.24283599853516],[35.06480026245117,32.24322128295898],[35.06400299072266,32.24215316772461],[35.06251907348633,32.24205780029297],[35.06172180175781,32.24321746826172],[35.06206512451172,32.24224853515625],[35.06058120727539,32.2420539855957],[35.05852890014648,32.24253463745117]]],"type":"Polygon"}
+}

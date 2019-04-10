@@ -1,0 +1,122 @@
+{
+  "id": 101920909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":856341.629526,
+    "geom:bbox":"35.3556251526,32.4476699829,35.3713645935,32.4588050842",
+    "geom:latitude":32.453605,
+    "geom:longitude":35.363784,
+    "gn:population":5506,
+    "iso:country":"PS",
+    "lbl:latitude":32.45367,
+    "lbl:longitude":35.364976,
+    "mps:latitude":32.45367,
+    "mps:longitude":35.364976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0623\u0628\u0648 \u0636\u0639\u064a\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:dut_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:nob_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:nor_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr Abu Da\u2019if"
+    ],
+    "name:unk_x_variant":[
+        "Deir Ab\u016b \u1e0ca\u2018\u012bf"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Abu Da'if",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.455917,
+    "wd:longitude":35.365736,
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284105,
+        "gp:id":56123307,
+        "wd:id":"Q3380916"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8ea0ec5e7fd19dc9e172695e367080b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920909,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920909,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920909,
+    "wof:lastmodified":1549929872,
+    "wof:name":"Deir Abu Da'if",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":5506,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35562515258789,
+    32.44766998291016,
+    35.37136459350586,
+    32.45880508422852
+],
+  "geometry": {"coordinates":[[[35.35812377929688,32.45315551757812],[35.35656356811523,32.45395278930664],[35.35562515258789,32.45528030395508],[35.35719299316406,32.45731353759766],[35.35896301269531,32.45704650878906],[35.35969161987305,32.45624923706055],[35.36136245727539,32.45633316040039],[35.36188507080078,32.45739364624023],[35.36303329467773,32.45801162719727],[35.36418151855469,32.45880508422852],[35.36521911621094,32.4580078125],[35.36521911621094,32.45685958862305],[35.36594772338867,32.45615386962891],[35.36740875244141,32.45615005493164],[35.36865615844727,32.45561981201172],[35.37001037597656,32.45535278320312],[35.37136459350586,32.45455551147461],[35.37115478515625,32.45349502563477],[35.37042236328125,32.451904296875],[35.36844253540039,32.45164108276367],[35.36812591552734,32.45066833496094],[35.36812591552734,32.4496955871582],[35.36697769165039,32.44987487792969],[35.36573028564453,32.45084762573242],[35.3642692565918,32.45032119750977],[35.36426544189453,32.44873046875],[35.36186599731445,32.44766998291016],[35.36061859130859,32.44908905029297],[35.36062240600586,32.45059204101562],[35.35989379882812,32.45218276977539],[35.36166763305664,32.45217895507812],[35.3622932434082,32.45332717895508],[35.36021041870117,32.45394897460938],[35.35906219482422,32.45368576049805],[35.35812377929688,32.45315551757812]]],"type":"Polygon"}
+}

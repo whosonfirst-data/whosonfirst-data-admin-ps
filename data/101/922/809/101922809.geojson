@@ -1,0 +1,100 @@
+{
+  "id": 101922809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":38006.17371,
+    "geom:bbox":"35.1507644653,31.4746856689,35.1544761658,31.4774246216",
+    "geom:latitude":31.476212,
+    "geom:longitude":35.152492,
+    "iso:country":"PS",
+    "lbl:latitude":31.476411,
+    "lbl:longitude":35.15221,
+    "mps:latitude":31.476411,
+    "mps:longitude":35.15221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Hureiz"
+    ],
+    "name:eng_x_preferred":[
+        "Hureiz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e8\u05d9\u05d6"
+    ],
+    "name:nno_x_preferred":[
+        "Hureiz"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hureiz",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937307,
+        "wd:id":"Q5946496"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"399d0e866fca95db46f56adc2d4611ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922809,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922809,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922809,
+    "wof:lastmodified":1549929854,
+    "wof:name":"Hureiz",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15076446533203,
+    31.47468566894531,
+    35.15447616577148,
+    31.47742462158203
+],
+  "geometry": {"coordinates":[[[35.15127944946289,31.47601127624512],[35.15076446533203,31.47689437866211],[35.15138244628906,31.47742462158203],[35.15251922607422,31.47689437866211],[35.15354919433594,31.47610092163086],[35.15447616577148,31.47548294067383],[35.1540641784668,31.47468566894531],[35.15334320068359,31.47557067871094],[35.15272521972656,31.47565841674805],[35.15127944946289,31.47601127624512]]],"type":"Polygon"}
+}

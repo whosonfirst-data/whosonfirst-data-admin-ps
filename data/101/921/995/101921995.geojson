@@ -1,0 +1,88 @@
+{
+  "id": 101921995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":41796.860122,
+    "geom:bbox":"35.4571685791,31.8807296753,35.460975647,31.8840656281",
+    "geom:latitude":31.8824,
+    "geom:longitude":35.459378,
+    "iso:country":"PS",
+    "lbl:latitude":31.882163,
+    "lbl:longitude":35.459349,
+    "mps:latitude":31.882163,
+    "mps:longitude":35.459349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nuwei'ma",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":415,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937303,
+        "wd:id":"Q4749688"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"434128f1eccd97e252a9f2937e160d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921995,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921995,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921995,
+    "wof:lastmodified":1549929882,
+    "wof:name":"An Nuwei'ma",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45716857910156,
+    31.88072967529297,
+    35.46097564697266,
+    31.88406562805176
+],
+  "geometry": {"coordinates":[[[35.45970153808594,31.88072967529297],[35.45906448364258,31.88091278076172],[35.45906829833984,31.88154411315918],[35.45854187011719,31.88217544555664],[35.45748519897461,31.88235855102539],[35.45716857910156,31.88271903991699],[35.45907211303711,31.88271522521973],[35.45928573608398,31.88325691223145],[35.45981216430664,31.88379669189453],[35.46087265014648,31.88406562805176],[35.46097564697266,31.8837947845459],[35.46034240722656,31.8834342956543],[35.46012878417969,31.88289451599121],[35.46002197265625,31.88262367248535],[35.45991516113281,31.88172149658203],[35.46012496948242,31.88091087341309],[35.45970153808594,31.88072967529297]]],"type":"Polygon"}
+}

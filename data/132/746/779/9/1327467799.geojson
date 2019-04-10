@@ -1,0 +1,84 @@
+{
+  "id": 1327467799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10557,32.41108,35.10557,32.41108",
+    "geom:latitude":32.41108,
+    "geom:longitude":35.10557,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Nazla al-Sharqiya",
+    "gn:country_code":"PS",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7873927,
+    "gn:latitude":32.41108,
+    "gn:longitude":35.10557,
+    "gn:modification_date":"2011-06-27",
+    "gn:name":"Nazla al-Sharqiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazleh Sharqiyeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873927
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6bd9f9b58bcfdcf2c5d182529ee3ea83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327467799,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327467799,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1327467799,
+    "wof:lastmodified":1549929923,
+    "wof:name":"Nazla al-Sharqiya",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10557,
+    32.41108,
+    35.10557,
+    32.41108
+],
+  "geometry": {"coordinates":[35.10557,32.41108],"type":"Point"}
+}

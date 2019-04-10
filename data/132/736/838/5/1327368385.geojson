@@ -1,0 +1,82 @@
+{
+  "id": 1327368385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26667,31.33333,34.26667,31.33333",
+    "geom:latitude":31.33333,
+    "geom:longitude":34.26667,
+    "gn:admin1_code":"GZ",
+    "gn:asciiname":"Gadid",
+    "gn:country_code":"PS",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281136,
+    "gn:latitude":31.33333,
+    "gn:longitude":34.26667,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gadid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281136,
+        "wk:page":"Gadid"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0899754728cf86ad3fe082ef1d237682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1327368385,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1327368385,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1327368385,
+    "wof:lastmodified":1549928937,
+    "wof:name":"Gadid",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26667,
+    31.33333,
+    34.26667,
+    31.33333
+],
+  "geometry": {"coordinates":[34.26667,31.33333],"type":"Point"}
+}

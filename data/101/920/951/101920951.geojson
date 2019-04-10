@@ -1,0 +1,98 @@
+{
+  "id": 101920951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":59620.720104,
+    "geom:bbox":"35.1432113647,32.4315605164,35.1473464966,32.433921814",
+    "geom:latitude":32.432771,
+    "geom:longitude":35.145218,
+    "gn:population":418,
+    "iso:country":"PS",
+    "lbl:latitude":32.432982,
+    "lbl:longitude":35.144387,
+    "mps:latitude":32.432982,
+    "mps:longitude":35.144387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Imr\u012b\u1e29\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0625\u0645\u0631\u064a\u062d\u0627"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Imreiha",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895291,
+        "gp:id":1937299,
+        "qs:id":744191
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4ffd92736a1aa472fce92722494da9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920951,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920951,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920951,
+    "wof:lastmodified":1549929876,
+    "wof:name":"Imreiha",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14321136474609,
+    32.43156051635742,
+    35.14734649658203,
+    32.43392181396484
+],
+  "geometry": {"coordinates":[[[35.14590835571289,32.43206405639648],[35.14535903930664,32.43216705322266],[35.1441650390625,32.43209838867188],[35.14345169067383,32.43209838867188],[35.14321136474609,32.43236923217773],[35.14329147338867,32.43304443359375],[35.14336776733398,32.43344879150391],[35.14456176757812,32.43392181396484],[35.14511871337891,32.43351745605469],[35.14559555053711,32.43304443359375],[35.14639282226562,32.43351745605469],[35.1471061706543,32.43351745605469],[35.14718627929688,32.43304443359375],[35.14678955078125,32.4325065612793],[35.14734649658203,32.43216705322266],[35.14678955078125,32.43156051635742],[35.14603805541992,32.43198776245117],[35.14590835571289,32.43206405639648]]],"type":"Polygon"}
+}

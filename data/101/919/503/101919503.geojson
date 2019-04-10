@@ -1,0 +1,166 @@
+{
+  "id": 101919503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8981.154305,
+    "geom:bbox":"34.4937515259,31.555688858,34.4952926636,31.5572853088",
+    "geom:latitude":31.556645,
+    "geom:longitude":34.494599,
+    "gn:population":56919,
+    "iso:country":"PS",
+    "lbl:latitude":31.55676,
+    "lbl:longitude":34.494667,
+    "mps:latitude":31.55676,
+    "mps:longitude":34.494667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0644\u0627\u0647\u064a\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:cze_x_preferred":[
+        "Bajt Lah\u00edja"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:fre_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:ger_x_preferred":[
+        "Bait Lahiya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05dc\u05d0\u05d4\u05d9\u05d0"
+    ],
+    "name:ind_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:ita_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a4\u30c8\u30a5\u30fb\u30e9\u30d2\u30a2"
+    ],
+    "name:min_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:nob_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a\u200c\u0644\u0627\u0647\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Lahija"
+    ],
+    "name:por_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:sco_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:tur_x_preferred":[
+        "Beyt Lahya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0644\u0627\u06c1\u06cc\u0627"
+    ],
+    "name:wel_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Lahiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":31.5539,
+    "wd:longitude":34.501381,
+    "wd:population":59540,
+    "wd:wordcount":1126,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913267,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281145,
+        "gp:id":1979608,
+        "wd:id":"Q803986",
+        "wk:page":"Beit Lahia"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d53218f686c338a8f85ca5b6d75a2850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919503,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919503,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101919503,
+    "wof:lastmodified":1549928910,
+    "wof:name":"Beit Lahiya",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:population":59540,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.49375152587891,
+    31.55568885803223,
+    34.49529266357422,
+    31.55728530883789
+],
+  "geometry": {"coordinates":[[[34.49488067626953,31.55568885803223],[34.4946403503418,31.55574989318848],[34.49469375610352,31.55650329589844],[34.49375152587891,31.55692863464355],[34.49394226074219,31.55728530883789],[34.49491882324219,31.55690574645996],[34.49500274658203,31.55701637268066],[34.49529266357422,31.5568733215332],[34.49508666992188,31.55664443969727],[34.49501419067383,31.5563793182373],[34.4949951171875,31.55613327026367],[34.49491500854492,31.55572891235352],[34.49488067626953,31.55568885803223]]],"type":"Polygon"}
+}

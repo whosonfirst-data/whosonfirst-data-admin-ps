@@ -1,0 +1,98 @@
+{
+  "id": 101922493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":98215.51362,
+    "geom:bbox":"35.1211013794,31.6602687836,35.1251144409,31.6639118195",
+    "geom:latitude":31.661807,
+    "geom:longitude":35.123201,
+    "gn:population":183,
+    "iso:country":"PS",
+    "lbl:latitude":31.661522,
+    "lbl:longitude":35.123162,
+    "mps:latitude":31.661522,
+    "mps:longitude":35.123162,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0629 \u0633\u0643\u0627\u0631\u064a\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Bayt Zakar\u012by\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khallet Sakariya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283124,
+        "gp:id":1936768,
+        "qs:id":547047
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"200e754d69b30a9bf4a2df09cecc928f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922493,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922493,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922493,
+    "wof:lastmodified":1549929825,
+    "wof:name":"Khallet Sakariya",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12110137939453,
+    31.66026878356934,
+    35.12511444091797,
+    31.66391181945801
+],
+  "geometry": {"coordinates":[[[35.12282180786133,31.66391181945801],[35.12331390380859,31.66293144226074],[35.12331390380859,31.66272163391113],[35.12413024902344,31.66279220581055],[35.12511444091797,31.66272163391113],[35.12503433227539,31.6618824005127],[35.12503433227539,31.6607608795166],[35.12421417236328,31.66027069091797],[35.12266159057617,31.66026878356934],[35.12142944335938,31.66145896911621],[35.12110137939453,31.66236877441406],[35.12282180786133,31.66391181945801]]],"type":"Polygon"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1125854815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.14192,32.11424,35.14192,32.11424",
+    "geom:latitude":32.11424,
+    "geom:longitude":35.14192,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2967,
+    "gn:population":2967,
+    "iso:country":"PS",
+    "lbl:latitude":32.11424,
+    "lbl:longitude":35.14192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u1e28\u0101ris"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0627\u0631\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Haris"
+    ],
+    "name:dut_x_preferred":[
+        "Haris"
+    ],
+    "name:eng_x_preferred":[
+        "Haris"
+    ],
+    "name:nno_x_preferred":[
+        "Haris i Salfit"
+    ],
+    "name:pol_x_preferred":[
+        "Haris"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283735,
+    "qs_pg:gn_pop":2967,
+    "qs_pg:name":"\u1e28\u0101ris",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123961,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283735,
+        "qs_pg:id":123961,
+        "wd:id":"Q4119467"
+    },
+    "wof:country":"PS",
+    "wof:created":1497293569,
+    "wof:geomhash":"e8c8c600d313d61efb797c3dbdc60b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125854815,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125854815,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125854815,
+    "wof:lastmodified":1549929762,
+    "wof:name":"\u1e28\u0101ris",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:population":2967,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14192,
+    32.11424,
+    35.14192,
+    32.11424
+],
+  "geometry": {"coordinates":[35.14192,32.11424],"type":"Point"}
+}

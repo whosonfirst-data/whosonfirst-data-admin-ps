@@ -1,0 +1,124 @@
+{
+  "id": 101921621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":799248.181223,
+    "geom:bbox":"35.0077095032,32.1141433716,35.0220870972,32.1272544861",
+    "geom:latitude":32.120146,
+    "geom:longitude":35.015355,
+    "gn:population":1746,
+    "iso:country":"PS",
+    "lbl:latitude":32.122291,
+    "lbl:longitude":35.017751,
+    "mps:latitude":32.122291,
+    "mps:longitude":35.017751,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0648\u0646 \u0639\u062a\u0645\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:eng_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d6\u05d5\u05df \u05e2\u05ea\u05de\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:nob_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:nor_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:pol_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:unk_x_variant":[
+        "Azoon Atmah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Azzun 'Atma",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.123056,
+    "wd:longitude":35.016111,
+    "wd:wordcount":605,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871005,
+        "gp:id":1937157,
+        "qs:id":743266,
+        "wd:id":"Q4119457",
+        "wk:page":"Azzun Atma"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"798fd21fa03c8876a965bcd76dd351a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921621,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921621,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921621,
+    "wof:lastmodified":1549929833,
+    "wof:name":"'Azzun 'Atma",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":1746,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00770950317383,
+    32.11414337158203,
+    35.02208709716797,
+    32.12725448608398
+],
+  "geometry": {"coordinates":[[[35.01638793945312,32.11772537231445],[35.01773834228516,32.11987686157227],[35.01647186279297,32.12102890014648],[35.01385116577148,32.12163925170898],[35.01204681396484,32.12094497680664],[35.01115036010742,32.11771774291992],[35.00929641723633,32.11835098266602],[35.00970840454102,32.1196403503418],[35.01039123535156,32.12151718139648],[35.00804901123047,32.12197875976562],[35.00770950317383,32.12324142456055],[35.00941848754883,32.12549591064453],[35.01051712036133,32.12725448608398],[35.01122283935547,32.12624740600586],[35.01104736328125,32.12424850463867],[35.01213455200195,32.12302017211914],[35.01437759399414,32.12339401245117],[35.01698684692383,32.12421798706055],[35.01850128173828,32.12387084960938],[35.02056884765625,32.12211608886719],[35.02208709716797,32.11989593505859],[35.02140426635742,32.11837005615234],[35.02072143554688,32.11614608764648],[35.01906967163086,32.11508941650391],[35.01700592041016,32.11543655395508],[35.01522064208984,32.11461639404297],[35.01425933837891,32.11414337158203],[35.01150894165039,32.1142578125],[35.01269149780273,32.11579895019531],[35.01638793945312,32.11772537231445]]],"type":"Polygon"}
+}

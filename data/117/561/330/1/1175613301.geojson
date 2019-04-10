@@ -1,0 +1,96 @@
+{
+  "id": 1175613301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":45334.320223,
+    "geom:bbox":"34.9852905273,31.5341320038,34.9920959473,31.5386295319",
+    "geom:latitude":31.536579,
+    "geom:longitude":34.9891,
+    "iso:country":"PS",
+    "lbl:latitude":31.53803,
+    "lbl:longitude":34.99115,
+    "mps:latitude":31.53803,
+    "mps:longitude":34.99115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0635\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat \u1e28ums\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Humsa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283653,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1bb870d85e3f126675d14b665a8ea86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613301,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613301,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613301,
+    "wof:lastmodified":1549929620,
+    "wof:name":"Humsa",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101919665,
+        101919647
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98529052734375,
+    31.53413200378418,
+    34.99209594726562,
+    31.53862953186035
+],
+  "geometry": {"coordinates":[[[[34.98529052734375,31.53413200378418],[34.98644256591797,31.53520965576172],[34.98714065551758,31.53554153442383],[34.9875602722168,31.5356616973877],[34.9878044128418,31.5350341796875],[34.98710632324219,31.53446388244629],[34.98640823364258,31.53422355651855],[34.98529052734375,31.53413200378418]]],[[[34.98961639404297,31.53751945495605],[34.99017333984375,31.53814888000488],[34.99108123779297,31.53862953186035],[34.99156951904297,31.53851127624512],[34.99209594726562,31.53818321228027],[34.99199295043945,31.53749465942383],[34.99090957641602,31.53743362426758],[34.98989486694336,31.53710174560547],[34.98916244506836,31.53701019287109],[34.98916244506836,31.53748893737793],[34.98961639404297,31.53751945495605]]]],"type":"MultiPolygon"}
+}

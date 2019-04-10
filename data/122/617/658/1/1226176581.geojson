@@ -1,0 +1,62 @@
+{
+  "id": 1226176581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45,31.55,34.45,31.55",
+    "geom:latitude":31.55,
+    "geom:longitude":34.45,
+    "gn:admin1_code":"GZ",
+    "gn:asciiname":"Dugit",
+    "gn:country_code":"PS",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281139,
+    "gn:latitude":31.55,
+    "gn:longitude":34.45,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Dugit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281139,
+        "wk:page":"Dugit"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1b8fd770728d5d604f0e0ae075e30f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226176581,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226176581,
+    "wof:lastmodified":1537571929,
+    "wof:name":"Dugit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45,
+    31.55,
+    34.45,
+    31.55
+],
+  "geometry": {"coordinates":[34.45,31.55],"type":"Point"}
+}

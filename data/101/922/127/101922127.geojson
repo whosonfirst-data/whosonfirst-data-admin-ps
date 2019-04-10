@@ -1,0 +1,86 @@
+{
+  "id": 101922127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13728.873038,
+    "geom:bbox":"35.474407196,31.8348731995,35.475566864,31.8365154266",
+    "geom:latitude":31.835685,
+    "geom:longitude":35.474997,
+    "iso:country":"PS",
+    "lbl:latitude":31.835706,
+    "lbl:longitude":35.474996,
+    "mps:latitude":31.835706,
+    "mps:longitude":35.474996,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Hajla",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56122789
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f564e791865c91b44647196cb094ad69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922127,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922127,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922127,
+    "wof:lastmodified":1549929792,
+    "wof:name":"Deir Hajla",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47440719604492,
+    31.83487319946289,
+    35.47556686401367,
+    31.83651542663574
+],
+  "geometry": {"coordinates":[[[35.47440719604492,31.83600807189941],[35.47497177124023,31.83651542663574],[35.47556686401367,31.83611869812012],[35.47546768188477,31.83541107177734],[35.47520065307617,31.83487319946289],[35.47460174560547,31.83498764038086],[35.47457122802734,31.83535575866699],[35.47440719604492,31.83600807189941]]],"type":"Polygon"}
+}

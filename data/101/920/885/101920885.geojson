@@ -1,0 +1,79 @@
+{
+  "id": 101920885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000003,
+    "geom:area_square_m":35895.991166,
+    "geom:bbox":"35.3322715759,32.4557266235,35.334487915,32.4580917358",
+    "geom:latitude":32.456765,
+    "geom:longitude":35.333301,
+    "geonames:id":"285360,282278",
+    "iso:country":"PS",
+    "lbl:latitude":32.456638,
+    "lbl:longitude":35.333322,
+    "mps:latitude":32.456638,
+    "mps:longitude":35.333322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Aba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"72d73d0acc23080123402d09f2fbcacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101920885,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920885,
+    "wof:lastmodified":1534985969,
+    "wof:name":"'Aba",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613253
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33227157592773,
+    32.45572662353516,
+    35.33448791503906,
+    32.45809173583984
+],
+  "geometry": {"coordinates":[[[35.33246231079102,32.45608520507812],[35.33227157592773,32.45705795288086],[35.33253860473633,32.45777130126953],[35.33307647705078,32.45809173583984],[35.33338165283203,32.45754241943359],[35.33399200439453,32.45731353759766],[35.33444976806641,32.45689392089844],[35.33448791503906,32.45634078979492],[35.33402633666992,32.45588684082031],[35.33318710327148,32.45572662353516],[35.33246231079102,32.45608520507812]]],"type":"Polygon"}
+}

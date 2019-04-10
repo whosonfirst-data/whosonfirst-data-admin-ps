@@ -1,0 +1,117 @@
+{
+  "id": 1125839131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.14936,31.82424,35.14936,31.82424",
+    "geom:latitude":31.82424,
+    "geom:longitude":35.14936,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3705,
+    "gn:population":3705,
+    "iso:country":"PS",
+    "lbl:latitude":31.82424,
+    "lbl:longitude":35.14936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u0648\u0631\u064a\u0643"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Surik"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Surik"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e1\u05d5\u05e8\u05d9\u05db"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Sirik"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u0633\u0648\u0631\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Surik"
+    ],
+    "name:unk_x_variant":[
+        "Beit S\u016br\u012bk"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284297,
+    "qs_pg:gn_pop":3705,
+    "qs_pg:name":"Bayt S\u016br\u012bk",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":79935,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284297,
+        "qs_pg:id":79935,
+        "wd:id":"Q2918328"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292853,
+    "wof:geomhash":"7352b4a8c0612067faa165dd28bef18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125839131,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125839131,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125839131,
+    "wof:lastmodified":1549929755,
+    "wof:name":"Bayt S\u016br\u012bk",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":3705,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14936,
+    31.82424,
+    35.14936,
+    31.82424
+],
+  "geometry": {"coordinates":[35.14936,31.82424],"type":"Point"}
+}

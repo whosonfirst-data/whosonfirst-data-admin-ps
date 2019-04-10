@@ -1,0 +1,118 @@
+{
+  "id": 1175613409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":314572.318636,
+    "geom:bbox":"35.31432724,32.2129478455,35.325378418,32.2189979553",
+    "geom:latitude":32.215882,
+    "geom:longitude":35.320536,
+    "gn:population":2194,
+    "iso:country":"PS",
+    "lbl:latitude":32.213828,
+    "lbl:longitude":35.315664,
+    "mps:latitude":32.213828,
+    "mps:longitude":35.315664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u062d\u0637\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Deir al-Hatab"
+    ],
+    "name:dut_x_preferred":[
+        "Deir al-Hatab"
+    ],
+    "name:eng_x_preferred":[
+        "Deir al-Hatab"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05d0\u05dc-\u05d7\u05d8\u05d1"
+    ],
+    "name:nno_x_preferred":[
+        "Deir al-Hatab"
+    ],
+    "name:unk_x_variant":[
+        "Deir el Hatab"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir al Hatab",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284099,
+        "gp:id":1937300,
+        "qs:id":123972,
+        "wd:id":"Q5252533",
+        "wk:page":"Deir al-Hatab"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"628c60d4745794b8e985aaa3c813f85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613409,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613409,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613409,
+    "wof:lastmodified":1549929647,
+    "wof:name":"Deir al Hatab",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2194,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101921415,
+        101921413
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31432723999023,
+    32.21294784545898,
+    35.32537841796875,
+    32.21899795532227
+],
+  "geometry": {"coordinates":[[[[35.31432723999023,32.21318435668945],[35.31460189819336,32.21442794799805],[35.31715774536133,32.21442413330078],[35.31669998168945,32.21334075927734],[35.31523895263672,32.21318435668945],[35.31432723999023,32.21318435668945]]],[[[35.31852722167969,32.21527862548828],[35.3187141418457,32.2166748046875],[35.31771087646484,32.21745300292969],[35.31917190551758,32.2181510925293],[35.32063293457031,32.21822738647461],[35.32236862182617,32.21884536743164],[35.32355499267578,32.21899795532227],[35.32373428344727,32.21806716918945],[35.32537841796875,32.21744537353516],[35.32464599609375,32.21643829345703],[35.32309341430664,32.21558380126953],[35.32245254516602,32.2143440246582],[35.31998825073242,32.21294784545898],[35.31788635253906,32.21318435668945],[35.3179817199707,32.21473693847656],[35.31852722167969,32.21527862548828]]]],"type":"MultiPolygon"}
+}

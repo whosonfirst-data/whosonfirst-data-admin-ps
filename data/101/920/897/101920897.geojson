@@ -1,0 +1,111 @@
+{
+  "id": 101920897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14.424418,
+    "geom:bbox":"35.1415519714,32.4534683228,35.1416358948,32.453540802",
+    "geom:latitude":32.453517,
+    "geom:longitude":35.141595,
+    "gn:population":907,
+    "iso:country":"PS",
+    "lbl:latitude":32.453677,
+    "lbl:longitude":35.141769,
+    "mps:latitude":32.453677,
+    "mps:longitude":35.141769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u0631\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Tura al-Gharbiya"
+    ],
+    "name:dut_x_preferred":[
+        "Tura al-Gharbiya"
+    ],
+    "name:eng_x_preferred":[
+        "Tura al-Gharbiya"
+    ],
+    "name:nno_x_preferred":[
+        "Tura al-Gharbiya"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat \u0162\u016br\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tura al Gharbiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281566,
+        "gp:id":1937299,
+        "wd:id":"Q7853634",
+        "wk:page":"Tura al-Gharbiya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1f707f33676b44868a77aec785f36f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920897,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920897,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920897,
+    "wof:lastmodified":1549929871,
+    "wof:name":"Tura al Gharbiya",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":907,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14155197143555,
+    32.45346832275391,
+    35.14163589477539,
+    32.45354080200195
+],
+  "geometry": {"coordinates":[[[35.14163589477539,32.45354080200195],[35.14155197143555,32.45346832275391],[35.14159774780273,32.45354080200195],[35.14163589477539,32.45354080200195]]],"type":"Polygon"}
+}

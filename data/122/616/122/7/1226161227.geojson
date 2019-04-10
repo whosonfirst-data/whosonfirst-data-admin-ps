@@ -1,0 +1,87 @@
+{
+  "id": 1226161227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10556,31.42264,35.10556,31.42264",
+    "geom:latitude":31.42264,
+    "geom:longitude":35.10556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Qanan Jabir",
+    "gn:country_code":"PS",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892552,
+    "gn:latitude":31.42264,
+    "gn:longitude":35.10556,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qan\u0101n J\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0627\u0646 \u062c\u0627\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qan\u0101n J\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892552
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"393434a1e6294abc9538f6097d09daa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226161227,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226161227,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226161227,
+    "wof:lastmodified":1549929888,
+    "wof:name":"Qanan Jabir",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10556,
+    31.42264,
+    35.10556,
+    31.42264
+],
+  "geometry": {"coordinates":[35.10556,31.42264],"type":"Point"}
+}

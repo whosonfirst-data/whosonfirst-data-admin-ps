@@ -1,0 +1,111 @@
+{
+  "id": 1126109739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2036,31.8508,35.2036,31.8508",
+    "geom:latitude":31.8508,
+    "geom:longitude":35.2036,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4776,
+    "gn:population":4776,
+    "iso:country":"PS",
+    "lbl:latitude":31.8508,
+    "lbl:longitude":35.2036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0646\u0628\u0627\u0644\u0627"
+    ],
+    "name:unk_x_variant":[
+        "B\u012br Nab\u0101l\u0101"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284238,
+    "qs_pg:gn_pop":4776,
+    "qs_pg:name":"Bir Nabala",
+    "qs_pg:name_adm0":"Palestine",
+    "qs_pg:name_adm1":"West Bank",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":542418,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":28289408,
+    "qs_pg:woe_id":56123366,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":28289408,
+    "woe:name_adm0":"Palestine",
+    "woe:name_adm1":"West Bank",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        101922065,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284238,
+        "gp:id":56123366,
+        "qs_pg:id":542418
+    },
+    "wof:country":"PS",
+    "wof:created":1497317972,
+    "wof:geomhash":"4d2c56451f0d82d975c819585c269477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922065,
+            "neighbourhood_id":1126109739,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922065,
+            "neighbourhood_id":1126109739,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126109739,
+    "wof:lastmodified":1549929929,
+    "wof:name":"Bir Nabala",
+    "wof:parent_id":101922065,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4776,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2036,
+    31.8508,
+    35.2036,
+    31.8508
+],
+  "geometry": {"coordinates":[35.2036,31.8508],"type":"Point"}
+}

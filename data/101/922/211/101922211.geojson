@@ -1,0 +1,86 @@
+{
+  "id": 101922211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6871.641084,
+    "geom:bbox":"35.2572844119,31.7838191986,35.2578887939,31.7852344513",
+    "geom:latitude":31.784575,
+    "geom:longitude":35.257594,
+    "iso:country":"PS",
+    "lbl:latitude":31.779811,
+    "lbl:longitude":35.248543,
+    "mps:latitude":31.779811,
+    "mps:longitude":35.248543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u0163 \u0162\u016br"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0648\u0631"
+    ],
+    "name:unk_x_variant":[
+        "\u1e6cur"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"At Tur",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284555,
+        "wd:id":"Q2916177",
+        "wk:page":"At-Tur (Mount of Olives)"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"db09bb694fcd86f43d15a0d917dbf34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922211,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922211,
+    "wof:lastmodified":1549931493,
+    "wof:name":"At Tur",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25728441187154,
+    31.7838191986084,
+    35.25788879394531,
+    31.78523445129395
+],
+  "geometry": {"coordinates":[[[[35.25730809556645,31.78520727734571],[35.25772857666016,31.78523445129395],[35.25778961181641,31.78506278991699],[35.25784683227539,31.7846794128418],[35.25787353515625,31.78420066833496],[35.25788879394531,31.78389167785645],[35.25767135620117,31.7838191986084],[35.2574577331543,31.78411483764648],[35.25739669799805,31.78425025939941],[35.25728441187154,31.78444180632111],[35.25730809556645,31.78520727734571]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 101921087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":42799.375637,
+    "geom:bbox":"35.4074363708,32.3741378784,35.4101753235,32.3760223389",
+    "geom:latitude":32.37502,
+    "geom:longitude":35.409049,
+    "gn:population":208,
+    "iso:country":"PS",
+    "lbl:latitude":32.375081,
+    "lbl:longitude":35.40916,
+    "mps:latitude":32.375081,
+    "mps:longitude":35.40916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ibz\u012bq"
+    ],
+    "name:ara_x_variant":[
+        "\u0625\u0628\u0632\u064a\u0642"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Ibziq"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ibziq",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283625,
+        "gp:id":1937299,
+        "qs:id":79915
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5ed3e588a25a4c972dfd7e44c9343c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921087,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921087,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921087,
+    "wof:lastmodified":1549929787,
+    "wof:name":"Ibziq",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":208,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40743637084961,
+    32.37413787841797,
+    35.41017532348633,
+    32.37602233886719
+],
+  "geometry": {"coordinates":[[[35.40769958496094,32.37502670288086],[35.40874099731445,32.37602233886719],[35.41017532348633,32.37601852416992],[35.41017150878906,32.37413787841797],[35.40860748291016,32.37414169311523],[35.40743637084961,32.37447738647461],[35.40769958496094,32.37502670288086]]],"type":"Polygon"}
+}

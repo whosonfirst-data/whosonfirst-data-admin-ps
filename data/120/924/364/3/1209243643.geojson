@@ -1,0 +1,89 @@
+{
+  "id": 1209243643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.96064,31.53123,34.96064,31.53123",
+    "geom:latitude":31.53123,
+    "geom:longitude":34.96064,
+    "gn:admin1_code":"WE",
+    "gn:admin2_code":"7870658",
+    "gn:asciiname":"al-Kum",
+    "gn:country_code":"PS",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870669,
+    "gn:latitude":31.53123,
+    "gn:longitude":34.96064,
+    "gn:modification_date":"2016-12-10",
+    "gn:name":"al-Kum",
+    "gn:population":2568,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alkoum"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870669,
+        "wk:page":"Al-Kum"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"267a0937acf152e26ab6eb54ab790f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209243643,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209243643,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209243643,
+    "wof:lastmodified":1549929761,
+    "wof:name":"al-Kum",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":2568,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96064000000001,
+    31.53123,
+    34.96064000000001,
+    31.53123
+],
+  "geometry": {"coordinates":[34.96064000000001,31.53123],"type":"Point"}
+}

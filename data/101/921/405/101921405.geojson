@@ -1,0 +1,112 @@
+{
+  "id": 101921405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":529667.800837,
+    "geom:bbox":"35.1387443542,32.2163162231,35.1511421204,32.2243614197",
+    "geom:latitude":32.220435,
+    "geom:longitude":35.144154,
+    "gn:population":3376,
+    "iso:country":"PS",
+    "lbl:latitude":32.220719,
+    "lbl:longitude":35.143543,
+    "mps:latitude":32.220719,
+    "mps:longitude":35.143543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0642\u062f\u0648\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Qaddum"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e7\u05d3\u05d5\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Qaddum"
+    ],
+    "name:unk_x_variant":[
+        "Allen More"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr Qaddum",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.221667,
+    "wd:longitude":35.142778,
+    "wd:wordcount":1377,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283366,
+        "gp:id":56123339,
+        "qs:id":872488,
+        "wd:id":"Q2896936",
+        "wk:page":"Kafr Qaddum"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"82930c1e6f013d4400ddf65f1836bf87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921405,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921405,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921405,
+    "wof:lastmodified":1549929814,
+    "wof:name":"Kafr Qaddum",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":3376,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13874435424805,
+    32.21631622314453,
+    35.15114212036133,
+    32.22436141967773
+],
+  "geometry": {"coordinates":[[[35.15114212036133,32.21937942504883],[35.15020751953125,32.21756744384766],[35.14887619018555,32.21779251098633],[35.14887619018555,32.21903991699219],[35.14687728881836,32.21949005126953],[35.14554214477539,32.21903610229492],[35.14474487304688,32.21813201904297],[35.14594268798828,32.21710968017578],[35.14501190185547,32.21631622314453],[35.1435432434082,32.21733474731445],[35.14301300048828,32.21767425537109],[35.13874435424805,32.21914672851562],[35.13887786865234,32.22141265869141],[35.13927459716797,32.22277450561523],[35.14194107055664,32.22299957275391],[35.14300537109375,32.22436141967773],[35.14607238769531,32.2228889465332],[35.14700698852539,32.22187042236328],[35.14980697631836,32.22073745727539],[35.15114212036133,32.21937942504883]]],"type":"Polygon"}
+}

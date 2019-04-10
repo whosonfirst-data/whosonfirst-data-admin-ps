@@ -1,0 +1,115 @@
+{
+  "id": 101921941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":337883.291864,
+    "geom:bbox":"35.1453170776,31.9238815308,35.1611289978,31.9286880493",
+    "geom:latitude":31.926823,
+    "geom:longitude":35.152859,
+    "gn:population":801,
+    "iso:country":"PS",
+    "lbl:latitude":31.926759,
+    "lbl:longitude":35.149446,
+    "mps:latitude":31.926759,
+    "mps:longitude":35.149446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0642\u064a\u0646\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Ayn Q\u012bniy\u0101"
+    ],
+    "name:dut_x_preferred":[
+        "Ein Qiniya"
+    ],
+    "name:eng_x_preferred":[
+        "Ein Qiniya"
+    ],
+    "name:nno_x_preferred":[
+        "Ein Qiniya"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Ayn Q\u012bn\u012byah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Ein Qiniya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.927,
+    "wd:longitude":35.149,
+    "wd:wordcount":1004,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284501,
+        "gp:id":56125349,
+        "qs:id":547087,
+        "wd:id":"Q5349589",
+        "wk:page":"Ein Qiniya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c2aaab662d36b52dae086e678ac71780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921941,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921941,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921941,
+    "wof:lastmodified":1549929878,
+    "wof:name":"'Ein Qiniya",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":801,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14531707763672,
+    31.92388153076172,
+    35.16112899780273,
+    31.92868804931641
+],
+  "geometry": {"coordinates":[[[35.14531707763672,31.9261531829834],[35.14650344848633,31.92682838439941],[35.14788436889648,31.92708206176758],[35.14857864379883,31.92800903320312],[35.1501579284668,31.92868423461914],[35.15114593505859,31.92801094055176],[35.15401077270508,31.92843437194824],[35.15776824951172,31.92868804931641],[35.15895462036133,31.9278450012207],[35.1606330871582,31.92750930786133],[35.16112899780273,31.92633056640625],[35.16004180908203,31.92565536499023],[35.15885543823242,31.92641258239746],[35.15717315673828,31.92683410644531],[35.15579223632812,31.92674827575684],[35.15420913696289,31.92700004577637],[35.15262985229492,31.92641067504883],[35.15075302124023,31.92624092102051],[35.15174102783203,31.92556762695312],[35.15193939208984,31.92413520812988],[35.15036010742188,31.92388153076172],[35.14907455444336,31.92463874816895],[35.14828109741211,31.92548179626465],[35.14699935913086,31.92564964294434],[35.14531707763672,31.9261531829834]]],"type":"Polygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101922037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11242.312025,
+    "geom:bbox":"35.2119026184,31.8600578308,35.2135925293,31.8608970642",
+    "geom:latitude":31.860492,
+    "geom:longitude":35.21278,
+    "gn:population":1169,
+    "iso:country":"PS",
+    "lbl:latitude":31.860453,
+    "lbl:longitude":35.212796,
+    "mps:latitude":31.860453,
+    "mps:longitude":35.212796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qalandiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282461,
+        "gp:id":1937180
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f5add0fc3e00acc54a85bdca1fa267e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922037,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922037,
+    "wof:lastmodified":1549931386,
+    "wof:name":"Qalandiya",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:population":1169,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891699
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2119026184082,
+    31.86005783081055,
+    35.21359252929688,
+    31.86089706420898
+],
+  "geometry": {"coordinates":[[[35.2119026184082,31.86058616638184],[35.21194458007812,31.86086654663086],[35.2121467590332,31.86087989807129],[35.21231460571289,31.86077308654785],[35.21283340454102,31.86084938049316],[35.21342468261719,31.86089706420898],[35.21359252929688,31.86020088195801],[35.21277618408203,31.86005783081055],[35.21207427978516,31.86022567749023],[35.21207809448242,31.86056518554688],[35.2119026184082,31.86058616638184]]],"type":"Polygon"}
+}

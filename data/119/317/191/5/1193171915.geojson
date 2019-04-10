@@ -1,0 +1,85 @@
+{
+  "id": 1193171915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52585,32.10231,35.52585,32.10231",
+    "geom:latitude":32.10231,
+    "geom:longitude":35.52585,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Mashra` Abu Gharbah",
+    "gn:country_code":"PS",
+    "gn:dem":-291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":282834,
+    "gn:latitude":32.10231,
+    "gn:longitude":35.52585,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mashra\u2018 Ab\u016b Gharbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mashra\u2018 Ab\u016b Gharba",
+        "Mashra\u2018 Ab\u016b Gharbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282834
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"60d0ff10171bebbc18d22aa3ac2579aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1193171915,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1193171915,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1193171915,
+    "wof:lastmodified":1549929575,
+    "wof:name":"Mashra` Abu Gharbah",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52585,
+    32.10231,
+    35.52585,
+    32.10231
+],
+  "geometry": {"coordinates":[35.52585,32.10231],"type":"Point"}
+}

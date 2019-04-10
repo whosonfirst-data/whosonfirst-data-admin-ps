@@ -1,0 +1,112 @@
+{
+  "id": 101922621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000005,
+    "geom:area_square_m":49056.774936,
+    "geom:bbox":"35.1473236084,31.6115245819,35.1499938965,31.6140480042",
+    "geom:latitude":31.612824,
+    "geom:longitude":35.148629,
+    "gn:population":10579,
+    "iso:country":"PS",
+    "lbl:latitude":31.612827,
+    "lbl:longitude":35.148737,
+    "mps:latitude":31.612827,
+    "mps:longitude":35.148737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0641\u062c\u0627\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Fajjar"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Fajjar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e4\u05d2'\u05d0\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Fajjar"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Fad\u017cd\u017car"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Fajjar"
+    ],
+    "name:unk_x_variant":[
+        "Beit Fajj\u0101r"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Fajjar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.624731,
+    "wd:longitude":35.155608,
+    "wd:wordcount":1080,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284341,
+        "gp:id":56123335,
+        "wd:id":"Q4881435",
+        "wk:page":"Beit Fajjar"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"dbe1c1d5b9810e280d3d26736df164d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101922621,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922621,
+    "wof:lastmodified":1534985974,
+    "wof:name":"Beit Fajjar",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":10579,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613371
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14732360839844,
+    31.61152458190918,
+    35.14999389648438,
+    31.61404800415039
+],
+  "geometry": {"coordinates":[[[35.14753341674805,31.61374855041504],[35.14834213256836,31.61404800415039],[35.14921951293945,31.61389923095703],[35.14988708496094,31.61317825317383],[35.14999389648438,31.61254692077637],[35.14950180053711,31.6120662689209],[35.1484489440918,31.61152458190918],[35.14732360839844,31.61206436157227],[35.14767456054688,31.61284637451172],[35.14753341674805,31.61374855041504]]],"type":"Polygon"}
+}

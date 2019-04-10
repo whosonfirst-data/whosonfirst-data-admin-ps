@@ -1,0 +1,99 @@
+{
+  "id": 101922151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5156.169346,
+    "geom:bbox":"35.2577476501,31.8277206421,35.2588500977,31.8286075592",
+    "geom:latitude":31.828202,
+    "geom:longitude":35.258307,
+    "gn:population":5916,
+    "iso:country":"PS",
+    "lbl:latitude":31.828205,
+    "lbl:longitude":35.258305,
+    "mps:latitude":31.828205,
+    "mps:longitude":35.258305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062d\u0632\u0645\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Hizma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d9\u05d6\u05de\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Hizma"
+    ],
+    "name:per_x_preferred":[
+        "\u062d\u0632\u0645\u0627"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hizma",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.835,
+    "wd:longitude":35.261944,
+    "wd:wordcount":1360,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283676,
+        "wd:id":"Q2907886",
+        "wk:page":"Hizma"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"66f8512e53058ffe12993e9acfd6e8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922151,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922151,
+    "wof:lastmodified":1549931394,
+    "wof:name":"Hizma",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:population":5916,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891657
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25774765014648,
+    31.82772064208984,
+    35.25885009765625,
+    31.8286075592041
+],
+  "geometry": {"coordinates":[[[35.25776672363281,31.82814407348633],[35.258056640625,31.82840156555176],[35.25850677490234,31.8286075592041],[35.25885009765625,31.82846450805664],[35.25854110717773,31.82805633544922],[35.25848770141602,31.82784080505371],[35.25843048095703,31.82772064208984],[35.25819396972656,31.82785797119141],[35.25803756713867,31.82799339294434],[35.25774765014648,31.8279857635498],[35.25776672363281,31.82814407348633]]],"type":"Polygon"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1226061101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40957,31.84144,35.40957,31.84144",
+    "geom:latitude":31.84144,
+    "geom:longitude":35.40957,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dayr al Qilt",
+    "gn:country_code":"PS",
+    "gn:dem":-57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7898374,
+    "gn:latitude":31.84144,
+    "gn:longitude":35.40957,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dayr al Qil\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0642\u0644\u0637"
+    ],
+    "name:und_x_variant":[
+        "Dayr al Qil\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898374
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b4323edd5471aacd80c391447550a93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226061101,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226061101,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226061101,
+    "wof:lastmodified":1549929888,
+    "wof:name":"Dayr al Qilt",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40957,
+    31.84144,
+    35.40957,
+    31.84144
+],
+  "geometry": {"coordinates":[35.40957,31.84144],"type":"Point"}
+}

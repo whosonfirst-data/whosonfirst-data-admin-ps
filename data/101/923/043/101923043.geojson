@@ -1,0 +1,86 @@
+{
+  "id": 101923043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5706.868875,
+    "geom:bbox":"35.1632843018,31.3948936462,35.164440155,31.3958854675",
+    "geom:latitude":31.395321,
+    "geom:longitude":35.163793,
+    "iso:country":"PS",
+    "lbl:latitude":31.395294,
+    "lbl:longitude":35.163787,
+    "mps:latitude":31.395294,
+    "mps:longitude":35.163787,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet al Maq'ura",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c4de3a2a98d94a06173f5723d1fc2753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923043,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923043,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923043,
+    "wof:lastmodified":1549929781,
+    "wof:name":"Khirbet al Maq'ura",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16328430175781,
+    31.39489364624023,
+    35.1644401550293,
+    31.3958854675293
+],
+  "geometry": {"coordinates":[[[35.16370391845703,31.39489364624023],[35.16328430175781,31.39561462402344],[35.16360092163086,31.3958854675293],[35.1644401550293,31.39498329162598],[35.16370391845703,31.39489364624023]]],"type":"Polygon"}
+}

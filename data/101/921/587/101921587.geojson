@@ -1,0 +1,86 @@
+{
+  "id": 101921587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9699.974009,
+    "geom:bbox":"35.0275192261,32.1337432861,35.0288887024,32.1348648071",
+    "geom:latitude":32.134303,
+    "geom:longitude":35.028292,
+    "iso:country":"PS",
+    "lbl:latitude":32.134261,
+    "lbl:longitude":35.028372,
+    "mps:latitude":32.134261,
+    "mps:longitude":35.028372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Izbat al Ashqar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937157
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"22959a74346c45dc02ac3a574cbe38a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921587,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921587,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921587,
+    "wof:lastmodified":1549929837,
+    "wof:name":"'Izbat al Ashqar",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02751922607422,
+    32.13374328613281,
+    35.02888870239258,
+    32.13486480712891
+],
+  "geometry": {"coordinates":[[[35.02751922607422,32.13437271118164],[35.02814865112305,32.13486480712891],[35.02888870239258,32.13450622558594],[35.02883529663086,32.13392639160156],[35.0283088684082,32.13374328613281],[35.02751922607422,32.13437271118164]]],"type":"Polygon"}
+}

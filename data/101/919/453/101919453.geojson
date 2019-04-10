@@ -1,0 +1,108 @@
+{
+  "id": 101919453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000005,
+    "geom:area_square_m":55699.748689,
+    "geom:bbox":"34.9967079163,31.9726409912,35.0,31.9747943878",
+    "geom:latitude":31.973616,
+    "geom:longitude":34.998497,
+    "gn:population":4761,
+    "iso:country":"PS",
+    "lbl:latitude":31.973561,
+    "lbl:longitude":34.998497,
+    "mps:latitude":31.973561,
+    "mps:longitude":34.998497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Qibya"
+    ],
+    "name:eng_x_preferred":[
+        "Qibya"
+    ],
+    "name:fre_x_preferred":[
+        "Qibya"
+    ],
+    "name:ger_x_preferred":[
+        "Qibya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d1\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Qibya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qibya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":811,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282348,
+        "gp:id":1937180,
+        "qs:id":545042,
+        "wd:id":"Q599333",
+        "wk:page":"Qibya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"7714bd5daea7822f903ab15c1fa740c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101919453,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101919453,
+    "wof:lastmodified":1534985972,
+    "wof:name":"Qibya",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":4761,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613339
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99670791625977,
+    31.97264099121094,
+    35.0,
+    31.97479438781738
+],
+  "geometry": {"coordinates":[[[34.99670791625977,31.97318840026855],[34.99684906005859,31.97428512573242],[34.99777984619141,31.97428703308105],[34.99913787841797,31.97453308105469],[35.0,31.97479438781738],[35.0,31.97292327880859],[34.99985504150391,31.97282791137695],[34.99778366088867,31.97264099121094],[34.99670791625977,31.97318840026855]]],"type":"Polygon"}
+}

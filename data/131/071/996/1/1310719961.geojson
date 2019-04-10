@@ -1,0 +1,84 @@
+{
+  "id": 1310719961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49202,32.37967,35.49202,32.37967",
+    "geom:latitude":32.37967,
+    "geom:longitude":35.49202,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kardalah",
+    "gn:country_code":"PS",
+    "gn:dem":-103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537316,
+    "gn:latitude":32.37967,
+    "gn:longitude":35.49202,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kardalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537316
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4224780e4739129e6a54052c51bd30ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310719961,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310719961,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1310719961,
+    "wof:lastmodified":1549929912,
+    "wof:name":"Kardalah",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49202000000001,
+    32.37967,
+    35.49202000000001,
+    32.37967
+],
+  "geometry": {"coordinates":[35.49202000000001,32.37967],"type":"Point"}
+}

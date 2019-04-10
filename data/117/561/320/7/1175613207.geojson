@@ -1,0 +1,89 @@
+{
+  "id": 1175613207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":716424.250402,
+    "geom:bbox":"34.5125312805,31.5513782501,34.5243453979,31.563747406",
+    "geom:latitude":31.557434,
+    "geom:longitude":34.518973,
+    "iso:country":"PS",
+    "lbl:latitude":31.553025,
+    "lbl:longitude":34.515986,
+    "mps:latitude":31.553025,
+    "mps:longitude":34.515986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Qaraya al Badawiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913267,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979608
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"903a1248601bfd8b6a0c0c969758ffd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1175613207,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1175613207,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1175613207,
+    "wof:lastmodified":1549928881,
+    "wof:name":"Al Qaraya al Badawiya",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101919515,
+        101919511
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51253128051758,
+    31.55137825012207,
+    34.52434539794922,
+    31.56374740600586
+],
+  "geometry": {"coordinates":[[[[34.51617813110352,31.55304336547852],[34.51506423950195,31.55282592773438],[34.51620101928711,31.5530948638916],[34.51617813110352,31.55304336547852]]],[[[34.51579666137695,31.55431365966797],[34.51689910888672,31.55591011047363],[34.51565551757812,31.5566463470459],[34.51712799072266,31.558349609375],[34.51588821411133,31.55876731872559],[34.51613235473633,31.55929946899414],[34.51253128051758,31.56086921691895],[34.51511001586914,31.56374740600586],[34.52306747436523,31.55923080444336],[34.5215950012207,31.55710220336914],[34.52408218383789,31.55573654174805],[34.52298736572266,31.55431175231934],[34.52434539794922,31.55351257324219],[34.52336883544922,31.55191612243652],[34.52274322509766,31.55244255065918],[34.52201080322266,31.55137825012207],[34.51579666137695,31.55431365966797]]]],"type":"MultiPolygon"}
+}

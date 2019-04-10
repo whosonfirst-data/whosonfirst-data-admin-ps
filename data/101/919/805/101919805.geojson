@@ -1,0 +1,97 @@
+{
+  "id": 101919805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":186881.738086,
+    "geom:bbox":"34.9698143005,31.4678401947,34.9812164307,31.4703731537",
+    "geom:latitude":31.469097,
+    "geom:longitude":34.975995,
+    "gn:population":212,
+    "iso:country":"PS",
+    "lbl:latitude":31.46911,
+    "lbl:longitude":34.975995,
+    "mps:latitude":31.46911,
+    "mps:longitude":34.975995,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u062d \u0627\u0644\u0628\u0642\u0627\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Mar\u0101\u1e29 al Baqq\u0101r"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marah al Baqqar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891141,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"361ad3b5c7b1212897f450e3c72bf172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919805,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919805,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101919805,
+    "wof:lastmodified":1549929830,
+    "wof:name":"Marah al Baqqar",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96981430053711,
+    31.46784019470215,
+    34.98121643066406,
+    31.47037315368652
+],
+  "geometry": {"coordinates":[[[34.96981430053711,31.46854782104492],[34.9700927734375,31.46951293945312],[34.97600555419922,31.46988677978516],[34.97811889648438,31.47037315368652],[34.97994995117188,31.47001457214355],[34.98121643066406,31.47001647949219],[34.98037719726562,31.46808433532715],[34.97938919067383,31.46784019470215],[34.97769927978516,31.46844100952148],[34.97572708129883,31.46831703186035],[34.9729118347168,31.46819114685059],[34.96981430053711,31.46854782104492]]],"type":"Polygon"}
+}

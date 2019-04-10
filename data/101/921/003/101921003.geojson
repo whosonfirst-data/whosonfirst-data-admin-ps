@@ -1,0 +1,102 @@
+{
+  "id": 101921003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000011,
+    "geom:area_square_m":118621.237086,
+    "geom:bbox":"35.0914993286,32.4068870544,35.0980300903,32.4098091125",
+    "geom:latitude":32.408372,
+    "geom:longitude":35.09494,
+    "gn:population":337,
+    "iso:country":"PS",
+    "lbl:latitude":32.408309,
+    "lbl:longitude":35.09494,
+    "mps:latitude":32.408309,
+    "mps:longitude":35.09494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0644\u0629 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:dut_x_preferred":[
+        "An-Nazla al-Wusta"
+    ],
+    "name:eng_x_preferred":[
+        "An-Nazla al-Wusta"
+    ],
+    "name:nno_x_preferred":[
+        "An-Nazla al-Wusta"
+    ],
+    "name:unk_x_variant":[
+        "An Nazlat al Wus\u0163\u00e1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nazla al Wusta",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":266,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284937,
+        "gp:id":1937300,
+        "qs:id":547102,
+        "wd:id":"Q4749681",
+        "wk:page":"An-Nazla al-Wusta"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0ed377932c99d40a66d00f5c37247724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "empire_id":136253049,
+            "locality_id":101921003,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921003,
+    "wof:lastmodified":1534985969,
+    "wof:name":"An Nazla al Wusta",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":337,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613275
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09149932861328,
+    32.40688705444336,
+    35.09803009033203,
+    32.40980911254883
+],
+  "geometry": {"coordinates":[[[35.09544372558594,32.40688705444336],[35.09378051757812,32.40730285644531],[35.09285354614258,32.40834808349609],[35.09149932861328,32.40892028808594],[35.09285354614258,32.40980911254883],[35.09402084350586,32.40975952148438],[35.09525680541992,32.40954971313477],[35.09685897827148,32.40876770019531],[35.09803009033203,32.40835189819336],[35.09778213500977,32.40725326538086],[35.09624481201172,32.40714645385742],[35.09544372558594,32.40688705444336]]],"type":"Polygon"}
+}

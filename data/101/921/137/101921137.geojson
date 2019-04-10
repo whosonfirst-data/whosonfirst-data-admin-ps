@@ -1,0 +1,81 @@
+{
+  "id": 101921137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000014,
+    "geom:area_square_m":147878.331298,
+    "geom:bbox":"35.3014030457,32.3396224976,35.3081512451,32.3432884216",
+    "geom:latitude":32.341481,
+    "geom:longitude":35.304489,
+    "iso:country":"PS",
+    "lbl:latitude":32.341434,
+    "lbl:longitude":35.304259,
+    "mps:latitude":32.341434,
+    "mps:longitude":35.304259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Jadida",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":33.233333,
+    "wd:longitude":-8.5,
+    "wd:wordcount":930,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b899784e39ec15ec7838083b9ecbae0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101921137,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921137,
+    "wof:lastmodified":1534985966,
+    "wof:name":"Al Jadida",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613191
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3014030456543,
+    32.33962249755859,
+    35.30815124511719,
+    32.34328842163086
+],
+  "geometry": {"coordinates":[[[35.3065299987793,32.33962249755859],[35.30369567871094,32.3399658203125],[35.30194091796875,32.34134292602539],[35.3014030456543,32.34226226806641],[35.30207824707031,32.34306335449219],[35.30437469482422,32.34328842163086],[35.30545425415039,32.34248733520508],[35.306396484375,32.34168243408203],[35.30815124511719,32.34156799316406],[35.30815124511719,32.34053802490234],[35.30612564086914,32.34088134765625],[35.3065299987793,32.33962249755859]]],"type":"Polygon"}
+}

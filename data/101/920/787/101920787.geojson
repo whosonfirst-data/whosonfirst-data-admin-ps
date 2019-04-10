@@ -1,0 +1,126 @@
+{
+  "id": 101920787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":110587.387327,
+    "geom:bbox":"35.2494506836,32.4932098389,35.2540092468,32.4966621399",
+    "geom:latitude":32.494902,
+    "geom:longitude":35.251547,
+    "gn:population":16164,
+    "iso:country":"PS",
+    "lbl:latitude":32.494954,
+    "lbl:longitude":35.251276,
+    "mps:latitude":32.494954,
+    "mps:longitude":35.251276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0627\u0645\u0648\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Yamun"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Yamun"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Yamun"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Yamun"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Yamun"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644-\u06cc\u0627\u0645\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Jamun"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Yamun"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u06cc\u0627\u0645\u0648\u0646"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Yamun",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.486486,
+    "wd:longitude":35.235272,
+    "wd:wordcount":479,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284999,
+        "gp:id":56123305,
+        "wd:id":"Q4703350",
+        "wk:page":"Al-Yamun"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e5dd380466b1e795990471894fa4ea58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920787,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920787,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920787,
+    "wof:lastmodified":1549929851,
+    "wof:name":"Al Yamun",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":16164,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24945068359375,
+    32.49320983886719,
+    35.25400924682617,
+    32.49666213989258
+],
+  "geometry": {"coordinates":[[[35.25099563598633,32.49320983886719],[35.24985885620117,32.49417877197266],[35.24945068359375,32.49583435058594],[35.25010299682617,32.4965934753418],[35.25214004516602,32.49666213989258],[35.25278854370117,32.4950065612793],[35.25400924682617,32.49486541748047],[35.25392913818359,32.49355697631836],[35.25246429443359,32.49355697631836],[35.25099563598633,32.49320983886719]]],"type":"Polygon"}
+}

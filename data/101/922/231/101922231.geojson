@@ -1,0 +1,81 @@
+{
+  "id": 101922231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":484.914995,
+    "geom:bbox":"35.2490310669,31.7741222382,35.2493247986,31.7743721008",
+    "geom:latitude":31.774222,
+    "geom:longitude":35.249168,
+    "iso:country":"PS",
+    "lbl:latitude":31.774217,
+    "lbl:longitude":35.249165,
+    "mps:latitude":31.774217,
+    "mps:longitude":35.249165,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u0627\u062d"
+    ],
+    "name:unk_x_variant":[
+        "Ash Shayy\u0101\u1e29"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"As Shayyah",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890171
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"76e958b893f0faaa06d19509680a384d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922231,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922231,
+    "wof:lastmodified":1549931414,
+    "wof:name":"As Shayyah",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891587
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24903106689453,
+    31.77412223815918,
+    35.24932479858398,
+    31.77437210083008
+],
+  "geometry": {"coordinates":[[[35.24929809570312,31.77413558959961],[35.249267578125,31.77412223815918],[35.24907684326172,31.77412223815918],[35.24903106689453,31.77437210083008],[35.24932479858398,31.77423858642578],[35.24929809570312,31.77413558959961]]],"type":"Polygon"}
+}

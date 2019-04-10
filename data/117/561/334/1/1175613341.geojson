@@ -1,0 +1,112 @@
+{
+  "id": 1175613341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":204309.729642,
+    "geom:bbox":"35.3900604248,32.235042572,35.4073448181,32.2449989319",
+    "geom:latitude":32.238601,
+    "geom:longitude":35.401322,
+    "gn:population":1568,
+    "iso:country":"PS",
+    "lbl:latitude":32.237287,
+    "lbl:longitude":35.403757,
+    "mps:latitude":32.237287,
+    "mps:longitude":35.403757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0635\u0627\u0631\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "An-Nassariya"
+    ],
+    "name:dut_x_preferred":[
+        "An-Nassariya"
+    ],
+    "name:eng_x_preferred":[
+        "An-Nassariya"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat el Murassas"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nassariya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283155,
+        "gp:id":1937300,
+        "qs:id":79905,
+        "wd:id":"Q4749678"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"29ab534668ecc2c8e2d4ef11e8a54634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613341,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613341,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613341,
+    "wof:lastmodified":1549929624,
+    "wof:name":"An Nassariya",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":1568,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101921353,
+        101921375
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39006042480469,
+    32.23504257202148,
+    35.40734481811523,
+    32.24499893188477
+],
+  "geometry": {"coordinates":[[[[35.40734481811523,32.23598861694336],[35.40713882446289,32.23588562011719],[35.40713500976562,32.23563385009766],[35.40726470947266,32.23529052734375],[35.40520095825195,32.23504257202148],[35.40401458740234,32.23535537719727],[35.40054702758789,32.23699188232422],[35.40219116210938,32.23791885375977],[35.40328979492188,32.23923873901367],[35.40502548217773,32.2398567199707],[35.40520477294922,32.2381477355957],[35.40547561645508,32.23690414428711],[35.40693664550781,32.2362060546875],[35.40734481811523,32.23598861694336]]],[[[35.39325714111328,32.2449951171875],[35.39243316650391,32.24352264404297],[35.39133453369141,32.24251556396484],[35.39006042480469,32.24360275268555],[35.39070129394531,32.24445724487305],[35.39179611206055,32.24499893188477],[35.39325714111328,32.2449951171875]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1126043495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02138,32.13147,35.02138,32.13147",
+    "geom:latitude":32.13147,
+    "geom:longitude":35.02138,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":998,
+    "gn:population":998,
+    "iso:country":"PS",
+    "lbl:latitude":32.13147,
+    "lbl:longitude":35.02138,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0623\u0645\u064a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Amin"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Amin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d0\u05de\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Amin"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Beit Am\u012bn"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283130,
+    "qs_pg:gn_pop":998,
+    "qs_pg:name":"Bayt Am\u012bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":547051,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283130,
+        "qs_pg:id":547051,
+        "wd:id":"Q4881420"
+    },
+    "wof:country":"PS",
+    "wof:created":1497302296,
+    "wof:geomhash":"446389780d3c1bf9fbd53beaa73d0cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043495,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043495,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043495,
+    "wof:lastmodified":1549929894,
+    "wof:name":"Bayt Am\u012bn",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":998,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02138,
+    32.13147,
+    35.02138,
+    32.13147
+],
+  "geometry": {"coordinates":[35.02138,32.13147],"type":"Point"}
+}

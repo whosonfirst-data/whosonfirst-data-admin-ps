@@ -1,0 +1,104 @@
+{
+  "id": 1175613421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":215007.010839,
+    "geom:bbox":"35.0595970154,32.2494506836,35.0707893372,32.2537612915",
+    "geom:latitude":32.251664,
+    "geom:longitude":35.064975,
+    "gn:population":535,
+    "iso:country":"PS",
+    "lbl:latitude":32.252104,
+    "lbl:longitude":35.069032,
+    "mps:latitude":32.252104,
+    "mps:longitude":35.069032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar R\u0101s"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0627\u0633"
+    ],
+    "name:unk_x_variant":[
+        "Er R\u0101s"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ar Ras",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284882,
+        "gp:id":1937300,
+        "qs:id":79957
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c6fe588bccf34c15ea889793fd03b06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613421,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613421,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613421,
+    "wof:lastmodified":1549929649,
+    "wof:name":"Ar Ras",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":535,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101921333,
+        101921331
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05959701538086,
+    32.24945068359375,
+    35.0707893371582,
+    32.25376129150391
+],
+  "geometry": {"coordinates":[[[[35.0601806640625,32.24945068359375],[35.05959701538086,32.2501106262207],[35.06085968017578,32.25176620483398],[35.06173324584961,32.25284194946289],[35.06309509277344,32.25292587280273],[35.06504440307617,32.25350952148438],[35.06465530395508,32.25168991088867],[35.06329727172852,32.25044631958008],[35.06261444091797,32.24953460693359],[35.0601806640625,32.24945068359375]]],[[[35.06718444824219,32.2534294128418],[35.06845092773438,32.25309753417969],[35.07010650634766,32.25376129150391],[35.0707893371582,32.25276947021484],[35.07049942016602,32.25152969360352],[35.06962203979492,32.25094985961914],[35.06826019287109,32.25078201293945],[35.06650543212891,32.2511100769043],[35.06777191162109,32.2519416809082],[35.06689453125,32.25276565551758],[35.06718444824219,32.2534294128418]]]],"type":"MultiPolygon"}
+}

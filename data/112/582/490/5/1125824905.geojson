@@ -1,0 +1,108 @@
+{
+  "id": 1125824905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29822,31.93342,35.29822,31.93342",
+    "geom:latitude":31.93342,
+    "geom:longitude":35.29822,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3101,
+    "gn:population":3101,
+    "iso:country":"PS",
+    "lbl:latitude":31.93342,
+    "lbl:longitude":35.29822,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Rammun"
+    ],
+    "name:eng_x_preferred":[
+        "Rammun"
+    ],
+    "name:nno_x_preferred":[
+        "Rammun"
+    ],
+    "name:unk_x_variant":[
+        "Rimmon"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":282234,
+    "qs_pg:gn_pop":3101,
+    "qs_pg:name":"Ramm\u016bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123928,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282234,
+        "qs_pg:id":123928,
+        "wd:id":"Q7289744"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292231,
+    "wof:geomhash":"4d5765cb49006e876c6e8fc3dcaaa28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824905,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824905,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125824905,
+    "wof:lastmodified":1549929729,
+    "wof:name":"Ramm\u016bn",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":3101,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29822,
+    31.93342,
+    35.29822,
+    31.93342
+],
+  "geometry": {"coordinates":[35.29822,31.93342],"type":"Point"}
+}

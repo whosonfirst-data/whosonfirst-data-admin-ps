@@ -1,0 +1,98 @@
+{
+  "id": 1126043565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.14286,31.44222,35.14286,31.44222",
+    "geom:latitude":31.44222,
+    "geom:longitude":35.14286,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1391,
+    "gn:population":1391,
+    "iso:country":"PS",
+    "lbl:latitude":31.44222,
+    "lbl:longitude":35.14286,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0629 \u0627\u0644\u0645\u064a\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Khallat al Meiya"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283286,
+    "qs_pg:gn_pop":1391,
+    "qs_pg:name":"Khallat al Mayyah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":547063,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283286,
+        "qs_pg:id":547063
+    },
+    "wof:country":"PS",
+    "wof:created":1497302300,
+    "wof:geomhash":"fac4771aa54d42ea2c82bbb1083c13ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043565,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043565,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043565,
+    "wof:lastmodified":1549929899,
+    "wof:name":"Khallat al Mayyah",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":1391,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14286,
+    31.44222,
+    35.14286,
+    31.44222
+],
+  "geometry": {"coordinates":[35.14286,31.44222],"type":"Point"}
+}

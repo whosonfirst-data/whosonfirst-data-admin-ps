@@ -1,0 +1,121 @@
+{
+  "id": 101921071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":283243.197021,
+    "geom:bbox":"35.1760368347,32.3806343079,35.1850585938,32.385383606",
+    "geom:latitude":32.382707,
+    "geom:longitude":35.180773,
+    "gn:population":2369,
+    "iso:country":"PS",
+    "lbl:latitude":32.382841,
+    "lbl:longitude":35.179957,
+    "mps:latitude":32.382841,
+    "mps:longitude":35.179957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0641\u062d\u0645\u0647"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u062d\u0645\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Fahma"
+    ],
+    "name:dut_x_preferred":[
+        "Famah"
+    ],
+    "name:eng_x_preferred":[
+        "Fahma"
+    ],
+    "name:nld_x_preferred":[
+        "Famah"
+    ],
+    "name:nno_x_preferred":[
+        "Fahma"
+    ],
+    "name:unk_x_variant":[
+        "Fa\u1e25ma"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fahma",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.383328,
+    "wd:longitude":35.179497,
+    "wd:wordcount":351,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283976,
+        "gp:id":56123345,
+        "qs:id":123964,
+        "wd:id":"Q1883762",
+        "wk:page":"Fahma"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0d822fb2f96368f5639ae2a6ad3d39cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921071,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921071,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921071,
+    "wof:lastmodified":1549929785,
+    "wof:name":"Fahma",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":2369,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1760368347168,
+    32.38063430786133,
+    35.18505859375,
+    32.38538360595703
+],
+  "geometry": {"coordinates":[[[35.18300247192383,32.38082885742188],[35.18186187744141,32.38092422485352],[35.18049240112305,32.38073348999023],[35.17900466918945,32.38111877441406],[35.17774963378906,32.38092422485352],[35.1760368347168,32.38179779052734],[35.17786407470703,32.38325119018555],[35.17717742919922,32.3845100402832],[35.17866134643555,32.38441467285156],[35.17934799194336,32.38538360595703],[35.18140411376953,32.38518905639648],[35.18243026733398,32.38422012329102],[35.18186187744141,32.38286590576172],[35.1831169128418,32.38228225708008],[35.18357467651367,32.38373565673828],[35.18437194824219,32.38451385498047],[35.18482971191406,32.38364028930664],[35.18494415283203,32.38257598876953],[35.18505859375,32.3816032409668],[35.18449020385742,32.38063430786133],[35.18300247192383,32.38082885742188]]],"type":"Polygon"}
+}

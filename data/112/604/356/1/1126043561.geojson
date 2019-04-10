@@ -1,0 +1,105 @@
+{
+  "id": 1126043561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.07194,31.94508,35.07194,31.94508",
+    "geom:latitude":31.94508,
+    "geom:longitude":35.07194,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2808,
+    "gn:population":2808,
+    "iso:country":"PS",
+    "lbl:latitude":31.94508,
+    "lbl:longitude":35.07194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u062b\u0627 \u0628\u0646\u064a \u062d\u0627\u0631\u062b"
+    ],
+    "name:eng_x_preferred":[
+        "Kharbatha Bani Harith"
+    ],
+    "name:nno_x_preferred":[
+        "Kharbatha Bani Harith"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat\u0101"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283245,
+    "qs_pg:gn_pop":2808,
+    "qs_pg:name":"Kharbath\u0101 Ban\u012b \u1e28\u0101rith",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":547062,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283245,
+        "qs_pg:id":547062,
+        "wd:id":"Q6400599"
+    },
+    "wof:country":"PS",
+    "wof:created":1497302300,
+    "wof:geomhash":"4dc6464a3f03048161e2b30288ae8505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043561,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043561,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043561,
+    "wof:lastmodified":1549929899,
+    "wof:name":"Kharbath\u0101 Ban\u012b \u1e28\u0101rith",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":2808,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07194,
+    31.94508,
+    35.07194,
+    31.94508
+],
+  "geometry": {"coordinates":[35.07194,31.94508],"type":"Point"}
+}

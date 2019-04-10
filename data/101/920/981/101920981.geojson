@@ -1,0 +1,98 @@
+{
+  "id": 101920981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":148095.79851,
+    "geom:bbox":"35.4028320312,32.4168624878,35.4097747803,32.4224967957",
+    "geom:latitude":32.419957,
+    "geom:longitude":35.407281,
+    "gn:population":291,
+    "iso:country":"PS",
+    "lbl:latitude":32.419828,
+    "lbl:longitude":35.407518,
+    "mps:latitude":32.419828,
+    "mps:longitude":35.407518,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0644\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat al Mutilla"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Mutilla",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283153,
+        "gp:id":1937299,
+        "qs:id":79904
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"544ab51830a05a176afda21195408f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920981,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920981,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920981,
+    "wof:lastmodified":1549929869,
+    "wof:name":"Al Mutilla",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":291,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40283203125,
+    32.41686248779297,
+    35.40977478027344,
+    32.4224967956543
+],
+  "geometry": {"coordinates":[[[35.40655517578125,32.42070388793945],[35.40716171264648,32.4224967956543],[35.40977478027344,32.42155456542969],[35.40876770019531,32.42010498046875],[35.40916442871094,32.41805267333984],[35.40735244750977,32.41686248779297],[35.40735244750977,32.41839981079102],[35.40554428100586,32.41933822631836],[35.40413665771484,32.41985321044922],[35.40283203125,32.42062377929688],[35.40514373779297,32.42053604125977],[35.40655517578125,32.42070388793945]]],"type":"Polygon"}
+}

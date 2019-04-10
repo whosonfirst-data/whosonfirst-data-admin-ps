@@ -1,0 +1,95 @@
+{
+  "id": 1125945437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10742,31.47454,35.10742,31.47454",
+    "geom:latitude":31.47454,
+    "geom:longitude":35.10742,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1258,
+    "gn:population":1258,
+    "iso:country":"PS",
+    "lbl:latitude":31.47454,
+    "lbl:longitude":35.10742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0644\u0629"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7891142,
+    "qs_pg:gn_pop":1258,
+    "qs_pg:name":"Al \u1e28\u012blah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":744074,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891142,
+        "qs_pg:id":744074
+    },
+    "wof:country":"PS",
+    "wof:created":1497297263,
+    "wof:geomhash":"a799c34d49333ca85974b232ef3f8b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125945437,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125945437,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125945437,
+    "wof:lastmodified":1549929763,
+    "wof:name":"Al \u1e28\u012blah",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":1258,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10742,
+    31.47454,
+    35.10742,
+    31.47454
+],
+  "geometry": {"coordinates":[35.10742,31.47454],"type":"Point"}
+}

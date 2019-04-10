@@ -1,0 +1,147 @@
+{
+  "id": 101920477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3654.80523,
+    "geom:bbox":"34.3462944031,31.3274002075,34.3471450806,31.3281154633",
+    "geom:latitude":31.327775,
+    "geom:longitude":34.346673,
+    "gn:population":18163,
+    "iso:country":"PS",
+    "lbl:latitude":31.327763,
+    "lbl:longitude":34.346643,
+    "mps:latitude":31.327763,
+    "mps:longitude":34.346643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:baq_x_preferred":[
+        "Abasan al-Kabira"
+    ],
+    "name:cat_x_preferred":[
+        "Abasan al-Kabira"
+    ],
+    "name:dut_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:eng_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:fre_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:ger_x_preferred":[
+        "Abasan al-Kabira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d1\u05e1\u05d0\u05df \u05d0\u05dc-\u05db\u05d1\u05d9\u05e8\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d0\u30b5\u30f3\u30fb\u30a2\u30eb\u30fb\u30ab\u30d9\u30e9"
+    ],
+    "name:nno_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:nob_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u0628\u0627\u0633\u0627\u0646 \u0627\u0644-\u06a9\u0627\u0628\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Abasan al-Kabira"
+    ],
+    "name:por_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:rum_x_preferred":[
+        "Abasan al_Kabira"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u06a9\u0628\u06cc\u0631\u06c1"
+    ],
+    "name:wel_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Abasan al Kabira",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.323708,
+    "wd:longitude":34.347589,
+    "wd:wordcount":699,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281165,
+        "gp:id":56123264,
+        "wd:id":"Q3303148",
+        "wk:page":"Abasan al-Kabira"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f6ec54019422eb001e5c69ebe8d33f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920477,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920477,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920477,
+    "wof:lastmodified":1549928906,
+    "wof:name":"'Abasan al Kabira",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:population":18163,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34629440307617,
+    31.32740020751953,
+    34.34714508056641,
+    31.32811546325684
+],
+  "geometry": {"coordinates":[[[34.34671401977539,31.32740020751953],[34.34629440307617,31.3276309967041],[34.34632873535156,31.32785224914551],[34.34656524658203,31.32811546325684],[34.34714508056641,31.32790184020996],[34.34671401977539,31.32740020751953]]],"type":"Polygon"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 101921195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":80616.722794,
+    "geom:bbox":"35.1244812012,32.3156738281,35.1295013428,32.3183898926",
+    "geom:latitude":32.316645,
+    "geom:longitude":35.127051,
+    "iso:country":"PS",
+    "lbl:latitude":32.316824,
+    "lbl:longitude":35.127012,
+    "mps:latitude":32.316824,
+    "mps:longitude":35.127012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0631\u0645\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Kafr Rumman"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Rumman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e8\u05de\u05d0\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Rumman"
+    ],
+    "name:unk_x_variant":[
+        "Kafr Rumm\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr Rumman",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":32.316944,
+    "wd:longitude":35.126667,
+    "wd:wordcount":326,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283358,
+        "gp:id":56123340,
+        "wd:id":"Q2898964",
+        "wk:page":"Kafr Rumman"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1bec9af9d17e2e978d7dc7fc0682e7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921195,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921195,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921195,
+    "wof:lastmodified":1549929798,
+    "wof:name":"Kafr Rumman",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12448120117188,
+    32.315673828125,
+    35.12950134277344,
+    32.31838989257812
+],
+  "geometry": {"coordinates":[[[35.12585067749023,32.315673828125],[35.12448120117188,32.31586837768555],[35.12527847290039,32.3171272277832],[35.12641906738281,32.31771087646484],[35.12744522094727,32.31838989257812],[35.12801742553711,32.31713104248047],[35.12950134277344,32.31684112548828],[35.1292724609375,32.31567764282227],[35.12801742553711,32.31577301025391],[35.12653350830078,32.31577301025391],[35.12585067749023,32.315673828125]]],"type":"Polygon"}
+}

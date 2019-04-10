@@ -1,0 +1,117 @@
+{
+  "id": 1125931605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18681,31.68939,35.18681,31.68939",
+    "geom:latitude":31.68939,
+    "geom:longitude":35.18681,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3552,
+    "gn:population":3552,
+    "iso:country":"PS",
+    "lbl:latitude":31.68939,
+    "lbl:longitude":35.18681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0637\u0627\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Artas"
+    ],
+    "name:eng_x_preferred":[
+        "Artas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d8\u05d0\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Artas"
+    ],
+    "name:nno_x_preferred":[
+        "Artas i Betlehem"
+    ],
+    "name:spa_x_preferred":[
+        "Artas"
+    ],
+    "name:unk_x_variant":[
+        "Artasium"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284868,
+    "qs_pg:gn_pop":3552,
+    "qs_pg:name":"Ar\u0163\u0101s",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":124000,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284868,
+        "qs_pg:id":124000,
+        "wd:id":"Q3624069"
+    },
+    "wof:country":"PS",
+    "wof:created":1497296822,
+    "wof:geomhash":"5cf0775dc6fec3cfc7a6655e0d15edbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125931605,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125931605,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125931605,
+    "wof:lastmodified":1549929757,
+    "wof:name":"Ar\u0163\u0101s",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":3552,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18681,
+    31.68939,
+    35.18681,
+    31.68939
+],
+  "geometry": {"coordinates":[35.18681,31.68939],"type":"Point"}
+}

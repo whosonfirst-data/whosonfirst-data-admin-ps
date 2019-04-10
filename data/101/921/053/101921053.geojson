@@ -1,0 +1,110 @@
+{
+  "id": 101921053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000007,
+    "geom:area_square_m":69170.255919,
+    "geom:bbox":"35.4730873108,32.3859596252,35.4767379761,32.3895263672",
+    "geom:latitude":32.387723,
+    "geom:longitude":35.474814,
+    "gn:population":1612,
+    "iso:country":"PS",
+    "lbl:latitude":32.387741,
+    "lbl:longitude":35.474813,
+    "mps:latitude":32.387741,
+    "mps:longitude":35.474813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062f\u0644\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0440\u0434\u0430\u043b\u0430\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Bardala"
+    ],
+    "name:dut_x_preferred":[
+        "Bardala"
+    ],
+    "name:eng_x_preferred":[
+        "Bardala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d3\u05dc\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Bardala"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u0434\u0430\u043b\u0430"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bardala",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284415,
+        "gp:id":1937299,
+        "qs:id":79946,
+        "wd:id":"Q2920541",
+        "wk:page":"Bardala"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e8f5e773ffabb404a9d564ca304172f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "empire_id":136253049,
+            "locality_id":101921053,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921053,
+    "wof:lastmodified":1534985965,
+    "wof:name":"Bardala",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":1612,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613181
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47308731079102,
+    32.38595962524414,
+    35.47673797607422,
+    32.3895263671875
+],
+  "geometry": {"coordinates":[[[35.4741096496582,32.38619613647461],[35.47327041625977,32.38595962524414],[35.47308731079102,32.38746643066406],[35.47449111938477,32.38865661621094],[35.47589874267578,32.3895263671875],[35.47673797607422,32.38849258422852],[35.47579574584961,32.38722610473633],[35.4741096496582,32.38619613647461]]],"type":"Polygon"}
+}

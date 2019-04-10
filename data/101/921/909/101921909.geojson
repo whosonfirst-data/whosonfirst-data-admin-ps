@@ -1,0 +1,111 @@
+{
+  "id": 101921909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":97263.442927,
+    "geom:bbox":"35.0333480835,31.9423236847,35.036895752,31.9463825226",
+    "geom:latitude":31.944095,
+    "geom:longitude":35.035015,
+    "gn:population":1916,
+    "iso:country":"PS",
+    "lbl:latitude":31.944099,
+    "lbl:longitude":35.035015,
+    "mps:latitude":31.944099,
+    "mps:longitude":35.035015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0642\u062f\u064a\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Deir Qaddis"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Qaddis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05e7\u05d3\u05d9\u05e1"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Qaddis"
+    ],
+    "name:unk_x_variant":[
+        "Dayr Qadd\u012bs"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Qaddis",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284065,
+        "gp:id":1937180,
+        "wd:id":"Q5252519",
+        "wk:page":"Deir Qaddis"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"513bd447bfb9fdb72cf0cd19067cd9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921909,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921909,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921909,
+    "wof:lastmodified":1549929880,
+    "wof:name":"Deir Qaddis",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1916,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03334808349609,
+    31.94232368469238,
+    35.03689575195312,
+    31.94638252258301
+],
+  "geometry": {"coordinates":[[[35.03369140625,31.94534873962402],[35.03438186645508,31.94638252258301],[35.03559494018555,31.94513130187988],[35.03619766235352,31.94513130187988],[35.03689193725586,31.94461631774902],[35.03689575195312,31.9437313079834],[35.03620529174805,31.94240188598633],[35.03490447998047,31.94291687011719],[35.0334358215332,31.94232368469238],[35.03334808349609,31.94306182861328],[35.03360366821289,31.94453811645508],[35.03369140625,31.94534873962402]]],"type":"Polygon"}
+}

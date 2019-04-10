@@ -1,0 +1,140 @@
+{
+  "id": 101921127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000175,
+    "geom:area_square_m":1824437.944471,
+    "geom:bbox":"35.0638809204,32.3456993103,35.0877227783,32.3627471924",
+    "geom:latitude":32.351785,
+    "geom:longitude":35.076117,
+    "gn:population":9187,
+    "iso:country":"PS",
+    "lbl:latitude":32.350929,
+    "lbl:longitude":35.076297,
+    "mps:latitude":32.350929,
+    "mps:longitude":35.076297,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u063a\u0635\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Deir al-Ghusoun"
+    ],
+    "name:eng_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:fra_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:fre_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05d0\u05dc-\u05e2'\u05d5\u05e1\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Dayr al-Ghusun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a4\u30eb\u30fb\u30a2\u30eb\uff1d\u30b0\u30b9\u30fc\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Deir al-Ghusoun"
+    ],
+    "name:nno_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:nob_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:nor_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:spa_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:unk_x_variant":[
+        "Dayr al Ghu\u015fn"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir al Ghusun",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":264.0,
+    "wd:latitude":32.353097,
+    "wd:longitude":35.076967,
+    "wd:wordcount":1263,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284100,
+        "gp:id":56123311,
+        "qs:id":123973,
+        "wd:id":"Q627230",
+        "wk:page":"Deir al-Ghusun"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"799c499e4d7bc6a3e22592a6167b04fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921127,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921127,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921127,
+    "wof:lastmodified":1549929793,
+    "wof:name":"Deir al Ghusun",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":9187,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06388092041016,
+    32.34569931030273,
+    35.08772277832031,
+    32.36274719238281
+],
+  "geometry": {"coordinates":[[[35.08713912963867,32.35565185546875],[35.08757781982422,32.35234069824219],[35.08772277832031,32.35099029541016],[35.0872917175293,32.34914779663086],[35.08281326293945,32.3471794128418],[35.07905578613281,32.34705352783203],[35.07761001586914,32.34693145751953],[35.07443237304688,32.34569931030273],[35.07327270507812,32.34729385375977],[35.07182693481445,32.34864044189453],[35.07125091552734,32.3470458984375],[35.06734466552734,32.34728622436523],[35.06388092041016,32.34605407714844],[35.06416320800781,32.3482666015625],[35.06763076782227,32.35109329223633],[35.071533203125,32.35158538818359],[35.07268524169922,32.35293960571289],[35.06993865966797,32.35440826416016],[35.06848907470703,32.35624694824219],[35.07007598876953,32.35771942138672],[35.06805038452148,32.35943603515625],[35.06486892700195,32.36029052734375],[35.0654411315918,32.36274719238281],[35.06718063354492,32.36115264892578],[35.07050704956055,32.35919570922852],[35.07397842407227,32.35772705078125],[35.0754280090332,32.35588455200195],[35.07803344726562,32.35453796386719],[35.08150100708008,32.35405349731445],[35.08713912963867,32.35565185546875]]],"type":"Polygon"}
+}

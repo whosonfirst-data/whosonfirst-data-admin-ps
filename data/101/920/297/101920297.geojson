@@ -1,0 +1,130 @@
+{
+  "id": 101920297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":49122.096133,
+    "geom:bbox":"34.34948349,31.3712768555,34.3550605774,31.3745594025",
+    "geom:latitude":31.373021,
+    "geom:longitude":34.352448,
+    "gn:population":19500,
+    "iso:country":"PS",
+    "lbl:latitude":31.374109,
+    "lbl:longitude":34.352258,
+    "mps:latitude":31.374109,
+    "mps:longitude":34.352258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0627\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:ger_x_preferred":[
+        "al-Qarara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30ab\u30e9\u30e9"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:nob_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644-\u0642\u0631\u0627\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Karara"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0627\u0631\u06c1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Qarara",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":31.373125,
+    "wd:longitude":34.333111,
+    "wd:population":16900,
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6967865,
+        "gp:id":1979600,
+        "wd:id":"Q1814845",
+        "wk:page":"Al-Qarara"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"03e806e2826b671920f77c9b054cac35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920297,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920297,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920297,
+    "wof:lastmodified":1549928897,
+    "wof:name":"Al Qarara",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:population":16900,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34948348999023,
+    31.37127685546875,
+    34.35506057739258,
+    31.37455940246582
+],
+  "geometry": {"coordinates":[[[34.35302352905273,31.37127685546875],[34.35269546508789,31.37156867980957],[34.35290908813477,31.37191200256348],[34.35341262817383,31.37253761291504],[34.35286712646484,31.37308883666992],[34.35236740112305,31.3737678527832],[34.35116577148438,31.37330055236816],[34.35034942626953,31.37274360656738],[34.35007095336914,31.37253379821777],[34.35004806518555,31.37246131896973],[34.34948348999023,31.3730411529541],[34.35101318359375,31.37386894226074],[34.35239028930664,31.37455940246582],[34.35322189331055,31.37358093261719],[34.3538703918457,31.3727970123291],[34.35428237915039,31.37303161621094],[34.35453796386719,31.37277030944824],[34.35488891601562,31.37285614013672],[34.35506057739258,31.37255477905273],[34.35385894775391,31.37215423583984],[34.35404205322266,31.37178230285645],[34.35358047485352,31.37150192260742],[34.35302352905273,31.37127685546875]]],"type":"Polygon"}
+}

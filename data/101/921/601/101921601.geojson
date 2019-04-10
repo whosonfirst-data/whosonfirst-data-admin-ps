@@ -1,0 +1,115 @@
+{
+  "id": 101921601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":704925.297074,
+    "geom:bbox":"35.0386619568,32.124458313,35.0563659668,32.1327857971",
+    "geom:latitude":32.128173,
+    "geom:longitude":35.04649,
+    "gn:population":2887,
+    "iso:country":"PS",
+    "lbl:latitude":32.128459,
+    "lbl:longitude":35.045753,
+    "mps:latitude":32.128459,
+    "mps:longitude":35.045753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u064a\u0631\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Sanniriya"
+    ],
+    "name:eng_x_preferred":[
+        "Sanniriya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d9\u05e8\u05d9\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Sanniriya"
+    ],
+    "name:unk_x_variant":[
+        "San\u012breh"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sanniriya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.128333,
+    "wd:longitude":35.046944,
+    "wd:wordcount":928,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281998,
+        "gp:id":1937157,
+        "qs:id":123920,
+        "wd:id":"Q7418859",
+        "wk:page":"Sanniriya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"05e62a5a3f5966ccba0bbbe550e9771a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921601,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921601,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921601,
+    "wof:lastmodified":1549929828,
+    "wof:name":"Sanniriya",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":2887,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03866195678711,
+    32.12445831298828,
+    35.05636596679688,
+    32.13278579711914
+],
+  "geometry": {"coordinates":[[[35.05636596679688,32.12624740600586],[35.05471801757812,32.12502670288086],[35.0516357421875,32.12455368041992],[35.0504264831543,32.12445831298828],[35.04965209960938,32.12558364868164],[35.04888153076172,32.12614440917969],[35.047119140625,32.12614059448242],[35.04348754882812,32.12641906738281],[35.04117584228516,32.12697601318359],[35.03908157348633,32.12819290161133],[35.03866195678711,32.12982177734375],[35.03874969482422,32.13089752197266],[35.03995513916016,32.13175201416016],[35.04171371459961,32.13278579711914],[35.04281234741211,32.13174819946289],[35.04417037963867,32.13090515136719],[35.04624557495117,32.13059997558594],[35.04799270629883,32.12998199462891],[35.0504035949707,32.12845230102539],[35.05245971679688,32.12813186645508],[35.0546875,32.12735366821289],[35.05636215209961,32.12718200683594],[35.05636596679688,32.12624740600586]]],"type":"Polygon"}
+}

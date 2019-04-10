@@ -1,0 +1,106 @@
+{
+  "id": 1175613187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":66866.135091,
+    "geom:bbox":"35.4515342712,32.1899185181,35.4590263367,32.1956634521",
+    "geom:latitude":32.1922,
+    "geom:longitude":35.454751,
+    "iso:country":"PS",
+    "lbl:latitude":32.190695,
+    "lbl:longitude":35.452587,
+    "mps:latitude":32.190695,
+    "mps:longitude":35.452587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Furush Beit Dajan"
+    ],
+    "name:dut_x_preferred":[
+        "Furush Beit Dajan"
+    ],
+    "name:eng_x_preferred":[
+        "Furush Beit Dajan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d5\u05e9 \u05d1\u05d9\u05ea \u05d3\u05d2'\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Furush Beit Dajan"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Furush Beit Dajan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300,
+        "wd:id":"Q5509818"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"af8ccc65fb76c93336d633d4a8e87fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613187,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613187,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613187,
+    "wof:lastmodified":1549929588,
+    "wof:name":"Furush Beit Dajan",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101921449,
+        101921459
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45153427124023,
+    32.18991851806641,
+    35.45902633666992,
+    32.19566345214844
+],
+  "geometry": {"coordinates":[[[[35.45153427124023,32.18992233276367],[35.45193099975586,32.19119262695312],[35.45366668701172,32.19192504882812],[35.45500564575195,32.19265747070312],[35.45563125610352,32.19185256958008],[35.45358276367188,32.19085311889648],[35.45295333862305,32.18991851806641],[35.45153427124023,32.18992233276367]]],[[[35.45721435546875,32.19439315795898],[35.45776748657227,32.19566345214844],[35.45902633666992,32.19472503662109],[35.45744705200195,32.19352340698242],[35.45721435546875,32.19439315795898]]]],"type":"MultiPolygon"}
+}

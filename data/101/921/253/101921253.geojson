@@ -1,0 +1,98 @@
+{
+  "id": 101921253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8560.987284,
+    "geom:bbox":"35.0743560791,32.2900047302,35.0756492615,32.2909469604",
+    "geom:latitude":32.290435,
+    "geom:longitude":35.075085,
+    "gn:population":156,
+    "iso:country":"PS",
+    "lbl:latitude":32.290462,
+    "lbl:longitude":35.075098,
+    "mps:latitude":32.290462,
+    "mps:longitude":35.075098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0641\u0627\u0635\u064a"
+    ],
+    "name:unk_x_variant":[
+        "Al \u1e28af\u0101\u015f\u012b"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Hafasa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889006,
+        "gp:id":1937300,
+        "qs:id":743854
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f5515b0ab703a34a1ff2394cb62a448f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921253,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921253,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921253,
+    "wof:lastmodified":1549929807,
+    "wof:name":"Al Hafasa",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07435607910156,
+    32.29000473022461,
+    35.07564926147461,
+    32.29094696044922
+],
+  "geometry": {"coordinates":[[[35.07435607910156,32.2901611328125],[35.07472610473633,32.29078674316406],[35.07546615600586,32.29094696044922],[35.07558822631836,32.29047393798828],[35.07564926147461,32.29010772705078],[35.07546615600586,32.29000473022461],[35.07435607910156,32.2901611328125]]],"type":"Polygon"}
+}

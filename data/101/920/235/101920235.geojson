@@ -1,0 +1,118 @@
+{
+  "id": 101920235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8102.888444,
+    "geom:bbox":"34.3502540588,31.392168045,34.3519248962,31.3933181763",
+    "geom:latitude":31.392748,
+    "geom:longitude":34.351123,
+    "gn:population":4552,
+    "iso:country":"PS",
+    "lbl:latitude":31.392606,
+    "lbl:longitude":34.351415,
+    "mps:latitude":31.392606,
+    "mps:longitude":34.351415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0633\u0644\u0642\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Wadi as-Salqa"
+    ],
+    "name:dut_x_preferred":[
+        "Wadi as-Salqa"
+    ],
+    "name:eng_x_preferred":[
+        "Wadi as-Salqa"
+    ],
+    "name:ger_x_preferred":[
+        "Wadi as-Salqa"
+    ],
+    "name:ind_x_preferred":[
+        "Wadi as-Salqa"
+    ],
+    "name:nno_x_preferred":[
+        "Wadi as-Salqa"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wadi as Salqa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":31.399939,
+    "wd:longitude":34.339464,
+    "wd:population":4660,
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913317,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6968055,
+        "gp:id":1979600,
+        "wd:id":"Q7959265",
+        "wk:page":"Wadi as-Salqa"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c07bc7f6312bbdbfd174c6514f5f9f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920235,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920235,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920235,
+    "wof:lastmodified":1549928894,
+    "wof:name":"Wadi as Salqa",
+    "wof:parent_id":1091913317,
+    "wof:placetype":"locality",
+    "wof:population":4660,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35025405883789,
+    31.39216804504395,
+    34.35192489624023,
+    31.39331817626953
+],
+  "geometry": {"coordinates":[[[34.3503532409668,31.3930549621582],[34.35025405883789,31.39312553405762],[34.3505859375,31.39331817626953],[34.35113143920898,31.39286231994629],[34.35151672363281,31.39296913146973],[34.35192489624023,31.39270210266113],[34.35181427001953,31.392578125],[34.35182952880859,31.3925666809082],[34.3514518737793,31.39216804504395],[34.35029220581055,31.39300537109375],[34.3503532409668,31.3930549621582]]],"type":"Polygon"}
+}

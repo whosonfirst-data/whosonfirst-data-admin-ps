@@ -1,0 +1,119 @@
+{
+  "id": 101920801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":342494.836038,
+    "geom:bbox":"35.2946968079,32.4859695435,35.3044319153,32.4936714172",
+    "geom:latitude":32.49001,
+    "geom:longitude":35.299001,
+    "iso:country":"PS",
+    "lbl:latitude":32.490102,
+    "lbl:longitude":35.299406,
+    "mps:latitude":32.490102,
+    "mps:longitude":35.299406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0636\u0627\u062d\u064a\u0629 \u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Dahiyat Sabah al-Kheir"
+    ],
+    "name:dut_x_preferred":[
+        "Dahiyat Sabah al-Kheir"
+    ],
+    "name:eng_x_preferred":[
+        "Dahiyat Sabah al-Kheir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d7\u05d9\u05d9\u05ea \u05e1\u05d1\u05d0\u05d7 \u05d0\u05dc-\u05d7\u05d9\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Dahiyat Sabah al-Khei"
+    ],
+    "name:pol_x_preferred":[
+        "Dahijat Sabah al-Chajr"
+    ],
+    "name:ron_x_preferred":[
+        "Dahiyat Sabah al-Khei"
+    ],
+    "name:rum_x_preferred":[
+        "Dahiyat Sabah al-Khei"
+    ],
+    "name:unk_x_variant":[
+        "\u1e10\u0101\u1e29iyat \u015eab\u0101\u1e29 al Khayr"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dahiyat Sabah al Kheir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895634,
+        "gp:id":1937299,
+        "wd:id":"Q5208855"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2bf1de8abf98b6382c97285536bdf700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920801,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920801,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920801,
+    "wof:lastmodified":1549929860,
+    "wof:name":"Dahiyat Sabah al Kheir",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29469680786133,
+    32.48596954345703,
+    35.3044319152832,
+    32.49367141723633
+],
+  "geometry": {"coordinates":[[[35.2971305847168,32.4913330078125],[35.29469680786133,32.49202346801758],[35.29632186889648,32.49243545532227],[35.29697036743164,32.49346542358398],[35.29827117919922,32.49367141723633],[35.29972839355469,32.49256896972656],[35.30118942260742,32.49236297607422],[35.30224609375,32.49181365966797],[35.30224227905273,32.49084854125977],[35.30354309082031,32.49064254760742],[35.3044319152832,32.48933410644531],[35.30208206176758,32.48988723754883],[35.30110549926758,32.4892692565918],[35.300537109375,32.48823547363281],[35.29915618896484,32.48720550537109],[35.29891204833984,32.48596954345703],[35.29680252075195,32.48631286621094],[35.2961540222168,32.48727798461914],[35.29542541503906,32.48803329467773],[35.29696655273438,32.48934173583984],[35.2976188659668,32.49064636230469],[35.2971305847168,32.4913330078125]]],"type":"Polygon"}
+}

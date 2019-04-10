@@ -1,0 +1,84 @@
+{
+  "id": 101922987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000001,
+    "geom:area_square_m":15394.193045,
+    "geom:bbox":"35.2034454346,31.4068965912,35.2050247192,31.4091529846",
+    "geom:latitude":31.408228,
+    "geom:longitude":35.204373,
+    "gn:population":508,
+    "iso:country":"PS",
+    "lbl:latitude":31.408199,
+    "lbl:longitude":35.204517,
+    "mps:latitude":31.408199,
+    "mps:longitude":35.204517,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Faqir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891508,
+        "gp:id":1937307,
+        "qs:id":744090
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8b30f0a85adb240e8dc04b1782ba64b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101922987,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922987,
+    "wof:lastmodified":1534985966,
+    "wof:name":"Al Faqir",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":508,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613205
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20344543457031,
+    31.40689659118652,
+    35.20502471923828,
+    31.40915298461914
+],
+  "geometry": {"coordinates":[[[35.20449829101562,31.40689659118652],[35.20449829101562,31.40725898742676],[35.20418167114258,31.40779876708984],[35.2038688659668,31.40825080871582],[35.20344543457031,31.40915298461914],[35.20439529418945,31.40879249572754],[35.20502471923828,31.40852165222168],[35.20502471923828,31.40797996520996],[35.20481491088867,31.40761947631836],[35.20449829101562,31.40689659118652]]],"type":"Polygon"}
+}

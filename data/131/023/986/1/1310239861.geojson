@@ -1,0 +1,82 @@
+{
+  "id": 1310239861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98333,31.51667,34.98333,31.51667",
+    "geom:latitude":31.51667,
+    "geom:longitude":34.98333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Adora",
+    "gn:country_code":"PS",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":285145,
+    "gn:latitude":31.51667,
+    "gn:longitude":34.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285145,
+        "wk:page":"Adora%2C_Har_Hebron"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0f25d4216299e825371ac08afda3fcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310239861,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310239861,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1310239861,
+    "wof:lastmodified":1549929707,
+    "wof:name":"Adora",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98333,
+    31.51667,
+    34.98333,
+    31.51667
+],
+  "geometry": {"coordinates":[34.98333,31.51667],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1125839217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15173,31.84675,35.15173,31.84675",
+    "geom:latitude":31.84675,
+    "geom:longitude":35.15173,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":692,
+    "gn:population":692,
+    "iso:country":"PS",
+    "lbl:latitude":31.84675,
+    "lbl:longitude":35.15173,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0625\u062c\u0632\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Ijza"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Ijza"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u0627\u062c\u0632\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Beit Ijza"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284332,
+    "qs_pg:gn_pop":692,
+    "qs_pg:name":"Bayt Ijz\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":79943,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284332,
+        "qs_pg:id":79943,
+        "wd:id":"Q4881447"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292855,
+    "wof:geomhash":"227fdbc482608ec4105b5d650fb292d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125839217,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125839217,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125839217,
+    "wof:lastmodified":1549929755,
+    "wof:name":"Bayt Ijz\u0101",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":692,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15173,
+    31.84675,
+    35.15173,
+    31.84675
+],
+  "geometry": {"coordinates":[35.15173,31.84675],"type":"Point"}
+}

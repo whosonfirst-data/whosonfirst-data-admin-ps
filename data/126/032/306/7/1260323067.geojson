@@ -1,0 +1,85 @@
+{
+  "id": 1260323067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.13333,31.96667,35.13333,31.96667",
+    "geom:latitude":31.96667,
+    "geom:longitude":35.13333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Nahali'el",
+    "gn:country_code":"PS",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282604,
+    "gn:latitude":31.96667,
+    "gn:longitude":35.13333,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Na\u1e96ali\u2019el",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na\u1e96ali\u2019el"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282604,
+        "wk:page":"Nahliel"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"08528a013c6eb38c6a6db7bbf5bb6cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1260323067,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1260323067,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1260323067,
+    "wof:lastmodified":1549929756,
+    "wof:name":"Nahali'el",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13333,
+    31.96667,
+    35.13333,
+    31.96667
+],
+  "geometry": {"coordinates":[35.13333,31.96667],"type":"Point"}
+}

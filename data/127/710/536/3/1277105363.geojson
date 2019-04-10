@@ -1,0 +1,82 @@
+{
+  "id": 1277105363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4,32.08333,35.4,32.08333",
+    "geom:latitude":32.08333,
+    "geom:longitude":35.4,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Gittit",
+    "gn:country_code":"PS",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":283861,
+    "gn:latitude":32.08333,
+    "gn:longitude":35.4,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gittit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283861,
+        "wk:page":"Gitit_%28moshav%29"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4e89ac9e10ca4c67809b98a7b8f24691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1277105363,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1277105363,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1277105363,
+    "wof:lastmodified":1549929915,
+    "wof:name":"Gittit",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4,
+    32.08333,
+    35.4,
+    32.08333
+],
+  "geometry": {"coordinates":[35.4,32.08333],"type":"Point"}
+}

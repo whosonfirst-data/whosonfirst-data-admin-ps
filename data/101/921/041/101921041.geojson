@@ -1,0 +1,106 @@
+{
+  "id": 101921041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":45985.484422,
+    "geom:bbox":"35.1360549927,32.3887901306,35.1386795044,32.3911743164",
+    "geom:latitude":32.389885,
+    "geom:longitude":35.137298,
+    "iso:country":"PS",
+    "lbl:latitude":32.389931,
+    "lbl:longitude":35.137273,
+    "mps:latitude":32.389931,
+    "mps:longitude":35.137273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0631\u0627\u0639\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Kafr Ra'i"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Rai"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e8\u05d0\u05e2\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Rai"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr Ra'i",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":32.375997,
+    "wd:longitude":35.155097,
+    "wd:wordcount":873,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870583,
+        "gp:id":56123345,
+        "wd:id":"Q2898490"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"faa7cdc4d50e71d66c2440890c609870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921041,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921041,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921041,
+    "wof:lastmodified":1549929780,
+    "wof:name":"Kafr Ra'i",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13605499267578,
+    32.38879013061523,
+    35.13867950439453,
+    32.39117431640625
+],
+  "geometry": {"coordinates":[[[35.13605499267578,32.38974380493164],[35.13661575317383,32.39117431640625],[35.13755416870117,32.39101791381836],[35.13867950439453,32.3899040222168],[35.1383056640625,32.38879013061523],[35.13755416870117,32.38894653320312],[35.1362419128418,32.38894653320312],[35.13605499267578,32.38974380493164]]],"type":"Polygon"}
+}

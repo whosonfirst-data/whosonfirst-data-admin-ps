@@ -1,0 +1,101 @@
+{
+  "id": 101921903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000037,
+    "geom:area_square_m":389042.199671,
+    "geom:bbox":"35.1792030334,31.943277359,35.1876068115,31.9536437988",
+    "geom:latitude":31.948944,
+    "geom:longitude":35.183654,
+    "gn:population":1385,
+    "iso:country":"PS",
+    "lbl:latitude":31.949676,
+    "lbl:longitude":35.18429,
+    "mps:latitude":31.949676,
+    "mps:longitude":35.18429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0642\u0634"
+    ],
+    "name:dut_x_preferred":[
+        "Abu Qash"
+    ],
+    "name:eng_x_preferred":[
+        "Abu Qash"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5 \u05e7\u05e9"
+    ],
+    "name:nno_x_preferred":[
+        "Abu Qash"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Abu Qash",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285220,
+        "gp:id":56123351,
+        "qs:id":547129,
+        "wd:id":"Q2490473",
+        "wk:page":"Abu Qash"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"14ffb0b0e433e64a113d9e0978d76ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921903,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921903,
+    "wof:lastmodified":1534985976,
+    "wof:name":"Abu Qash",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1385,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613429
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17920303344727,
+    31.94327735900879,
+    35.18760681152344,
+    31.95364379882812
+],
+  "geometry": {"coordinates":[[[35.18207168579102,31.94766044616699],[35.18296051025391,31.94883918762207],[35.18266296386719,31.94993591308594],[35.18127822875977,31.95086288452148],[35.17930221557617,31.95001792907715],[35.17920303344727,31.95119857788086],[35.17989349365234,31.95195770263672],[35.18088150024414,31.9526309967041],[35.18098068237305,31.95364379882812],[35.18266296386719,31.95347595214844],[35.18394470214844,31.95339202880859],[35.18444061279297,31.95246505737305],[35.18503570556641,31.95086288452148],[35.18661499023438,31.95010375976562],[35.18721008300781,31.94875717163086],[35.18503570556641,31.94841957092285],[35.18453979492188,31.94757652282715],[35.1849365234375,31.94647979736328],[35.18632125854492,31.94622802734375],[35.18760681152344,31.9458065032959],[35.18651962280273,31.94403648376465],[35.18473815917969,31.94327735900879],[35.18473815917969,31.94521522521973],[35.18335723876953,31.94479370117188],[35.18217086791992,31.94538307189941],[35.1817741394043,31.94631004333496],[35.18207168579102,31.94766044616699]]],"type":"Polygon"}
+}

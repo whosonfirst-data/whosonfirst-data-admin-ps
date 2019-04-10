@@ -1,0 +1,78 @@
+{
+  "id": 101919515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000068,
+    "geom:area_square_m":716148.24813,
+    "geom:bbox":"34.5125312805,31.5513782501,34.5243453979,31.563747406",
+    "geom:latitude":31.557436,
+    "geom:longitude":34.518975,
+    "iso:country":"PS",
+    "lbl:latitude":31.557779,
+    "lbl:longitude":34.519377,
+    "mps:latitude":31.557779,
+    "mps:longitude":34.519377,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Qaraya al Badawiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681213,
+        102191569,
+        85633739,
+        136253049,
+        1091913267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979608
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"dfaa6ceaf9542b161a21b77d423c28df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "empire_id":136253049,
+            "locality_id":101919515,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101919515,
+    "wof:lastmodified":1534985966,
+    "wof:name":"Al Qaraya al Badawiya",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613207
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51253128051758,
+    31.55137825012207,
+    34.52434539794922,
+    31.56374740600586
+],
+  "geometry": {"coordinates":[[[34.51579666137695,31.55431365966797],[34.51689910888672,31.55591011047363],[34.51565551757812,31.5566463470459],[34.51712799072266,31.558349609375],[34.51588821411133,31.55876731872559],[34.51613235473633,31.55929946899414],[34.51253128051758,31.56086921691895],[34.51511001586914,31.56374740600586],[34.52306747436523,31.55923080444336],[34.5215950012207,31.55710220336914],[34.52408218383789,31.55573654174805],[34.52298736572266,31.55431175231934],[34.52434539794922,31.55351257324219],[34.52336883544922,31.55191612243652],[34.52274322509766,31.55244255065918],[34.52201080322266,31.55137825012207],[34.51579666137695,31.55431365966797]]],"type":"Polygon"}
+}

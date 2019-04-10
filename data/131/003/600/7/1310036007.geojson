@@ -1,0 +1,81 @@
+{
+  "id": 1310036007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11667,31.93333,35.11667,31.93333",
+    "geom:latitude":31.93333,
+    "geom:longitude":35.11667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Talmon C",
+    "gn:country_code":"PS",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281659,
+    "gn:latitude":31.93333,
+    "gn:longitude":35.11667,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Talmon C",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281659
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"219eca302b2576fc00107e0557c3f875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310036007,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1310036007,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1310036007,
+    "wof:lastmodified":1549929658,
+    "wof:name":"Talmon C",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11667,
+    31.93333,
+    35.11667,
+    31.93333
+],
+  "geometry": {"coordinates":[35.11667,31.93333],"type":"Point"}
+}

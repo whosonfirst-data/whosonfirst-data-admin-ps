@@ -1,0 +1,98 @@
+{
+  "id": 101921131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":41755.243975,
+    "geom:bbox":"35.506275177,32.3443450928,35.5090370178,32.3463134766",
+    "geom:latitude":32.345324,
+    "geom:longitude":35.507585,
+    "gn:population":149,
+    "iso:country":"PS",
+    "lbl:latitude":32.345327,
+    "lbl:longitude":35.507585,
+    "mps:latitude":32.345327,
+    "mps:longitude":35.507585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u0631\u0633\u064a\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Al F\u0101ris\u012byah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Farisiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7896870,
+        "gp:id":1937299,
+        "qs:id":744253
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b3841ec17cb96cd105a5f24b8d1e84cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921131,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921131,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921131,
+    "wof:lastmodified":1549929793,
+    "wof:name":"Al Farisiya",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":149,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50627517700195,
+    32.34434509277344,
+    35.50903701782227,
+    32.3463134765625
+],
+  "geometry": {"coordinates":[[[35.50627517700195,32.34509658813477],[35.50661087036133,32.34603500366211],[35.50705337524414,32.3463134765625],[35.50893020629883,32.3459358215332],[35.50903701782227,32.34527587890625],[35.50870513916016,32.34481048583984],[35.50726699829102,32.34434509277344],[35.50649642944336,32.34444046020508],[35.50627517700195,32.34509658813477]]],"type":"Polygon"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101921189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":124624.583802,
+    "geom:bbox":"35.0545959473,32.3194313049,35.0612297058,32.3219261169",
+    "geom:latitude":32.320539,
+    "geom:longitude":35.057793,
+    "iso:country":"PS",
+    "lbl:latitude":32.320626,
+    "lbl:longitude":35.057856,
+    "mps:latitude":32.320626,
+    "mps:longitude":35.057856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062e\u064a\u0645 \u0646\u0648\u0631 \u0634\u0645\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Nur Shams"
+    ],
+    "name:dut_x_preferred":[
+        "Nur Shams"
+    ],
+    "name:eng_x_preferred":[
+        "Nur Shams"
+    ],
+    "name:fra_x_preferred":[
+        "Nur Shams"
+    ],
+    "name:fre_x_preferred":[
+        "Nur Shams"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e8 \u05d0-\u05e9\u05de\u05e1"
+    ],
+    "name:nno_x_preferred":[
+        "Nur Shams i Tulkarm"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nur Shams Camp",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":283,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123356,
+        "wd:id":"Q7069998"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d229932df023f2e0ca91a6575ef0230b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921189,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921189,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921189,
+    "wof:lastmodified":1549929798,
+    "wof:name":"Nur Shams Camp",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05459594726562,
+    32.31943130493164,
+    35.06122970581055,
+    32.32192611694336
+],
+  "geometry": {"coordinates":[[[35.0546875,32.32086181640625],[35.05587387084961,32.32134246826172],[35.05830764770508,32.32192611694336],[35.06122970581055,32.32101821899414],[35.06002807617188,32.31960678100586],[35.05904769897461,32.31943511962891],[35.05577850341797,32.31943130493164],[35.05459594726562,32.31996917724609],[35.0546875,32.32086181640625]]],"type":"Polygon"}
+}

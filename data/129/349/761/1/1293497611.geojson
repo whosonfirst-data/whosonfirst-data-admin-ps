@@ -1,0 +1,87 @@
+{
+  "id": 1293497611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20918,32.38922,35.20918,32.38922",
+    "geom:latitude":32.38922,
+    "geom:longitude":35.20918,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fahmah al Jadidah",
+    "gn:country_code":"PS",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537263,
+    "gn:latitude":32.38922,
+    "gn:longitude":35.20918,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Fa\u1e29mah al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u062d\u0645\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Fa\u1e29mah al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537263
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d9658db5ea7e098e459ef15163aa451b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293497611,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293497611,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1293497611,
+    "wof:lastmodified":1549929910,
+    "wof:name":"Fahmah al Jadidah",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20918,
+    32.38922,
+    35.20918,
+    32.38922
+],
+  "geometry": {"coordinates":[35.20918,32.38922],"type":"Point"}
+}

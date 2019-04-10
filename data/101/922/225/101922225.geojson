@@ -1,0 +1,93 @@
+{
+  "id": 101922225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3140.388783,
+    "geom:bbox":"35.2488479614,31.7741355896,35.2496871948,31.7748470306",
+    "geom:latitude":31.774504,
+    "geom:longitude":35.249299,
+    "iso:country":"PS",
+    "lbl:latitude":31.774493,
+    "lbl:longitude":35.249295,
+    "mps:latitude":31.774493,
+    "mps:longitude":35.249295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0639\u0645\u0648\u062f"
+    ],
+    "name:cze_x_preferred":[
+        "Ras al-Amud"
+    ],
+    "name:dut_x_preferred":[
+        "Ras al-Amud"
+    ],
+    "name:eng_x_preferred":[
+        "Ras al-Amud"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e1 \u05d0\u05dc-\u05e2\u05de\u05d5\u05d3"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ras al 'Amud",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":665,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890169,
+        "wd:id":"Q2919246",
+        "wk:page":"Ras al-Amud"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f34c87697530e6ab710c7a736a7a301c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922225,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922225,
+    "wof:lastmodified":1549931411,
+    "wof:name":"Ras al 'Amud",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891593
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24884796142578,
+    31.77413558959961,
+    35.24968719482422,
+    31.77484703063965
+],
+  "geometry": {"coordinates":[[[35.24884796142578,31.77467918395996],[35.24908065795898,31.77484703063965],[35.24930191040039,31.77472877502441],[35.24968719482422,31.77454948425293],[35.24962615966797,31.77430152893066],[35.24929809570312,31.77413558959961],[35.24932479858398,31.77423858642578],[35.24903106689453,31.77437210083008],[35.24897766113281,31.77468872070312],[35.24884796142578,31.77467918395996]]],"type":"Polygon"}
+}

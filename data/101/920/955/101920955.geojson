@@ -1,0 +1,115 @@
+{
+  "id": 101920955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":210350.123637,
+    "geom:bbox":"35.2663917542,32.4265975952,35.2764968872,32.4311180115",
+    "geom:latitude":32.429,
+    "geom:longitude":35.271537,
+    "gn:population":1727,
+    "iso:country":"PS",
+    "lbl:latitude":32.429692,
+    "lbl:longitude":35.271039,
+    "mps:latitude":32.429692,
+    "mps:longitude":35.271039,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062b\u0644\u062b \u0627\u0644\u0634\u0647\u062f\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0647\u062f\u0627\u0621"
+    ],
+    "name:cat_x_preferred":[
+        "Ash-Shuhada"
+    ],
+    "name:dut_x_preferred":[
+        "Ash-Shuhada"
+    ],
+    "name:eng_x_preferred":[
+        "Ash-Shuhada"
+    ],
+    "name:nno_x_preferred":[
+        "Ash-Shuhada"
+    ],
+    "name:unk_x_variant":[
+        "Esh Shuhad\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ash Shuhada",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":81,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284598,
+        "gp:id":1937299,
+        "qs:id":79955,
+        "wd:id":"Q4804344"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4aa7804e3991c89b053aed84829fbb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920955,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920955,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920955,
+    "wof:lastmodified":1549929876,
+    "wof:name":"Ash Shuhada",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":1727,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26639175415039,
+    32.42659759521484,
+    35.27649688720703,
+    32.43111801147461
+],
+  "geometry": {"coordinates":[[[35.26657485961914,32.42769241333008],[35.26639175415039,32.42987442016602],[35.26804733276367,32.43018341064453],[35.26988220214844,32.4306526184082],[35.27190399169922,32.43111801147461],[35.27227020263672,32.42971420288086],[35.27447509765625,32.42940139770508],[35.27576065063477,32.42940139770508],[35.27649688720703,32.4278450012207],[35.27594375610352,32.42691040039062],[35.274658203125,32.42659759521484],[35.27337265014648,32.42815780639648],[35.2709846496582,32.42847061157227],[35.26877975463867,32.42878341674805],[35.26657485961914,32.42769241333008]]],"type":"Polygon"}
+}

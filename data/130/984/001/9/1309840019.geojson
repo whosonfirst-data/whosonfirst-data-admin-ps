@@ -1,0 +1,86 @@
+{
+  "id": 1309840019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.14942,31.575,35.14942,31.575",
+    "geom:latitude":31.575,
+    "geom:longitude":35.14942,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"al-Shuyukh",
+    "gn:country_code":"PS",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870651,
+    "gn:latitude":31.575,
+    "gn:longitude":35.14942,
+    "gn:modification_date":"2011-06-17",
+    "gn:name":"al-Shuyukh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Shuyoukh",
+        "Al-Shoyoukh",
+        "alShuyukh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870651
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0bf4d7321e576fb30deaaccbe155b108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1309840019,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1309840019,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1309840019,
+    "wof:lastmodified":1549929575,
+    "wof:name":"al-Shuyukh",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14942,
+    31.575,
+    35.14942,
+    31.575
+],
+  "geometry": {"coordinates":[35.14942,31.575],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 101920595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000003,
+    "geom:area_square_m":34381.977201,
+    "geom:bbox":"34.2921829224,31.2953739166,34.2947769165,31.2971439362",
+    "geom:latitude":31.296312,
+    "geom:longitude":34.29341,
+    "iso:country":"PS",
+    "lbl:latitude":31.296296,
+    "lbl:longitude":34.293409,
+    "mps:latitude":31.296296,
+    "mps:longitude":34.293409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0623\u064f\u0645 \u0627\u0644\u0643\u0650\u0644\u0627\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Umm al-Kilab"
+    ],
+    "name:dut_x_preferred":[
+        "Umm al-Kilab"
+    ],
+    "name:eng_x_preferred":[
+        "Umm al-Kilab"
+    ],
+    "name:nno_x_preferred":[
+        "Umm al-Kilab"
+    ],
+    "name:unk_x_variant":[
+        "Umm el-Kilab"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm al Kilab",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        85681213,
+        102191569,
+        85633739,
+        136253049,
+        1091913333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281072,
+        "gp:id":1979609,
+        "wd:id":"Q7881657"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2c97bda2212689f4efe75a8fe77fe1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "empire_id":136253049,
+            "locality_id":101920595,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920595,
+    "wof:lastmodified":1534985967,
+    "wof:name":"Umm al Kilab",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613225
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.29218292236328,
+    31.29537391662598,
+    34.29477691650391,
+    31.29714393615723
+],
+  "geometry": {"coordinates":[[[34.29264068603516,31.29537391662598],[34.29218292236328,31.29714393615723],[34.29424667358398,31.29703140258789],[34.29477691650391,31.29576873779297],[34.29264068603516,31.29537391662598]]],"type":"Polygon"}
+}

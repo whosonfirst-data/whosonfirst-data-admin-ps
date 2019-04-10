@@ -1,0 +1,98 @@
+{
+  "id": 1126043337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53898,32.18486,35.53898,32.18486",
+    "geom:latitude":32.18486,
+    "geom:longitude":35.53898,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":706,
+    "gn:population":706,
+    "iso:country":"PS",
+    "lbl:latitude":32.18486,
+    "lbl:longitude":35.53898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062c \u0646\u0639\u062c\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Marj Na\u2018ja"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":282859,
+    "qs_pg:gn_pop":706,
+    "qs_pg:name":"Marj Na\u2018jah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":547024,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282859,
+        "qs_pg:id":547024
+    },
+    "wof:country":"PS",
+    "wof:created":1497302286,
+    "wof:geomhash":"7116249bbf7749691acbd60cdee4cb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043337,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043337,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043337,
+    "wof:lastmodified":1549929896,
+    "wof:name":"Marj Na\u2018jah",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:population":706,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53898,
+    32.18486,
+    35.53898,
+    32.18486
+],
+  "geometry": {"coordinates":[35.53898,32.18486],"type":"Point"}
+}

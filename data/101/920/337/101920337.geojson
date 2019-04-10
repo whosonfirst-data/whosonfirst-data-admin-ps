@@ -1,0 +1,129 @@
+{
+  "id": 101920337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18224.913867,
+    "geom:bbox":"34.3501472473,31.3587398529,34.3522186279,31.3611412048",
+    "geom:latitude":31.359742,
+    "geom:longitude":34.351154,
+    "gn:population":19500,
+    "iso:country":"PS",
+    "lbl:latitude":31.359379,
+    "lbl:longitude":34.35091,
+    "mps:latitude":31.359379,
+    "mps:longitude":34.35091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0627\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:ger_x_preferred":[
+        "al-Qarara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30ab\u30e9\u30e9"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:nob_x_preferred":[
+        "Al-Qarara"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644-\u0642\u0631\u0627\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Karara"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0627\u0631\u06c1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Qarara",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":31.373125,
+    "wd:longitude":34.333111,
+    "wd:population":16900,
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6967865,
+        "wd:id":"Q1814845",
+        "wk:page":"Al-Qarara"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"aa1f735bc98190239cd697ed28476907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920337,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920337,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920337,
+    "wof:lastmodified":1549928898,
+    "wof:name":"Al Qarara",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:population":16900,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35014724731445,
+    31.35873985290527,
+    34.35221862792969,
+    31.36114120483398
+],
+  "geometry": {"coordinates":[[[34.35049438476562,31.35873985290527],[34.35014724731445,31.35886573791504],[34.35041427612305,31.3593864440918],[34.35019683837891,31.35955429077148],[34.35052490234375,31.35987091064453],[34.35074996948242,31.35968589782715],[34.35115432739258,31.36014556884766],[34.35100173950195,31.36028671264648],[34.35182571411133,31.36114120483398],[34.35221862792969,31.36092185974121],[34.35109710693359,31.35967636108398],[34.35205459594727,31.35905265808105],[34.35183334350586,31.35882949829102],[34.351318359375,31.35926628112793],[34.3509407043457,31.35875701904297],[34.3507080078125,31.35904502868652],[34.35049438476562,31.35873985290527]]],"type":"Polygon"}
+}

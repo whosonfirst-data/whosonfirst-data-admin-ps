@@ -1,0 +1,81 @@
+{
+  "id": 1209646577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24993,32.1186,35.24993,32.1186",
+    "geom:latitude":32.1186,
+    "geom:longitude":35.24993,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Kefar Tappuah",
+    "gn:country_code":"PS",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":283310,
+    "gn:latitude":32.1186,
+    "gn:longitude":35.24993,
+    "gn:modification_date":"2017-12-03",
+    "gn:name":"Kefar Tappuah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283310
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"31e9b052e8aa3bdbd09a8d15e99756f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209646577,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209646577,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209646577,
+    "wof:lastmodified":1549929921,
+    "wof:name":"Kefar Tappuah",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24993,
+    32.1186,
+    35.24993,
+    32.1186
+],
+  "geometry": {"coordinates":[35.24993,32.1186],"type":"Point"}
+}

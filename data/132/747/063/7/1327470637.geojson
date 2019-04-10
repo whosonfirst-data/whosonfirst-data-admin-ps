@@ -1,0 +1,82 @@
+{
+  "id": 1327470637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.23333,31.31667,34.23333,31.31667",
+    "geom:latitude":31.31667,
+    "geom:longitude":34.23333,
+    "gn:admin1_code":"GZ",
+    "gn:admin2_code":"7870260",
+    "gn:asciiname":"Pe'at Sade",
+    "gn:country_code":"PS",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281107,
+    "gn:latitude":31.31667,
+    "gn:longitude":34.23333,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Pe\u2019at Sade",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913365,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281107
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"62410224022a1a8510c4bee738238510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1327470637,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1327470637,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1327470637,
+    "wof:lastmodified":1549928937,
+    "wof:name":"Pe'at Sade",
+    "wof:parent_id":1091913365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.23333,
+    31.31667,
+    34.23333,
+    31.31667
+],
+  "geometry": {"coordinates":[34.23333,31.31667],"type":"Point"}
+}

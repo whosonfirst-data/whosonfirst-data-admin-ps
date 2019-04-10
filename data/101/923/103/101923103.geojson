@@ -1,0 +1,101 @@
+{
+  "id": 101923103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7918.670712,
+    "geom:bbox":"35.0010147095,31.3746204376,35.002117157,31.3755664825",
+    "geom:latitude":31.375079,
+    "geom:longitude":35.001607,
+    "iso:country":"PS",
+    "lbl:latitude":31.375094,
+    "lbl:longitude":35.001619,
+    "mps:latitude":31.375094,
+    "mps:longitude":35.001619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0632\u0646\u0648\u062a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Khirbet Zanuta"
+    ],
+    "name:eng_x_preferred":[
+        "Khirbet Zanuta"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Zan\u016btah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Zanuta",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1626,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281251,
+        "gp:id":1937307,
+        "wd:id":"Q6401765"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d804a59a8c80c650d42bd4ba8a72f801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923103,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923103,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923103,
+    "wof:lastmodified":1549929789,
+    "wof:name":"Khirbet Zanuta",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00101470947266,
+    31.37462043762207,
+    35.00211715698242,
+    31.37556648254395
+],
+  "geometry": {"coordinates":[[[35.00101470947266,31.37480926513672],[35.00112533569336,31.37537574768066],[35.00200653076172,31.37556648254395],[35.00211715698242,31.37462043762207],[35.00101470947266,31.37480926513672]]],"type":"Polygon"}
+}

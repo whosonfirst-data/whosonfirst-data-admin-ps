@@ -1,0 +1,115 @@
+{
+  "id": 101922143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000008,
+    "geom:area_square_m":85874.193129,
+    "geom:bbox":"35.1789588928,31.8301448822,35.184551239,31.8333034515",
+    "geom:latitude":31.831867,
+    "geom:longitude":35.181806,
+    "gn:population":256,
+    "iso:country":"PS",
+    "lbl:latitude":31.832404,
+    "lbl:longitude":35.181573,
+    "mps:latitude":31.832404,
+    "mps:longitude":35.181573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u064a \u0635\u0646\u0648\u0626\u064a\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Nabi Samwil"
+    ],
+    "name:dut_x_preferred":[
+        "Nabi Samwil"
+    ],
+    "name:eng_x_preferred":[
+        "Nabi Samwil"
+    ],
+    "name:fra_x_preferred":[
+        "Nebi Samwil"
+    ],
+    "name:fre_x_preferred":[
+        "Nebi Samwil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d1\u05d9 \u05e1\u05de\u05d5\u05d0\u05dc"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u06cc \u0633\u0627\u0645\u0648\u0626\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Nabi Samuil"
+    ],
+    "name:unk_x_variant":[
+        "Nabi Samw\u012bl"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nabi Samwil",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":2471,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        421200701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284949,
+        "wd:id":"Q3532567",
+        "wk:page":"Nabi Samwil"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"04f2ea783973c0eed893ef6ca24e121d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "empire_id":136253049,
+            "locality_id":101922143,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922143,
+    "wof:lastmodified":1534985967,
+    "wof:name":"An Nabi Samwil",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613223
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17895889282227,
+    31.83014488220215,
+    35.18455123901367,
+    31.83330345153809
+],
+  "geometry": {"coordinates":[[[35.17958831787109,31.83299446105957],[35.18076324462891,31.83307075500488],[35.18220520019531,31.83330345153809],[35.18265914916992,31.83245658874512],[35.18265914916992,31.8321475982666],[35.18292999267578,31.83191680908203],[35.18455123901367,31.83137702941895],[35.18446350097656,31.83083915710449],[35.18383026123047,31.83014488220215],[35.18301773071289,31.83068466186523],[35.18175506591797,31.83068466186523],[35.18157577514648,31.83160781860352],[35.18013000488281,31.83145332336426],[35.17895889282227,31.8321475982666],[35.17922973632812,31.83253288269043],[35.17958831787109,31.83299446105957]]],"type":"Polygon"}
+}

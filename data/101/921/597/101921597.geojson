@@ -1,0 +1,112 @@
+{
+  "id": 101921597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":129979.024722,
+    "geom:bbox":"35.0186157227,32.1280899048,35.0230293274,32.1343307495",
+    "geom:latitude":32.131297,
+    "geom:longitude":35.021259,
+    "gn:population":998,
+    "iso:country":"PS",
+    "lbl:latitude":32.13126,
+    "lbl:longitude":35.021225,
+    "mps:latitude":32.13126,
+    "mps:longitude":35.021225,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0623\u0645\u064a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Amin"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Amin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d0\u05de\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Amin"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Beit Am\u012bn"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Amin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":186,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283130,
+        "gp:id":1937157,
+        "qs:id":547051,
+        "wd:id":"Q4881420"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d0b655f4d901b473bfd49e27a6ec6dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921597,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921597,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921597,
+    "wof:lastmodified":1549929831,
+    "wof:name":"Beit Amin",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":998,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01861572265625,
+    32.12808990478516,
+    35.02302932739258,
+    32.13433074951172
+],
+  "geometry": {"coordinates":[[[35.02193450927734,32.12808990478516],[35.0211067199707,32.12902450561523],[35.02041625976562,32.13031387329102],[35.01861572265625,32.13217163085938],[35.02014923095703,32.13217544555664],[35.02027130126953,32.13370895385742],[35.02140808105469,32.13433074951172],[35.02219772338867,32.13312530517578],[35.02249908447266,32.13087463378906],[35.02302932739258,32.12949752807617],[35.02193450927734,32.12808990478516]]],"type":"Polygon"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1125861407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08266,32.43274,35.08266,32.43274",
+    "geom:latitude":32.43274,
+    "geom:longitude":35.08266,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8489,
+    "gn:population":8489,
+    "iso:country":"PS",
+    "lbl:latitude":32.43274,
+    "lbl:longitude":35.08266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0642\u064a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Qaffin"
+    ],
+    "name:eng_x_preferred":[
+        "Qaffin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e4\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Qaffin"
+    ],
+    "name:unk_x_variant":[
+        "Quff\u012bn"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":282463,
+    "qs_pg:gn_pop":8489,
+    "qs_pg:name":"Qaff\u012bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":123937,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282463,
+        "qs_pg:id":123937,
+        "wd:id":"Q2892780"
+    },
+    "wof:country":"PS",
+    "wof:created":1497293844,
+    "wof:geomhash":"fe3307cfcaa285d1255a5a8267e9ac38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125861407,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125861407,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125861407,
+    "wof:lastmodified":1549929759,
+    "wof:name":"Qaff\u012bn",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":8489,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08266,
+    32.43274,
+    35.08266,
+    32.43274
+],
+  "geometry": {"coordinates":[35.08266,32.43274],"type":"Point"}
+}

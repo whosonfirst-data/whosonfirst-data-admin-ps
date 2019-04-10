@@ -1,0 +1,93 @@
+{
+  "id": 101921235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":62247.52257,
+    "geom:bbox":"35.0252342224,32.2940826416,35.029132843,32.2964019775",
+    "geom:latitude":32.295226,
+    "geom:longitude":35.027433,
+    "iso:country":"PS",
+    "lbl:latitude":32.295148,
+    "lbl:longitude":35.02747,
+    "mps:latitude":32.295148,
+    "mps:longitude":35.02747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062e\u0644\u0627\u0644"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Izbat al Khil\u0101l"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Izbat al Khilal",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890080,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6569ed9d8d87d67c0b8eda4c3d9951e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921235,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921235,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921235,
+    "wof:lastmodified":1549929802,
+    "wof:name":"'Izbat al Khilal",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02523422241211,
+    32.29408264160156,
+    35.02913284301758,
+    32.29640197753906
+],
+  "geometry": {"coordinates":[[[35.0265998840332,32.29408264160156],[35.02523422241211,32.29548645019531],[35.02659606933594,32.29598617553711],[35.02903366088867,32.29640197753906],[35.02913284301758,32.29541015625],[35.02845001220703,32.29425048828125],[35.0265998840332,32.29408264160156]]],"type":"Polygon"}
+}

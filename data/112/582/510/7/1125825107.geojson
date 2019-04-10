@@ -1,0 +1,111 @@
+{
+  "id": 1125825107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.13963,32.13096,35.13963,32.13096",
+    "geom:latitude":32.13096,
+    "geom:longitude":35.13963,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3730,
+    "gn:population":3730,
+    "iso:country":"PS",
+    "lbl:latitude":32.13096,
+    "lbl:longitude":35.13963,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0625\u0633\u062a\u064a\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Deir Istiya"
+    ],
+    "name:dut_x_preferred":[
+        "Deir Istiya"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Istiya"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Istiya"
+    ],
+    "name:unk_x_variant":[
+        "Deir Istya"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284071,
+    "qs_pg:gn_pop":3730,
+    "qs_pg:name":"Dayr Istiy\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123968,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284071,
+        "qs_pg:id":123968,
+        "wd:id":"Q5252508"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292241,
+    "wof:geomhash":"429464fad78ff8a2e3283ccae218a3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125825107,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125825107,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125825107,
+    "wof:lastmodified":1549929742,
+    "wof:name":"Dayr Istiy\u0101",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:population":3730,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13963,
+    32.13096,
+    35.13963,
+    32.13096
+],
+  "geometry": {"coordinates":[35.13963,32.13096],"type":"Point"}
+}

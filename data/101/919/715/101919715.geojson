@@ -1,0 +1,99 @@
+{
+  "id": 101919715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":24862.91155,
+    "geom:bbox":"34.9812660217,31.5214328766,34.9836883545,31.5230808258",
+    "geom:latitude":31.522367,
+    "geom:longitude":34.982505,
+    "iso:country":"PS",
+    "lbl:latitude":31.522587,
+    "lbl:longitude":34.982892,
+    "mps:latitude":31.522587,
+    "mps:longitude":34.982892,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0633\u0627\u0645\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Sammit"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Sammit"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Samit",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.522783,
+    "wd:longitude":34.974003,
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123328,
+        "wd:id":"Q5252523"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ff2607a69e0fcdd79cc3befaf0113c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919715,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919715,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101919715,
+    "wof:lastmodified":1549929841,
+    "wof:name":"Deir Samit",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98126602172852,
+    31.52143287658691,
+    34.98368835449219,
+    31.52308082580566
+],
+  "geometry": {"coordinates":[[[34.98291778564453,31.52304649353027],[34.98334121704102,31.52308082580566],[34.98360824584961,31.52301597595215],[34.98368835449219,31.52271842956543],[34.98365020751953,31.52235794067383],[34.98357391357422,31.52202796936035],[34.98338317871094,31.5218620300293],[34.98318862915039,31.52179718017578],[34.98276901245117,31.52189445495605],[34.98249816894531,31.52245330810547],[34.98226547241211,31.52248573303223],[34.98211288452148,31.52228927612305],[34.98215103149414,31.52199172973633],[34.98234558105469,31.52163124084473],[34.98215484619141,31.52146530151367],[34.98196029663086,31.52143287658691],[34.98165512084961,31.52153015136719],[34.98161315917969,31.52186012268066],[34.98138427734375,31.52212333679199],[34.98126602172852,31.52255058288574],[34.98153686523438,31.52297782897949],[34.98215103149414,31.52274894714355],[34.98253631591797,31.52284812927246],[34.98291778564453,31.52304649353027]]],"type":"Polygon"}
+}

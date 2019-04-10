@@ -1,0 +1,86 @@
+{
+  "id": 101921763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":107151.959715,
+    "geom:bbox":"35.1156234741,32.026260376,35.1220359802,32.029499054",
+    "geom:latitude":32.028013,
+    "geom:longitude":35.119321,
+    "iso:country":"PS",
+    "lbl:latitude":32.027783,
+    "lbl:longitude":35.120705,
+    "mps:latitude":32.027783,
+    "mps:longitude":35.120705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nabi Salih (Bani Zeid al gharbi",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d41107c7dbd267d68ef7333d6d8a6104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921763,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921763,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921763,
+    "wof:lastmodified":1549929849,
+    "wof:name":"An Nabi Salih (Bani Zeid al gharbi",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11562347412109,
+    32.02626037597656,
+    35.12203598022461,
+    32.02949905395508
+],
+  "geometry": {"coordinates":[[[35.11562347412109,32.02814102172852],[35.11630249023438,32.02935028076172],[35.11777877807617,32.02891540527344],[35.11970901489258,32.02819061279297],[35.12016296386719,32.02949905395508],[35.12163543701172,32.0289192199707],[35.12203598022461,32.02684020996094],[35.12073135375977,32.02626037597656],[35.11931228637695,32.02737045288086],[35.11670303344727,32.02770614624023],[35.11562347412109,32.02814102172852]]],"type":"Polygon"}
+}

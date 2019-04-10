@@ -1,0 +1,98 @@
+{
+  "id": 1125839047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16619,31.37662,35.16619,31.37662",
+    "geom:latitude":31.37662,
+    "geom:longitude":35.16619,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":228,
+    "gn:population":228,
+    "iso:country":"PS",
+    "lbl:latitude":31.37662,
+    "lbl:longitude":35.16619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0641\u062e\u064a\u062a"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat al Fukheit"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283912,
+    "qs_pg:gn_pop":228,
+    "qs_pg:name":"Khirbat al Fakh\u012bt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":79917,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283912,
+        "qs_pg:id":79917
+    },
+    "wof:country":"PS",
+    "wof:created":1497292849,
+    "wof:geomhash":"ff8c3b8d288a02abb2a0b94be7990374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125839047,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125839047,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125839047,
+    "wof:lastmodified":1549929753,
+    "wof:name":"Khirbat al Fakh\u012bt",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16619,
+    31.37662,
+    35.16619,
+    31.37662
+],
+  "geometry": {"coordinates":[35.16619,31.37662],"type":"Point"}
+}

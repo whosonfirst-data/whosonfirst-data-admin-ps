@@ -1,0 +1,104 @@
+{
+  "id": 101920569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000002,
+    "geom:area_square_m":20395.746136,
+    "geom:bbox":"34.2372436523,31.2999782562,34.2402839661,31.3029937744",
+    "geom:latitude":31.301331,
+    "geom:longitude":34.238901,
+    "iso:country":"PS",
+    "lbl:latitude":31.300621,
+    "lbl:longitude":34.239511,
+    "mps:latitude":31.300621,
+    "mps:longitude":34.239511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Tel al-Sultan"
+    ],
+    "name:dut_x_preferred":[
+        "Tall as-Sultan"
+    ],
+    "name:eng_x_preferred":[
+        "Tall as-Sultan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05dc \u05d0\u05e1 \u05e1\u05d5\u05dc\u05d8\u05d0\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Tel al-Sultan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30eb\u30fb\u30a2\u30c3\u30b9\u30eb\u30bf\u30fc\u30f3"
+    ],
+    "name:pol_x_preferred":[
+        "Tall as-Sultan"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tall as Sultan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        85681213,
+        102191569,
+        85633739,
+        136253049,
+        1091913365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979609,
+        "wd:id":"Q7679994"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"be8abcf3cff50d0043dd40c8ad2d4735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913365,
+            "empire_id":136253049,
+            "locality_id":101920569,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920569,
+    "wof:lastmodified":1534985971,
+    "wof:name":"Tall as Sultan",
+    "wof:parent_id":1091913365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613303
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.23724365234375,
+    31.29997825622559,
+    34.24028396606445,
+    31.30299377441406
+],
+  "geometry": {"coordinates":[[[34.23927307128906,31.29997825622559],[34.2388916015625,31.30046463012695],[34.23919677734375,31.3009033203125],[34.23836517333984,31.30167579650879],[34.23786926269531,31.30224609375],[34.23724365234375,31.30276298522949],[34.23762893676758,31.30299377441406],[34.23798370361328,31.30261421203613],[34.23881149291992,31.30187606811523],[34.23947525024414,31.30116844177246],[34.24028396606445,31.3005542755127],[34.23991394042969,31.30030822753906],[34.23927307128906,31.29997825622559]]],"type":"Polygon"}
+}

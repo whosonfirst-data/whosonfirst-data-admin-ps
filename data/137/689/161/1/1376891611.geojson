@@ -1,0 +1,74 @@
+{
+  "id": 1376891611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.237396,31.764743,35.237396,31.764743",
+    "geom:latitude":31.764743,
+    "geom:longitude":35.237396,
+    "iso:country":"PS",
+    "lbl:latitude":31.765624,
+    "lbl:longitude":35.237397,
+    "mps:latitude":31.765624,
+    "mps:longitude":35.237397,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ath Thuri",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PS",
+    "wof:geomhash":"a2b66ec97b4a4bd3a84ca39c09236bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":1376891611,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1376891611,
+    "wof:lastmodified":1549931450,
+    "wof:name":"Ath Thuri",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101922247
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.237396,
+    31.764743,
+    35.237396,
+    31.764743
+],
+  "geometry": {"coordinates":[35.237396,31.764743],"type":"Point"}
+}

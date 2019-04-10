@@ -1,0 +1,109 @@
+{
+  "id": 101920643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":70728.967578,
+    "geom:bbox":"34.3162689209,31.2881336212,34.3218955994,31.2910060883",
+    "geom:latitude":31.289548,
+    "geom:longitude":34.318742,
+    "iso:country":"PS",
+    "lbl:latitude":31.289483,
+    "lbl:longitude":34.317528,
+    "mps:latitude":31.289483,
+    "mps:longitude":34.317528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Al-Fukhari"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Fukhari"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Fukhari"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Fukhari"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644-\u0641\u0648\u062e\u0627\u0631\u06cc"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0641\u062e\u0627\u0631\u06cc"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Fukhari",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.291111,
+    "wd:longitude":34.330278,
+    "wd:wordcount":320,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870522,
+        "gp:id":1979609,
+        "wd:id":"Q4702406"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fbdd6487f062e9d772f68379eb178592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920643,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920643,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920643,
+    "wof:lastmodified":1549928926,
+    "wof:name":"Al Fukhari",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31626892089844,
+    31.28813362121582,
+    34.32189559936523,
+    31.29100608825684
+],
+  "geometry": {"coordinates":[[[34.31705474853516,31.28813362121582],[34.31658172607422,31.28954887390137],[34.31626892089844,31.29000663757324],[34.31775283813477,31.29052734375],[34.31823348999023,31.28961372375488],[34.31913757324219,31.28983497619629],[34.31872177124023,31.29063987731934],[34.31939315795898,31.29100608825684],[34.31999588012695,31.28989410400391],[34.32167053222656,31.2902889251709],[34.32189559936523,31.28971290588379],[34.32003784179688,31.28917503356934],[34.32023620605469,31.28885841369629],[34.31937789916992,31.28855895996094],[34.31904220581055,31.28910636901855],[34.31777954101562,31.28878211975098],[34.31806564331055,31.28841018676758],[34.31705474853516,31.28813362121582]]],"type":"Polygon"}
+}

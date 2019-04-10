@@ -1,0 +1,93 @@
+{
+  "id": 101921745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":149925.669105,
+    "geom:bbox":"35.3543395996,32.0423774719,35.3591079712,32.0483856201",
+    "geom:latitude":32.044981,
+    "geom:longitude":35.35688,
+    "iso:country":"PS",
+    "lbl:latitude":32.043733,
+    "lbl:longitude":35.357313,
+    "mps:latitude":32.043733,
+    "mps:longitude":35.357313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u0631\u0627\u062c\u0645"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat al Mar\u0101jim"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet al Marajim",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282877,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b49e06b7549bef41761f012e965ad55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921745,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921745,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921745,
+    "wof:lastmodified":1549929846,
+    "wof:name":"Khirbet al Marajim",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35433959960938,
+    32.04237747192383,
+    35.35910797119141,
+    32.04838562011719
+],
+  "geometry": {"coordinates":[[[35.35741806030273,32.04237747192383],[35.35642242431641,32.04246520996094],[35.35483551025391,32.04297256469727],[35.35433959960938,32.04399108886719],[35.35622787475586,32.04432678222656],[35.35633087158203,32.04568099975586],[35.35543823242188,32.04669570922852],[35.35623168945312,32.04804992675781],[35.35752487182617,32.04838562011719],[35.3580207824707,32.04745483398438],[35.35791778564453,32.0457649230957],[35.35821533203125,32.04457855224609],[35.35910797119141,32.04347610473633],[35.35741806030273,32.04237747192383]]],"type":"Polygon"}
+}

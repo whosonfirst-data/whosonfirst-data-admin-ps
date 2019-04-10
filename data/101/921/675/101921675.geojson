@@ -1,0 +1,109 @@
+{
+  "id": 101921675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11326.325593,
+    "geom:bbox":"35.2591629028,32.0907096863,35.2609024048,32.0916404724",
+    "geom:latitude":32.091189,
+    "geom:longitude":35.260083,
+    "gn:population":2236,
+    "iso:country":"PS",
+    "lbl:latitude":32.091155,
+    "lbl:longitude":35.260153,
+    "mps:latitude":32.091155,
+    "mps:longitude":35.260153,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0627\u0648\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "As-Sawiya"
+    ],
+    "name:dut_x_preferred":[
+        "As-Sawiya"
+    ],
+    "name:eng_x_preferred":[
+        "As-Sawiya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d5\u05d9\u05d9\u05d4"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"As Sawiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1110,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284581,
+        "gp:id":1937300,
+        "qs:id":1026713,
+        "wd:id":"Q4802836"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"25267dabc89c701349a793d08410c6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921675,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921675,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921675,
+    "wof:lastmodified":1549929837,
+    "wof:name":"As Sawiya",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2236,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25916290283203,
+    32.0907096862793,
+    35.26090240478516,
+    32.09164047241211
+],
+  "geometry": {"coordinates":[[[35.25970840454102,32.09109115600586],[35.25936126708984,32.09113311767578],[35.25916290283203,32.09134674072266],[35.25921249389648,32.09164047241211],[35.25936126708984,32.09164047241211],[35.26015472412109,32.09155654907227],[35.26045227050781,32.09147262573242],[35.26080322265625,32.09130477905273],[35.26090240478516,32.09096527099609],[35.2608528137207,32.0907096862793],[35.26030349731445,32.09075164794922],[35.25990676879883,32.09075164794922],[35.25970840454102,32.09109115600586]]],"type":"Polygon"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1126043899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18426,31.94883,35.18426,31.94883",
+    "geom:latitude":31.94883,
+    "geom:longitude":35.18426,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1385,
+    "gn:population":1385,
+    "iso:country":"PS",
+    "lbl:latitude":31.94883,
+    "lbl:longitude":35.18426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0642\u0634"
+    ],
+    "name:dut_x_preferred":[
+        "Abu Qash"
+    ],
+    "name:eng_x_preferred":[
+        "Abu Qash"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5 \u05e7\u05e9"
+    ],
+    "name:nno_x_preferred":[
+        "Abu Qash"
+    ],
+    "name:unk_x_variant":[
+        "Ab\u016b Qash"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":285220,
+    "qs_pg:gn_pop":1385,
+    "qs_pg:name":"Ab\u016b Qashsh",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":547129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285220,
+        "qs_pg:id":547129,
+        "wd:id":"Q2490473"
+    },
+    "wof:country":"PS",
+    "wof:created":1497302315,
+    "wof:geomhash":"98d2bd83c4bb7159f066ed2a1328f3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043899,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043899,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043899,
+    "wof:lastmodified":1549929903,
+    "wof:name":"Ab\u016b Qashsh",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1385,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18426,
+    31.94883,
+    35.18426,
+    31.94883
+],
+  "geometry": {"coordinates":[35.18426,31.94883],"type":"Point"}
+}

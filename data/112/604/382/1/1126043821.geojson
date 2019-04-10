@@ -1,0 +1,101 @@
+{
+  "id": 1126043821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1624,31.95402,35.1624,31.95402",
+    "geom:latitude":31.95402,
+    "geom:longitude":35.1624,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6107,
+    "gn:population":6107,
+    "iso:country":"PS",
+    "lbl:latitude":31.95402,
+    "lbl:longitude":35.1624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u064a\u062a\u0648\u0646\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0642\u0628\u0644\u064a\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Mazra\u2018at Bani H\u0101rith"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":285034,
+    "qs_pg:gn_pop":6107,
+    "qs_pg:name":"Az Zayt\u016bn\u012byah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":547115,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285034,
+        "qs_pg:id":547115
+    },
+    "wof:country":"PS",
+    "wof:created":1497302311,
+    "wof:geomhash":"d702607396fb07b9d4162f83b77525f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043821,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043821,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043821,
+    "wof:lastmodified":1549929903,
+    "wof:name":"Az Zayt\u016bn\u012byah",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":6107,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1624,
+    31.95402,
+    35.1624,
+    31.95402
+],
+  "geometry": {"coordinates":[35.1624,31.95402],"type":"Point"}
+}

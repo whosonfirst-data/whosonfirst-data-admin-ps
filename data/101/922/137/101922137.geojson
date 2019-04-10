@@ -1,0 +1,97 @@
+{
+  "id": 101922137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":477139.256226,
+    "geom:bbox":"35.132484436,31.8331165314,35.1415252686,31.8414268494",
+    "geom:latitude":31.837562,
+    "geom:longitude":35.136714,
+    "gn:population":2008,
+    "iso:country":"PS",
+    "lbl:latitude":31.837753,
+    "lbl:longitude":35.137079,
+    "mps:latitude":31.837753,
+    "mps:longitude":35.137079,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u064a\u0628\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Qubeiba"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Qubeiba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285009,
+        "qs:id":124007
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4295819d0444ace086cb677022e082a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922137,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922137,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922137,
+    "wof:lastmodified":1549929793,
+    "wof:name":"Al Qubeiba",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":2008,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13248443603516,
+    31.83311653137207,
+    35.14152526855469,
+    31.84142684936523
+],
+  "geometry": {"coordinates":[[[35.13330078125,31.84025764465332],[35.13480758666992,31.84072494506836],[35.13685607910156,31.84142684936523],[35.13890075683594,31.84016609191895],[35.14031600952148,31.83907890319824],[35.14152526855469,31.83822250366211],[35.13932418823242,31.83535766601562],[35.13850402832031,31.8336067199707],[35.13685607910156,31.83311653137207],[35.13593292236328,31.8337574005127],[35.13479995727539,31.83569145202637],[35.13394927978516,31.83581161499023],[35.13259887695312,31.83663368225098],[35.13248443603516,31.8383903503418],[35.13330078125,31.84025764465332]]],"type":"Polygon"}
+}

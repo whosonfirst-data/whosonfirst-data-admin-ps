@@ -1,0 +1,118 @@
+{
+  "id": 101922053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":450584.329213,
+    "geom:bbox":"35.1235618591,31.8554191589,35.1378669739,31.8603992462",
+    "geom:latitude":31.858055,
+    "geom:longitude":35.13082,
+    "gn:population":1637,
+    "iso:country":"PS",
+    "lbl:latitude":31.857878,
+    "lbl:longitude":35.132387,
+    "mps:latitude":31.857878,
+    "mps:longitude":35.132387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062f\u0642\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Duqqu"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Duqqu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d3\u05d5\u05e7\u05d5"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Duqqu"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u062f\u0642\u0648"
+    ],
+    "name:unk_x_variant":[
+        "Bayt Duqq\u016b"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Duqqu",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.859167,
+    "wd:longitude":35.128611,
+    "wd:wordcount":382,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284342,
+        "gp:id":1937180,
+        "qs:id":79944,
+        "wd:id":"Q4881426",
+        "wk:page":"Beit Duqqu"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2c8fbcc0ac972b4d28ae54a56fdcfb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922053,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922053,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922053,
+    "wof:lastmodified":1549929796,
+    "wof:name":"Beit Duqqu",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":1637,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12356185913086,
+    31.85541915893555,
+    35.13786697387695,
+    31.86039924621582
+],
+  "geometry": {"coordinates":[[[35.12914276123047,31.86032867431641],[35.12931823730469,31.85958480834961],[35.13158798217773,31.86018180847168],[35.13270950317383,31.86039924621582],[35.13385009765625,31.85999488830566],[35.13490295410156,31.85884475708008],[35.13660049438477,31.85862159729004],[35.13786697387695,31.85840034484863],[35.13751983642578,31.85735702514648],[35.13555908203125,31.85610961914062],[35.13351058959961,31.85541915893555],[35.13124084472656,31.85541915893555],[35.13019180297852,31.85750198364258],[35.12775039672852,31.85705375671387],[35.12607192993164,31.85683250427246],[35.12374114990234,31.85749816894531],[35.12356185913086,31.8597297668457],[35.12565612792969,31.85943412780762],[35.12914276123047,31.86032867431641]]],"type":"Polygon"}
+}

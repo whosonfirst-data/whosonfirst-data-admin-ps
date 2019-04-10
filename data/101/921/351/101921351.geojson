@@ -1,0 +1,93 @@
+{
+  "id": 101921351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":35616.744678,
+    "geom:bbox":"35.4984855652,32.2425956726,35.5007896423,32.244556427",
+    "geom:latitude":32.243563,
+    "geom:longitude":35.499766,
+    "iso:country":"PS",
+    "lbl:latitude":32.243511,
+    "lbl:longitude":35.499743,
+    "mps:latitude":32.243511,
+    "mps:longitude":35.499743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u064a\u062f\u064a\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat al Hadidiya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Hadidiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283831,
+        "gp:id":1937304
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d2f42215298c30470573072083f577bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921351,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921351,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921351,
+    "wof:lastmodified":1549929810,
+    "wof:name":"Al Hadidiya",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49848556518555,
+    32.24259567260742,
+    35.50078964233398,
+    32.24455642700195
+],
+  "geometry": {"coordinates":[[[35.49848556518555,32.24368667602539],[35.49963760375977,32.24455642700195],[35.50078964233398,32.24455261230469],[35.50052642822266,32.24259567260742],[35.49912261962891,32.24259948730469],[35.49848556518555,32.24368667602539]]],"type":"Polygon"}
+}

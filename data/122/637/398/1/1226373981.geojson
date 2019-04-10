@@ -1,0 +1,81 @@
+{
+  "id": 1226373981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01667,32.11667,35.01667,32.11667",
+    "geom:latitude":32.11667,
+    "geom:longitude":35.01667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Sha`are Tiqwa",
+    "gn:country_code":"PS",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281955,
+    "gn:latitude":32.11667,
+    "gn:longitude":35.01667,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Sha\u2018are Tiqwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281955
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2221ff802322f4f84c204725236c7b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226373981,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226373981,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226373981,
+    "wof:lastmodified":1549929907,
+    "wof:name":"Sha`are Tiqwa",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01667,
+    32.11667,
+    35.01667,
+    32.11667
+],
+  "geometry": {"coordinates":[35.01667,32.11667],"type":"Point"}
+}

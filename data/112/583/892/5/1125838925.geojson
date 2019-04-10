@@ -1,0 +1,114 @@
+{
+  "id": 1125838925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05096,32.10828,35.05096,32.10828",
+    "geom:latitude":32.10828,
+    "geom:longitude":35.05096,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1982,
+    "gn:population":1982,
+    "iso:country":"PS",
+    "lbl:latitude":32.10828,
+    "lbl:longitude":35.05096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u062d\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Mas-ha"
+    ],
+    "name:dut_x_preferred":[
+        "Mas-ha"
+    ],
+    "name:eng_x_preferred":[
+        "Mas-ha"
+    ],
+    "name:nno_x_preferred":[
+        "Mas-ha"
+    ],
+    "name:pol_x_preferred":[
+        "Masha"
+    ],
+    "name:unk_x_variant":[
+        "Mas-\u1e25a"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":282837,
+    "qs_pg:gn_pop":1982,
+    "qs_pg:name":"Mas\u1e29ah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":79896,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282837,
+        "qs_pg:id":79896,
+        "wd:id":"Q4119589"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292845,
+    "wof:geomhash":"2ca999a50c479cc6ce72ef9208ade377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838925,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838925,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125838925,
+    "wof:lastmodified":1549929750,
+    "wof:name":"Mas\u1e29ah",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:population":1982,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05096,
+    32.10828,
+    35.05096,
+    32.10828
+],
+  "geometry": {"coordinates":[35.05096,32.10828],"type":"Point"}
+}

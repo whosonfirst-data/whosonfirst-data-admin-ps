@@ -1,0 +1,97 @@
+{
+  "id": 101923059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":50495.386533,
+    "geom:bbox":"35.1294288635,31.3919010162,35.1350021362,31.3957767487",
+    "geom:latitude":31.393572,
+    "geom:longitude":35.132547,
+    "gn:population":452,
+    "iso:country":"PS",
+    "lbl:latitude":31.392648,
+    "lbl:longitude":35.133749,
+    "mps:latitude":31.392648,
+    "mps:longitude":35.133749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u064a\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Ma\u2018\u012bn"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ma'in",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891515,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fe409565e7f54063b2616e7f40878dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923059,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923059,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923059,
+    "wof:lastmodified":1549929781,
+    "wof:name":"Ma'in",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":452,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12942886352539,
+    31.39190101623535,
+    35.13500213623047,
+    31.39577674865723
+],
+  "geometry": {"coordinates":[[[35.13332366943359,31.39190101623535],[35.13290023803711,31.39289283752441],[35.13321685791016,31.39316368103027],[35.13163757324219,31.39370346069336],[35.13069152832031,31.39424514770508],[35.12942886352539,31.39496612548828],[35.12995529174805,31.39523696899414],[35.13027191162109,31.39577674865723],[35.13058471679688,31.3951473236084],[35.13069152832031,31.39496612548828],[35.13195419311523,31.39415550231934],[35.13342666625977,31.39370536804199],[35.1342658996582,31.39343452453613],[35.13500213623047,31.39289474487305],[35.13468933105469,31.39262390136719],[35.13416290283203,31.39199256896973],[35.13332366943359,31.39190101623535]]],"type":"Polygon"}
+}

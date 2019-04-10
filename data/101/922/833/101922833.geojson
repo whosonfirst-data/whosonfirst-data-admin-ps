@@ -1,0 +1,100 @@
+{
+  "id": 101922833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000012,
+    "geom:area_square_m":126749.736315,
+    "geom:bbox":"35.0650672913,31.460975647,35.0708236694,31.4672470093",
+    "geom:latitude":31.463592,
+    "geom:longitude":35.067951,
+    "gn:population":3369,
+    "iso:country":"PS",
+    "lbl:latitude":31.46237,
+    "lbl:longitude":35.066796,
+    "mps:latitude":31.46237,
+    "mps:longitude":35.066796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u062d\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Ar-Rihiya"
+    ],
+    "name:eng_x_preferred":[
+        "Ar-Rihiya"
+    ],
+    "name:nno_x_preferred":[
+        "Ar-Rihiya"
+    ],
+    "name:unk_x_variant":[
+        "R\u012bh\u012bya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ar Rihiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284881,
+        "gp:id":1937307,
+        "wd:id":"Q4783023",
+        "wk:page":"Ar-Rihiya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1701561f3fd4e2859ab3e5f04b542dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101922833,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922833,
+    "wof:lastmodified":1534985975,
+    "wof:name":"Ar Rihiya",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":3369,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613401
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06506729125977,
+    31.46097564697266,
+    35.07082366943359,
+    31.46724700927734
+],
+  "geometry": {"coordinates":[[[35.06523895263672,31.46185874938965],[35.06506729125977,31.46259689331055],[35.06541061401367,31.46355438232422],[35.0671272277832,31.4634838104248],[35.06884765625,31.46466445922852],[35.06936264038086,31.46599197387695],[35.06961822509766,31.46724700927734],[35.07022094726562,31.46717262268066],[35.07082366943359,31.46636199951172],[35.07022476196289,31.46488761901855],[35.06876373291016,31.46289443969727],[35.06807708740234,31.46171569824219],[35.06678771972656,31.46097564697266],[35.06523895263672,31.46185874938965]]],"type":"Polygon"}
+}

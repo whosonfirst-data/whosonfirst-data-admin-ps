@@ -1,0 +1,114 @@
+{
+  "id": 101921993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":981725.63295,
+    "geom:bbox":"35.0607299805,31.8812637329,35.0838279724,31.8878688812",
+    "geom:latitude":31.884899,
+    "geom:longitude":35.071675,
+    "gn:population":5141,
+    "iso:country":"PS",
+    "lbl:latitude":31.885146,
+    "lbl:longitude":35.071675,
+    "mps:latitude":31.885146,
+    "mps:longitude":35.071675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u062a\u0627 \u0627\u0644\u0645\u0635\u0628\u0627\u062d"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u062b\u0627 \u0627\u0644\u0645\u0635\u0628\u0627\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Kharbatha al-Misbah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05e8\u05d1\u05ea \u05d0\u05dc-\u05de\u05e6\u05d1\u05d0\u05d7"
+    ],
+    "name:nno_x_preferred":[
+        "Kharbatha al-Misbah"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat el Mi\u1e63b\u0101\u1e25"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kharbatha al Misbah",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.891667,
+    "wd:longitude":35.071667,
+    "wd:wordcount":716,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283157,
+        "gp:id":56123315,
+        "qs:id":79906,
+        "wd:id":"Q2896932"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ff85f2b917af76f4caf29ee071034334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921993,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921993,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921993,
+    "wof:lastmodified":1549929881,
+    "wof:name":"Kharbatha al Misbah",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":5141,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06072998046875,
+    31.88126373291016,
+    35.08382797241211,
+    31.88786888122559
+],
+  "geometry": {"coordinates":[[[35.06285858154297,31.88349151611328],[35.06160354614258,31.88408660888672],[35.06125640869141,31.88408660888672],[35.06090927124023,31.88408660888672],[35.06072998046875,31.88602256774902],[35.06211090087891,31.88711547851562],[35.06439208984375,31.8870677947998],[35.06613540649414,31.88781356811523],[35.07012176513672,31.88786888122559],[35.075439453125,31.88618278503418],[35.07660675048828,31.88708114624023],[35.07908630371094,31.88659286499023],[35.08078765869141,31.88642692565918],[35.08211517333984,31.88618469238281],[35.08335113525391,31.88448715209961],[35.08382797241211,31.88286781311035],[35.08219528198242,31.88217544555664],[35.07948684692383,31.88334465026855],[35.07608795166016,31.88321113586426],[35.07486724853516,31.88216781616211],[35.06980514526367,31.88335227966309],[35.06874465942383,31.88220405578613],[35.06614685058594,31.88126373291016],[35.06523132324219,31.88252258300781],[35.06475830078125,31.88357543945312],[35.06285858154297,31.88349151611328]]],"type":"Polygon"}
+}

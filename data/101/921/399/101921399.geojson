@@ -1,0 +1,115 @@
+{
+  "id": 101921399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":694779.793784,
+    "geom:bbox":"35.0622634888,32.2202186584,35.0780181885,32.2283668518",
+    "geom:latitude":32.224089,
+    "geom:longitude":35.06996,
+    "gn:population":1068,
+    "iso:country":"PS",
+    "lbl:latitude":32.224677,
+    "lbl:longitude":35.069423,
+    "mps:latitude":32.224677,
+    "mps:longitude":35.069423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0632\u064a\u0628\u0627\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Kafr Zibad"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Zibad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d6\u05d9\u05d1\u05d0\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Zibad"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Zib\u0101d"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr Zibad",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.223983,
+    "wd:longitude":35.071014,
+    "wd:wordcount":352,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283348,
+        "gp:id":1937300,
+        "qs:id":547064,
+        "wd:id":"Q6346223",
+        "wk:page":"Kafr Zibad"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"225f3b92d648d830bcda1e56d685a8f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921399,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921399,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921399,
+    "wof:lastmodified":1549929813,
+    "wof:name":"Kafr Zibad",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":1068,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06226348876953,
+    32.22021865844727,
+    35.07801818847656,
+    32.22836685180664
+],
+  "geometry": {"coordinates":[[[35.07636642456055,32.22246932983398],[35.07460403442383,32.22162628173828],[35.07229232788086,32.22021865844727],[35.07052612304688,32.22134017944336],[35.06865310668945,32.22143173217773],[35.06755065917969,32.22142791748047],[35.06557083129883,32.22114562988281],[35.06435775756836,32.22077178955078],[35.06226348876953,32.22217178344727],[35.0644645690918,32.22226715087891],[35.06622695922852,32.22320556640625],[35.06457138061523,32.22489166259766],[35.06456756591797,32.22648239135742],[35.06567001342773,32.22751617431641],[35.06809234619141,32.22751998901367],[35.07007598876953,32.22817611694336],[35.07183837890625,32.22836685180664],[35.07228088378906,32.22668075561523],[35.07294464111328,32.22593307495117],[35.07426834106445,32.22434234619141],[35.07680130004883,32.22415542602539],[35.07801818847656,32.22340774536133],[35.07768630981445,32.22246932983398],[35.07636642456055,32.22246932983398]]],"type":"Polygon"}
+}

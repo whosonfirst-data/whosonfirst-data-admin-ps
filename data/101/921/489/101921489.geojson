@@ -1,0 +1,98 @@
+{
+  "id": 101921489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":117091.092765,
+    "geom:bbox":"35.5349578857,32.1815567017,35.539390564,32.1858787537",
+    "geom:latitude":32.183699,
+    "geom:longitude":35.536968,
+    "gn:population":706,
+    "iso:country":"PS",
+    "lbl:latitude":32.183545,
+    "lbl:longitude":35.536817,
+    "mps:latitude":32.183545,
+    "mps:longitude":35.536817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062c \u0646\u0639\u062c\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Marj Na\u2018ja"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marj Na'ja",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282859,
+        "gp:id":1937304,
+        "qs:id":547024
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"667cfe1a272bd81d236cfc200772cb5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921489,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921489,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921489,
+    "wof:lastmodified":1549929828,
+    "wof:name":"Marj Na'ja",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:population":706,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53495788574219,
+    32.18155670166016,
+    35.53939056396484,
+    32.18587875366211
+],
+  "geometry": {"coordinates":[[[35.53502655029297,32.18267440795898],[35.53495788574219,32.1840934753418],[35.53604888916016,32.18476867675781],[35.53728866577148,32.18587875366211],[35.5380859375,32.18538284301758],[35.53939056396484,32.18463897705078],[35.53785705566406,32.18247985839844],[35.53705596923828,32.18155670166016],[35.53567886352539,32.18199157714844],[35.53502655029297,32.18267440795898]]],"type":"Polygon"}
+}

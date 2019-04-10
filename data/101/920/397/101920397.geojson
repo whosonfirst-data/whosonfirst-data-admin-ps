@@ -1,0 +1,84 @@
+{
+  "id": 101920397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000002,
+    "geom:area_square_m":21939.570118,
+    "geom:bbox":"34.9289321899,31.3452110291,34.9306793213,31.3473014832",
+    "geom:latitude":31.346121,
+    "geom:longitude":34.929681,
+    "iso:country":"PS",
+    "lbl:latitude":31.346124,
+    "lbl:longitude":34.92962,
+    "mps:latitude":31.346124,
+    "mps:longitude":34.92962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Arab al Fureijat",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85687577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PS",
+    "wof:geomhash":"364bd14d037ecc83b2ae2e52ad711f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101920397,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "locality_id":101920397,
+            "region_id":85687577
+        }
+    ],
+    "wof:id":101920397,
+    "wof:lastmodified":1534985970,
+    "wof:name":"'Arab al Fureijat",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613295
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92893218994141,
+    31.34521102905273,
+    34.93067932128906,
+    31.3473014831543
+],
+  "geometry": {"coordinates":[[[34.93067932128906,31.34548568725586],[34.92987442016602,31.34521102905273],[34.92898178100586,31.34579086303711],[34.92897796630859,31.34646415710449],[34.92893218994141,31.3473014831543],[34.93003845214844,31.34661293029785],[34.930419921875,31.34612274169922],[34.93067932128906,31.34548568725586]]],"type":"Polygon"}
+}

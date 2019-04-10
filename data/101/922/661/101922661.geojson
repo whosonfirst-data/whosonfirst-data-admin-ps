@@ -1,0 +1,87 @@
+{
+  "id": 101922661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":78258.86693,
+    "geom:bbox":"35.0862693787,31.5966720581,35.0898780823,31.5996780396",
+    "geom:latitude":31.598238,
+    "geom:longitude":35.088157,
+    "iso:country":"PS",
+    "lbl:latitude":31.598341,
+    "lbl:longitude":35.088123,
+    "mps:latitude":31.598341,
+    "mps:longitude":35.088123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Baqqar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283132,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c758b11a08c282ebc63ed5df38ce5217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922661,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922661,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922661,
+    "wof:lastmodified":1549929837,
+    "wof:name":"Al Baqqar",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08626937866211,
+    31.59667205810547,
+    35.08987808227539,
+    31.59967803955078
+],
+  "geometry": {"coordinates":[[[35.08685302734375,31.59733963012695],[35.08626937866211,31.59775543212891],[35.08685302734375,31.59850692749023],[35.08694839477539,31.59967613220215],[35.08792495727539,31.59967803955078],[35.08860778808594,31.59967803955078],[35.08938980102539,31.5990104675293],[35.08987808227539,31.5985107421875],[35.08977890014648,31.59742546081543],[35.0890007019043,31.59742546081543],[35.0890007019043,31.5966739654541],[35.08841705322266,31.59667205810547],[35.08685302734375,31.59733963012695]]],"type":"Polygon"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1277112983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.40128,31.47158,34.40128,31.47158",
+    "geom:latitude":31.47158,
+    "geom:longitude":34.40128,
+    "gn:admin1_code":"GZ",
+    "gn:admin2_code":"11184609",
+    "gn:asciiname":"Al-Zahra'",
+    "gn:country_code":"PS",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870996,
+    "gn:latitude":31.47158,
+    "gn:longitude":34.40128,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Al-Zahra'",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madinat Az-Zahra'",
+        "Ezahra",
+        "Al Zahra",
+        "Madinat Azzahra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913297,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870996
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d2d1922fc19af74887ca26fc08583e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913297,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1277112983,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913297,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1277112983,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1277112983,
+    "wof:lastmodified":1549928936,
+    "wof:name":"Al-Zahra'",
+    "wof:parent_id":1091913297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.40128,
+    31.47158,
+    34.40128,
+    31.47158
+],
+  "geometry": {"coordinates":[34.40128,31.47158],"type":"Point"}
+}

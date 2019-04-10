@@ -1,0 +1,113 @@
+{
+  "id": 101922753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000009,
+    "geom:area_square_m":92147.392846,
+    "geom:bbox":"35.0010719299,31.5395851135,35.0049133301,31.5431804657",
+    "geom:latitude":31.541469,
+    "geom:longitude":35.002776,
+    "iso:country":"PS",
+    "lbl:latitude":31.541611,
+    "lbl:longitude":35.002812,
+    "mps:latitude":31.541611,
+    "mps:longitude":35.002812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u015e\u016bb\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0648\u0628\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Suba"
+    ],
+    "name:deu_x_preferred":[
+        "Suba"
+    ],
+    "name:fin_x_preferred":[
+        "Suba"
+    ],
+    "name:ita_x_preferred":[
+        "Suba"
+    ],
+    "name:nld_x_preferred":[
+        "Suba"
+    ],
+    "name:por_x_preferred":[
+        "Suba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Suba"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat \u015e\u016bb\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Suba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281753,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8419b6d9bbd6bb527ce826f3133e70ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101922753,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922753,
+    "wof:lastmodified":1534985970,
+    "wof:name":"Suba",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613279
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00107192993164,
+    31.53958511352539,
+    35.00491333007812,
+    31.54318046569824
+],
+  "geometry": {"coordinates":[[[35.0031623840332,31.54318046569824],[35.00403594970703,31.54288291931152],[35.00491333007812,31.5413875579834],[35.00386810302734,31.54063606262207],[35.00299453735352,31.54018592834473],[35.00107574462891,31.53958511352539],[35.00107192993164,31.54108047485352],[35.0019416809082,31.54287910461426],[35.0031623840332,31.54318046569824]]],"type":"Polygon"}
+}

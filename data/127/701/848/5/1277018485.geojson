@@ -1,0 +1,85 @@
+{
+  "id": 1277018485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0973,32.04583,35.0973,32.04583",
+    "geom:latitude":32.04583,
+    "geom:longitude":35.0973,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Dayr Ghassanah",
+    "gn:country_code":"PS",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":284077,
+    "gn:latitude":32.04583,
+    "gn:longitude":35.0973,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dayr Ghass\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deir Ghass\u0101na",
+        "Dayr Ghass\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284077
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b8efe351414a3c3bef35b6e6aa15ec27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1277018485,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1277018485,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1277018485,
+    "wof:lastmodified":1549929916,
+    "wof:name":"Dayr Ghassanah",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0973,
+    32.04583,
+    35.0973,
+    32.04583
+],
+  "geometry": {"coordinates":[35.0973,32.04583],"type":"Point"}
+}

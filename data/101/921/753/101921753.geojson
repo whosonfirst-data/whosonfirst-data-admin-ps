@@ -1,0 +1,78 @@
+{
+  "id": 101921753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000019,
+    "geom:area_square_m":197213.216458,
+    "geom:bbox":"35.1226119995,32.033039093,35.1315193176,32.0380783081",
+    "geom:latitude":32.035179,
+    "geom:longitude":35.127406,
+    "iso:country":"PS",
+    "lbl:latitude":32.034977,
+    "lbl:longitude":35.128215,
+    "mps:latitude":32.034977,
+    "mps:longitude":35.128215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr 'Ein (Bani Zeid al gharbiya)",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1463dc31ff098f5eb1983271a9b3997f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921753,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921753,
+    "wof:lastmodified":1534985967,
+    "wof:name":"Kafr 'Ein (Bani Zeid al gharbiya)",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613215
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12261199951172,
+    32.03303909301758,
+    35.13151931762695,
+    32.03807830810547
+],
+  "geometry": {"coordinates":[[[35.12970733642578,32.03693771362305],[35.13033676147461,32.03774261474609],[35.13151931762695,32.03807830810547],[35.13049697875977,32.03586196899414],[35.12955093383789,32.03485488891602],[35.12947463989258,32.0335807800293],[35.12765884399414,32.03351211547852],[35.12702941894531,32.03371429443359],[35.12655639648438,32.03364562988281],[35.12529754638672,32.03303909301758],[35.12371826171875,32.03371047973633],[35.12261199951172,32.03532028198242],[35.12663269042969,32.03532409667969],[35.12734222412109,32.03599548339844],[35.12765502929688,32.03707122802734],[35.12907409667969,32.0374755859375],[35.12970733642578,32.03693771362305]]],"type":"Polygon"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 101922083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":3818.009543,
+    "geom:bbox":"35.2120780945,31.8470935822,35.2127571106,31.8478240967",
+    "geom:latitude":31.847475,
+    "geom:longitude":35.2124,
+    "geonames:id":"284238,7870316",
+    "iso:country":"PS",
+    "lbl:latitude":31.847499,
+    "lbl:longitude":35.212401,
+    "mps:latitude":31.847499,
+    "mps:longitude":35.212401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0646\u0628\u0627\u0644\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Nabala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e8 \u05e0\u05d1\u05d0\u05dc\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Bir Nabala"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0631 \u0646\u0628\u0627\u0644\u0627"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bir Nabala",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.851667,
+    "wd:longitude":35.200833,
+    "wd:wordcount":610,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        421200701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2905320"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5a1ab2cbc00f83cfa7501e0f356a56e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "empire_id":136253049,
+            "locality_id":101922083,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922083,
+    "wof:lastmodified":1534985970,
+    "wof:name":"Bir Nabala",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613283
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21207809448242,
+    31.84709358215332,
+    35.2127571105957,
+    31.84782409667969
+],
+  "geometry": {"coordinates":[[[35.21213531494141,31.84740447998047],[35.21211242675781,31.84771537780762],[35.21236801147461,31.84782409667969],[35.21261596679688,31.84780502319336],[35.2127571105957,31.84765434265137],[35.21268463134766,31.8474235534668],[35.21257019042969,31.8472843170166],[35.21254730224609,31.84709358215332],[35.21226501464844,31.84710502624512],[35.21207809448242,31.84723472595215],[35.21213531494141,31.84740447998047]]],"type":"Polygon"}
+}

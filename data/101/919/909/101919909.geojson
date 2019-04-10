@@ -1,0 +1,93 @@
+{
+  "id": 101919909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8925.869323,
+    "geom:bbox":"34.9134254456,31.442653656,34.9152450562,31.4434700012",
+    "geom:latitude":31.443046,
+    "geom:longitude":34.914245,
+    "gn:population":2381,
+    "iso:country":"PS",
+    "lbl:latitude":31.44304,
+    "lbl:longitude":34.914232,
+    "mps:latitude":31.44304,
+    "mps:longitude":34.914232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Burj",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283176,
+        "gp:id":1937307,
+        "wd:id":"Q4702309"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"00909c540f47eb2235e103df8b5c8f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919909,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919909,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101919909,
+    "wof:lastmodified":1549929868,
+    "wof:name":"Al Burj",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":2381,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91342544555664,
+    31.44265365600586,
+    34.91524505615234,
+    31.4434700012207
+],
+  "geometry": {"coordinates":[[[34.91511535644531,31.44311141967773],[34.91524505615234,31.44293785095215],[34.91506958007812,31.44274139404297],[34.91474914550781,31.44280242919922],[34.91463088989258,31.44265365600586],[34.91439819335938,31.44277000427246],[34.91420745849609,31.44280242919922],[34.91376495361328,31.44280052185059],[34.91352844238281,31.44291114807129],[34.91342544555664,31.44307518005371],[34.9134521484375,31.44320106506348],[34.91353607177734,31.44338989257812],[34.91367340087891,31.44346046447754],[34.91390228271484,31.4434700012207],[34.91412353515625,31.44331359863281],[34.91439056396484,31.44323539733887],[34.91511535644531,31.44311141967773]]],"type":"Polygon"}
+}

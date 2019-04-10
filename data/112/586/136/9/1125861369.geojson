@@ -1,0 +1,126 @@
+{
+  "id": 1125861369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.40306,31.43944,34.40306,31.43944",
+    "geom:latitude":31.43944,
+    "geom:longitude":34.40306,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":34951,
+    "gn:population":34951,
+    "iso:country":"PS",
+    "lbl:latitude":31.43944,
+    "lbl:longitude":34.40306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u064a\u062c"
+    ],
+    "name:cat_x_preferred":[
+        "Camp de Bureij"
+    ],
+    "name:dut_x_preferred":[
+        "Bureij"
+    ],
+    "name:eng_x_preferred":[
+        "Bureij"
+    ],
+    "name:fre_x_preferred":[
+        "Bureij"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d1\u05d5\u05e8\u05d9\u05d9\u05d2'"
+    ],
+    "name:ind_x_preferred":[
+        "Bureij"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ec\u30a4\u30b8\u30e5"
+    ],
+    "name:pol_x_preferred":[
+        "Ob\u00f3z al-Burajd\u017c"
+    ],
+    "name:spa_x_preferred":[
+        "Campamento de Bureij"
+    ],
+    "name:unk_x_variant":[
+        "Al-Bureij"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281161,
+    "qs_pg:gn_pop":34951,
+    "qs_pg:name":"Al Burayj",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":123900,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913317,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281161,
+        "qs_pg:id":123900,
+        "wd:id":"Q2928440"
+    },
+    "wof:country":"PS",
+    "wof:created":1497293843,
+    "wof:geomhash":"e73e831e673b0b7132f8f11718dabef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1125861369,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1125861369,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1125861369,
+    "wof:lastmodified":1549928883,
+    "wof:name":"Al Burayj",
+    "wof:parent_id":1091913317,
+    "wof:placetype":"locality",
+    "wof:population":34951,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.40306,
+    31.43944,
+    34.40306,
+    31.43944
+],
+  "geometry": {"coordinates":[34.40306,31.43944],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1125855141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41516,32.45957,35.41516,32.45957",
+    "geom:latitude":32.45957,
+    "geom:longitude":35.41516,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2421,
+    "gn:population":2421,
+    "iso:country":"PS",
+    "lbl:latitude":32.45957,
+    "lbl:longitude":35.41516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0628\u0648\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Jalbun"
+    ],
+    "name:dut_x_preferred":[
+        "Jalbun"
+    ],
+    "name:eng_x_preferred":[
+        "Jalbun"
+    ],
+    "name:nno_x_preferred":[
+        "Jalbun"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017calbun"
+    ],
+    "name:unk_x_variant":[
+        "Gilbo\u2018a"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283540,
+    "qs_pg:gn_pop":2421,
+    "qs_pg:name":"Jalb\u016bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123956,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283540,
+        "qs_pg:id":123956,
+        "wd:id":"Q6126701"
+    },
+    "wof:country":"PS",
+    "wof:created":1497293587,
+    "wof:geomhash":"394bc1b9f9cbbf5f2d35ab5646025afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855141,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855141,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125855141,
+    "wof:lastmodified":1549929765,
+    "wof:name":"Jalb\u016bn",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":2421,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41516,
+    32.45957,
+    35.41516,
+    32.45957
+],
+  "geometry": {"coordinates":[35.41516,32.45957],"type":"Point"}
+}

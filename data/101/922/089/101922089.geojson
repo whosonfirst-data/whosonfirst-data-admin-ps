@@ -1,0 +1,86 @@
+{
+  "id": 101922089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3641.797328,
+    "geom:bbox":"35.4128265381,31.8465480804,35.4135437012,31.8472633362",
+    "geom:latitude":31.8469,
+    "geom:longitude":35.413209,
+    "iso:country":"PS",
+    "lbl:latitude":31.846909,
+    "lbl:longitude":35.413207,
+    "mps:latitude":31.846909,
+    "mps:longitude":35.413207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir al Qilt",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937306
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b5847eb2f123d3d4307efe4c10d6b32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922089,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922089,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922089,
+    "wof:lastmodified":1549929786,
+    "wof:name":"Deir al Qilt",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41282653808594,
+    31.84654808044434,
+    35.41354370117188,
+    31.84726333618164
+],
+  "geometry": {"coordinates":[[[35.41282653808594,31.84675407409668],[35.41294479370117,31.84726333618164],[35.41354370117188,31.8470573425293],[35.41353988647461,31.84654808044434],[35.41282653808594,31.84675407409668]]],"type":"Polygon"}
+}

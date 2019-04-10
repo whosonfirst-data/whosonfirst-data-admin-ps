@@ -1,0 +1,106 @@
+{
+  "id": 101921421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000041,
+    "geom:area_square_m":427981.669179,
+    "geom:bbox":"35.1841506958,32.2066459656,35.193901062,32.2148704529",
+    "geom:latitude":32.210044,
+    "geom:longitude":35.189055,
+    "gn:population":2810,
+    "iso:country":"PS",
+    "lbl:latitude":32.20938,
+    "lbl:longitude":35.189129,
+    "mps:latitude":32.20938,
+    "mps:longitude":35.189129,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0635\u0631\u0629"
+    ],
+    "name:bre_x_preferred":[
+        "Sarra"
+    ],
+    "name:cat_x_preferred":[
+        "Sarra"
+    ],
+    "name:dut_x_preferred":[
+        "Sarra"
+    ],
+    "name:eng_x_preferred":[
+        "Sarra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "\u1e62arra"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sarra",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281982,
+        "gp:id":1937300,
+        "wd:id":"Q12219954"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1a20536d58b61ed6ff4d13c91c296ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "empire_id":136253049,
+            "locality_id":101921421,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921421,
+    "wof:lastmodified":1534985975,
+    "wof:name":"Sarra",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2810,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613393
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18415069580078,
+    32.20664596557617,
+    35.19390106201172,
+    32.21487045288086
+],
+  "geometry": {"coordinates":[[[35.19244384765625,32.20664596557617],[35.18960189819336,32.20697021484375],[35.18753051757812,32.20801544189453],[35.18614959716797,32.20742797851562],[35.18599319458008,32.20840835571289],[35.18499755859375,32.20945358276367],[35.18415069580078,32.210693359375],[35.185302734375,32.21173858642578],[35.18660736083984,32.2123908996582],[35.18722152709961,32.21363067626953],[35.18783569335938,32.2146110534668],[35.18937301635742,32.21487045288086],[35.18967819213867,32.21363067626953],[35.18844985961914,32.21226119995117],[35.18944931030273,32.21121597290039],[35.19075393676758,32.210693359375],[35.19182968139648,32.21167373657227],[35.1929817199707,32.21160888671875],[35.1929817199707,32.20997619628906],[35.19390106201172,32.20893096923828],[35.19290542602539,32.20756149291992],[35.19244384765625,32.20664596557617]]],"type":"Polygon"}
+}

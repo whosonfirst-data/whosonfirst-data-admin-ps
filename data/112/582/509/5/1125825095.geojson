@@ -1,0 +1,117 @@
+{
+  "id": 1125825095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36705,32.05632,35.36705,32.05632",
+    "geom:latitude":32.05632,
+    "geom:longitude":35.36705,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2157,
+    "gn:population":2157,
+    "iso:country":"PS",
+    "lbl:latitude":32.05632,
+    "lbl:longitude":35.36705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0645\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043c\u0435\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Duma"
+    ],
+    "name:dut_x_preferred":[
+        "Duma"
+    ],
+    "name:eng_x_preferred":[
+        "Duma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05de\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Duma i Nablus"
+    ],
+    "name:unk_x_variant":[
+        "D\u014dma"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284013,
+    "qs_pg:gn_pop":2157,
+    "qs_pg:name":"Domea",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123966,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284013,
+        "qs_pg:id":123966,
+        "wd:id":"Q2760852"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292240,
+    "wof:geomhash":"b77c4ea98fcf0b6e4965a43f26bef3fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125825095,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125825095,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125825095,
+    "wof:lastmodified":1549929742,
+    "wof:name":"Domea",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2157,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36705,
+    32.05632,
+    35.36705,
+    32.05632
+],
+  "geometry": {"coordinates":[35.36705,32.05632],"type":"Point"}
+}

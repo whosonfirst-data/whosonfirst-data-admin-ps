@@ -1,0 +1,109 @@
+{
+  "id": 101921439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:area_square_m":220096.701247,
+    "geom:bbox":"35.2671356201,32.1968078613,35.274230957,32.2046318054",
+    "geom:latitude":32.201048,
+    "geom:longitude":35.271032,
+    "gn:population":2421,
+    "iso:country":"PS",
+    "lbl:latitude":32.200786,
+    "lbl:longitude":35.272456,
+    "mps:latitude":32.200786,
+    "mps:longitude":35.272456,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kafr Qallil"
+    ],
+    "name:dut_x_preferred":[
+        "Kafr Qallil"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Qallil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e7\u05dc\u05d9\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Qallil"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr Qalil",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283365,
+        "gp:id":1937300,
+        "qs:id":123948,
+        "wd:id":"Q6346198",
+        "wk:page":"Kafr Qallil"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f63f474dea52b636d3beced5edb44209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921439,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921439,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921439,
+    "wof:lastmodified":1549929820,
+    "wof:name":"Kafr Qalil",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2421,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26713562011719,
+    32.19680786132812,
+    35.27423095703125,
+    32.20463180541992
+],
+  "geometry": {"coordinates":[[[35.27265167236328,32.19807434082031],[35.27203750610352,32.19680786132812],[35.27063751220703,32.19755554199219],[35.27169036865234,32.19844818115234],[35.27098846435547,32.1993408203125],[35.27090072631836,32.20075607299805],[35.26967620849609,32.20045852661133],[35.26897430419922,32.19941711425781],[35.26897430419922,32.20060729980469],[35.26897811889648,32.20247268676758],[35.26713562011719,32.20291900634766],[35.26739883422852,32.20418548583984],[35.26871490478516,32.20463180541992],[35.27037811279297,32.20269393920898],[35.27344512939453,32.20209503173828],[35.27423095703125,32.2014274597168],[35.27361679077148,32.19941329956055],[35.27265167236328,32.19807434082031]]],"type":"Polygon"}
+}

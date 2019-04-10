@@ -1,0 +1,98 @@
+{
+  "id": 1126043853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44351,32.02509,35.44351,32.02509",
+    "geom:latitude":32.02509,
+    "geom:longitude":35.44351,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1064,
+    "gn:population":1064,
+    "iso:country":"PS",
+    "lbl:latitude":32.02509,
+    "lbl:longitude":35.44351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0635\u0627\u064a\u0644"
+    ],
+    "name:unk_x_variant":[
+        "Paza\u2019el"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":285102,
+    "qs_pg:gn_pop":1064,
+    "qs_pg:name":"Al Fa\u015f\u0101yil",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":547121,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285102,
+        "qs_pg:id":547121
+    },
+    "wof:country":"PS",
+    "wof:created":1497302313,
+    "wof:geomhash":"afca26854efae384b60e0f39d0f13f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043853,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043853,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043853,
+    "wof:lastmodified":1549929900,
+    "wof:name":"Al Fa\u015f\u0101yil",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:population":1064,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44351,
+    32.02509,
+    35.44351,
+    32.02509
+],
+  "geometry": {"coordinates":[35.44351,32.02509],"type":"Point"}
+}

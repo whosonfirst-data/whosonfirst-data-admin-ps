@@ -1,0 +1,101 @@
+{
+  "id": 1125776807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3277,31.80725,35.3277,31.80725",
+    "geom:latitude":31.80725,
+    "geom:longitude":35.3277,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":688,
+    "gn:population":688,
+    "iso:country":"PS",
+    "lbl:latitude":31.80725,
+    "lbl:longitude":35.3277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0639\u0627\u0628\u0646\u0647 \u062a\u062c\u0645\u0639 \u0628\u062f\u0648\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0643\u0639\u0627\u0628\u0646\u0647"
+    ],
+    "name:unk_x_variant":[
+        "Al Ka\u2018\u0101binah (Tajammu\u2018 Badaw\u012b)"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7890118,
+    "qs_pg:gn_pop":688,
+    "qs_pg:name":"Al Ka\u2018\u0101bina\u00b7h (Tajammu\u2018 Badaw\u012b)",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743868,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890118,
+        "qs_pg:id":743868
+    },
+    "wof:country":"PS",
+    "wof:created":1497290296,
+    "wof:geomhash":"4472d7e37b5f0700472d4bfa307623dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125776807,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125776807,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125776807,
+    "wof:lastmodified":1549929675,
+    "wof:name":"Al Ka\u2018\u0101bina\u00b7h (Tajammu\u2018 Badaw\u012b)",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":688,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3277,
+    31.80725,
+    35.3277,
+    31.80725
+],
+  "geometry": {"coordinates":[35.3277,31.80725],"type":"Point"}
+}

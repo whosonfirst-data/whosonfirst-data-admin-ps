@@ -1,0 +1,139 @@
+{
+  "id": 101922199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9009.837001,
+    "geom:bbox":"35.4306335449,31.7853794098,35.4318771362,31.7862529755",
+    "geom:latitude":31.785816,
+    "geom:longitude":35.431308,
+    "gn:population":305,
+    "iso:country":"PS",
+    "lbl:latitude":31.785825,
+    "lbl:longitude":35.43131,
+    "mps:latitude":31.785825,
+    "mps:longitude":35.43131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0633\u0645 \u0627\u0644\u0646\u0628\u064a \u0645\u0648\u0633\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0628\u064a \u0645\u0648\u0633\u0649"
+    ],
+    "name:cat_x_preferred":[
+        "Nabi Musa"
+    ],
+    "name:chi_x_preferred":[
+        "\u7d0d\u6bd4\u6155\u6c99"
+    ],
+    "name:dut_x_preferred":[
+        "Nabi Musa"
+    ],
+    "name:eng_x_preferred":[
+        "Nabi Musa"
+    ],
+    "name:ger_x_preferred":[
+        "Nabi Musa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d2\u05d9\u05d2\u05d5\u05ea \u05e0\u05d1\u05d9 \u05de\u05d5\u05e1\u05d0"
+    ],
+    "name:ind_x_preferred":[
+        "nabi musa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30d3\u30fb\u30e0\u30b5"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d2a\u0d40\u0d21\u0d3f\u0d2f:\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 \u0d35\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d2a\u0d40\u0d21\u0d3f\u0d2f \u0d2a\u0d24\u0d4d\u0d24\u0d3e\u0d02 \u0d35\u0d3e\u0d7c\u0d37\u0d3f\u0d15\u0d02/\u0d35\u0d3f\u0d15\u0d4d\u0d15\u0d3f \u0d35\u0d28\u0d2f\u0d3e\u0d24\u0d4d\u0d30"
+    ],
+    "name:ron_x_preferred":[
+        "S\u0103rb\u0103toarea lui Nabi Musa"
+    ],
+    "name:rum_x_preferred":[
+        "S\u0103rb\u0103toarea lui Nabi Musa"
+    ],
+    "name:spa_x_preferred":[
+        "Nabi Musa"
+    ],
+    "name:unk_x_variant":[
+        "An Nab\u012b M\u016bs\u00e1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nabi Musa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":2209,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898363,
+        "gp:id":1937306,
+        "qs:id":744260,
+        "wd:id":"Q2909131"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"7e0bb0ca4a7b3c80cb137e1f30244336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922199,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922199,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922199,
+    "wof:lastmodified":1549929798,
+    "wof:name":"An Nabi Musa",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:population":305,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43063354492188,
+    31.78537940979004,
+    35.43187713623047,
+    31.78625297546387
+],
+  "geometry": {"coordinates":[[[35.43063354492188,31.78550720214844],[35.43085479736328,31.78619194030762],[35.43180465698242,31.78625297546387],[35.43187713623047,31.78562927246094],[35.43173217773438,31.78537940979004],[35.43063354492188,31.78550720214844]]],"type":"Polygon"}
+}

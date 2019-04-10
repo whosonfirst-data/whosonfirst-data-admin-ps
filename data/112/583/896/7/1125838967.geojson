@@ -1,0 +1,108 @@
+{
+  "id": 1125838967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.07185,31.88546,35.07185,31.88546",
+    "geom:latitude":31.88546,
+    "geom:longitude":35.07185,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5141,
+    "gn:population":5141,
+    "iso:country":"PS",
+    "lbl:latitude":31.88546,
+    "lbl:longitude":35.07185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u062b\u0627 \u0627\u0644\u0645\u0635\u0628\u0627\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Kharbatha al-Misbah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05e8\u05d1\u05ea \u05d0\u05dc-\u05de\u05e6\u05d1\u05d0\u05d7"
+    ],
+    "name:nno_x_preferred":[
+        "Kharbatha al-Misbah"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat el Mi\u1e63b\u0101\u1e25"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283157,
+    "qs_pg:gn_pop":5141,
+    "qs_pg:name":"Kharbath\u0101 al Mi\u015fb\u0101\u1e29",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":79906,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283157,
+        "qs_pg:id":79906,
+        "wd:id":"Q2896932"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292846,
+    "wof:geomhash":"ff4158d91ea308c9cecfc9de5aa8d48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838967,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838967,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125838967,
+    "wof:lastmodified":1549929752,
+    "wof:name":"Kharbath\u0101 al Mi\u015fb\u0101\u1e29",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":5141,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07185,
+    31.88546,
+    35.07185,
+    31.88546
+],
+  "geometry": {"coordinates":[35.07185,31.88546],"type":"Point"}
+}

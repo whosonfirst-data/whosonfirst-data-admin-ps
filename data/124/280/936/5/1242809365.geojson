@@ -1,0 +1,88 @@
+{
+  "id": 1242809365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31089,31.35675,34.31089,31.35675",
+    "geom:latitude":31.35675,
+    "geom:longitude":34.31089,
+    "gn:admin1_code":"GZ",
+    "gn:admin2_code":"7871092",
+    "gn:asciiname":"Al Katibah",
+    "gn:country_code":"PS",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051616,
+    "gn:latitude":31.35675,
+    "gn:longitude":34.31089,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Al Kat\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u062a\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Kat\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051616
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6f76c11d7ed57fee36b5a466f35e6c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1242809365,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1242809365,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1242809365,
+    "wof:lastmodified":1549928934,
+    "wof:name":"Al Katibah",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31089,
+    31.35675,
+    34.31089,
+    31.35675
+],
+  "geometry": {"coordinates":[34.31089,31.35675],"type":"Point"}
+}

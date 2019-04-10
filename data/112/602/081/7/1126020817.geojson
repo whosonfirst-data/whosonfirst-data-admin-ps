@@ -1,0 +1,114 @@
+{
+  "id": 1126020817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04952,31.4502,35.04952,31.4502",
+    "geom:latitude":31.4502,
+    "geom:longitude":35.04952,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2133,
+    "gn:population":2133,
+    "iso:country":"PS",
+    "lbl:latitude":31.4502,
+    "lbl:longitude":35.04952,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0645\u0631\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Beit 'Amra"
+    ],
+    "name:eng_x_preferred":[
+        "Beit 'Amra"
+    ],
+    "name:ger_x_preferred":[
+        "Beit 'Amra"
+    ],
+    "name:nno_x_preferred":[
+        "Beit 'Amra"
+    ],
+    "name:nob_x_preferred":[
+        "Beit 'Amra"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Beit \u2018Amra"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7891283,
+    "qs_pg:gn_pop":2133,
+    "qs_pg:name":"Bayt \u2018Amrah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":744080,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891283,
+        "qs_pg:id":744080,
+        "wd:id":"Q4881414"
+    },
+    "wof:country":"PS",
+    "wof:created":1497300820,
+    "wof:geomhash":"1e1f28f71c4187f656849625c80f4957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126020817,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126020817,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126020817,
+    "wof:lastmodified":1549929885,
+    "wof:name":"Bayt \u2018Amrah",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":2133,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04952,
+    31.4502,
+    35.04952,
+    31.4502
+],
+  "geometry": {"coordinates":[35.04952,31.4502],"type":"Point"}
+}

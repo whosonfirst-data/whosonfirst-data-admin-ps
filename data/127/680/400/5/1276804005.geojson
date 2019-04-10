@@ -1,0 +1,82 @@
+{
+  "id": 1276804005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35,31.81667,35.35,31.81667",
+    "geom:latitude":31.81667,
+    "geom:longitude":35.35,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Allon",
+    "gn:country_code":"PS",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":285051,
+    "gn:latitude":31.81667,
+    "gn:longitude":35.35,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Allon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285051,
+        "wk:page":"Alon%2C_Mateh_Binyamin"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0c454197144309b2fca18ade2c934521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1276804005,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1276804005,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1276804005,
+    "wof:lastmodified":1549929915,
+    "wof:name":"Allon",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35,
+    31.81667,
+    35.35,
+    31.81667
+],
+  "geometry": {"coordinates":[35.35,31.81667],"type":"Point"}
+}

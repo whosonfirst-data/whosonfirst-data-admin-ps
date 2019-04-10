@@ -1,0 +1,92 @@
+{
+  "id": 101921245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":161807.825459,
+    "geom:bbox":"35.0480613708,32.291469574,35.0539894104,32.2957344055",
+    "geom:latitude":32.293582,
+    "geom:longitude":35.051315,
+    "gn:population":400,
+    "iso:country":"PS",
+    "lbl:latitude":32.293834,
+    "lbl:longitude":35.051852,
+    "mps:latitude":32.293834,
+    "mps:longitude":35.051852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283110,
+        "gp:id":1937300,
+        "qs:id":547043
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"14e0fb033bdd8340cf10fa5d407a5dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921245,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921245,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921245,
+    "wof:lastmodified":1549929803,
+    "wof:name":"Kafa",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04806137084961,
+    32.29146957397461,
+    35.05398941040039,
+    32.29573440551758
+],
+  "geometry": {"coordinates":[[[35.05000305175781,32.29146957397461],[35.04965972900391,32.29224395751953],[35.04817581176758,32.29204940795898],[35.04806137084961,32.29320907592773],[35.04897308349609,32.29398727416992],[35.05022811889648,32.29379653930664],[35.04965591430664,32.29495620727539],[35.05125045776367,32.29524993896484],[35.05261993408203,32.29573440551758],[35.05398941040039,32.29467010498047],[35.05387878417969,32.29273223876953],[35.05262756347656,32.29205322265625],[35.05114364624023,32.29234313964844],[35.05000305175781,32.29146957397461]]],"type":"Polygon"}
+}

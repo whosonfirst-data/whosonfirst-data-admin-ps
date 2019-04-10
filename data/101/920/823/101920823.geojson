@@ -1,0 +1,86 @@
+{
+  "id": 101920823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8723.894091,
+    "geom:bbox":"35.1560287476,32.4725608826,35.1574630737,32.4734458923",
+    "geom:latitude":32.473024,
+    "geom:longitude":35.156724,
+    "iso:country":"PS",
+    "lbl:latitude":32.472992,
+    "lbl:longitude":35.156654,
+    "mps:latitude":32.472992,
+    "mps:longitude":35.156654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dhaher al Malih",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"190e78c8f6fda4c692601cf5eeb26749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920823,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920823,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920823,
+    "wof:lastmodified":1549929853,
+    "wof:name":"Dhaher al Malih",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15602874755859,
+    32.47256088256836,
+    35.15746307373047,
+    32.47344589233398
+],
+  "geometry": {"coordinates":[[[35.15602874755859,32.4726676940918],[35.15635299682617,32.473388671875],[35.15719985961914,32.47344589233398],[35.15746307373047,32.47316741943359],[35.15707015991211,32.47278213500977],[35.15674591064453,32.47256088256836],[35.15602874755859,32.4726676940918]]],"type":"Polygon"}
+}

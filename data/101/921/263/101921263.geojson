@@ -1,0 +1,95 @@
+{
+  "id": 101921263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000016,
+    "geom:area_square_m":167491.96916,
+    "geom:bbox":"35.0365447998,32.2829284668,35.0425949097,32.2895126343",
+    "geom:latitude":32.28657,
+    "geom:longitude":35.039947,
+    "iso:country":"PS",
+    "lbl:latitude":32.286718,
+    "lbl:longitude":35.040245,
+    "mps:latitude":32.286718,
+    "mps:longitude":35.040245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:dut_x_preferred":[
+        "Izbat Shufa"
+    ],
+    "name:eng_x_preferred":[
+        "Izbat Shufa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d6\u05d1\u05ea \u05e9\u05d5\u05e4\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Izbat Shufa"
+    ],
+    "name:rum_x_preferred":[
+        "Izbat Shufa"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Izbat Shufa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300,
+        "wd:id":"Q6101786"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"69127511c6ba675041f461a8a6026728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "empire_id":136253049,
+            "locality_id":101921263,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921263,
+    "wof:lastmodified":1534985966,
+    "wof:name":"'Izbat Shufa",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613195
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03654479980469,
+    32.28292846679688,
+    35.04259490966797,
+    32.28951263427734
+],
+  "geometry": {"coordinates":[[[35.04009246826172,32.28292846679688],[35.04043197631836,32.28457641601562],[35.03951644897461,32.28564071655273],[35.03825759887695,32.28757476806641],[35.03689193725586,32.28718566894531],[35.03677368164062,32.28815460205078],[35.03654479980469,32.2893180847168],[35.03779983520508,32.28951263427734],[35.03928375244141,32.28825759887695],[35.04042434692383,32.28806304931641],[35.04145431518555,32.28738784790039],[35.04259490966797,32.28651428222656],[35.04225921630859,32.28438186645508],[35.04134750366211,32.28350830078125],[35.04009246826172,32.28292846679688]]],"type":"Polygon"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1343894001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11667,32.41667,35.11667,32.41667",
+    "geom:latitude":32.41667,
+    "geom:longitude":35.11667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Hermesh",
+    "gn:country_code":"PS",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":283686,
+    "gn:latitude":32.41667,
+    "gn:longitude":35.11667,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"H\u0331ermesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0331ermesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283686,
+        "wk:page":"Hermesh"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b9ca30440118d0c5c51b3a68384f024a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1343894001,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1343894001,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1343894001,
+    "wof:lastmodified":1549929906,
+    "wof:name":"Hermesh",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11667,
+    32.41667,
+    35.11667,
+    32.41667
+],
+  "geometry": {"coordinates":[35.11667,32.41667],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1225880861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15,31.5,35.15,31.5",
+    "geom:latitude":31.5,
+    "geom:longitude":35.15,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Ma`ale Hever",
+    "gn:country_code":"PS",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282990,
+    "gn:latitude":31.5,
+    "gn:longitude":35.15,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Ma\u2018ale H\u0331ever",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282990
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"56c6a63add8182096c5eb54426112b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1225880861,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1225880861,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1225880861,
+    "wof:lastmodified":1549929705,
+    "wof:name":"Ma`ale Hever",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15,
+    31.5,
+    35.15,
+    31.5
+],
+  "geometry": {"coordinates":[35.15,31.5],"type":"Point"}
+}

@@ -1,0 +1,195 @@
+{
+  "id": 85907157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.233208,31.78647,35.233208,31.78647",
+    "geom:latitude":31.78647,
+    "geom:longitude":35.233208,
+    "gn:id":"",
+    "iso:country":"PS",
+    "lbl:latitude":31.78647,
+    "lbl:longitude":35.233208,
+    "mps:latitude":31.786198,
+    "mps:longitude":35.233429,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "M\u00fcs\u0259lman m\u0259h\u0259ll\u0259si"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c1\u09b8\u09b2\u09bf\u09ae \u09ae\u09b9\u09b2\u09cd\u09b2\u09be"
+    ],
+    "name:ces_x_preferred":[
+        "Muslimsk\u00e1 \u010dtvr\u0165"
+    ],
+    "name:chi_x_preferred":[
+        "\u7a46\u65af\u6797\u533a"
+    ],
+    "name:cze_x_preferred":[
+        "Muslimsk\u00e1 \u010dtvr\u0165"
+    ],
+    "name:deu_x_preferred":[
+        "Muslimisches Viertel von Jerusalem"
+    ],
+    "name:dut_x_preferred":[
+        "Islamitische wijk"
+    ],
+    "name:eng_x_preferred":[
+        "Moslem Quarter"
+    ],
+    "name:fin_x_preferred":[
+        "Jerusalemin muslimikortteli"
+    ],
+    "name:fra_x_preferred":[
+        "Quartier musulman de la vieille ville de J\u00e9rusalem"
+    ],
+    "name:fre_x_preferred":[
+        "quartier musulman de la vieille ville de J\u00e9rusalem"
+    ],
+    "name:ger_x_preferred":[
+        "Muslimisches Viertel von Jerusalem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05d5\u05d1\u05e2 \u05d4\u05de\u05d5\u05e1\u05dc\u05de\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0941\u0938\u094d\u0932\u093f\u092e \u0916\u0923\u094d\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "Bagian Muslim"
+    ],
+    "name:jav_x_preferred":[
+        "Kampung Muslim"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0443\u0441\u043b\u0438\u043c\u0430\u043d\u0441\u043a\u0430 \u043d\u0430\u0441\u0435\u043b\u0431\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0443\u0441\u043b\u0438\u043c\u0430\u043d\u0441\u043a\u0430 \u043d\u0430\u0441\u0435\u043b\u0431\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Islamitische wijk"
+    ],
+    "name:nob_x_preferred":[
+        "Det muslimske kvarter"
+    ],
+    "name:nor_x_preferred":[
+        "Det muslimske kvarter"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0633\u0644\u0645 \u06a9\u0648\u0627\u0631\u0679\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Dzielnica Muzu\u0142ma\u0144ska w Jerozolimie"
+    ],
+    "name:por_x_preferred":[
+        "Bairro Mu\u00e7ulmano"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0443\u043b\u044c\u043c\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Barrio musulm\u00e1n de Jerusal\u00e9n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0b9a\u0bc1\u0bb2\u0bbe\u0bae\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:unk_x_variant":[
+        "Moslem Quarter"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0633\u0644\u0645 \u0645\u062d\u0644\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u65af\u6797\u533a"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":3093,
+    "qs:local_sum":12688,
+    "qs:localhoods":16,
+    "qs:name":"Moslem Quarter",
+    "qs:name_adm0":"Palestine",
+    "qs:name_adm1":"West Bank",
+    "qs:name_adm2":"Jerusalem",
+    "qs:name_local":"\u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photo_max":75,
+    "qs:photo_sum":451,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":28289408,
+    "qs:woe_adm1":23424988,
+    "qs:woe_adm2":24549736,
+    "qs:woe_lau":0,
+    "qs:woe_local":56126012,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":31.780833,
+    "wd:longitude":35.2325,
+    "wd:wordcount":344,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724639,
+        "qs:id":237760,
+        "qs_pg:id":237760,
+        "wd:id":"Q1781931"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3735524862fd76249cf4eb3abd032cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85907157,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85907157,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930545,
+    "wof:name":"Moslem Quarter",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.233208,
+    31.78647,
+    35.233208,
+    31.78647
+],
+  "geometry": {"coordinates":[35.233208,31.78647],"type":"Point"}
+}

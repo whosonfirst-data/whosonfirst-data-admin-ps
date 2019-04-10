@@ -1,0 +1,89 @@
+{
+  "id": 1226783427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02329,31.46557,35.02329,31.46557",
+    "geom:latitude":31.46557,
+    "geom:longitude":35.02329,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"`Abdah",
+    "gn:country_code":"PS",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285354,
+    "gn:latitude":31.46557,
+    "gn:longitude":35.02329,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u2018Abdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat \u2018Abda",
+        "Khirbat al \u2018Abdah",
+        "\u2018Abdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285354
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"02c6931d204fec2ba3b0e113b406aca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226783427,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226783427,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226783427,
+    "wof:lastmodified":1549929918,
+    "wof:name":"`Abdah",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02329,
+    31.46557,
+    35.02329,
+    31.46557
+],
+  "geometry": {"coordinates":[35.02329,31.46557],"type":"Point"}
+}

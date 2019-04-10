@@ -1,0 +1,93 @@
+{
+  "id": 101923033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18088.289321,
+    "geom:bbox":"35.1791610718,31.3957996368,35.1809463501,31.3972434998",
+    "geom:latitude":31.396552,
+    "geom:longitude":35.180106,
+    "iso:country":"PS",
+    "lbl:latitude":31.39659,
+    "lbl:longitude":35.180123,
+    "mps:latitude":31.39659,
+    "mps:longitude":35.180123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0623\u0635\u0641\u064a"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat A\u015faf\u012b"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Asafi",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892602,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0b1f52aa10e700285d035af313f06192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923033,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923033,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923033,
+    "wof:lastmodified":1549929777,
+    "wof:name":"Khirbet Asafi",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17916107177734,
+    31.39579963684082,
+    35.18094635009766,
+    31.39724349975586
+],
+  "geometry": {"coordinates":[[[35.1796875,31.39579963684082],[35.17916107177734,31.39634132385254],[35.1796875,31.39706230163574],[35.18010711669922,31.39724349975586],[35.18094635009766,31.39706230163574],[35.18094635009766,31.39652252197266],[35.18052673339844,31.39607048034668],[35.1796875,31.39579963684082]]],"type":"Polygon"}
+}

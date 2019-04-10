@@ -1,0 +1,89 @@
+{
+  "id": 101920889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000007,
+    "geom:area_square_m":74016.643271,
+    "geom:bbox":"35.1886787415,32.4544563293,35.1921157837,32.4584465027",
+    "geom:latitude":32.456536,
+    "geom:longitude":35.190371,
+    "gn:population":365,
+    "iso:country":"PS",
+    "lbl:latitude":32.456315,
+    "lbl:longitude":35.190827,
+    "mps:latitude":32.456315,
+    "mps:longitude":35.190827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0631\u0645"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat e\u1e6d \u1e6caram"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"At Tarem",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281638,
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0bdae65fedcd05282e3a6c56a4e562d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101920889,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920889,
+    "wof:lastmodified":1534985968,
+    "wof:name":"At Tarem",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":365,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613251
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18867874145508,
+    32.4544563293457,
+    35.19211578369141,
+    32.45844650268555
+],
+  "geometry": {"coordinates":[[[35.18950653076172,32.45817947387695],[35.19001770019531,32.45844650268555],[35.19084167480469,32.45796203613281],[35.1914176940918,32.45828628540039],[35.19211578369141,32.45747756958008],[35.19154357910156,32.45704650878906],[35.1914176940918,32.45693588256836],[35.19166946411133,32.45634460449219],[35.1914176940918,32.45553588867188],[35.19014358520508,32.45499420166016],[35.18880844116211,32.4544563293457],[35.18867874145508,32.45564270019531],[35.1894416809082,32.45607376098633],[35.19001770019531,32.45612716674805],[35.19007873535156,32.45672225952148],[35.18957138061523,32.45731353759766],[35.18925094604492,32.45785522460938],[35.18950653076172,32.45817947387695]]],"type":"Polygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101922355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":87.359812,
+    "geom:bbox":"35.2008094788,31.7186145782,35.2010498047,31.718952179",
+    "geom:latitude":31.718749,
+    "geom:longitude":35.200921,
+    "iso:country":"PS",
+    "lbl:latitude":31.718709,
+    "lbl:longitude":35.2009,
+    "mps:latitude":31.718709,
+    "mps:longitude":35.2009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Ayda Camp",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":884,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1936768,
+        "wd:id":"Q4696624"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b454781912ff1a5c9dc4035843e837be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "empire_id":136253049,
+            "locality_id":101922355,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922355,
+    "wof:lastmodified":1534985973,
+    "wof:name":"'Ayda Camp",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613359
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20080947875977,
+    31.71861457824707,
+    35.2010498046875,
+    31.71895217895508
+],
+  "geometry": {"coordinates":[[[35.2010498046875,31.71895217895508],[35.20090484619141,31.71867942810059],[35.20080947875977,31.71861457824707],[35.2010498046875,31.71895217895508]]],"type":"Polygon"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 101922745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6843.192682,
+    "geom:bbox":"35.2544746399,31.5443382263,35.2555007935,31.5455093384",
+    "geom:latitude":31.544987,
+    "geom:longitude":35.254913,
+    "gn:population":214,
+    "iso:country":"PS",
+    "lbl:latitude":31.544972,
+    "lbl:longitude":35.254948,
+    "mps:latitude":31.544972,
+    "mps:longitude":35.254948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ar Rawa'in",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890848,
+        "qs:id":744069
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2ab209d378861f7b37b03e084c15fd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922745,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922745,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922745,
+    "wof:lastmodified":1549929846,
+    "wof:name":"Ar Rawa'in",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25447463989258,
+    31.54433822631836,
+    35.25550079345703,
+    31.54550933837891
+],
+  "geometry": {"coordinates":[[[35.25470352172852,31.54433822631836],[35.25447463989258,31.54550933837891],[35.25504302978516,31.54541015625],[35.25550079345703,31.54492378234863],[35.25470352172852,31.54433822631836]]],"type":"Polygon"}
+}

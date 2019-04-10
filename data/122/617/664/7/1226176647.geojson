@@ -1,0 +1,73 @@
+{
+  "id": 1226176647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.13333,31.65,35.13333,31.65",
+    "geom:latitude":31.65,
+    "geom:longitude":35.13333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Kifar `Asyun",
+    "gn:country_code":"PS",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":283056,
+    "gn:latitude":31.65,
+    "gn:longitude":35.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kif\u0101r \u2018A\u015fy\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kefar \u2018Etsyon",
+        "Kif\u0101r \u2018A\u015fy\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283056
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c103a0db7f681e462a0e1b0da4917f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "empire_id":136253049,
+            "locality_id":1226176647,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226176647,
+    "wof:lastmodified":1537683127,
+    "wof:name":"Kifar `Asyun",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13333,
+    31.65,
+    35.13333,
+    31.65
+],
+  "geometry": {"coordinates":[35.13333,31.65],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 101921809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000021,
+    "geom:area_square_m":220731.975785,
+    "geom:bbox":"35.1085472107,31.9993896484,35.116027832,32.0055007935",
+    "geom:latitude":32.001802,
+    "geom:longitude":35.113042,
+    "gn:population":867,
+    "iso:country":"PS",
+    "lbl:latitude":32.002015,
+    "lbl:longitude":35.113977,
+    "mps:latitude":32.002015,
+    "mps:longitude":35.113977,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0646\u0638\u0627\u0645"
+    ],
+    "name:dut_x_preferred":[
+        "Deir Nidham"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Nidham"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Nidham"
+    ],
+    "name:unk_x_variant":[
+        "Deir Nidh\u0101m"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Nidham",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284067,
+        "gp:id":1937300,
+        "wd:id":"Q12056106",
+        "wk:page":"Deir Nidham"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a1b5831b4cb77415219d07544ecf85a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921809,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921809,
+    "wof:lastmodified":1534985974,
+    "wof:name":"Deir Nidham",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":867,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613377
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10854721069336,
+    31.9993896484375,
+    35.11602783203125,
+    32.00550079345703
+],
+  "geometry": {"coordinates":[[[35.11295318603516,32.00482940673828],[35.11397552490234,32.00550079345703],[35.11523818969727,32.00422668457031],[35.11594772338867,32.00335311889648],[35.11547470092773,32.00281524658203],[35.11602783203125,32.00194549560547],[35.11500549316406,32.00053405761719],[35.11382293701172,31.99979400634766],[35.11185455322266,31.9993896484375],[35.11106491088867,31.99979209899902],[35.10854721069336,31.99945449829102],[35.10917282104492,32.00093078613281],[35.11051177978516,32.00133514404297],[35.11201095581055,32.00167465209961],[35.11248016357422,32.00288009643555],[35.11287307739258,32.00382232666016],[35.11326599121094,32.00482940673828],[35.11295318603516,32.00482940673828]]],"type":"Polygon"}
+}

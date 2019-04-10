@@ -1,0 +1,92 @@
+{
+  "id": 101920249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":57481.382164,
+    "geom:bbox":"34.9070663452,31.3871231079,34.9098930359,31.3911361694",
+    "geom:latitude":31.389265,
+    "geom:longitude":34.908699,
+    "gn:population":3232,
+    "iso:country":"PS",
+    "lbl:latitude":31.389441,
+    "lbl:longitude":34.909149,
+    "mps:latitude":31.389441,
+    "mps:longitude":34.909149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ar Ramadin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283077,
+        "gp:id":1937307,
+        "qs:id":547033
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d3ebfeee7e779c8866a1df1a8a503fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920249,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920249,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920249,
+    "wof:lastmodified":1549929802,
+    "wof:name":"Ar Ramadin",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":3232,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.90706634521484,
+    31.38712310791016,
+    34.90989303588867,
+    31.39113616943359
+],
+  "geometry": {"coordinates":[[[34.90765762329102,31.39113616943359],[34.90866088867188,31.39069175720215],[34.90896224975586,31.39053344726562],[34.90933227539062,31.39002418518066],[34.90959548950195,31.38986587524414],[34.90989303588867,31.38948440551758],[34.90985870361328,31.3889102935791],[34.90974807739258,31.38817596435547],[34.90941619873047,31.38756942749023],[34.908935546875,31.38712310791016],[34.90841293334961,31.38724899291992],[34.90826034545898,31.38820457458496],[34.90877532958984,31.38893699645996],[34.90821838378906,31.38963890075684],[34.90762710571289,31.3895092010498],[34.90758895874023,31.38992500305176],[34.90717697143555,31.39011383056641],[34.90706634521484,31.3904972076416],[34.90765762329102,31.39113616943359]]],"type":"Polygon"}
+}

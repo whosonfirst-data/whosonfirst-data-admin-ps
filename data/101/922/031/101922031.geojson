@@ -1,0 +1,112 @@
+{
+  "id": 101922031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1949032.134097,
+    "geom:bbox":"35.0550003052,31.8625049591,35.0743598938,31.878288269",
+    "geom:latitude":31.869667,
+    "geom:longitude":35.064721,
+    "gn:population":7795,
+    "iso:country":"PS",
+    "lbl:latitude":31.869162,
+    "lbl:longitude":35.063937,
+    "mps:latitude":31.869162,
+    "mps:longitude":35.063937,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0644\u0642\u064a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Liqya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05dc\u05d9\u05e7\u05d9\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Liqya"
+    ],
+    "name:unk_x_variant":[
+        "Likia"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Liqya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.869167,
+    "wd:longitude":35.066944,
+    "wd:wordcount":881,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284312,
+        "gp:id":56123315,
+        "qs:id":123980,
+        "wd:id":"Q4881453",
+        "wk:page":"Beit Liqya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"42928fb15b294997d4a82fec050232cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922031,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922031,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922031,
+    "wof:lastmodified":1549929779,
+    "wof:name":"Beit Liqya",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":7795,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05500030517578,
+    31.86250495910645,
+    35.07435989379883,
+    31.87828826904297
+],
+  "geometry": {"coordinates":[[[35.0673713684082,31.87828826904297],[35.06772232055664,31.87709808349609],[35.06545639038086,31.87575531005859],[35.06585693359375,31.87392044067383],[35.06831741333008,31.87351608276367],[35.06998062133789,31.87473678588867],[35.07278442382812,31.87472152709961],[35.07366180419922,31.87263870239258],[35.07435989379883,31.87085151672363],[35.0726203918457,31.86831855773926],[35.07140350341797,31.86593627929688],[35.0686149597168,31.86280632019043],[35.06582260131836,31.86399459838867],[35.06443023681641,31.86250495910645],[35.06163787841797,31.86384010314941],[35.05814743041992,31.86428260803223],[35.0555305480957,31.86502456665039],[35.05587768554688,31.86755561828613],[35.05500030517578,31.86874580383301],[35.05778884887695,31.87112998962402],[35.05708694458008,31.87276840209961],[35.05987930297852,31.87366485595703],[35.06181335449219,31.8743896484375],[35.06109619140625,31.87589836120605],[35.06213760375977,31.87753677368164],[35.0673713684082,31.87828826904297]]],"type":"Polygon"}
+}

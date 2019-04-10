@@ -1,0 +1,101 @@
+{
+  "id": 1175613307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":91756.803893,
+    "geom:bbox":"35.2075881958,32.0621604919,35.2239608765,32.0687637329",
+    "geom:latitude":32.066215,
+    "geom:longitude":35.216822,
+    "gn:population":299,
+    "iso:country":"PS",
+    "lbl:latitude":32.067976,
+    "lbl:longitude":35.221601,
+    "mps:latitude":32.067976,
+    "mps:longitude":35.221601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0648\u0631\u064a\u0629"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Ammuriya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Ammuriya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284988,
+        "gp:id":1937300,
+        "qs:id":547111
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"25cce9ee746a5774d2cc645baae03626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613307,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613307,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613307,
+    "wof:lastmodified":1549929615,
+    "wof:name":"'Ammuriya",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101921725,
+        101921713
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20758819580078,
+    32.06216049194336,
+    35.22396087646484,
+    32.06876373291016
+],
+  "geometry": {"coordinates":[[[[35.20858001708984,32.06234359741211],[35.20758819580078,32.06391906738281],[35.20888137817383,32.06465530395508],[35.20969772338867,32.06282043457031],[35.21090698242188,32.06259918212891],[35.20905303955078,32.06216049194336],[35.20858001708984,32.06234359741211]]],[[[35.21947860717773,32.06740570068359],[35.22003936767578,32.06869125366211],[35.22137451171875,32.06876373291016],[35.22305679321289,32.0687255859375],[35.22396087646484,32.06813812255859],[35.22309875488281,32.06744384765625],[35.22111892700195,32.06711196899414],[35.21947860717773,32.06740570068359]]]],"type":"MultiPolygon"}
+}

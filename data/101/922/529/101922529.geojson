@@ -1,0 +1,102 @@
+{
+  "id": 101922529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":113934.587029,
+    "geom:bbox":"35.1638870239,31.6490688324,35.168258667,31.6539669037",
+    "geom:latitude":31.651061,
+    "geom:longitude":35.16634,
+    "gn:population":1472,
+    "iso:country":"PS",
+    "lbl:latitude":31.650721,
+    "lbl:longitude":35.166373,
+    "mps:latitude":31.650721,
+    "mps:longitude":35.166373,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Jurat ash-Sham'a"
+    ],
+    "name:eng_x_preferred":[
+        "Jurat ash-Sham'a"
+    ],
+    "name:nno_x_preferred":[
+        "Jurat ash Sham'a"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jurat ash Sham'a",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283419,
+        "gp:id":1936768,
+        "wd:id":"Q6314948"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"7e2522cb088ec9f5584589f9fbbb324c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922529,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922529,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922529,
+    "wof:lastmodified":1549929822,
+    "wof:name":"Jurat ash Sham'a",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":1472,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16388702392578,
+    31.64906883239746,
+    35.16825866699219,
+    31.65396690368652
+],
+  "geometry": {"coordinates":[[[35.16388702392578,31.64939880371094],[35.16510772705078,31.64995002746582],[35.16485214233398,31.6507740020752],[35.16530227661133,31.6514892578125],[35.16530227661133,31.65209579467773],[35.16575241088867,31.65264511108398],[35.16587829589844,31.65363693237305],[35.16716384887695,31.65396690368652],[35.16755294799805,31.65314102172852],[35.16645812988281,31.65231513977051],[35.1673583984375,31.65176582336426],[35.16800308227539,31.65160179138184],[35.16825866699219,31.65060997009277],[35.16748809814453,31.65000534057617],[35.16742324829102,31.64929008483887],[35.16646194458008,31.64906883239746],[35.16549682617188,31.64906883239746],[35.16433715820312,31.64912414550781],[35.16388702392578,31.64939880371094]]],"type":"Polygon"}
+}

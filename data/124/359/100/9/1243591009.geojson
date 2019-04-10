@@ -1,0 +1,89 @@
+{
+  "id": 1243591009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52726,31.98261,35.52726,31.98261",
+    "geom:latitude":31.98261,
+    "geom:longitude":35.52726,
+    "gn:admin1_code":"WE",
+    "gn:admin2_code":"7870653",
+    "gn:asciiname":"Khirbat al Munqati`ah",
+    "gn:country_code":"PS",
+    "gn:dem":-309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283156,
+    "gn:latitude":31.98261,
+    "gn:longitude":35.52726,
+    "gn:modification_date":"2017-09-06",
+    "gn:name":"Khirbat al Munqa\u0163i\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u0646\u0642\u0637\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Umm ash Shaghut",
+        "Khirbat al Munqa\u0163i\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283156
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ed0d8beb05b90bf89cd58d1bcc180625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243591009,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243591009,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1243591009,
+    "wof:lastmodified":1549929921,
+    "wof:name":"Khirbat al Munqati`ah",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52726,
+    31.98261,
+    35.52726,
+    31.98261
+],
+  "geometry": {"coordinates":[35.52726,31.98261],"type":"Point"}
+}

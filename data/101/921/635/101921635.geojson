@@ -1,0 +1,112 @@
+{
+  "id": 101921635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":107691.425064,
+    "geom:bbox":"35.2855415344,32.1082611084,35.2903442383,32.1126976013",
+    "geom:latitude":32.110177,
+    "geom:longitude":35.287904,
+    "gn:population":7043,
+    "iso:country":"PS",
+    "lbl:latitude":32.110153,
+    "lbl:longitude":35.28754,
+    "mps:latitude":32.110153,
+    "mps:longitude":35.28754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0644\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Qabalan"
+    ],
+    "name:eng_x_preferred":[
+        "Qabalan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d1\u05dc\u05d0\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Qabalan"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qabalan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.101944,
+    "wd:longitude":35.288056,
+    "wd:wordcount":270,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282477,
+        "gp:id":56123322,
+        "qs:id":542405,
+        "wd:id":"Q7265686",
+        "wk:page":"Qabalan"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f16ba9acb8b41b3a87da53c8bcc80a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921635,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921635,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921635,
+    "wof:lastmodified":1549929828,
+    "wof:name":"Qabalan",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":7043,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28554153442383,
+    32.10826110839844,
+    35.29034423828125,
+    32.11269760131836
+],
+  "geometry": {"coordinates":[[[35.28554153442383,32.10912704467773],[35.28608322143555,32.10999298095703],[35.28628921508789,32.11096954345703],[35.28764343261719,32.11212158203125],[35.2889289855957,32.11269760131836],[35.28852081298828,32.11114120483398],[35.28993988037109,32.1098747253418],[35.29034423828125,32.10826110839844],[35.28905868530273,32.10906982421875],[35.28777313232422,32.10866546630859],[35.28621673583984,32.10895538330078],[35.28554153442383,32.10912704467773]]],"type":"Polygon"}
+}

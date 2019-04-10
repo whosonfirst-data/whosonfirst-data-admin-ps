@@ -1,0 +1,110 @@
+{
+  "id": 101922267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12270.398731,
+    "geom:bbox":"35.2930870056,31.7494049072,35.2943458557,31.7507266998",
+    "geom:latitude":31.750091,
+    "geom:longitude":35.293821,
+    "gn:population":715,
+    "iso:country":"PS",
+    "lbl:latitude":31.750071,
+    "lbl:longitude":35.293834,
+    "mps:latitude":31.750071,
+    "mps:longitude":35.293834,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u062c\u0647\u0627\u0644\u064a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Arab al-Jahalin"
+    ],
+    "name:eng_x_preferred":[
+        "Arab al-Jahalin"
+    ],
+    "name:nno_x_preferred":[
+        "Arab al-Jahalin"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u062c\u0647\u0627\u0644\u06cc\u0646"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Arab al Jah\u0101l\u012bn"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Arab al Jahalin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":581,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890120,
+        "wd:id":"Q4540439"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"755e73a7cbd889bd0d8ebbe52e8bea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922267,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922267,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922267,
+    "wof:lastmodified":1549929803,
+    "wof:name":"'Arab al Jahalin",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":715,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29308700561523,
+    31.74940490722656,
+    35.29434585571289,
+    31.7507266998291
+],
+  "geometry": {"coordinates":[[[35.29308700561523,31.74981880187988],[35.29367065429688,31.7507266998291],[35.29434585571289,31.7507266998291],[35.29434585571289,31.74973487854004],[35.29366683959961,31.74940490722656],[35.29308700561523,31.74981880187988]]],"type":"Polygon"}
+}

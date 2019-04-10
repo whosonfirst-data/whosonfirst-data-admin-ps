@@ -1,0 +1,102 @@
+{
+  "id": 101921811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":70203.386984,
+    "geom:bbox":"35.1565666199,31.9961566925,35.1619186401,31.9991970062",
+    "geom:latitude":31.997422,
+    "geom:longitude":35.159237,
+    "gn:population":146,
+    "iso:country":"PS",
+    "lbl:latitude":31.997204,
+    "lbl:longitude":35.159196,
+    "mps:latitude":31.997204,
+    "mps:longitude":35.159196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "J\u012bbiy\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u064a\u0628\u064a\u0627"
+    ],
+    "name:unk_x_variant":[
+        "J\u012bby\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jibiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":233,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283466,
+        "gp:id":1937300,
+        "qs:id":547074
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0e26be8fbd86fd6043f4121f797f5036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921811,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921811,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921811,
+    "wof:lastmodified":1549929857,
+    "wof:name":"Jibiya",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15656661987305,
+    31.99615669250488,
+    35.16191864013672,
+    31.99919700622559
+],
+  "geometry": {"coordinates":[[[35.15910339355469,31.99631690979004],[35.1580696105957,31.99727630615234],[35.15656661987305,31.99871635437012],[35.15760040283203,31.99919700622559],[35.15872573852539,31.99847602844238],[35.16013336181641,31.99735641479492],[35.16191864013672,31.99711799621582],[35.1617317199707,31.99615669250488],[35.16041564941406,31.99615669250488],[35.15910339355469,31.99631690979004]]],"type":"Polygon"}
+}

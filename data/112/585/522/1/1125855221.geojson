@@ -1,0 +1,126 @@
+{
+  "id": 1125855221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10446,31.62329,35.10446,31.62329",
+    "geom:latitude":31.62329,
+    "geom:longitude":35.10446,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12238,
+    "gn:population":12238,
+    "iso:country":"PS",
+    "lbl:latitude":31.62329,
+    "lbl:longitude":35.10446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0623\u0648\u0645\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Ummar"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Ummar"
+    ],
+    "name:fre_x_preferred":[
+        "Beit Ommar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d0\u05d5\u05de\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Ummar"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u0627\u0645\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Immar"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Ommar"
+    ],
+    "name:unk_x_variant":[
+        "Bayt \u2018Umar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0627\u0645\u0631"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284329,
+    "qs_pg:gn_pop":12238,
+    "qs_pg:name":"Bayt \u016ammar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":123984,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284329,
+        "qs_pg:id":123984,
+        "wd:id":"Q2893117"
+    },
+    "wof:country":"PS",
+    "wof:created":1497293590,
+    "wof:geomhash":"2106c60284cef69a6d1b19f13282e158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855221,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125855221,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125855221,
+    "wof:lastmodified":1549929763,
+    "wof:name":"Bayt \u016ammar",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":12238,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10446,
+    31.62329,
+    35.10446,
+    31.62329
+],
+  "geometry": {"coordinates":[35.10446,31.62329],"type":"Point"}
+}

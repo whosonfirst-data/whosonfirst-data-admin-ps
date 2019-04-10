@@ -1,0 +1,93 @@
+{
+  "id": 101922483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28444.485448,
+    "geom:bbox":"35.1296806335,31.6614875793,35.1315917969,31.6638450623",
+    "geom:latitude":31.662701,
+    "geom:longitude":35.13081,
+    "iso:country":"PS",
+    "lbl:latitude":31.662696,
+    "lbl:longitude":35.130792,
+    "mps:latitude":31.662696,
+    "mps:longitude":35.130792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0629 \u0627\u0644\u0628\u0644\u0648\u0637\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khallat al Ball\u016b\u0163ah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khallet al Balluta",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890690,
+        "gp:id":1936768
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"daeba69eddc67d17bca74d58d2e12698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922483,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922483,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922483,
+    "wof:lastmodified":1549929825,
+    "wof:name":"Khallet al Balluta",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12968063354492,
+    31.6614875793457,
+    35.131591796875,
+    31.66384506225586
+],
+  "geometry": {"coordinates":[[[35.12968063354492,31.66230201721191],[35.13047790527344,31.66357231140137],[35.13148498535156,31.66384506225586],[35.131591796875,31.6630744934082],[35.13127517700195,31.6614875793457],[35.12968063354492,31.66230201721191]]],"type":"Polygon"}
+}

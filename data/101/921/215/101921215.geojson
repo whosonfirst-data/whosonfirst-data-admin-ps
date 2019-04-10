@@ -1,0 +1,89 @@
+{
+  "id": 101921215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000006,
+    "geom:area_square_m":64354.360721,
+    "geom:bbox":"35.1296272278,32.3034706116,35.1335067749,32.3069572449",
+    "geom:latitude":32.305118,
+    "geom:longitude":35.132063,
+    "gn:population":7106,
+    "iso:country":"PS",
+    "lbl:latitude":32.305162,
+    "lbl:longitude":35.132196,
+    "mps:latitude":32.305162,
+    "mps:longitude":35.132196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Anabta",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.307167,
+    "wd:longitude":35.116944,
+    "wd:wordcount":1772,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284976,
+        "gp:id":1937300,
+        "qs:id":124005,
+        "wd:id":"Q2701952",
+        "wk:page":"Anabta"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"22ee9c7ed8b77373ff6e68e769231d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "empire_id":136253049,
+            "locality_id":101921215,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921215,
+    "wof:lastmodified":1534985977,
+    "wof:name":"'Anabta",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":7106,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613433
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1296272277832,
+    32.30347061157227,
+    35.13350677490234,
+    32.30695724487305
+],
+  "geometry": {"coordinates":[[[35.13213729858398,32.30405044555664],[35.1296272277832,32.30482482910156],[35.13156509399414,32.30598831176758],[35.13282012939453,32.30695724487305],[35.13327789306641,32.30579376220703],[35.13327789306641,32.30463027954102],[35.13350677490234,32.30347061157227],[35.13213729858398,32.30405044555664]]],"type":"Polygon"}
+}

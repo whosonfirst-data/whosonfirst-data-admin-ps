@@ -1,0 +1,87 @@
+{
+  "id": 1309813733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08518,32.31003,35.08518,32.31003",
+    "geom:latitude":32.31003,
+    "geom:longitude":35.08518,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khirbat Abu Khamish",
+    "gn:country_code":"PS",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890081,
+    "gn:latitude":32.31003,
+    "gn:longitude":35.08518,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khirbat Ab\u016b Kham\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0623\u0628\u0648 \u062e\u0645\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Ab\u016b Kham\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890081
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4b908b803ecaf590ed293284a4c3eaba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1309813733,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1309813733,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1309813733,
+    "wof:lastmodified":1549929657,
+    "wof:name":"Khirbat Abu Khamish",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08518,
+    32.31003,
+    35.08518,
+    32.31003
+],
+  "geometry": {"coordinates":[35.08518,32.31003],"type":"Point"}
+}

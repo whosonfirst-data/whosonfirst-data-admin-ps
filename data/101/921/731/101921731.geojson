@@ -1,0 +1,116 @@
+{
+  "id": 101921731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":809729.882141,
+    "geom:bbox":"35.0155487061,32.0587692261,35.0311698914,32.0693359375",
+    "geom:latitude":32.06461,
+    "geom:longitude":35.024002,
+    "gn:population":3566,
+    "iso:country":"PS",
+    "lbl:latitude":32.0645,
+    "lbl:longitude":35.02412,
+    "mps:latitude":32.0645,
+    "mps:longitude":35.02412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0628\u0644\u0648\u0637"
+    ],
+    "name:cat_x_preferred":[
+        "Deir Ballut"
+    ],
+    "name:dut_x_preferred":[
+        "Deir Ballut"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Ballut"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05d1\u05dc\u05d5\u05d8"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Ballut"
+    ],
+    "name:unk_x_variant":[
+        "Deir Ballu\u1e6d"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Ballut",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":531,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284081,
+        "gp:id":1937300,
+        "qs:id":123970,
+        "wd:id":"Q2905340",
+        "wk:page":"Deir Ballut"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"708e366843df6730adfd64ce94fb0bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921731,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921731,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921731,
+    "wof:lastmodified":1549929844,
+    "wof:name":"Deir Ballut",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:population":3566,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01554870605469,
+    32.05876922607422,
+    35.03116989135742,
+    32.0693359375
+],
+  "geometry": {"coordinates":[[[35.03107452392578,32.05876922607422],[35.02997207641602,32.0597038269043],[35.02964019775391,32.06101608276367],[35.02765655517578,32.06157684326172],[35.02655792236328,32.06119918823242],[35.02425003051758,32.0612907409668],[35.02248764038086,32.06194305419922],[35.0217170715332,32.06278228759766],[35.01962661743164,32.06343841552734],[35.01599502563477,32.06399154663086],[35.01554870605469,32.06586456298828],[35.01708602905273,32.06689834594727],[35.01840591430664,32.06755447387695],[35.01939392089844,32.0693359375],[35.02093505859375,32.06784057617188],[35.02280807495117,32.06700134277344],[35.02467346191406,32.06793975830078],[35.02632141113281,32.06887817382812],[35.02676773071289,32.06728744506836],[35.0269889831543,32.06569671630859],[35.02864074707031,32.06550979614258],[35.03006744384766,32.06616973876953],[35.03116989135742,32.06607818603516],[35.03106307983398,32.06467056274414],[35.03062438964844,32.06307983398438],[35.03096008300781,32.0609245300293],[35.03107452392578,32.05876922607422]]],"type":"Polygon"}
+}

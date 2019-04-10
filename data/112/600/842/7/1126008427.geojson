@@ -1,0 +1,98 @@
+{
+  "id": 1126008427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17728,32.06282,35.17728,32.06282",
+    "geom:latitude":32.06282,
+    "geom:longitude":35.17728,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":224,
+    "gn:population":224,
+    "iso:country":"PS",
+    "lbl:latitude":32.06282,
+    "lbl:longitude":35.17728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0642\u064a\u0633"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Qeis"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283097,
+    "qs_pg:gn_pop":224,
+    "qs_pg:name":"Khirbat Qays",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":547038,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283097,
+        "qs_pg:id":547038
+    },
+    "wof:country":"PS",
+    "wof:created":1497300120,
+    "wof:geomhash":"7bf0759d9139fd1d588e60e1c094266f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126008427,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126008427,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126008427,
+    "wof:lastmodified":1549929884,
+    "wof:name":"Khirbat Qays",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:population":224,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17728,
+    32.06282,
+    35.17728,
+    32.06282
+],
+  "geometry": {"coordinates":[35.17728,32.06282],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 101921889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":259984.533635,
+    "geom:bbox":"35.1567611694,31.9512786865,35.1643753052,31.9565010071",
+    "geom:latitude":31.954197,
+    "geom:longitude":35.160747,
+    "gn:population":6107,
+    "iso:country":"PS",
+    "lbl:latitude":31.954277,
+    "lbl:longitude":35.159913,
+    "mps:latitude":31.954277,
+    "mps:longitude":35.159913,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Mazra'a al Qibliya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285034,
+        "gp:id":1937180
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9df7c2d16d37097648c32d25997cc460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921889,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921889,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921889,
+    "wof:lastmodified":1549929869,
+    "wof:name":"Al Mazra'a al Qibliya",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":6107,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15676116943359,
+    31.95127868652344,
+    35.16437530517578,
+    31.95650100708008
+],
+  "geometry": {"coordinates":[[[35.15765380859375,31.95447731018066],[35.15765380859375,31.95523643493652],[35.15676116943359,31.95624732971191],[35.15814590454102,31.95650100708008],[35.16012191772461,31.95624923706055],[35.16269302368164,31.95582962036133],[35.16427612304688,31.95473289489746],[35.16437530517578,31.95372200012207],[35.16437530517578,31.95271110534668],[35.1635856628418,31.95127868652344],[35.16269302368164,31.95287895202637],[35.16141128540039,31.95287895202637],[35.16022491455078,31.9517822265625],[35.15893936157227,31.95203399658203],[35.15805053710938,31.95279312133789],[35.15765380859375,31.95397186279297],[35.15765380859375,31.95447731018066]]],"type":"Polygon"}
+}

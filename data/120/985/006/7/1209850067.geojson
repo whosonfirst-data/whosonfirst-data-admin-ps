@@ -1,0 +1,81 @@
+{
+  "id": 1209850067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16667,31.85,35.16667,31.85",
+    "geom:latitude":31.85,
+    "geom:longitude":35.16667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Giv`on",
+    "gn:country_code":"PS",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":283854,
+    "gn:latitude":31.85,
+    "gn:longitude":35.16667,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Giv\u2018on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283854
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d3921afabbd4505f3a304a8ffc3d1834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209850067,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209850067,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209850067,
+    "wof:lastmodified":1549929920,
+    "wof:name":"Giv`on",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16667,
+    31.85,
+    35.16667,
+    31.85
+],
+  "geometry": {"coordinates":[35.16667,31.85],"type":"Point"}
+}

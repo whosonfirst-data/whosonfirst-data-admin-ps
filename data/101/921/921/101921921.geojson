@@ -1,0 +1,100 @@
+{
+  "id": 101921921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":874023.84519,
+    "geom:bbox":"35.0648193359,31.9393234253,35.0800094604,31.9504985809",
+    "geom:latitude":31.945167,
+    "geom:longitude":35.071389,
+    "geonames:id":"283245,7873896",
+    "iso:country":"PS",
+    "lbl:latitude":31.944848,
+    "lbl:longitude":35.070008,
+    "mps:latitude":31.944848,
+    "mps:longitude":35.070008,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u062b\u0627 \u0628\u0646\u064a \u062d\u0627\u0631\u062b"
+    ],
+    "name:eng_x_preferred":[
+        "Kharbatha Bani Harith"
+    ],
+    "name:nno_x_preferred":[
+        "Kharbatha Bani Harith"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kharbatha Bani Harith",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.945278,
+    "wd:longitude":35.0725,
+    "wd:wordcount":679,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937180,
+        "wd:id":"Q6400599"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e43d7efed57733b85e98e7f71365e066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921921,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921921,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921921,
+    "wof:lastmodified":1549929876,
+    "wof:name":"Kharbatha Bani Harith",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0648193359375,
+    31.93932342529297,
+    35.08000946044922,
+    31.95049858093262
+],
+  "geometry": {"coordinates":[[[35.07075500488281,31.94766616821289],[35.0724983215332,31.95019912719727],[35.0737190246582,31.95049858093262],[35.07537841796875,31.95005798339844],[35.0755729675293,31.94876289367676],[35.07546997070312,31.94752311706543],[35.07773971557617,31.9473762512207],[35.08000946044922,31.94737815856934],[35.07899475097656,31.94471740722656],[35.07756805419922,31.94484519958496],[35.07634735107422,31.94409942626953],[35.07407760620117,31.94335174560547],[35.07181167602539,31.94245719909668],[35.070068359375,31.94051933288574],[35.06867218017578,31.94036865234375],[35.06605529785156,31.93932342529297],[35.06500625610352,31.94036483764648],[35.06589889526367,31.94194984436035],[35.06637191772461,31.94308471679688],[35.06589508056641,31.94421768188477],[35.0648193359375,31.94631958007812],[35.06691360473633,31.94751358032227],[35.06830978393555,31.94811058044434],[35.07075500488281,31.94766616821289]]],"type":"Polygon"}
+}

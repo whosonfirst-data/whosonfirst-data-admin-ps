@@ -1,0 +1,111 @@
+{
+  "id": 101920129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9791.833626,
+    "geom:bbox":"34.3712921143,31.4124755859,34.3727989197,31.4136295319",
+    "geom:latitude":31.413036,
+    "geom:longitude":34.372045,
+    "gn:population":1845,
+    "iso:country":"PS",
+    "lbl:latitude":31.413031,
+    "lbl:longitude":34.372046,
+    "mps:latitude":31.413031,
+    "mps:longitude":34.372046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Al-Musaddar"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Musaddar"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Musaddar"
+    ],
+    "name:ind_x_preferred":[
+        "Al-Musaddar"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Musaddar"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644-\u0645\u0648\u0633\u0627\u062f\u0627\u0631"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Musaddar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913317,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6968050,
+        "gp:id":1979608,
+        "wd:id":"Q4702965"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d3c207a60dc708775b6685683ace38d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920129,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920129,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920129,
+    "wof:lastmodified":1549928890,
+    "wof:name":"Al Musaddar",
+    "wof:parent_id":1091913317,
+    "wof:placetype":"locality",
+    "wof:population":1845,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.37129211425781,
+    31.4124755859375,
+    34.37279891967773,
+    31.41362953186035
+],
+  "geometry": {"coordinates":[[[34.37200164794922,31.4124755859375],[34.37129211425781,31.41304397583008],[34.37195587158203,31.41362953186035],[34.37279891967773,31.4130859375],[34.37232971191406,31.41258239746094],[34.37200164794922,31.4124755859375]]],"type":"Polygon"}
+}

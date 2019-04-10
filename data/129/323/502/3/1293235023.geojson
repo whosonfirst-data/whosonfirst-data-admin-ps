@@ -1,0 +1,87 @@
+{
+  "id": 1293235023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02457,31.58805,35.02457,31.58805",
+    "geom:latitude":31.58805,
+    "geom:longitude":35.02457,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Khirbat Bayt Nasib ash Sharqiyah",
+    "gn:country_code":"PS",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283125,
+    "gn:latitude":31.58805,
+    "gn:longitude":35.02457,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khirbat Bayt Na\u015f\u012bb ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat Beit Na\u1e63\u012bb esh Sharqiya",
+        "Khirbat Beit Nasib",
+        "Khirbat Bayt Na\u015f\u012bb",
+        "Khirbat Bayt Na\u015f\u012bb ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283125
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f1ad1cd2115d1bfbea7de8aba1b3a05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293235023,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293235023,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1293235023,
+    "wof:lastmodified":1549929904,
+    "wof:name":"Khirbat Bayt Nasib ash Sharqiyah",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02457,
+    31.58805,
+    35.02457,
+    31.58805
+],
+  "geometry": {"coordinates":[35.02457,31.58805],"type":"Point"}
+}

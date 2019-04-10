@@ -1,0 +1,85 @@
+{
+  "id": 1260013331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48939,32.11638,35.48939,32.11638",
+    "geom:latitude":32.11638,
+    "geom:longitude":35.48939,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Abu al `Ajaj",
+    "gn:country_code":"PS",
+    "gn:dem":-242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":285334,
+    "gn:latitude":32.11638,
+    "gn:longitude":35.48939,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ab\u016b al \u2018Aj\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b el \u2018Aj\u0101j",
+        "Ab\u016b al \u2018Aj\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285334
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a4ada249a94c89d2824aa673be33e747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1260013331,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1260013331,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1260013331,
+    "wof:lastmodified":1549929656,
+    "wof:name":"Abu al `Ajaj",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48939,
+    32.11638,
+    35.48939,
+    32.11638
+],
+  "geometry": {"coordinates":[35.48939,32.11638],"type":"Point"}
+}

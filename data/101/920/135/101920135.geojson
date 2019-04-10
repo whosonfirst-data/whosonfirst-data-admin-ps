@@ -1,0 +1,137 @@
+{
+  "id": 101920135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22887.0417,
+    "geom:bbox":"34.9347763062,31.4119262695,34.9375495911,31.4134292603",
+    "geom:latitude":31.412829,
+    "geom:longitude":34.936255,
+    "gn:population":27616,
+    "iso:country":"PS",
+    "lbl:latitude":31.412644,
+    "lbl:longitude":34.936737,
+    "mps:latitude":31.412644,
+    "mps:longitude":34.936737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0627\u0647\u0631\u064a\u0629"
+    ],
+    "name:cze_x_preferred":[
+        "Az-Z\u00e1hir\u00edja"
+    ],
+    "name:dut_x_preferred":[
+        "Ad-Dhahiriya"
+    ],
+    "name:eng_x_preferred":[
+        "Ad-Dhahiriya"
+    ],
+    "name:fre_x_preferred":[
+        "Ad-Dhahiriya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d0\u05d4\u05e8\u05d9\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Zahiriyya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c9\u30fb\u30c0\u30d2\u30ea\u30e4"
+    ],
+    "name:nno_x_preferred":[
+        "Ad-Dhahiriya"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0638\u0627\u0647\u0631\u06cc\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u0638\u0627\u06c1\u0631\u06cc\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Az-Zahirija"
+    ],
+    "name:spa_x_preferred":[
+        "Ad-Dhahiriya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0638\u0627\u06c1\u0631\u06cc\u06c1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Adh Dhahiriya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":986,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284486,
+        "gp:id":1937307,
+        "qs:id":1026704,
+        "wd:id":"Q600680",
+        "wk:page":"Ad-Dhahiriya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"209647d025625275141ab243d5321487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920135,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920135,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920135,
+    "wof:lastmodified":1549929794,
+    "wof:name":"Adh Dhahiriya",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":27616,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93477630615234,
+    31.41192626953125,
+    34.93754959106445,
+    31.41342926025391
+],
+  "geometry": {"coordinates":[[[34.93525695800781,31.41264533996582],[34.93495178222656,31.41291809082031],[34.93477630615234,31.41317939758301],[34.93481826782227,31.41339111328125],[34.93516540527344,31.41342926025391],[34.93558883666992,31.41339302062988],[34.93606567382812,31.41341781616211],[34.93642807006836,31.41340637207031],[34.93674850463867,31.41335678100586],[34.93692398071289,31.41318321228027],[34.93714141845703,31.41287231445312],[34.93754959106445,31.41241264343262],[34.93736267089844,31.4121265411377],[34.93709945678711,31.41201400756836],[34.93694305419922,31.41195106506348],[34.93671035766602,31.41192626953125],[34.93634414672852,31.41241073608398],[34.93627166748047,31.4127082824707],[34.93618392944336,31.41284561157227],[34.93595123291016,31.41284561157227],[34.93582153320312,31.41269493103027],[34.93556213378906,31.41262054443359],[34.93525695800781,31.41264533996582]]],"type":"Polygon"}
+}

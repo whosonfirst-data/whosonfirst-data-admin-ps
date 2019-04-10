@@ -1,0 +1,119 @@
+{
+  "id": 101921657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":249800.086499,
+    "geom:bbox":"35.2189979553,32.0986862183,35.2271347046,32.1076965332",
+    "geom:latitude":32.102947,
+    "geom:longitude":35.223781,
+    "gn:population":902,
+    "iso:country":"PS",
+    "lbl:latitude":32.102959,
+    "lbl:longitude":35.224521,
+    "mps:latitude":32.102959,
+    "mps:longitude":35.224521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Isk\u0101k\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0625\u0633\u0643\u0627\u0643\u0629",
+        "\u0642\u0631\u064a\u0629 \u0627\u0633\u0643\u0627\u0643\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Iskaka"
+    ],
+    "name:dut_x_preferred":[
+        "Iskaka"
+    ],
+    "name:eng_x_preferred":[
+        "Iskaka"
+    ],
+    "name:nno_x_preferred":[
+        "Iskaka"
+    ],
+    "name:unk_x_variant":[
+        "Isk\u0101kah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Iskaka",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.103611,
+    "wd:longitude":35.225206,
+    "wd:wordcount":311,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283580,
+        "gp:id":1937300,
+        "qs:id":79911,
+        "wd:id":"Q6081257",
+        "wk:page":"Iskaka"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8bee643e1c661ab10fb01a4bd2fd862f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921657,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921657,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921657,
+    "wof:lastmodified":1549929843,
+    "wof:name":"Iskaka",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:population":902,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21899795532227,
+    32.09868621826172,
+    35.22713470458984,
+    32.10769653320312
+],
+  "geometry": {"coordinates":[[[35.2254638671875,32.1074104309082],[35.22713470458984,32.10769653320312],[35.22691345214844,32.10513687133789],[35.22690963745117,32.10418701171875],[35.22646713256836,32.10304641723633],[35.22624206542969,32.10228729248047],[35.22579574584961,32.10190963745117],[35.22446060180664,32.10162353515625],[35.22267532348633,32.10029602050781],[35.2204475402832,32.09944152832031],[35.21899795532227,32.09868621826172],[35.21921920776367,32.10162734985352],[35.2203369140625,32.10124588012695],[35.22345733642578,32.10229110717773],[35.22267532348633,32.10314178466797],[35.2230110168457,32.10428237915039],[35.22457122802734,32.10428237915039],[35.22479248046875,32.10551452636719],[35.22512817382812,32.10598754882812],[35.2254638671875,32.1074104309082]]],"type":"Polygon"}
+}

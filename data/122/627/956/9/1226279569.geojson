@@ -1,0 +1,85 @@
+{
+  "id": 1226279569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2681,31.74145,35.2681,31.74145",
+    "geom:latitude":31.74145,
+    "geom:longitude":35.2681,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Khirbat Jubb ar Rum",
+    "gn:country_code":"PS",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283111,
+    "gn:latitude":31.74145,
+    "gn:longitude":35.2681,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khirbat Jubb ar R\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat Jubb er R\u016bm",
+        "Khirbat Jubb ar R\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283111
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2a24557367e9742e7c702d018ca5e326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226279569,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226279569,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226279569,
+    "wof:lastmodified":1549929904,
+    "wof:name":"Khirbat Jubb ar Rum",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2681,
+    31.74145,
+    35.2681,
+    31.74145
+],
+  "geometry": {"coordinates":[35.2681,31.74145],"type":"Point"}
+}

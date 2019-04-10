@@ -1,0 +1,98 @@
+{
+  "id": 101921507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":138738.903034,
+    "geom:bbox":"35.0294189453,32.1703338623,35.0363540649,32.1750221252",
+    "geom:latitude":32.172455,
+    "geom:longitude":35.03325,
+    "gn:population":845,
+    "iso:country":"PS",
+    "lbl:latitude":32.171919,
+    "lbl:longitude":35.03233,
+    "mps:latitude":32.171919,
+    "mps:longitude":35.03233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0633\u0644\u0629"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Isla"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Isla",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283579,
+        "gp:id":56123302,
+        "qs:id":79910
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b85e75afb473dfb03d3942fb64010c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921507,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921507,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921507,
+    "wof:lastmodified":1549929823,
+    "wof:name":"'Isla",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":845,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0294189453125,
+    32.17033386230469,
+    35.03635406494141,
+    32.17502212524414
+],
+  "geometry": {"coordinates":[[[35.03414916992188,32.17398834228516],[35.03502655029297,32.17502212524414],[35.03635406494141,32.17361831665039],[35.03635406494141,32.17221450805664],[35.0350341796875,32.172119140625],[35.03371429443359,32.17183303833008],[35.03250503540039,32.17033386230469],[35.03030014038086,32.17117309570312],[35.0294189453125,32.17192077636719],[35.03029632568359,32.17276763916016],[35.03107070922852,32.17201995849609],[35.03139877319336,32.17304992675781],[35.03260803222656,32.17314529418945],[35.03338241577148,32.17277145385742],[35.03414916992188,32.17398834228516]]],"type":"Polygon"}
+}

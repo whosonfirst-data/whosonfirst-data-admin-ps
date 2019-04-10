@@ -1,0 +1,98 @@
+{
+  "id": 101921767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000011,
+    "geom:area_square_m":110925.503837,
+    "geom:bbox":"35.1677703857,32.0241470337,35.1711196899,32.0301589966",
+    "geom:latitude":32.027784,
+    "geom:longitude":35.16928,
+    "gn:population":2104,
+    "iso:country":"PS",
+    "lbl:latitude":32.028008,
+    "lbl:longitude":35.16914,
+    "mps:latitude":32.028008,
+    "mps:longitude":35.16914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0633\u0648\u062f\u0627\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Deir as-Sudan"
+    ],
+    "name:eng_x_preferred":[
+        "Deir as-Sudan"
+    ],
+    "name:nno_x_preferred":[
+        "Deir as-Sudan"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir as Sudan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":361,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284085,
+        "gp:id":1937300,
+        "qs:id":123971,
+        "wd:id":"Q5252535"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"66542fbfaedd17eab617f9383d0e63df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921767,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921767,
+    "wof:lastmodified":1534985965,
+    "wof:name":"Deir as Sudan",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":2104,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613169
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16777038574219,
+    32.02414703369141,
+    35.17111968994141,
+    32.03015899658203
+],
+  "geometry": {"coordinates":[[[35.16826629638672,32.03009796142578],[35.17026138305664,32.03015899658203],[35.17111968994141,32.02919006347656],[35.17026519775391,32.02852249145508],[35.17026519775391,32.02627563476562],[35.16905212402344,32.02487564086914],[35.16827011108398,32.02414703369141],[35.16827011108398,32.02469635009766],[35.16855621337891,32.02578735351562],[35.16827011108398,32.02730560302734],[35.16777038574219,32.02791213989258],[35.16833877563477,32.02894592285156],[35.16826629638672,32.02997589111328],[35.16826629638672,32.03009796142578]]],"type":"Polygon"}
+}

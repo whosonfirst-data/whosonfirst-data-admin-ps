@@ -1,0 +1,105 @@
+{
+  "id": 1126043813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28152,32.00018,35.28152,32.00018",
+    "geom:latitude":32.00018,
+    "geom:longitude":35.28152,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4435,
+    "gn:population":4435,
+    "iso:country":"PS",
+    "lbl:latitude":32.00018,
+    "lbl:longitude":35.28152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Mazra'a ash-Sharqiya"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Mazra'a ash-Sharqiya"
+    ],
+    "name:unk_x_variant":[
+        "Mazra\u2018a Ban\u012b Murra"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":285033,
+    "qs_pg:gn_pop":4435,
+    "qs_pg:name":"Al Mazra\u2018ah ash Sharq\u012byah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":547114,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285033,
+        "qs_pg:id":547114,
+        "wd:id":"Q4702883"
+    },
+    "wof:country":"PS",
+    "wof:created":1497302311,
+    "wof:geomhash":"16925a1a45a4b172cf06b3426a3a074b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043813,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043813,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043813,
+    "wof:lastmodified":1549929903,
+    "wof:name":"Al Mazra\u2018ah ash Sharq\u012byah",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":4435,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28152,
+    32.00018,
+    35.28152,
+    32.00018
+],
+  "geometry": {"coordinates":[35.28152,32.00018],"type":"Point"}
+}

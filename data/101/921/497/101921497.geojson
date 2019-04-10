@@ -1,0 +1,115 @@
+{
+  "id": 101921497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":299176.429495,
+    "geom:bbox":"35.086681366,32.1777534485,35.093082428,32.1851196289",
+    "geom:latitude":32.181394,
+    "geom:longitude":35.090304,
+    "gn:population":846,
+    "iso:country":"PS",
+    "lbl:latitude":32.181511,
+    "lbl:longitude":35.090045,
+    "mps:latitude":32.181511,
+    "mps:longitude":35.090045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0644\u0627\u0642\u0641"
+    ],
+    "name:dut_x_preferred":[
+        "Kafr Laqif"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Laqif"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05dc\u05d0\u05e7\u05e3"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Laqif"
+    ],
+    "name:unk_x_variant":[
+        "Kafr L\u0101qif"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr Laqif",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.182861,
+    "wd:longitude":35.090689,
+    "wd:wordcount":277,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283371,
+        "gp:id":1937157,
+        "qs:id":547068,
+        "wd:id":"Q6346185",
+        "wk:page":"Kafr Laqif"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c3d4b2ff220634b9bb3f8d280b5c9b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921497,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921497,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921497,
+    "wof:lastmodified":1549929822,
+    "wof:name":"Kafr Laqif",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":846,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0866813659668,
+    32.17775344848633,
+    35.09308242797852,
+    32.18511962890625
+],
+  "geometry": {"coordinates":[[[35.09308242797852,32.17900085449219],[35.09188461303711,32.17775344848633],[35.08961868286133,32.17820358276367],[35.08841705322266,32.17990112304688],[35.08761596679688,32.18137359619141],[35.0866813659668,32.18284606933594],[35.08854675292969,32.1840934753418],[35.0908088684082,32.18421173095703],[35.09280776977539,32.18511962890625],[35.09267807006836,32.18364334106445],[35.09201049804688,32.18239974975586],[35.09241485595703,32.18137741088867],[35.09281539916992,32.17967987060547],[35.09308242797852,32.17900085449219]]],"type":"Polygon"}
+}

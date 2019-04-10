@@ -1,0 +1,121 @@
+{
+  "id": 101921325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":303724.335959,
+    "geom:bbox":"35.3214797974,32.2580757141,35.3309364319,32.2647171021",
+    "geom:latitude":32.260895,
+    "geom:longitude":35.327124,
+    "gn:population":2458,
+    "iso:country":"PS",
+    "lbl:latitude":32.262889,
+    "lbl:longitude":35.328234,
+    "mps:latitude":32.262889,
+    "mps:longitude":35.328234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0630\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "Al B\u0101dh\u0101n"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Badhan"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Badhan"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Badhan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0630\u0627\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d1\u05d3\u05d7\u05d0\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Badhan"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0630\u0627\u0646"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Badhan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895641,
+        "gp:id":1937300,
+        "qs:id":744244,
+        "wd:id":"Q4702255"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0ae7cade7d45acaa56e9411504c39eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921325,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921325,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921325,
+    "wof:lastmodified":1549929807,
+    "wof:name":"Al Badhan",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2458,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32147979736328,
+    32.25807571411133,
+    35.33093643188477,
+    32.26471710205078
+],
+  "geometry": {"coordinates":[[[35.32419586181641,32.25946044921875],[35.3259391784668,32.26084136962891],[35.3270263671875,32.26176452636719],[35.32648468017578,32.26314926147461],[35.32637786865234,32.26425933837891],[35.32767868041992,32.26471710205078],[35.32974243164062,32.26425552368164],[35.33093643188477,32.26360702514648],[35.33071899414062,32.26250076293945],[35.32865524291992,32.26121139526367],[35.33006286621094,32.25982284545898],[35.3309326171875,32.25908660888672],[35.3298454284668,32.25834655761719],[35.32767486572266,32.25927352905273],[35.32593536376953,32.2581672668457],[35.32441329956055,32.25807571411133],[35.32159042358398,32.25817108154297],[35.32147979736328,32.25927734375],[35.32278442382812,32.25992202758789],[35.32419586181641,32.25946044921875]]],"type":"Polygon"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101922233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6636.712124,
+    "geom:bbox":"35.2467384338,31.7719707489,35.2483177185,31.7748184204",
+    "geom:latitude":31.773806,
+    "geom:longitude":35.24789,
+    "iso:country":"PS",
+    "lbl:latitude":31.774457,
+    "lbl:longitude":35.248076,
+    "mps:latitude":31.774457,
+    "mps:longitude":35.248076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0639\u0645\u0648\u062f"
+    ],
+    "name:cze_x_preferred":[
+        "Ras al-Amud"
+    ],
+    "name:dut_x_preferred":[
+        "Ras al-Amud"
+    ],
+    "name:eng_x_preferred":[
+        "Ras al-Amud"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e1 \u05d0\u05dc-\u05e2\u05de\u05d5\u05d3"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ras al 'Amud",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":665,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[
+        101922215
+    ],
+    "wof:concordances":{
+        "gn:id":7890169,
+        "wd:id":"Q2919246",
+        "wk:page":"Ras al-Amud"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c740cad8ed4cd5972b9028fa602ebd71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922233,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922233,
+    "wof:lastmodified":1549931415,
+    "wof:name":"Ras al 'Amud",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891593
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24673843383789,
+    31.77197074890137,
+    35.24831771850586,
+    31.77481842041016
+],
+  "geometry": {"coordinates":[[[35.24827194213867,31.77459526062012],[35.24831771850586,31.77424621582031],[35.24829864501953,31.7739429473877],[35.24823760986328,31.77363967895508],[35.2480583190918,31.77351570129395],[35.24789810180664,31.77329444885254],[35.2476692199707,31.77311515808105],[35.24731063842773,31.77248764038086],[35.24687194824219,31.77204704284668],[35.24673843383789,31.77197074890137],[35.24694442749023,31.77217674255371],[35.24730682373047,31.77280426025391],[35.24753189086914,31.77298355102539],[35.2476921081543,31.7732048034668],[35.24787139892578,31.77332878112793],[35.2479362487793,31.77363204956055],[35.24795150756836,31.77393531799316],[35.24790191650391,31.77432060241699],[35.24774169921875,31.77470779418945],[35.24796676635742,31.77481842041016],[35.24827194213867,31.77459526062012]]],"type":"Polygon"}
+}

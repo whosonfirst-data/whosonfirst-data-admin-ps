@@ -1,0 +1,114 @@
+{
+  "id": 101920759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":76676.43716,
+    "geom:bbox":"35.3032341003,32.5054969788,35.3092422485,32.5101051331",
+    "geom:latitude":32.507894,
+    "geom:longitude":35.306534,
+    "gn:population":2035,
+    "iso:country":"PS",
+    "lbl:latitude":32.508937,
+    "lbl:longitude":35.307739,
+    "mps:latitude":32.508937,
+    "mps:longitude":35.307739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0645\u0629\u060c \u062c\u0646\u064a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Jalamah"
+    ],
+    "name:dut_x_preferred":[
+        "Jalamah"
+    ],
+    "name:eng_x_preferred":[
+        "Jalamah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d0\u05dc\u05de\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Jalamah"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017calama"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Jalama",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283547,
+        "gp:id":1967620,
+        "wd:id":"Q2777877",
+        "wk:page":"Jalamah"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"7b1ff6cf5a8cd5882ef0b494772e6bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920759,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920759,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920759,
+    "wof:lastmodified":1549929847,
+    "wof:name":"Al Jalama",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":2035,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3032341003418,
+    32.50549697875977,
+    35.30924224853516,
+    32.51010513305664
+],
+  "geometry": {"coordinates":[[[35.30721282958984,32.51010513305664],[35.30810546875,32.50975799560547],[35.30924224853516,32.50914001464844],[35.30859375,32.50831604003906],[35.30704879760742,32.50769805908203],[35.30607604980469,32.507080078125],[35.30485534667969,32.50549697875977],[35.3032341003418,32.50584411621094],[35.30501937866211,32.50714874267578],[35.30607604980469,32.50797271728516],[35.30672454833984,32.50914001464844],[35.30721282958984,32.51010513305664]]],"type":"Polygon"}
+}

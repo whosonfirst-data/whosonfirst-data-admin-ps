@@ -1,0 +1,87 @@
+{
+  "id": 1293408037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2358,31.5633,35.2358,31.5633",
+    "geom:latitude":31.5633,
+    "geom:longitude":35.2358,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Al `Azazimah",
+    "gn:country_code":"PS",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890675,
+    "gn:latitude":31.5633,
+    "gn:longitude":35.2358,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al \u2018Az\u0101zimah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u0627\u0632\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Az\u0101zimah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890675
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"830b02cb9e01d96be36eb4d6263d6478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293408037,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293408037,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1293408037,
+    "wof:lastmodified":1549929908,
+    "wof:name":"Al `Azazimah",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2358,
+    31.5633,
+    35.2358,
+    31.5633
+],
+  "geometry": {"coordinates":[35.2358,31.5633],"type":"Point"}
+}

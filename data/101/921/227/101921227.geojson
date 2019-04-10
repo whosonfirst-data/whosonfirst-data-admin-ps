@@ -1,0 +1,93 @@
+{
+  "id": 101921227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19442.889578,
+    "geom:bbox":"35.0361061096,32.2959785461,35.0381278992,32.2974853516",
+    "geom:latitude":32.296731,
+    "geom:longitude":35.037014,
+    "iso:country":"PS",
+    "lbl:latitude":32.296785,
+    "lbl:longitude":35.036997,
+    "mps:latitude":32.296785,
+    "mps:longitude":35.036997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0637\u064a\u0627\u062d"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat a\u0163 \u0162ayy\u0101\u1e29"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet at Tayyah",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890079,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8d02b57adb475939e124b1e41db33a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921227,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921227,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921227,
+    "wof:lastmodified":1549929801,
+    "wof:name":"Khirbet at Tayyah",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03610610961914,
+    32.29597854614258,
+    35.03812789916992,
+    32.2974853515625
+],
+  "geometry": {"coordinates":[[[35.03812789916992,32.29652404785156],[35.03738784790039,32.29627990722656],[35.03610610961914,32.29597854614258],[35.03631591796875,32.29718780517578],[35.03736114501953,32.2974853515625],[35.03781127929688,32.2970085144043],[35.03812789916992,32.29652404785156]]],"type":"Polygon"}
+}

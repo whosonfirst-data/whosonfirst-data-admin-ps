@@ -1,0 +1,109 @@
+{
+  "id": 101921509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000006,
+    "geom:area_square_m":62156.940075,
+    "geom:bbox":"35.2136535645,32.1698799133,35.2167510986,32.1735687256",
+    "geom:latitude":32.171709,
+    "geom:longitude":35.215105,
+    "gn:population":2341,
+    "iso:country":"PS",
+    "lbl:latitude":32.171582,
+    "lbl:longitude":35.214871,
+    "mps:latitude":32.171582,
+    "mps:longitude":35.214871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0635\u064a\u0631\u0629 \u0627\u0644\u0642\u0628\u0644\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:dut_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:eng_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e1\u05d9\u05e8\u05d4 \u05d0\u05dc-\u05e7\u05d1\u05dc\u05d9\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:nob_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:unk_x_variant":[
+        "Kiblie"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Asira al Qibliya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284594,
+        "gp:id":1937300,
+        "wd:id":"Q2896973",
+        "wk:page":"Asira al-Qibliya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"80a72d1dca3809801e05f4da9307f4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "empire_id":136253049,
+            "locality_id":101921509,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921509,
+    "wof:lastmodified":1534985967,
+    "wof:name":"'Asira al Qibliya",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2341,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613217
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21365356445312,
+    32.16987991333008,
+    35.21675109863281,
+    32.17356872558594
+],
+  "geometry": {"coordinates":[[[35.21592330932617,32.16987991333008],[35.21520233154297,32.17023086547852],[35.21365356445312,32.17093276977539],[35.21365356445312,32.17216110229492],[35.21520233154297,32.17295074462891],[35.21675109863281,32.17356872558594],[35.21623229980469,32.17242431640625],[35.21592330932617,32.17128372192383],[35.21592330932617,32.16987991333008]]],"type":"Polygon"}
+}

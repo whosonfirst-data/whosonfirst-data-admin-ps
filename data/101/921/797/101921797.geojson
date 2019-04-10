@@ -1,0 +1,98 @@
+{
+  "id": 101921797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000013,
+    "geom:area_square_m":133736.246642,
+    "geom:bbox":"35.3095016479,32.0083236694,35.3166542053,32.0117912292",
+    "geom:latitude":32.010415,
+    "geom:longitude":35.312717,
+    "gn:population":3961,
+    "iso:country":"PS",
+    "lbl:latitude":32.010558,
+    "lbl:longitude":35.312663,
+    "mps:latitude":32.010558,
+    "mps:longitude":35.312663,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0623\u0628\u0648 \u0641\u0644\u0627\u062d"
+    ],
+    "name:dut_x_preferred":[
+        "Khirbet Abu Falah"
+    ],
+    "name:eng_x_preferred":[
+        "Khirbet Abu Falah"
+    ],
+    "name:nno_x_preferred":[
+        "Khirbet Abu Falah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Abu Falah",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283189,
+        "gp:id":1937300,
+        "qs:id":547096,
+        "wd:id":"Q6401747",
+        "wk:page":"Khirbet Abu Falah"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e03106a2e172bad0aa735d0b5029e2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921797,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921797,
+    "wof:lastmodified":1534985968,
+    "wof:name":"Khirbet Abu Falah",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":3961,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613235
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.30950164794922,
+    32.00832366943359,
+    35.31665420532227,
+    32.01179122924805
+],
+  "geometry": {"coordinates":[[[35.31019592285156,32.00832366943359],[35.30950164794922,32.00933837890625],[35.31019973754883,32.01179122924805],[35.31317901611328,32.01136779785156],[35.31486511230469,32.01128005981445],[35.31665420532227,32.01094055175781],[35.316650390625,32.00975799560547],[35.31327438354492,32.00967407226562],[35.31118774414062,32.00967788696289],[35.31019592285156,32.00832366943359]]],"type":"Polygon"}
+}

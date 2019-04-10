@@ -1,0 +1,95 @@
+{
+  "id": 1125775151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21627,32.38653,35.21627,32.38653",
+    "geom:latitude":32.38653,
+    "geom:longitude":35.21627,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":171,
+    "gn:population":171,
+    "iso:country":"PS",
+    "lbl:latitude":32.38653,
+    "lbl:longitude":35.21627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7895297,
+    "qs_pg:gn_pop":171,
+    "qs_pg:name":"Al Man\u015f\u016brah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":744194,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895297,
+        "qs_pg:id":744194
+    },
+    "wof:country":"PS",
+    "wof:created":1497290227,
+    "wof:geomhash":"d0d1f6df73420205abaa7b3d62ba0a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125775151,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125775151,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125775151,
+    "wof:lastmodified":1549929662,
+    "wof:name":"Al Man\u015f\u016brah",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21627,
+    32.38653,
+    35.21627,
+    32.38653
+],
+  "geometry": {"coordinates":[35.21627,32.38653],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 101919445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":513891.058651,
+    "geom:bbox":"34.9847106934,32.1539154053,34.9958610535,32.1621131897",
+    "geom:latitude":32.157971,
+    "geom:longitude":34.990044,
+    "iso:country":"PS",
+    "lbl:latitude":32.157628,
+    "lbl:longitude":34.989495,
+    "mps:latitude":32.157628,
+    "mps:longitude":34.989495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0633 \u0639\u0637\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Ras Atiya"
+    ],
+    "name:eng_x_preferred":[
+        "Ras Atiya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e1 \u05e2\u05d8\u05d9\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Ras Atiya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ras 'Atiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2898891"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e0b96d3d16ba9795b38aedad43b62c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919445,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919445,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101919445,
+    "wof:lastmodified":1549929812,
+    "wof:name":"Ras 'Atiya",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98471069335938,
+    32.15391540527344,
+    34.9958610534668,
+    32.16211318969727
+],
+  "geometry": {"coordinates":[[[34.99324798583984,32.15637969970703],[34.99338531494141,32.15567779541016],[34.99118804931641,32.15391540527344],[34.99008560180664,32.15461730957031],[34.98733520507812,32.15484619140625],[34.98677825927734,32.15636825561523],[34.98471069335938,32.15823745727539],[34.9849853515625,32.15893936157227],[34.98691177368164,32.15906143188477],[34.98704528808594,32.15999984741211],[34.98690795898438,32.16070175170898],[34.98896789550781,32.162109375],[34.9903450012207,32.16211318969727],[34.99158477783203,32.16117858886719],[34.99241256713867,32.15988922119141],[34.99227905273438,32.15883636474609],[34.99324035644531,32.15884017944336],[34.99558258056641,32.15860748291016],[34.9958610534668,32.15743637084961],[34.99324798583984,32.15637969970703]]],"type":"Polygon"}
+}

@@ -1,0 +1,142 @@
+{
+  "id": 101922785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":56314.858472,
+    "geom:bbox":"35.0034637451,31.4893035889,35.0075645447,31.4914283752",
+    "geom:latitude":31.490282,
+    "geom:longitude":35.005319,
+    "gn:population":20835,
+    "iso:country":"PS",
+    "lbl:latitude":31.490317,
+    "lbl:longitude":35.00528,
+    "mps:latitude":31.490317,
+    "mps:longitude":35.00528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0631\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u0440\u0430"
+    ],
+    "name:cze_x_preferred":[
+        "Dur\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Dura"
+    ],
+    "name:eng_x_preferred":[
+        "Dura"
+    ],
+    "name:fre_x_preferred":[
+        "Dura H\u00e9bron"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e8\u05d0"
+    ],
+    "name:ind_x_preferred":[
+        "Adoraim"
+    ],
+    "name:ita_x_preferred":[
+        "Dura"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30e9"
+    ],
+    "name:nno_x_preferred":[
+        "Dura i Hebron"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Dura"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Dura"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0631\u0627\u060c \u0627\u0644\u062e\u0644\u06cc\u0644"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dura",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1701,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284011,
+        "gp:id":1937307,
+        "wd:id":"Q2435966",
+        "wk:page":"Dura, Hebron"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6e52b5d1b425c5c75e9e58a28d8683bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922785,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922785,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922785,
+    "wof:lastmodified":1549929852,
+    "wof:name":"Dura",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":20835,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00346374511719,
+    31.48930358886719,
+    35.00756454467773,
+    31.49142837524414
+],
+  "geometry": {"coordinates":[[[35.00756454467773,31.48969459533691],[35.00743865966797,31.48937606811523],[35.00694274902344,31.48930358886719],[35.00640487670898,31.48933982849121],[35.00570297241211,31.48933792114258],[35.0052490234375,31.48937225341797],[35.00491714477539,31.48937225341797],[35.00466918945312,31.48965454101562],[35.00429534912109,31.4898681640625],[35.00400543212891,31.48986625671387],[35.00363159179688,31.49011421203613],[35.0036735534668,31.4903621673584],[35.00383758544922,31.49057579040527],[35.00358963012695,31.49082374572754],[35.00346374511719,31.49131965637207],[35.00383758544922,31.49131965637207],[35.00433349609375,31.4913215637207],[35.0048713684082,31.49142837524414],[35.00557327270508,31.49114608764648],[35.00615310668945,31.49072074890137],[35.00652694702148,31.49065017700195],[35.00681686401367,31.49004936218262],[35.00756454467773,31.48969459533691]]],"type":"Polygon"}
+}

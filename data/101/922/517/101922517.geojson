@@ -1,0 +1,127 @@
+{
+  "id": 101922517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":129071.161938,
+    "geom:bbox":"35.1411514282,31.6515522003,35.1464271545,31.6563739777",
+    "geom:latitude":31.653918,
+    "geom:longitude":35.143785,
+    "gn:population":12238,
+    "iso:country":"PS",
+    "lbl:latitude":31.654262,
+    "lbl:longitude":35.143526,
+    "mps:latitude":31.654262,
+    "mps:longitude":35.143526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0623\u0645\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Ummar"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Ummar"
+    ],
+    "name:fre_x_preferred":[
+        "Beit Ommar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d0\u05d5\u05de\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Ummar"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u0627\u0645\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Immar"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Ommar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0627\u0645\u0631"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Ummar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.621389,
+    "wd:longitude":35.102222,
+    "wd:wordcount":1348,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284329,
+        "gp:id":1936768,
+        "qs:id":123984,
+        "wd:id":"Q2893117",
+        "wk:page":"Beit Ummar"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"932c26ab5f44e38eafc1e4fcb509d806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922517,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922517,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922517,
+    "wof:lastmodified":1549929821,
+    "wof:name":"Beit Ummar",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":12238,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14115142822266,
+    31.65155220031738,
+    35.14642715454102,
+    31.65637397766113
+],
+  "geometry": {"coordinates":[[[35.1436653137207,31.65575790405273],[35.14474487304688,31.65637397766113],[35.14522552490234,31.65616989135742],[35.14510726928711,31.6556568145752],[35.14486694335938,31.65473365783691],[35.14486694335938,31.65391159057617],[35.14486694335938,31.65319442749023],[35.14546966552734,31.65268135070801],[35.14642715454102,31.65217018127441],[35.14618682861328,31.65155410766602],[35.14534759521484,31.65155410766602],[35.14426803588867,31.65155220031738],[35.1439094543457,31.6518611907959],[35.14355087280273,31.65247535705566],[35.14342880249023,31.65288543701172],[35.14247131347656,31.65329551696777],[35.14151000976562,31.65401268005371],[35.14115142822266,31.65483283996582],[35.14126968383789,31.65534591674805],[35.14198684692383,31.65534782409668],[35.1436653137207,31.65575790405273]]],"type":"Polygon"}
+}

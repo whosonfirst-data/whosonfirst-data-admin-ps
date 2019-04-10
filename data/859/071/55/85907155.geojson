@@ -1,0 +1,298 @@
+{
+  "id": 85907155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":632171.855671,
+    "geom:bbox":"35.2290344238,31.7741818947,35.2392389008,31.7842168845",
+    "geom:latitude":31.779145,
+    "geom:longitude":35.233827,
+    "gn:elevation":760,
+    "gn:latitude":31.77667,
+    "gn:longitude":35.23417,
+    "gn:population":36000,
+    "iso:country":"PS",
+    "lbl:latitude":31.777708,
+    "lbl:longitude":35.232774,
+    "mps:latitude":31.779104,
+    "mps:longitude":35.233904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":4,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u062f\u0629 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0642\u062f\u064a\u0645\u0629",
+        "\u0628\u0644\u062f\u0629 \u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0540\u056b\u0576 \u0584\u0561\u0572\u0561\u0584"
+    ],
+    "name:baq_x_preferred":[
+        "Jerusalemgo Hiri Zaharra"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u09b0\u09c1\u099c\u09be\u09b2\u09c7\u09ae\u09c7\u09b0 \u09aa\u09c1\u09b0\u09a8\u09cb \u09b6\u09b9\u09b0"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u044f\u0442 \u0433\u0440\u0430\u0434 \u043d\u0430 \u0419\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "ciutat vella de Jerusalem"
+    ],
+    "name:ces_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:chi_x_preferred":[
+        "\u8036\u8def\u6492\u51b7\u65e7\u57ce"
+    ],
+    "name:cze_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:deu_x_preferred":[
+        "Jerusalemer Altstadt"
+    ],
+    "name:dut_x_preferred":[
+        "oude stad van Jeruzalem"
+    ],
+    "name:eng_x_preferred":[
+        "Old City"
+    ],
+    "name:eng_x_variant":[
+        "Oldcity",
+        "Old City of Jerusalem"
+    ],
+    "name:epo_x_preferred":[
+        "Malnova Urbo"
+    ],
+    "name:eus_x_preferred":[
+        "Jerusalemgo Hiri Zaharra"
+    ],
+    "name:fin_x_preferred":[
+        "Jerusalemin vanhakaupunki"
+    ],
+    "name:fra_x_preferred":[
+        "Vieille ville de J\u00e9rusalem"
+    ],
+    "name:fre_x_preferred":[
+        "Vieille ville de J\u00e9rusalem"
+    ],
+    "name:geo_x_preferred":[
+        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e5\u10d0\u10da\u10d0\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Jerusalemer Altstadt"
+    ],
+    "name:gre_x_preferred":[
+        "\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc/\u03a0\u03b1\u03bb\u03b9\u03ac \u03a0\u03cc\u03bb\u03b7"
+    ],
+    "name:hbs_x_preferred":[
+        "Stari grad Jeruzalem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e2\u05d9\u05e8 \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0941\u0930\u093e\u0928\u093e \u092f\u0930\u0941\u0936\u0932\u092e \u0936\u0939\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Stari grad Jeruzalem"
+    ],
+    "name:hye_x_preferred":[
+        "\u0535\u0580\u0578\u0582\u057d\u0561\u0572\u0565\u0574\u056b \u0570\u056b\u0576 \u0584\u0561\u0572\u0561\u0584"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Lama Yerusalem"
+    ],
+    "name:ita_x_preferred":[
+        "Citt\u00e0 Vecchia di Gerusalemme"
+    ],
+    "name:jav_x_preferred":[
+        "Kutha lawas Yerusalem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u65e7\u5e02\u8857\u3068\u305d\u306e\u57ce\u58c1\u7fa4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e5\u10d0\u10da\u10d0\u10e5\u10d8"
+    ],
+    "name:lad_x_preferred":[
+        "Sivdad Vieja de Yerushalayim"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0442\u0430\u0440 \u0433\u0440\u0430\u0434"
+    ],
+    "name:may_x_preferred":[
+        "Kota Lama Jerusalem"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0422\u043e\u0448\u0442\u043e \u043e\u043b\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440 \u0433\u0440\u0430\u0434"
+    ],
+    "name:mon_x_preferred":[
+        "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c\u044b\u043d \u0445\u0443\u0443\u0447\u0438\u043d \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Kota Lama Baitulmuqaddis"
+    ],
+    "name:nld_x_preferred":[
+        "Oude Stad"
+    ],
+    "name:nob_x_preferred":[
+        "Gamlebyen"
+    ],
+    "name:nor_x_preferred":[
+        "Gamlebyen"
+    ],
+    "name:pol_x_preferred":[
+        "Stare Miasto"
+    ],
+    "name:por_x_preferred":[
+        "Cidade Antiga"
+    ],
+    "name:ron_x_preferred":[
+        "Ierusalimul Vechi"
+    ],
+    "name:rum_x_preferred":[
+        "Ierusalimul Vechi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Auld Ceety"
+    ],
+    "name:slk_x_preferred":[
+        "Ha-Ir ha-Atika"
+    ],
+    "name:slo_x_preferred":[
+        "Ha-Ir ha-Atika"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad vieja de Jerusal\u00e9n"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Gamla staden"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb4\u0bc8\u0baf \u0ba8\u0b95\u0bb0\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Eski \u015eehir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0435 \u043c\u0456\u0441\u0442\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Old City"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u062f\u06cc\u0645 \u0634\u06c1\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e0nh c\u1ed5 Jerusalem"
+    ],
+    "name:war_x_preferred":[
+        "Kadaan nga syudad"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ef\u10d5\u10d4\u10e8\u10d8 \u10dc\u10dd\u10e6\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d0\u05dc\u05d8\u05e9\u05d8\u05d0\u05d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u8def\u6492\u51b7\u65e7\u57ce"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":281184,
+    "qs:gn_nam_loc":"poriyya",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Old City",
+    "qs:local_max":20606,
+    "qs:local_sum":72250,
+    "qs:localhoods":38,
+    "qs:name":"Old City",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:name_local":"Jerusalem",
+    "qs:photo_max":5055,
+    "qs:photo_sum":20606,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":94,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345796,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968222,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wd:wordcount":3113,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6945291,
+        "gp:id":22724638,
+        "qs:id":161012,
+        "wd:id":"Q213274",
+        "wk:page":"Old City (Jerusalem)"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b746471d16df70a6ed75c6724dfaf9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85907155,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85907155,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930559,
+    "wof:name":"Old City",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:population":36000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2290344238001,
+    31.77418189467251,
+    35.23923890079442,
+    31.78421688450005
+],
+  "geometry": {"coordinates":[[[35.23040771480004,31.78421688450005],[35.23085126205808,31.7842168820335],[35.2317810058845,31.78421688218769],[35.2317810058845,31.78304952550349],[35.23315429690001,31.78304952515745],[35.23341492663843,31.78304952412547],[35.23359785033347,31.78240394390765],[35.23452758790012,31.782039364068],[35.23590087890034,31.78257787539687],[35.2372741699001,31.782039364068],[35.2372741699001,31.78188215640006],[35.2372741699001,31.78071476783362],[35.2372741699001,31.77954736695028],[35.2372741699001,31.77837995133356],[35.2372741699001,31.77721252110339],[35.23864746091476,31.77721252125652],[35.2390910383437,31.7766907266799],[35.23890807814098,31.77604507462515],[35.23923890079442,31.77487761451336],[35.23864746092516,31.77418189467251],[35.2372741699001,31.77472035843978],[35.23634446570736,31.77435582389269],[35.23590087890017,31.77487761706119],[35.2349711715168,31.77487761634185],[35.23452758790012,31.77487761850004],[35.23452758790012,31.77546135030009],[35.23384094240004,31.77546135030009],[35.23384094240004,31.77604507830007],[35.23315429690001,31.77604507830007],[35.23300643761689,31.77604507830007],[35.23282161158045,31.77582766444569],[35.2324676514001,31.77596645348071],[35.2324676514001,31.77604507830007],[35.2324676514001,31.77645487246863],[35.23212432862516,31.77658949158067],[35.23157896140702,31.77637564945515],[35.23148629630884,31.77692066327509],[35.23144832408758,31.77699510907368],[35.23109436037527,31.77713390126529],[35.23109436038516,31.77721252340004],[35.23109436038459,31.77779623983763],[35.23055557252957,31.77779623987512],[35.23040771480004,31.77779624040002],[35.23040771481476,31.77797017020249],[35.23040771481476,31.77837995324599],[35.2290344238001,31.77837995380004],[35.2290344238001,31.77855388371869],[35.2290344238001,31.77954736940005],[35.2290344238001,31.77989522913067],[35.2290344238001,31.78071476783362],[35.2290344238001,31.78188215435857],[35.2290344238001,31.78270166261787],[35.2290344238001,31.78304952780005],[35.23040771480004,31.78304952780005],[35.23040771480004,31.78421688450005]]],"type":"Polygon"}
+}

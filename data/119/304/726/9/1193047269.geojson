@@ -1,0 +1,87 @@
+{
+  "id": 1193047269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23053,31.70496,35.23053,31.70496",
+    "geom:latitude":31.70496,
+    "geom:longitude":35.23053,
+    "gn:admin1_code":"WE",
+    "gn:admin2_code":"7870463",
+    "gn:asciiname":"Ar Ru`ah",
+    "gn:country_code":"PS",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":284878,
+    "gn:latitude":31.70496,
+    "gn:longitude":35.23053,
+    "gn:modification_date":"2017-09-06",
+    "gn:name":"Ar Ru\u2018\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Ru\u2018\u0101t",
+        "Er Ru\u2018\u0101t",
+        "Ar Ru\u2018\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284878
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c556811e6cf71a28733033fc374575cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1193047269,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1193047269,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1193047269,
+    "wof:lastmodified":1549929664,
+    "wof:name":"Ar Ru`ah",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23053,
+    31.70496,
+    35.23053,
+    31.70496
+],
+  "geometry": {"coordinates":[35.23053,31.70496],"type":"Point"}
+}

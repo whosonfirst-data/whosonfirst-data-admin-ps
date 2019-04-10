@@ -1,0 +1,93 @@
+{
+  "id": 101920811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5970.780893,
+    "geom:bbox":"35.3845062256,32.4797096252,35.3858222961,32.4804916382",
+    "geom:latitude":32.48007,
+    "geom:longitude":35.385226,
+    "iso:country":"PS",
+    "lbl:latitude":32.480086,
+    "lbl:longitude":35.385213,
+    "mps:latitude":32.480086,
+    "mps:longitude":35.385213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u063a\u0634\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Barghasha"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Barghasha",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284412,
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"463770708b50a467a3063a41f420679d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920811,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920811,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920811,
+    "wof:lastmodified":1549929857,
+    "wof:name":"Barghasha",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38450622558594,
+    32.47970962524414,
+    35.38582229614258,
+    32.48049163818359
+],
+  "geometry": {"coordinates":[[[35.38450622558594,32.47993469238281],[35.38510131835938,32.48049163818359],[35.38582229614258,32.48015594482422],[35.38562393188477,32.47970962524414],[35.38450622558594,32.47993469238281]]],"type":"Polygon"}
+}

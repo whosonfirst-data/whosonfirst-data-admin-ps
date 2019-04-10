@@ -1,0 +1,85 @@
+{
+  "id": 1209345393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16667,31.66667,35.16667,31.66667",
+    "geom:latitude":31.66667,
+    "geom:longitude":35.16667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Khirbat `Abd Allah Ibrahim",
+    "gn:country_code":"PS",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283190,
+    "gn:latitude":31.66667,
+    "gn:longitude":35.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khirbat \u2018Abd All\u0101h Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat \u2018Abdullah Ibr\u0101h\u012bm",
+        "Khirbat \u2018Abd All\u0101h Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283190
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"85206366ffb0c6e6e940781f444e451f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209345393,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209345393,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209345393,
+    "wof:lastmodified":1549929886,
+    "wof:name":"Khirbat `Abd Allah Ibrahim",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16667,
+    31.66667,
+    35.16667,
+    31.66667
+],
+  "geometry": {"coordinates":[35.16667,31.66667],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 101922387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":140464.354351,
+    "geom:bbox":"35.2467308044,31.7103404999,35.2525787354,31.7159957886",
+    "geom:latitude":31.712629,
+    "geom:longitude":35.248898,
+    "iso:country":"PS",
+    "lbl:latitude":31.712363,
+    "lbl:longitude":35.248455,
+    "mps:latitude":31.712363,
+    "mps:longitude":35.248455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Hujeila",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123333
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f0be90135b7586103480667cd3d476de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922387,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922387,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922387,
+    "wof:lastmodified":1549929810,
+    "wof:name":"Al Hujeila",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24673080444336,
+    31.71034049987793,
+    35.25257873535156,
+    31.71599578857422
+],
+  "geometry": {"coordinates":[[[35.24750137329102,31.71034049987793],[35.24673080444336,31.71231269836426],[35.24781036376953,31.71402168273926],[35.24827194213867,31.71599578857422],[35.24919509887695,31.71586418151855],[35.2495002746582,31.71402168273926],[35.2495002746582,31.71323204040527],[35.25042343139648,31.71231269836426],[35.25119400024414,31.71165466308594],[35.25257873535156,31.71099662780762],[35.25088500976562,31.71073341369629],[35.24980926513672,31.71086502075195],[35.24888610839844,31.71112823486328],[35.24750137329102,31.71034049987793]]],"type":"Polygon"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101921011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":78384.803967,
+    "geom:bbox":"35.0731544495,32.4039649963,35.0766944885,32.4072647095",
+    "geom:latitude":32.405604,
+    "geom:longitude":35.074886,
+    "iso:country":"PS",
+    "lbl:latitude":32.405552,
+    "lbl:longitude":35.074852,
+    "mps:latitude":32.405552,
+    "mps:longitude":35.074852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0632\u0644\u0629 \u0623\u0628\u0648 \u0646\u0627\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Nazlat Ab\u016b N\u0101r"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nazlat Abu Nar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282541,
+        "gp:id":56123341
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"db0efbd199ce074f28b4680bdbfbfbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921011,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921011,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921011,
+    "wof:lastmodified":1549929776,
+    "wof:name":"Nazlat Abu Nar",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07315444946289,
+    32.40396499633789,
+    35.07669448852539,
+    32.40726470947266
+],
+  "geometry": {"coordinates":[[[35.07315444946289,32.40599060058594],[35.07369995117188,32.40666961669922],[35.07474517822266,32.40726089477539],[35.07549285888672,32.40726470947266],[35.07607650756836,32.40607833862305],[35.07669448852539,32.40464401245117],[35.07460403442383,32.40396499633789],[35.07405471801758,32.40434646606445],[35.07350540161133,32.40518951416016],[35.07315444946289,32.40599060058594]]],"type":"Polygon"}
+}

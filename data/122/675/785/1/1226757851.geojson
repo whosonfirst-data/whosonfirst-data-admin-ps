@@ -1,0 +1,87 @@
+{
+  "id": 1226757851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22901,32.40618,35.22901,32.40618",
+    "geom:latitude":32.40618,
+    "geom:longitude":35.22901,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ad Damarah",
+    "gn:country_code":"PS",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895640,
+    "gn:latitude":32.40618,
+    "gn:longitude":35.22901,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"A\u1e11 \u1e10am\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0645\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10am\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895640
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3e4b6f4ae174bf3632df4ee04f9c57e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226757851,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226757851,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226757851,
+    "wof:lastmodified":1549929918,
+    "wof:name":"Ad Damarah",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22900999999999,
+    32.40618,
+    35.22900999999999,
+    32.40618
+],
+  "geometry": {"coordinates":[35.22900999999999,32.40618],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 101920839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":343659.935406,
+    "geom:bbox":"35.3512878418,32.4663505554,35.3622665405,32.4733467102",
+    "geom:latitude":32.469813,
+    "geom:longitude":35.356574,
+    "gn:population":1430,
+    "iso:country":"PS",
+    "lbl:latitude":32.469161,
+    "lbl:longitude":35.3562,
+    "mps:latitude":32.469161,
+    "mps:longitude":35.3562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0642\u0627\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Qad"
+    ],
+    "name:dut_x_preferred":[
+        "Bayt Qad"
+    ],
+    "name:eng_x_preferred":[
+        "Bayt Qad"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Kad"
+    ],
+    "name:unk_x_variant":[
+        "Beit Q\u0101d"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Qad",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284308,
+        "gp:id":56123307,
+        "qs:id":79939,
+        "wd:id":"Q12200489"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a5e8af9775a9f129555d9877a27e3daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920839,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920839,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920839,
+    "wof:lastmodified":1549929855,
+    "wof:name":"Beit Qad",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":1430,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35128784179688,
+    32.46635055541992,
+    35.36226654052734,
+    32.47334671020508
+],
+  "geometry": {"coordinates":[[[35.35198974609375,32.46746444702148],[35.35128784179688,32.46951293945312],[35.35259628295898,32.46968078613281],[35.35441207885742,32.470703125],[35.35602188110352,32.470703125],[35.3574333190918,32.47138214111328],[35.35783767700195,32.47334671020508],[35.36025238037109,32.47283172607422],[35.36136245727539,32.47274398803711],[35.36226654052734,32.47197723388672],[35.3615608215332,32.47069549560547],[35.3591423034668,32.46984481811523],[35.3580322265625,32.46950531005859],[35.35762786865234,32.46796798706055],[35.35621643066406,32.46754455566406],[35.35490798950195,32.46660614013672],[35.35369873046875,32.46635055541992],[35.35198974609375,32.46746444702148]]],"type":"Polygon"}
+}

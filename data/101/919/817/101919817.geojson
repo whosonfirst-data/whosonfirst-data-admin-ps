@@ -1,0 +1,119 @@
+{
+  "id": 101919817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10765.937049,
+    "geom:bbox":"34.4210968018,31.4671592712,34.4227752686,31.4683990479",
+    "geom:latitude":31.467783,
+    "geom:longitude":34.421943,
+    "geonames:id":"6968063,7870524",
+    "iso:country":"PS",
+    "lbl:latitude":31.467771,
+    "lbl:longitude":34.421942,
+    "mps:latitude":31.467771,
+    "mps:longitude":34.421942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u0631\u0627\u0642\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Mughraqa"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Mughraqa"
+    ],
+    "name:ger_x_preferred":[
+        "Al-Mughraqa"
+    ],
+    "name:jpn_x_preferred":[
+        "Al-Mughraqa \uff08Abu Middein\uff09"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Mughraqa"
+    ],
+    "name:nob_x_preferred":[
+        "Al-Mughraqa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u0631\u0627\u0642\u06c1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Mughraqa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":31.4675,
+    "wd:longitude":34.409722,
+    "wd:population":5075,
+    "wd:wordcount":107,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913297,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979608,
+        "wd:id":"Q573785"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e74e50a2d9f4c2d9745e256706c0e49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913297,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919817,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913297,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919817,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101919817,
+    "wof:lastmodified":1549928930,
+    "wof:name":"Al Mughraqa",
+    "wof:parent_id":1091913297,
+    "wof:placetype":"locality",
+    "wof:population":5075,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42109680175781,
+    31.46715927124023,
+    34.42277526855469,
+    31.46839904785156
+],
+  "geometry": {"coordinates":[[[34.4217643737793,31.46715927124023],[34.42109680175781,31.46774291992188],[34.42216110229492,31.46839904785156],[34.42277526855469,31.46784210205078],[34.4217643737793,31.46715927124023]]],"type":"Polygon"}
+}

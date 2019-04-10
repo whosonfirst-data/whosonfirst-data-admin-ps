@@ -1,0 +1,93 @@
+{
+  "id": 101922421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":42305.3359,
+    "geom:bbox":"35.2455482483,31.6940555573,35.2492523193,31.6958694458",
+    "geom:latitude":31.695091,
+    "geom:longitude":35.247474,
+    "iso:country":"PS",
+    "lbl:latitude":31.695051,
+    "lbl:longitude":35.247139,
+    "mps:latitude":31.695051,
+    "mps:longitude":35.247139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u062e\u062a \u0627\u0644\u062c\u0648\u0644"
+    ],
+    "name:unk_x_variant":[
+        "Fakht al J\u016bl"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fakht al Jul",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890653,
+        "gp:id":56123333
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fb211d3450e6bcab93d6ea58d7e8a5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922421,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922421,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922421,
+    "wof:lastmodified":1549929812,
+    "wof:name":"Fakht al Jul",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24554824829102,
+    31.69405555725098,
+    35.24925231933594,
+    31.69586944580078
+],
+  "geometry": {"coordinates":[[[35.24718475341797,31.69405555725098],[35.24554824829102,31.69488334655762],[35.24678421020508,31.69579887390137],[35.24876022338867,31.69586944580078],[35.24925231933594,31.69509315490723],[35.24921798706055,31.69491958618164],[35.24908828735352,31.69488334655762],[35.24768829345703,31.69445991516113],[35.24718475341797,31.69405555725098]]],"type":"Polygon"}
+}

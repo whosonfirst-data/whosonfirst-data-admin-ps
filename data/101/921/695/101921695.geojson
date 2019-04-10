@@ -1,0 +1,115 @@
+{
+  "id": 101921695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":427247.595695,
+    "geom:bbox":"35.3588485718,32.0782241821,35.3697052002,32.0876159668",
+    "geom:latitude":32.08263,
+    "geom:longitude":35.363368,
+    "gn:population":2122,
+    "iso:country":"PS",
+    "lbl:latitude":32.082202,
+    "lbl:longitude":35.362381,
+    "mps:latitude":32.082202,
+    "mps:longitude":35.362381,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u062f\u0644 \u0628\u0646\u064a \u0641\u0627\u0636\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Majdal Bani Fadil"
+    ],
+    "name:dut_x_preferred":[
+        "Majdal Bani Fadil"
+    ],
+    "name:eng_x_preferred":[
+        "Majdal Bani Fadil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d2'\u05d3\u05dc \u05d1\u05e0\u05d9 \u05e4\u05d3\u05d9\u05dc"
+    ],
+    "name:unk_x_variant":[
+        "Majdal Bani Fadl"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Majdal Bani Fadil",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.083611,
+    "wd:longitude":35.362778,
+    "wd:wordcount":401,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282941,
+        "gp:id":1937288,
+        "qs:id":123942,
+        "wd:id":"Q6737465",
+        "wk:page":"Majdal Bani Fadil"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"68cb6f9c674042bb4110817550cf60c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921695,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921695,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921695,
+    "wof:lastmodified":1549929848,
+    "wof:name":"Majdal Bani Fadil",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2122,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35884857177734,
+    32.07822418212891,
+    35.36970520019531,
+    32.08761596679688
+],
+  "geometry": {"coordinates":[[[35.36132049560547,32.08020401000977],[35.35916519165039,32.08075332641602],[35.35884857177734,32.08170318603516],[35.35924911499023,32.08285903930664],[35.36036682128906,32.08306121826172],[35.35981369018555,32.08503341674805],[35.35957336425781,32.08605575561523],[35.36109161376953,32.08659744262695],[35.36109161376953,32.08544158935547],[35.36220932006836,32.08530426025391],[35.36220932006836,32.08632278442383],[35.36349105834961,32.08761596679688],[35.36332702636719,32.08612060546875],[35.36364364624023,32.08394241333008],[35.36548233032227,32.08489227294922],[35.36716079711914,32.08529663085938],[35.36715698242188,32.08400726318359],[35.36643600463867,32.08292007446289],[35.36563873291016,32.08169555664062],[35.3668327331543,32.080810546875],[35.3680305480957,32.08060455322266],[35.36898803710938,32.07931137084961],[35.36970520019531,32.07822418212891],[35.36802673339844,32.07856369018555],[35.36706924438477,32.07944869995117],[35.36555480957031,32.08047103881836],[35.36443710327148,32.08047485351562],[35.3624382019043,32.07986450195312],[35.36132049560547,32.08020401000977]]],"type":"Polygon"}
+}

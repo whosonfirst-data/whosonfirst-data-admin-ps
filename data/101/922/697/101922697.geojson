@@ -1,0 +1,99 @@
+{
+  "id": 101922697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":301311.861906,
+    "geom:bbox":"35.2287559509,31.565574646,35.2367553711,31.5728359222",
+    "geom:latitude":31.569048,
+    "geom:longitude":35.232554,
+    "iso:country":"PS",
+    "lbl:latitude":31.569764,
+    "lbl:longitude":35.230948,
+    "mps:latitude":31.569764,
+    "mps:longitude":35.230948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u0631\u0634\u0627\u064a\u062f\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Arab al-Rashayida"
+    ],
+    "name:eng_x_preferred":[
+        "Arab al-Rashayida"
+    ],
+    "name:nno_x_preferred":[
+        "'Arab al-Rashayida"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Arab ar Rashayida",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q4540442"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b284edf6aa12afa6027697cfea639d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922697,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922697,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922697,
+    "wof:lastmodified":1549929839,
+    "wof:name":"'Arab ar Rashayida",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22875595092773,
+    31.56557464599609,
+    35.23675537109375,
+    31.57283592224121
+],
+  "geometry": {"coordinates":[[[35.22907638549805,31.57009506225586],[35.22971725463867,31.57269859313965],[35.23131561279297,31.57283592224121],[35.23243713378906,31.57119178771973],[35.23323440551758,31.57023239135742],[35.23659515380859,31.56831359863281],[35.23675537109375,31.56612205505371],[35.23483276367188,31.56557464599609],[35.23323440551758,31.56639671325684],[35.23275375366211,31.56817817687988],[35.23211669921875,31.56817817687988],[35.23035430908203,31.56763076782227],[35.22875595092773,31.56886291503906],[35.22875595092773,31.56982231140137],[35.22907638549805,31.57009506225586]]],"type":"Polygon"}
+}

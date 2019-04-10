@@ -1,0 +1,91 @@
+{
+  "id": 101923067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5249.844902,
+    "geom:bbox":"35.2131195068,31.3909339905,35.2140655518,31.3919258118",
+    "geom:latitude":31.391308,
+    "geom:longitude":35.213636,
+    "gn:population":179,
+    "iso:country":"PS",
+    "lbl:latitude":31.391294,
+    "lbl:longitude":35.213627,
+    "mps:latitude":31.391294,
+    "mps:longitude":35.213627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Tawil ash Shih",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891714,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b8ac1f6d8f67f19af0ce3bc7694493b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923067,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101923067,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101923067,
+    "wof:lastmodified":1549929783,
+    "wof:name":"Khirbet Tawil ash Shih",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21311950683594,
+    31.39093399047852,
+    35.21406555175781,
+    31.39192581176758
+],
+  "geometry": {"coordinates":[[[35.21406555175781,31.39093399047852],[35.21354293823242,31.39093399047852],[35.21311950683594,31.39120292663574],[35.21375274658203,31.39192581176758],[35.21406555175781,31.39093399047852]]],"type":"Polygon"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101921525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4775.851099,
+    "geom:bbox":"35.3940124512,32.1587753296,35.3951416016,32.1594467163",
+    "geom:latitude":32.159201,
+    "geom:longitude":35.394477,
+    "iso:country":"PS",
+    "lbl:latitude":32.159191,
+    "lbl:longitude":35.394466,
+    "mps:latitude":32.159191,
+    "mps:longitude":35.394466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0637\u0627\u0646\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat \u1e6cana et Ta\u1e25ta"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Tana",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281654,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0c193628a219eb62836275ea950f2354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921525,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921525,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921525,
+    "wof:lastmodified":1549929823,
+    "wof:name":"Khirbet Tana",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39401245117188,
+    32.15877532958984,
+    35.3951416015625,
+    32.15944671630859
+],
+  "geometry": {"coordinates":[[[35.39412307739258,32.15877532958984],[35.39401245117188,32.15944671630859],[35.39491653442383,32.15944671630859],[35.3951416015625,32.15925216674805],[35.39412307739258,32.15877532958984]]],"type":"Polygon"}
+}

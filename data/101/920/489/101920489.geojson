@@ -1,0 +1,89 @@
+{
+  "id": 101920489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16988.774068,
+    "geom:bbox":"34.2742424011,31.325460434,34.2762374878,31.3268909454",
+    "geom:latitude":31.326134,
+    "geom:longitude":34.275217,
+    "iso:country":"PS",
+    "lbl:latitude":31.326109,
+    "lbl:longitude":34.275233,
+    "mps:latitude":31.326109,
+    "mps:longitude":34.275233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qizan an Najjar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281103,
+        "gp:id":1979600,
+        "wd:id":"Q7267988"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"12db1417e1949c7c0b2120d4036310bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920489,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920489,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920489,
+    "wof:lastmodified":1549928907,
+    "wof:name":"Qizan an Najjar",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.27424240112305,
+    31.32546043395996,
+    34.27623748779297,
+    31.32689094543457
+],
+  "geometry": {"coordinates":[[[34.27571105957031,31.32546043395996],[34.27521133422852,31.32550430297852],[34.27452850341797,31.32590675354004],[34.27424240112305,31.32612228393555],[34.27457809448242,31.32659530639648],[34.2749137878418,31.32689094543457],[34.27623748779297,31.32616806030273],[34.27580261230469,31.32564353942871],[34.27571105957031,31.32546043395996]]],"type":"Polygon"}
+}

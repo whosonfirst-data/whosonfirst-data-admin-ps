@@ -1,0 +1,107 @@
+{
+  "id": 101922407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":66938.022241,
+    "geom:bbox":"35.2690048218,31.7021579742,35.2749443054,31.7051410675",
+    "geom:latitude":31.703682,
+    "geom:longitude":35.271747,
+    "iso:country":"PS",
+    "lbl:latitude":31.704508,
+    "lbl:longitude":35.271994,
+    "mps:latitude":31.704508,
+    "mps:longitude":35.271994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Juh\u1e11um"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0647\u0636\u0645"
+    ],
+    "name:dut_x_preferred":[
+        "Juhdum"
+    ],
+    "name:eng_x_preferred":[
+        "Juhdum"
+    ],
+    "name:nno_x_preferred":[
+        "Juhdum"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Juhdum",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.709947,
+    "wd:longitude":35.283094,
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890648,
+        "gp:id":56123333,
+        "wd:id":"Q6305107",
+        "wk:page":"Juhdum"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6b25f1f84574dbb7342ee9f262b4bc7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922407,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922407,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922407,
+    "wof:lastmodified":1549929811,
+    "wof:name":"Juhdum",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26900482177734,
+    31.70215797424316,
+    35.27494430541992,
+    31.70514106750488
+],
+  "geometry": {"coordinates":[[[35.27400970458984,31.7050952911377],[35.27494430541992,31.7049617767334],[35.27468490600586,31.70429420471191],[35.27359008789062,31.70451736450195],[35.27260208129883,31.70438385009766],[35.27228927612305,31.70393943786621],[35.27213287353516,31.70295906066895],[35.27213287353516,31.70229148864746],[35.27129745483398,31.70215797424316],[35.26984024047852,31.70229148864746],[35.26921463012695,31.70282745361328],[35.26900482177734,31.70327186584473],[35.26942443847656,31.70362854003906],[35.27041244506836,31.70309257507324],[35.27109146118164,31.70318222045898],[35.27145385742188,31.70398330688477],[35.2713508605957,31.70451736450195],[35.27161026000977,31.70514106750488],[35.27281188964844,31.70509719848633],[35.27400970458984,31.7050952911377]]],"type":"Polygon"}
+}

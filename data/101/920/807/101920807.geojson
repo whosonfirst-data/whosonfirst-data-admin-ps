@@ -1,0 +1,113 @@
+{
+  "id": 101920807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000012,
+    "geom:area_square_m":127667.947671,
+    "geom:bbox":"35.2610206604,32.4809341431,35.2677459717,32.4877204895",
+    "geom:latitude":32.484325,
+    "geom:longitude":35.264329,
+    "gn:population":4967,
+    "iso:country":"PS",
+    "lbl:latitude":32.486049,
+    "lbl:longitude":35.262878,
+    "mps:latitude":32.486049,
+    "mps:longitude":35.262878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062f\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Kafr Dan"
+    ],
+    "name:dut_x_preferred":[
+        "Kafr Dan"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Dan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d3\u05d0\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Dan"
+    ],
+    "name:pol_x_preferred":[
+        "Kafr Dan"
+    ],
+    "name:spa_x_preferred":[
+        "Kafr Dan"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kafr Dan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.478731,
+    "wd:longitude":35.254044,
+    "wd:wordcount":348,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283378,
+        "gp:id":1937299,
+        "qs:id":123951,
+        "wd:id":"Q2918959",
+        "wk:page":"Kafr Dan"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8554bfa0f8cbf803d5dab0983485fef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101920807,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920807,
+    "wof:lastmodified":1534985969,
+    "wof:name":"Kafr Dan",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":4967,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613257
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26102066040039,
+    32.48093414306641,
+    35.26774597167969,
+    32.48772048950195
+],
+  "geometry": {"coordinates":[[[35.26774597167969,32.48112869262695],[35.26762771606445,32.48093414306641],[35.26588821411133,32.48103332519531],[35.26542663574219,32.48211288452148],[35.26449966430664,32.48368835449219],[35.26287460327148,32.48467254638672],[35.26102066040039,32.48644256591797],[35.26125335693359,32.48772048950195],[35.26391983032227,32.48673629760742],[35.26403427124023,32.48516464233398],[35.26473236083984,32.48418045043945],[35.26751327514648,32.48250579833984],[35.26774597167969,32.48112869262695]]],"type":"Polygon"}
+}

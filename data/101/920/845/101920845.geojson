@@ -1,0 +1,85 @@
+{
+  "id": 101920845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":5039.304026,
+    "geom:bbox":"35.3709907532,32.4650421143,35.3719825745,32.4656486511",
+    "geom:latitude":32.46535,
+    "geom:longitude":35.371463,
+    "iso:country":"PS",
+    "lbl:latitude":32.465369,
+    "lbl:longitude":35.371462,
+    "mps:latitude":32.465369,
+    "mps:longitude":35.371462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "Umm Q\u0101b\u016bb"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u0642\u0627\u0628\u0648\u0628"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm Qabub",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895636,
+        "gp:id":56123307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"dc3bf487185524f7043ee1335395e75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101920845,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920845,
+    "wof:lastmodified":1534985969,
+    "wof:name":"Umm Qabub",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613277
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37099075317383,
+    32.46504211425781,
+    35.37198257446289,
+    32.46564865112305
+],
+  "geometry": {"coordinates":[[[35.37099075317383,32.46504211425781],[35.37109375,32.46564865112305],[35.37181091308594,32.46564865112305],[35.37198257446289,32.4650993347168],[35.3715705871582,32.4650993347168],[35.37099075317383,32.46504211425781]]],"type":"Polygon"}
+}

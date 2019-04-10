@@ -1,0 +1,93 @@
+{
+  "id": 101921559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":159156.230882,
+    "geom:bbox":"35.4907493591,32.1450271606,35.4956130981,32.1506271362",
+    "geom:latitude":32.147969,
+    "geom:longitude":35.493503,
+    "gn:population":3666,
+    "iso:country":"PS",
+    "lbl:latitude":32.148101,
+    "lbl:longitude":35.493539,
+    "mps:latitude":32.148101,
+    "mps:longitude":35.493539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Jiftlik",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7898046,
+        "gp:id":1937300,
+        "wd:id":"Q2895719",
+        "wk:page":"Al-Jiftlik"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"72fcec5d9ac8ed112f1456da3a89265d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921559,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921559,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921559,
+    "wof:lastmodified":1549929828,
+    "wof:name":"Al Jiftlik",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:population":3666,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49074935913086,
+    32.14502716064453,
+    35.49561309814453,
+    32.15062713623047
+],
+  "geometry": {"coordinates":[[[35.49154281616211,32.14985656738281],[35.49290466308594,32.15062713623047],[35.49550628662109,32.14849853515625],[35.49561309814453,32.14627838134766],[35.49436187744141,32.14502716064453],[35.49334335327148,32.14580154418945],[35.49198913574219,32.14754104614258],[35.49074935913086,32.14908599853516],[35.49154281616211,32.14985656738281]]],"type":"Polygon"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101921687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":527914.063708,
+    "geom:bbox":"35.1019592285,32.0792579651,35.1104469299,32.0893630981",
+    "geom:latitude":32.084468,
+    "geom:longitude":35.106218,
+    "gn:population":3538,
+    "iso:country":"PS",
+    "lbl:latitude":32.084538,
+    "lbl:longitude":35.106283,
+    "mps:latitude":32.084538,
+    "mps:longitude":35.106283,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0648\u0642\u064a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Bruqin"
+    ],
+    "name:dut_x_preferred":[
+        "Bruqin"
+    ],
+    "name:eng_x_preferred":[
+        "Bruqin"
+    ],
+    "name:nno_x_preferred":[
+        "Bruqin"
+    ],
+    "name:pol_x_preferred":[
+        "Brukin"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bruqin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284187,
+        "gp:id":1937300,
+        "qs:id":123974,
+        "wd:id":"Q4119463",
+        "wk:page":"Bruqin"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"00c76e814430ad1fbe21efd4aa5febf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921687,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921687,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921687,
+    "wof:lastmodified":1549929838,
+    "wof:name":"Bruqin",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:population":3538,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10195922851562,
+    32.07925796508789,
+    35.11044692993164,
+    32.08936309814453
+],
+  "geometry": {"coordinates":[[[35.10386276245117,32.08641052246094],[35.10498809814453,32.08700180053711],[35.10524368286133,32.08840560913086],[35.10706329345703,32.08936309814453],[35.10914611816406,32.08877563476562],[35.10879898071289,32.08752059936523],[35.10949325561523,32.0860481262207],[35.11044692993164,32.08494186401367],[35.11027526855469,32.08346557617188],[35.10932540893555,32.08280181884766],[35.10880279541016,32.08280181884766],[35.10820007324219,32.08213424682617],[35.10785293579102,32.08221054077148],[35.10724639892578,32.08139801025391],[35.10733413696289,32.08007049560547],[35.10638427734375,32.07925796508789],[35.10542678833008,32.08014297485352],[35.10412979125977,32.08065795898438],[35.10308837890625,32.08146667480469],[35.10195922851562,32.08227920532227],[35.1026496887207,32.08412170410156],[35.10273361206055,32.08641052246094],[35.10429382324219,32.08707427978516],[35.10386276245117,32.08641052246094]]],"type":"Polygon"}
+}

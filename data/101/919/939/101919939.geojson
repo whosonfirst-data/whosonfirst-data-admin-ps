@@ -1,0 +1,86 @@
+{
+  "id": 101919939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1.995926,
+    "geom:bbox":"34.377910614,31.4391746521,34.3789978027,31.4394111633",
+    "geom:latitude":31.439325,
+    "geom:longitude":34.3786,
+    "iso:country":"PS",
+    "lbl:latitude":31.438467,
+    "lbl:longitude":34.377662,
+    "mps:latitude":31.438467,
+    "mps:longitude":34.377662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nuseirat Camp",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913317,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979608
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"009c59aee56f34dd6dd6dec615a0f4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919939,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913317,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101919939,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101919939,
+    "wof:lastmodified":1549928933,
+    "wof:name":"An Nuseirat Camp",
+    "wof:parent_id":1091913317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.37791061401367,
+    31.43917465209961,
+    34.37899780273438,
+    31.43941116333008
+],
+  "geometry": {"coordinates":[[[34.37899780273438,31.43941116333008],[34.37791061401367,31.43917465209961],[34.37889099121094,31.43938827514648],[34.37899780273438,31.43941116333008]]],"type":"Polygon"}
+}

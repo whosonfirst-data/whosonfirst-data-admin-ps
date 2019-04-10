@@ -1,0 +1,86 @@
+{
+  "id": 1327060911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33333,31.8,35.33333,31.8",
+    "geom:latitude":31.8,
+    "geom:longitude":35.33333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Mishor Adummim",
+    "gn:cc2":"PS",
+    "gn:country_code":"PS",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282741,
+    "gn:latitude":31.8,
+    "gn:longitude":35.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mishor Adummim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u2018ale Adumin",
+        "Mishor Adummim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282741
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"49edb04e2241a9af589fec68005b272b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327060911,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327060911,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1327060911,
+    "wof:lastmodified":1549929912,
+    "wof:name":"Mishor Adummim",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33333,
+    31.8,
+    35.33333,
+    31.8
+],
+  "geometry": {"coordinates":[35.33333,31.8],"type":"Point"}
+}

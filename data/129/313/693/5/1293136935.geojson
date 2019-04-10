@@ -1,0 +1,74 @@
+{
+  "id": 1293136935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03333,31.86667,35.03333,31.86667",
+    "geom:latitude":31.86667,
+    "geom:longitude":35.03333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Mevo Horon",
+    "gn:cc2":"PS",
+    "gn:country_code":"PS",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282772,
+    "gn:latitude":31.86667,
+    "gn:longitude":35.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mevo H\u0331oron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Modi\u2019in",
+        "Mevo Horan",
+        "Mevo H\u0331oron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282772,
+        "wk:page":"Mevo_Horon"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"057fc72fbb0b26dbc45bf6829553cd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":1293136935,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1293136935,
+    "wof:lastmodified":1549930515,
+    "wof:name":"Mevo Horon",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03333,
+    31.86667000000001,
+    35.03333,
+    31.86667000000001
+],
+  "geometry": {"coordinates":[35.03333,31.86667000000001],"type":"Point"}
+}

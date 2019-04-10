@@ -1,0 +1,86 @@
+{
+  "id": 101922405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":104094.350186,
+    "geom:bbox":"35.2525405884,31.7022705078,35.2563400269,31.7060337067",
+    "geom:latitude":31.703993,
+    "geom:longitude":35.254322,
+    "iso:country":"PS",
+    "lbl:latitude":31.703829,
+    "lbl:longitude":35.254286,
+    "mps:latitude":31.703829,
+    "mps:longitude":35.254286,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm al Qasseis",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123333
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4dfd73b2b6666255ef12d7d65ec68ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922405,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922405,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922405,
+    "wof:lastmodified":1549929810,
+    "wof:name":"Umm al Qasseis",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25254058837891,
+    31.7022705078125,
+    35.25634002685547,
+    31.70603370666504
+],
+  "geometry": {"coordinates":[[[35.25394058227539,31.7022705078125],[35.25254058837891,31.70321273803711],[35.25283813476562,31.70432472229004],[35.25273895263672,31.70517921447754],[35.25334167480469,31.70603370666504],[35.25424194335938,31.70586204528809],[35.25524139404297,31.70492172241211],[35.25634002685547,31.70458030700684],[35.25603866577148,31.70329666137695],[35.25563812255859,31.70252799987793],[35.2552375793457,31.7022705078125],[35.25394058227539,31.7022705078125]]],"type":"Polygon"}
+}

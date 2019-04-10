@@ -1,0 +1,110 @@
+{
+  "id": 101921027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":368170.219336,
+    "geom:bbox":"35.0782699585,32.3978424072,35.087677002,32.4061012268",
+    "geom:latitude":32.40143,
+    "geom:longitude":35.082981,
+    "gn:population":929,
+    "iso:country":"PS",
+    "lbl:latitude":32.399946,
+    "lbl:longitude":35.08095,
+    "mps:latitude":32.399946,
+    "mps:longitude":35.08095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0644\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "An-Nazla al-Gharbiya"
+    ],
+    "name:eng_x_preferred":[
+        "An-Nazla al-Gharbiya"
+    ],
+    "name:nno_x_preferred":[
+        "An-Nazla al-Gharbiya"
+    ],
+    "name:unk_x_variant":[
+        "En Nazla el Gharbiya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nazla al Gharbiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":263,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284938,
+        "gp:id":1937300,
+        "qs:id":547103,
+        "wd:id":"Q4749680",
+        "wk:page":"An-Nazla al-Gharbiya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e3bbf5ffd86757609a58c6bba355bab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921027,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921027,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921027,
+    "wof:lastmodified":1549929779,
+    "wof:name":"An Nazla al Gharbiya",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":929,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07826995849609,
+    32.39784240722656,
+    35.08767700195312,
+    32.40610122680664
+],
+  "geometry": {"coordinates":[[[35.08010101318359,32.40229034423828],[35.08174133300781,32.40261459350586],[35.08420562744141,32.40331268310547],[35.08464431762695,32.40454483032227],[35.08622360229492,32.40513610839844],[35.08634948730469,32.40610122680664],[35.08761215209961,32.40465545654297],[35.08767700195312,32.40336990356445],[35.08698272705078,32.40251159667969],[35.08635711669922,32.40079498291016],[35.08522033691406,32.400634765625],[35.08376693725586,32.39999008178711],[35.08275604248047,32.40041732788086],[35.08294677734375,32.3992919921875],[35.08307647705078,32.39795303344727],[35.08048629760742,32.39784240722656],[35.07941055297852,32.3988037109375],[35.07826995849609,32.3997688293457],[35.07845687866211,32.40143203735352],[35.07953262329102,32.40239715576172],[35.08010101318359,32.40229034423828]]],"type":"Polygon"}
+}

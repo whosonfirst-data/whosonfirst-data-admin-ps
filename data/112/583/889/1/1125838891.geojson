@@ -1,0 +1,108 @@
+{
+  "id": 1125838891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21801,32.28359,35.21801,32.28359",
+    "geom:latitude":32.28359,
+    "geom:longitude":35.21801,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":390,
+    "gn:population":390,
+    "iso:country":"PS",
+    "lbl:latitude":32.28359,
+    "lbl:longitude":35.21801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u0635\u0641 \u062c\u0628\u064a\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Nisf Jubeil"
+    ],
+    "name:dut_x_preferred":[
+        "Nisf Jubeil"
+    ],
+    "name:eng_x_preferred":[
+        "Nisf Jubeil"
+    ],
+    "name:unk_x_variant":[
+        "Ni\u1e63f Jubeil"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":282517,
+    "qs_pg:gn_pop":390,
+    "qs_pg:name":"Ni\u015ff Jubayl",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":79891,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282517,
+        "qs_pg:id":79891,
+        "wd:id":"Q7040229"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292843,
+    "wof:geomhash":"a677c779ef03ee864c534eb598a80bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838891,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838891,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125838891,
+    "wof:lastmodified":1549929750,
+    "wof:name":"Ni\u015ff Jubayl",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":390,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21801,
+    32.28359,
+    35.21801,
+    32.28359
+],
+  "geometry": {"coordinates":[35.21801,32.28359],"type":"Point"}
+}

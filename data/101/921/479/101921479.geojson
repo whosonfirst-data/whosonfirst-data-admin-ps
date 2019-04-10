@@ -1,0 +1,108 @@
+{
+  "id": 101921479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":134579.403166,
+    "geom:bbox":"35.228313446,32.1833114624,35.2356452942,32.1866493225",
+    "geom:latitude":32.184688,
+    "geom:longitude":35.231455,
+    "gn:population":1735,
+    "iso:country":"PS",
+    "lbl:latitude":32.185106,
+    "lbl:longitude":35.230288,
+    "mps:latitude":32.185106,
+    "mps:longitude":35.230288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062f\u0645\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Madama"
+    ],
+    "name:fin_x_preferred":[
+        "Madama"
+    ],
+    "name:fra_x_preferred":[
+        "Madama"
+    ],
+    "name:unk_x_variant":[
+        "M\u0101dam\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Madama",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":383,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282980,
+        "gp:id":1937300,
+        "qs:id":547026
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9d1b664c9c0ce30474a7d00b7852e7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921479,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921479,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921479,
+    "wof:lastmodified":1549929818,
+    "wof:name":"Madama",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":1735,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22831344604492,
+    32.18331146240234,
+    35.23564529418945,
+    32.18664932250977
+],
+  "geometry": {"coordinates":[[[35.22831344604492,32.1841926574707],[35.22831344604492,32.18568420410156],[35.22986221313477,32.18664932250977],[35.23089599609375,32.18621063232422],[35.23192596435547,32.18550872802734],[35.23141098022461,32.18445587158203],[35.23234176635742,32.183837890625],[35.23326873779297,32.18524551391602],[35.23440551757812,32.18533325195312],[35.23492050170898,32.18445205688477],[35.23564529418945,32.18348693847656],[35.23430252075195,32.18331146240234],[35.23141098022461,32.18348693847656],[35.22831344604492,32.1841926574707]]],"type":"Polygon"}
+}

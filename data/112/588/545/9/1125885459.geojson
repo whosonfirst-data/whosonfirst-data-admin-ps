@@ -1,0 +1,98 @@
+{
+  "id": 1125885459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98054,31.4764,34.98054,31.4764",
+    "geom:latitude":31.4764,
+    "geom:longitude":34.98054,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":212,
+    "gn:population":212,
+    "iso:country":"PS",
+    "lbl:latitude":31.4764,
+    "lbl:longitude":34.98054,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u062d \u0627\u0644\u0628\u0642\u0627\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Mar\u0101\u1e29 al Baqq\u0101r"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7891141,
+    "qs_pg:gn_pop":212,
+    "qs_pg:name":"Mar\u0101\u1e29 al Baqq\u0101r",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":744073,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891141,
+        "qs_pg:id":744073
+    },
+    "wof:country":"PS",
+    "wof:created":1497295056,
+    "wof:geomhash":"fbf895d8f99ec31108ece3622cfa1e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125885459,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125885459,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125885459,
+    "wof:lastmodified":1549929767,
+    "wof:name":"Mar\u0101\u1e29 al Baqq\u0101r",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98054,
+    31.4764,
+    34.98054,
+    31.4764
+],
+  "geometry": {"coordinates":[34.98054,31.4764],"type":"Point"}
+}

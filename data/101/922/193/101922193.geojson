@@ -1,0 +1,73 @@
+{
+  "id": 101922193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2336.361694,
+    "geom:bbox":"35.234664917,31.7930164337,35.2353744507,31.7937011719",
+    "geom:latitude":31.793454,
+    "geom:longitude":35.234899,
+    "iso:country":"PS",
+    "lbl:latitude":31.793491,
+    "lbl:longitude":35.234872,
+    "mps:latitude":31.793491,
+    "mps:longitude":35.234872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jerusalem (Al Quds)",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PS",
+    "wof:geomhash":"a206b371abc89948c31bf50e61f7cbc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922193,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922193,
+    "wof:lastmodified":1549931404,
+    "wof:name":"Jerusalem (Al Quds)",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891589
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23466491699219,
+    31.79301643371582,
+    35.23537445068359,
+    31.793701171875
+],
+  "geometry": {"coordinates":[[[35.23537445068359,31.79361915588379],[35.23512649536133,31.79351997375488],[35.2347412109375,31.79301643371582],[35.23466491699219,31.79316139221191],[35.23468017578125,31.79350852966309],[35.23474502563477,31.793701171875],[35.23518371582031,31.79368782043457],[35.23537445068359,31.79361915588379]]],"type":"Polygon"}
+}

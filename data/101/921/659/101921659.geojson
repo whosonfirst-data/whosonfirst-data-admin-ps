@@ -1,0 +1,111 @@
+{
+  "id": 101921659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":47373.577572,
+    "geom:bbox":"35.2627372742,32.0984840393,35.2684211731,32.1000976562",
+    "geom:latitude":32.099255,
+    "geom:longitude":35.26583,
+    "gn:population":2897,
+    "iso:country":"PS",
+    "lbl:latitude":32.099502,
+    "lbl:longitude":35.267058,
+    "mps:latitude":32.099502,
+    "mps:longitude":35.267058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u064a\u062a\u0645\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Yatma"
+    ],
+    "name:dut_x_preferred":[
+        "Yatma"
+    ],
+    "name:eng_x_preferred":[
+        "Yatma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05ea\u05de\u05d0"
+    ],
+    "name:unk_x_variant":[
+        "Yatm\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Yatma",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281293,
+        "gp:id":56123322,
+        "wd:id":"Q8050256",
+        "wk:page":"Yatma"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8c9941537c0b4396d0c4c1d669d3405e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921659,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921659,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921659,
+    "wof:lastmodified":1549929835,
+    "wof:name":"Yatma",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2897,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26273727416992,
+    32.09848403930664,
+    35.2684211730957,
+    32.10009765625
+],
+  "geometry": {"coordinates":[[[35.26273727416992,32.09860229492188],[35.26422500610352,32.09963607788086],[35.26551055908203,32.09952163696289],[35.26706695556641,32.10009765625],[35.2684211730957,32.09975051879883],[35.2679443359375,32.09882736206055],[35.26605224609375,32.09900283813477],[35.26381683349609,32.09848403930664],[35.26273727416992,32.09860229492188]]],"type":"Polygon"}
+}

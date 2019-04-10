@@ -1,0 +1,95 @@
+{
+  "id": 101921353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000004,
+    "geom:area_square_m":45348.216062,
+    "geom:bbox":"35.3900604248,32.242515564,35.3932571411,32.2449989319",
+    "geom:latitude":32.243941,
+    "geom:longitude":35.391612,
+    "gn:population":1568,
+    "iso:country":"PS",
+    "lbl:latitude":32.243928,
+    "lbl:longitude":35.391636,
+    "mps:latitude":32.243928,
+    "mps:longitude":35.391636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:cat_x_preferred":[
+        "An-Nassariya"
+    ],
+    "name:dut_x_preferred":[
+        "An-Nassariya"
+    ],
+    "name:eng_x_preferred":[
+        "An-Nassariya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Nassariya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283155,
+        "gp:id":1937300,
+        "qs:id":79905,
+        "wd:id":"Q4749678"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9d52b5afe4aa854fdeffd8c776ee1cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "empire_id":136253049,
+            "locality_id":101921353,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921353,
+    "wof:lastmodified":1534985972,
+    "wof:name":"An Nassariya",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":1568,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613341
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39006042480469,
+    32.24251556396484,
+    35.39325714111328,
+    32.24499893188477
+],
+  "geometry": {"coordinates":[[[35.39325714111328,32.2449951171875],[35.39243316650391,32.24352264404297],[35.39133453369141,32.24251556396484],[35.39006042480469,32.24360275268555],[35.39070129394531,32.24445724487305],[35.39179611206055,32.24499893188477],[35.39325714111328,32.2449951171875]]],"type":"Polygon"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209551569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11667,31.86667,35.11667,31.86667",
+    "geom:latitude":31.86667,
+    "geom:longitude":35.11667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Bet Horon",
+    "gn:country_code":"PS",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":284275,
+    "gn:latitude":31.86667,
+    "gn:longitude":35.11667,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Bet H\u0331oron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284275
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0b94049518896b8c171bc3cba904252e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209551569,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209551569,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209551569,
+    "wof:lastmodified":1549929913,
+    "wof:name":"Bet Horon",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11667,
+    31.86667000000001,
+    35.11667,
+    31.86667000000001
+],
+  "geometry": {"coordinates":[35.11667,31.86667000000001],"type":"Point"}
+}

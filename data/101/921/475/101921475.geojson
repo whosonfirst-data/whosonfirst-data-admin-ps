@@ -1,0 +1,115 @@
+{
+  "id": 101921475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":925989.363453,
+    "geom:bbox":"35.2850990295,32.1854171753,35.2980651855,32.2003173828",
+    "geom:latitude":32.192348,
+    "geom:longitude":35.29272,
+    "gn:population":3805,
+    "iso:country":"PS",
+    "lbl:latitude":32.191395,
+    "lbl:longitude":35.292278,
+    "mps:latitude":32.191395,
+    "mps:longitude":35.292278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u062c\u064a\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Rujeib"
+    ],
+    "name:dut_x_preferred":[
+        "Rujeib"
+    ],
+    "name:eng_x_preferred":[
+        "Rujeib"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d2'\u05d9\u05d9\u05d1"
+    ],
+    "name:unk_x_variant":[
+        "R\u016bjayb"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rujeib",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.190761,
+    "wd:longitude":35.292753,
+    "wd:wordcount":416,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282140,
+        "gp:id":1936742,
+        "qs:id":123926,
+        "wd:id":"Q7378828",
+        "wk:page":"Rujeib"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"67d6175bf0f46f7d26f3b6c6c2ddb481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921475,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921475,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921475,
+    "wof:lastmodified":1549929819,
+    "wof:name":"Rujeib",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":3805,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28509902954102,
+    32.18541717529297,
+    35.29806518554688,
+    32.2003173828125
+],
+  "geometry": {"coordinates":[[[35.29239654541016,32.18572616577148],[35.29130172729492,32.18541717529297],[35.29039001464844,32.18635177612305],[35.28984069824219,32.18821334838867],[35.28783416748047,32.18836975097656],[35.28509902954102,32.18976974487305],[35.28856658935547,32.1922492980957],[35.28929901123047,32.19380187988281],[35.29094314575195,32.19488525390625],[35.29058074951172,32.19675064086914],[35.29277038574219,32.19643783569336],[35.29404830932617,32.19783401489258],[35.29441452026367,32.19907760620117],[35.29642486572266,32.2003173828125],[35.29806518554688,32.19876098632812],[35.29806518554688,32.19736480712891],[35.29660034179688,32.19410705566406],[35.29586791992188,32.19224548339844],[35.29605102539062,32.19007110595703],[35.29495239257812,32.18727874755859],[35.29239654541016,32.18572616577148]]],"type":"Polygon"}
+}

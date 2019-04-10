@@ -1,0 +1,86 @@
+{
+  "id": 101922441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":103890.470996,
+    "geom:bbox":"35.2137908936,31.6846656799,35.2180213928,31.6895942688",
+    "geom:latitude":31.68682,
+    "geom:longitude":35.216059,
+    "iso:country":"PS",
+    "lbl:latitude":31.686655,
+    "lbl:longitude":35.216379,
+    "mps:latitude":31.686655,
+    "mps:longitude":35.216379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wadi Umm Qal'a",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123318
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"cc84b337596fd800200e586075a2e1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922441,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922441,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922441,
+    "wof:lastmodified":1549929820,
+    "wof:name":"Wadi Umm Qal'a",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21379089355469,
+    31.68466567993164,
+    35.21802139282227,
+    31.68959426879883
+],
+  "geometry": {"coordinates":[[[35.21541213989258,31.68705368041992],[35.21559143066406,31.68813133239746],[35.21649169921875,31.68959426879883],[35.21703338623047,31.68889999389648],[35.21802139282227,31.6879768371582],[35.21739196777344,31.68705368041992],[35.21775054931641,31.68635940551758],[35.21685028076172,31.68559074401855],[35.21622085571289,31.68512725830078],[35.21549987792969,31.68535804748535],[35.21514129638672,31.68466567993164],[35.2138786315918,31.68512725830078],[35.21379089355469,31.68612861633301],[35.21496200561523,31.68659019470215],[35.21541213989258,31.68705368041992]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101922841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":1277.099858,
+    "geom:bbox":"35.1283149719,31.4590568542,35.1288490295,31.4597015381",
+    "geom:latitude":31.459371,
+    "geom:longitude":35.128586,
+    "iso:country":"PS",
+    "lbl:latitude":31.459364,
+    "lbl:longitude":35.128584,
+    "mps:latitude":31.459364,
+    "mps:longitude":35.128584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ad Duweir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"668c85a047d1058301e73b7194c9fe6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101922841,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922841,
+    "wof:lastmodified":1534985970,
+    "wof:name":"Ad Duweir",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613287
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12831497192383,
+    31.45905685424805,
+    35.12884902954102,
+    31.45970153808594
+],
+  "geometry": {"coordinates":[[[35.12831497192383,31.45970153808594],[35.12834548950195,31.45970153808594],[35.12884902954102,31.45927047729492],[35.12876510620117,31.45905685424805],[35.12839126586914,31.45941734313965],[35.12831497192383,31.45970153808594]]],"type":"Polygon"}
+}

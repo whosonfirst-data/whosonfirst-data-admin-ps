@@ -1,0 +1,86 @@
+{
+  "id": 101920901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":139527.533844,
+    "geom:bbox":"35.3279953003,32.4512405396,35.3330001831,32.4555969238",
+    "geom:latitude":32.453153,
+    "geom:longitude":35.330993,
+    "iso:country":"PS",
+    "lbl:latitude":32.453066,
+    "lbl:longitude":35.331195,
+    "mps:latitude":32.453066,
+    "mps:longitude":35.331195,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wad ad Dabi'",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3959e0b099f6925b530451f233f68dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920901,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920901,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920901,
+    "wof:lastmodified":1549929863,
+    "wof:name":"Wad ad Dabi'",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32799530029297,
+    32.45124053955078,
+    35.33300018310547,
+    32.45559692382812
+],
+  "geometry": {"coordinates":[[[35.32862091064453,32.45168304443359],[35.32799530029297,32.45230484008789],[35.32966613769531,32.45380401611328],[35.32977294921875,32.45477676391602],[35.33123016357422,32.45468902587891],[35.33207702636719,32.45559692382812],[35.33284378051758,32.45556640625],[35.33279418945312,32.45406723022461],[35.33300018310547,32.45273971557617],[35.33237457275391,32.45124053955078],[35.33028793334961,32.45159530639648],[35.32862091064453,32.45168304443359]]],"type":"Polygon"}
+}

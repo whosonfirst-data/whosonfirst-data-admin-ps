@@ -1,0 +1,95 @@
+{
+  "id": 1125932691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17848,31.71974,35.17848,31.71974",
+    "geom:latitude":31.71974,
+    "geom:longitude":35.17848,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":664,
+    "gn:population":664,
+    "iso:country":"PS",
+    "lbl:latitude":31.71974,
+    "lbl:longitude":35.17848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0639\u0648\u0646\u0629"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7890367,
+    "qs_pg:gn_pop":664,
+    "qs_pg:name":"Bi\u2019r \u2018Awnah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743877,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890367,
+        "qs_pg:id":743877
+    },
+    "wof:country":"PS",
+    "wof:created":1497296861,
+    "wof:geomhash":"0f8a9b6dcc7106c125170de11abcd315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125932691,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125932691,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125932691,
+    "wof:lastmodified":1549929761,
+    "wof:name":"Bi\u2019r \u2018Awnah",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":664,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17848,
+    31.71974,
+    35.17848,
+    31.71974
+],
+  "geometry": {"coordinates":[35.17848,31.71974],"type":"Point"}
+}

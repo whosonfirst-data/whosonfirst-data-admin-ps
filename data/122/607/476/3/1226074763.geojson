@@ -1,0 +1,87 @@
+{
+  "id": 1226074763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46667,31.75,35.46667,31.75",
+    "geom:latitude":31.75,
+    "geom:longitude":35.46667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Almog",
+    "gn:cc2":"PS",
+    "gn:country_code":"PS",
+    "gn:dem":-355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":285027,
+    "gn:latitude":31.75,
+    "gn:longitude":35.46667,
+    "gn:modification_date":"2016-11-04",
+    "gn:name":"Almog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibbutz Kallia",
+        "Almog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285027,
+        "wk:page":"Almog"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"db77b656f23eb58754be4d98f62c9f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226074763,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226074763,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226074763,
+    "wof:lastmodified":1549929889,
+    "wof:name":"Almog",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46667,
+    31.75,
+    35.46667,
+    31.75
+],
+  "geometry": {"coordinates":[35.46667,31.75],"type":"Point"}
+}

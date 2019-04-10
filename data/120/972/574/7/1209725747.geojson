@@ -1,0 +1,87 @@
+{
+  "id": 1209725747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15,31.45,35.15,31.45",
+    "geom:latitude":31.45,
+    "geom:longitude":35.15,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ar Rifa`iya",
+    "gn:country_code":"PS",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892551,
+    "gn:latitude":31.45,
+    "gn:longitude":35.15,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ar Rif\u0101\u2018\u012bya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u0627\u0639\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Rif\u0101\u2018\u012bya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892551
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"857bbadd3184755f965f50cc16cbd682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209725747,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209725747,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209725747,
+    "wof:lastmodified":1549929921,
+    "wof:name":"Ar Rifa`iya",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15,
+    31.45,
+    35.15,
+    31.45
+],
+  "geometry": {"coordinates":[35.15,31.45],"type":"Point"}
+}

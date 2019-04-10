@@ -1,0 +1,93 @@
+{
+  "id": 101920587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000003,
+    "geom:area_square_m":33646.139844,
+    "geom:bbox":"34.2901763916,31.2973213196,34.2930488586,31.2988605499",
+    "geom:latitude":31.298169,
+    "geom:longitude":34.291524,
+    "iso:country":"PS",
+    "lbl:latitude":31.298136,
+    "lbl:longitude":34.291524,
+    "mps:latitude":31.298136,
+    "mps:longitude":34.291524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:cat_x_preferred":[
+        "Umm al-Kilab"
+    ],
+    "name:dut_x_preferred":[
+        "Umm al-Kilab"
+    ],
+    "name:eng_x_preferred":[
+        "Umm al-Kilab"
+    ],
+    "name:nno_x_preferred":[
+        "Umm al-Kilab"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm al Kilab",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        85681213,
+        102191569,
+        85633739,
+        136253049,
+        1091913333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281072,
+        "gp:id":1979609,
+        "wd:id":"Q7881657"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b1457a6a53ccb2f18e1e0505deb8ec6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "empire_id":136253049,
+            "locality_id":101920587,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920587,
+    "wof:lastmodified":1534985967,
+    "wof:name":"Umm al Kilab",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613225
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.29017639160156,
+    31.29732131958008,
+    34.29304885864258,
+    31.29886054992676
+],
+  "geometry": {"coordinates":[[[34.29048156738281,31.29732131958008],[34.29017639160156,31.29871368408203],[34.29304885864258,31.29886054992676],[34.29254531860352,31.29765319824219],[34.29048156738281,31.29732131958008]]],"type":"Polygon"}
+}

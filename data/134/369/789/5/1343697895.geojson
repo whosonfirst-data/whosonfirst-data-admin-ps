@@ -1,0 +1,87 @@
+{
+  "id": 1343697895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0,31.83333,35.0,31.83333",
+    "geom:latitude":31.83333,
+    "geom:longitude":35.0,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"`Imwas",
+    "gn:country_code":"PS",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283607,
+    "gn:latitude":31.83333,
+    "gn:longitude":35.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u2018Imw\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Amw\u0101s",
+        "\u2018Amm\u0101\u014ds",
+        "\u2018Imw\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283607,
+        "wk:page":"Imwas"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1125520c9ee9c57fc63e472a23010fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1343697895,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1343697895,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1343697895,
+    "wof:lastmodified":1549929886,
+    "wof:name":"`Imwas",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    31.83333,
+    35.0,
+    31.83333
+],
+  "geometry": {"coordinates":[35.0,31.83333],"type":"Point"}
+}

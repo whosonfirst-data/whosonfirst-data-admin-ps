@@ -1,0 +1,114 @@
+{
+  "id": 101922411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":297214.639812,
+    "geom:bbox":"35.0995254517,31.7010631561,35.107925415,31.709487915",
+    "geom:latitude":31.706045,
+    "geom:longitude":35.102842,
+    "gn:population":1153,
+    "iso:country":"PS",
+    "lbl:latitude":31.706603,
+    "lbl:longitude":35.102842,
+    "mps:latitude":31.706603,
+    "mps:longitude":35.102842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0641\u0648\u0643\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "W\u0101d\u012b F\u016bk\u012bn"
+    ],
+    "name:dut_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "name:eng_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05d3\u05d9 \u05e4\u05d5\u05db\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wadi Fukin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.706667,
+    "wd:longitude":35.103889,
+    "wd:wordcount":1864,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281356,
+        "qs:id":79865,
+        "wd:id":"Q2896954",
+        "wk:page":"Wadi Fukin"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c36429bcfbe52ebaa3bf69a5586eef76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922411,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922411,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922411,
+    "wof:lastmodified":1549929817,
+    "wof:name":"Wadi Fukin",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":1153,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09952545166016,
+    31.70106315612793,
+    35.10792541503906,
+    31.70948791503906
+],
+  "geometry": {"coordinates":[[[35.10060501098633,31.70450973510742],[35.09952545166016,31.70450782775879],[35.09984588623047,31.70616722106934],[35.10038375854492,31.70755004882812],[35.10167694091797,31.70801162719727],[35.10329055786133,31.70884132385254],[35.10404586791992,31.70884323120117],[35.10501480102539,31.70948791503906],[35.10555648803711,31.70902824401855],[35.10523223876953,31.70810699462891],[35.1043701171875,31.70746040344238],[35.10512542724609,31.70718574523926],[35.10555648803711,31.70847511291504],[35.10728073120117,31.70903015136719],[35.10792541503906,31.70829200744629],[35.10624694824219,31.70711135864258],[35.10581588745117,31.70696449279785],[35.1052131652832,31.70659637451172],[35.10512924194336,31.70585823059082],[35.10409545898438,31.70512008666992],[35.10307693481445,31.70489311218262],[35.10323333740234,31.70357131958008],[35.10219955444336,31.70224380493164],[35.10099411010742,31.70216941833496],[35.09970092773438,31.70106315612793],[35.09970092773438,31.70216941833496],[35.10038757324219,31.70305442810059],[35.10159683227539,31.70393943786621],[35.10060501098633,31.70450973510742]]],"type":"Polygon"}
+}

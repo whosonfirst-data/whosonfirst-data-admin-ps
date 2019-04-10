@@ -1,0 +1,111 @@
+{
+  "id": 101922717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7.475071,
+    "geom:bbox":"35.0483131409,31.5529556274,35.0483779907,31.5529842377",
+    "geom:latitude":31.552975,
+    "geom:longitude":35.048351,
+    "gn:population":9480,
+    "iso:country":"PS",
+    "lbl:latitude":31.553428,
+    "lbl:longitude":35.048854,
+    "mps:latitude":31.553428,
+    "mps:longitude":35.048854,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0641\u0648\u062d"
+    ],
+    "name:dut_x_preferred":[
+        "Taffuh"
+    ],
+    "name:eng_x_preferred":[
+        "Taffuh"
+    ],
+    "name:nno_x_preferred":[
+        "Taffuh"
+    ],
+    "name:pol_x_preferred":[
+        "Taffuh"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Taffuh",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.539189,
+    "wd:longitude":35.053083,
+    "wd:wordcount":793,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281690,
+        "gp:id":1937307,
+        "wd:id":"Q7674962",
+        "wk:page":"Taffuh"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6ebdc659e9825afdd723f8d529117e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922717,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922717,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922717,
+    "wof:lastmodified":1549929843,
+    "wof:name":"Taffuh",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":9480,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04831314086914,
+    31.55295562744141,
+    35.04837799072266,
+    31.5529842376709
+],
+  "geometry": {"coordinates":[[[35.04831314086914,31.5529842376709],[35.04836273193359,31.5529842376709],[35.04837799072266,31.55295562744141],[35.04831314086914,31.5529842376709]]],"type":"Polygon"}
+}

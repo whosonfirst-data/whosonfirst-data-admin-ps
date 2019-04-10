@@ -1,0 +1,101 @@
+{
+  "id": 1125822491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1957,31.42544,35.1957,31.42544",
+    "geom:latitude":31.42544,
+    "geom:longitude":35.1957,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":508,
+    "gn:population":508,
+    "iso:country":"PS",
+    "lbl:latitude":31.42544,
+    "lbl:longitude":35.1957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u062e\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0642\u064a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Al Faq\u012br"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7891508,
+    "qs_pg:gn_pop":508,
+    "qs_pg:name":"Umm al Khayr",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":744090,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891508,
+        "qs_pg:id":744090
+    },
+    "wof:country":"PS",
+    "wof:created":1497292132,
+    "wof:geomhash":"fffba60301d00ea3821ef2cbad82aa1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125822491,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125822491,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125822491,
+    "wof:lastmodified":1549929719,
+    "wof:name":"Umm al Khayr",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":508,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1957,
+    31.42544,
+    35.1957,
+    31.42544
+],
+  "geometry": {"coordinates":[35.1957,31.42544],"type":"Point"}
+}

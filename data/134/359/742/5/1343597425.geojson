@@ -1,0 +1,86 @@
+{
+  "id": 1343597425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48333,32.1,35.48333,32.1",
+    "geom:latitude":32.1,
+    "geom:longitude":35.48333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Massu'a",
+    "gn:country_code":"PS",
+    "gn:dem":-43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282820,
+    "gn:latitude":32.1,
+    "gn:longitude":35.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Massu\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Massau",
+        "Massu\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282820,
+        "wk:page":"Masua"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fa69e0733fdc3b83aa031f321b47c419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1343597425,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1343597425,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1343597425,
+    "wof:lastmodified":1549929771,
+    "wof:name":"Massu'a",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48333,
+    32.1,
+    35.48333,
+    32.1
+],
+  "geometry": {"coordinates":[35.48333,32.1],"type":"Point"}
+}

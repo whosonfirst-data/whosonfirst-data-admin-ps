@@ -1,0 +1,118 @@
+{
+  "id": 101922569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":418513.313444,
+    "geom:bbox":"35.1599960327,31.631067276,35.1745185852,31.635974884",
+    "geom:latitude":31.633511,
+    "geom:longitude":35.16786,
+    "gn:population":10579,
+    "iso:country":"PS",
+    "lbl:latitude":31.632942,
+    "lbl:longitude":35.168466,
+    "mps:latitude":31.632942,
+    "mps:longitude":35.168466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0641\u062c\u0627\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Fajjar"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Fajjar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e4\u05d2'\u05d0\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Fajjar"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Fad\u017cd\u017car"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Fajjar"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Fajjar",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.624731,
+    "wd:longitude":35.155608,
+    "wd:wordcount":1080,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284341,
+        "gp:id":1936768,
+        "qs:id":123988,
+        "wd:id":"Q4881435",
+        "wk:page":"Beit Fajjar"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"79d499751265a91792fa7693d8e948ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922569,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922569,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922569,
+    "wof:lastmodified":1549929826,
+    "wof:name":"Beit Fajjar",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":10579,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15999603271484,
+    31.63106727600098,
+    35.17451858520508,
+    31.6359748840332
+],
+  "geometry": {"coordinates":[[[35.17387008666992,31.6359748840332],[35.17451858520508,31.63525009155273],[35.17380523681641,31.63458251953125],[35.17374038696289,31.63357925415039],[35.17374038696289,31.63302040100098],[35.1722412109375,31.63279724121094],[35.17172241210938,31.63207244873047],[35.17054748535156,31.63251876831055],[35.16950607299805,31.63157081604004],[35.16865921020508,31.63117980957031],[35.16722869873047,31.63140296936035],[35.16481781005859,31.63106727600098],[35.16390609741211,31.63151359558105],[35.16247177124023,31.63234901428223],[35.16149520874023,31.63374137878418],[35.15999603271484,31.63424301147461],[35.16123199462891,31.63524627685547],[35.16194915771484,31.63496780395508],[35.16279602050781,31.63418769836426],[35.16253662109375,31.63335227966309],[35.16318893432617,31.63379859924316],[35.16403579711914,31.63430023193359],[35.16553115844727,31.63430023193359],[35.16553115844727,31.63463401794434],[35.1666374206543,31.63591766357422],[35.16735458374023,31.6351375579834],[35.16755294799805,31.63441276550293],[35.16911315917969,31.63485908508301],[35.17041778564453,31.63569450378418],[35.17080688476562,31.63497161865234],[35.17171859741211,31.63586235046387],[35.17387008666992,31.6359748840332]]],"type":"Polygon"}
+}

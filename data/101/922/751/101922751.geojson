@@ -1,0 +1,93 @@
+{
+  "id": 101922751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":43441.940144,
+    "geom:bbox":"35.1847381592,31.5419483185,35.1877975464,31.5444869995",
+    "geom:latitude":31.543388,
+    "geom:longitude":35.185952,
+    "iso:country":"PS",
+    "lbl:latitude":31.54364,
+    "lbl:longitude":35.18572,
+    "mps:latitude":31.54364,
+    "mps:longitude":35.18572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0627\u0646 \u0627\u0644\u0646\u0645\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Qin\u0101n an Nimir"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Qinan an Namir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891880,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1d6d749a03996921a5fe60201c138633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922751,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922751,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922751,
+    "wof:lastmodified":1549929848,
+    "wof:name":"Qinan an Namir",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18473815917969,
+    31.54194831848145,
+    35.18779754638672,
+    31.54448699951172
+],
+  "geometry": {"coordinates":[[[35.18473815917969,31.54374885559082],[35.18550109863281,31.54448699951172],[35.18617248535156,31.54448699951172],[35.18693542480469,31.54399490356445],[35.1875114440918,31.54342269897461],[35.18779754638672,31.54301261901855],[35.18741607666016,31.54268646240234],[35.18703079223633,31.54301261901855],[35.18636322021484,31.54325866699219],[35.18598175048828,31.54284858703613],[35.18559646606445,31.54194831848145],[35.18502426147461,31.54219436645508],[35.18483352661133,31.54268455505371],[35.18473815917969,31.54374885559082]]],"type":"Polygon"}
+}

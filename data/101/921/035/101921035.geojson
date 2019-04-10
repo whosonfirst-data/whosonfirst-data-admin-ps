@@ -1,0 +1,109 @@
+{
+  "id": 101921035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":129036.783227,
+    "geom:bbox":"35.2203369141,32.3915290833,35.2265777588,32.394744873",
+    "geom:latitude":32.392904,
+    "geom:longitude":35.223588,
+    "gn:population":171,
+    "iso:country":"PS",
+    "lbl:latitude":32.392926,
+    "lbl:longitude":35.223841,
+    "mps:latitude":32.392926,
+    "mps:longitude":35.223841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Mansura"
+    ],
+    "name:pol_x_preferred":[
+        "Mansura"
+    ],
+    "name:unk_x_variant":[
+        "Al Man\u015f\u016brah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Mansura",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895297,
+        "gp:id":56123308,
+        "qs:id":744194,
+        "wd:id":"Q1163244"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1dad62e2aba38b8dd6bb03ac06cb34fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921035,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921035,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921035,
+    "wof:lastmodified":1549929780,
+    "wof:name":"Al Mansura",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2203369140625,
+    32.39152908325195,
+    35.22657775878906,
+    32.39474487304688
+],
+  "geometry": {"coordinates":[[[35.22045135498047,32.39276123046875],[35.2203369140625,32.39285278320312],[35.22056198120117,32.393798828125],[35.22189712524414,32.393798828125],[35.2227897644043,32.39389419555664],[35.22334671020508,32.39474487304688],[35.22434997558594,32.39436721801758],[35.22501754760742,32.39370346069336],[35.22657775878906,32.39313888549805],[35.22635650634766,32.39247512817383],[35.22624588012695,32.39190673828125],[35.22613143920898,32.39152908325195],[35.22401428222656,32.39162445068359],[35.22201156616211,32.39191055297852],[35.22045135498047,32.39276123046875]]],"type":"Polygon"}
+}

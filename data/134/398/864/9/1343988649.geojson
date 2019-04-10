@@ -1,0 +1,72 @@
+{
+  "id": 1343988649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.23333,31.28333,34.23333,31.28333",
+    "geom:latitude":31.28333,
+    "geom:longitude":34.23333,
+    "gn:admin1_code":"GZ",
+    "gn:admin2_code":"7870260",
+    "gn:asciiname":"Rafiah Yam",
+    "gn:country_code":"PS",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":281098,
+    "gn:latitude":31.28333,
+    "gn:longitude":34.23333,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Rafia\u1e96 Yam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rafia\u1e96 Yam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092023763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281098,
+        "wk:page":"Rafiah_Yam"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ebfe276d4109b4bba27ac2dcb5d75773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023763,
+            "locality_id":1343988649,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1343988649,
+    "wof:lastmodified":1537683122,
+    "wof:name":"Rafiah Yam",
+    "wof:parent_id":1092023763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.23333,
+    31.28333,
+    34.23333,
+    31.28333
+],
+  "geometry": {"coordinates":[34.23333,31.28333],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 101920861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":104118.895639,
+    "geom:bbox":"35.2105712891,32.4618492126,35.2157249451,32.4674606323",
+    "geom:latitude":32.464312,
+    "geom:longitude":35.213313,
+    "gn:population":2135,
+    "iso:country":"PS",
+    "lbl:latitude":32.464453,
+    "lbl:longitude":35.213274,
+    "mps:latitude":32.464453,
+    "mps:longitude":35.213274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u0642\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Araqah"
+    ],
+    "name:dut_x_preferred":[
+        "Araqah"
+    ],
+    "name:eng_x_preferred":[
+        "Araqah"
+    ],
+    "name:nno_x_preferred":[
+        "Araqah"
+    ],
+    "name:unk_x_variant":[
+        "El \u2018Araqa"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al 'Araqa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284904,
+        "gp:id":1937299,
+        "wd:id":"Q15186360",
+        "wk:page":"Araqah"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"42b1c1a1965dabb89b115509aa8dc78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920861,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920861,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920861,
+    "wof:lastmodified":1549929859,
+    "wof:name":"Al 'Araqa",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":2135,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2105712890625,
+    32.46184921264648,
+    35.21572494506836,
+    32.46746063232422
+],
+  "geometry": {"coordinates":[[[35.2105712890625,32.46416854858398],[35.21152496337891,32.465087890625],[35.21298980712891,32.46541213989258],[35.21228790283203,32.46605682373047],[35.21171569824219,32.46675872802734],[35.21158981323242,32.4674072265625],[35.21228790283203,32.46746063232422],[35.21235275268555,32.46654510498047],[35.21318054199219,32.46600341796875],[35.21375274658203,32.46557235717773],[35.21438980102539,32.46487045288086],[35.21445465087891,32.46400833129883],[35.21470642089844,32.46454620361328],[35.21528244018555,32.46400833129883],[35.2153434753418,32.46330642700195],[35.21553421020508,32.46260452270508],[35.21572494506836,32.46212005615234],[35.21509170532227,32.46184921264648],[35.21419906616211,32.46260452270508],[35.21375274658203,32.46330642700195],[35.21318054199219,32.46346664428711],[35.21311569213867,32.46325302124023],[35.21190643310547,32.46363067626953],[35.21108245849609,32.46395492553711],[35.2105712890625,32.46416854858398]]],"type":"Polygon"}
+}

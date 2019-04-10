@@ -1,0 +1,98 @@
+{
+  "id": 1125838853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04976,31.97327,35.04976,31.97327",
+    "geom:latitude":31.97327,
+    "geom:longitude":35.04976,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":833,
+    "gn:population":833,
+    "iso:country":"PS",
+    "lbl:latitude":31.97327,
+    "lbl:longitude":35.04976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u062a\u064a\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Shebtin"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281951,
+    "qs_pg:gn_pop":833,
+    "qs_pg:name":"Shabt\u012bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":79880,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281951,
+        "qs_pg:id":79880
+    },
+    "wof:country":"PS",
+    "wof:created":1497292841,
+    "wof:geomhash":"ce7c83b1e22187c406a15b59744fa846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838853,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125838853,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125838853,
+    "wof:lastmodified":1549929751,
+    "wof:name":"Shabt\u012bn",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":833,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04976,
+    31.97327,
+    35.04976,
+    31.97327
+],
+  "geometry": {"coordinates":[35.04976,31.97327],"type":"Point"}
+}

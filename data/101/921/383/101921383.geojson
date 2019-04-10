@@ -1,0 +1,106 @@
+{
+  "id": 101921383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000026,
+    "geom:area_square_m":275932.083996,
+    "geom:bbox":"35.2048492432,32.2333717346,35.2141799927,32.2397384644",
+    "geom:latitude":32.236764,
+    "geom:longitude":35.209334,
+    "gn:population":3175,
+    "iso:country":"PS",
+    "lbl:latitude":32.235623,
+    "lbl:longitude":35.209405,
+    "mps:latitude":32.235623,
+    "mps:longitude":35.209405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0625\u064a\u0628\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Iba"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Iba"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Iba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d0\u05d9\u05d1\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Iba"
+    ],
+    "name:unk_x_variant":[
+        "Beit \u012aba"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Iba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284334,
+        "gp:id":1937300,
+        "wd:id":"Q2896649",
+        "wk:page":"Beit Iba"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"01bced86a236898f7f688372dd8e90e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "empire_id":136253049,
+            "locality_id":101921383,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921383,
+    "wof:lastmodified":1534985973,
+    "wof:name":"Beit Iba",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":3175,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613349
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20484924316406,
+    32.23337173461914,
+    35.21417999267578,
+    32.23973846435547
+],
+  "geometry": {"coordinates":[[[35.20718002319336,32.23493957519531],[35.20693588256836,32.23619079589844],[35.20619964599609,32.237548828125],[35.20484924316406,32.23848724365234],[35.20595169067383,32.23973846435547],[35.20718002319336,32.23973846435547],[35.20742797851562,32.23817443847656],[35.20877838134766,32.237548828125],[35.21000671386719,32.23796463012695],[35.21086502075195,32.23869705200195],[35.21319961547852,32.23911285400391],[35.21417999267578,32.23838424682617],[35.21332168579102,32.23765182495117],[35.21123504638672,32.23640060424805],[35.21160125732422,32.23462295532227],[35.20963668823242,32.23337173461914],[35.20791625976562,32.23420715332031],[35.20718002319336,32.23493957519531]]],"type":"Polygon"}
+}

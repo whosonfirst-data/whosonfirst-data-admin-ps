@@ -1,0 +1,77 @@
+{
+  "id": 101922285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5324.031912,
+    "geom:bbox":"35.2337379456,31.740858078,35.2354393005,31.7414741516",
+    "geom:latitude":31.741221,
+    "geom:longitude":35.234568,
+    "iso:country":"PS",
+    "lbl:latitude":31.741292,
+    "lbl:longitude":35.234931,
+    "mps:latitude":31.741292,
+    "mps:longitude":35.234931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sur Bahir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1442,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281717,
+        "wd:id":"Q2916287"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0cd998ef0413b3999e4c3b1dd8cfc3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922285,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922285,
+    "wof:lastmodified":1549931428,
+    "wof:name":"Sur Bahir",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891647
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23373794555664,
+    31.74085807800293,
+    35.23543930053711,
+    31.74147415161133
+],
+  "geometry": {"coordinates":[[[35.23420333862305,31.74085807800293],[35.23373794555664,31.74094581604004],[35.2337760925293,31.74114418029785],[35.23394393920898,31.74127578735352],[35.23429489135742,31.74134254455566],[35.2344856262207,31.74147415161133],[35.23469161987305,31.74141883850098],[35.23513031005859,31.74147415161133],[35.23543930053711,31.74144172668457],[35.23527145385742,31.7410774230957],[35.23435592651367,31.74123191833496],[35.23420333862305,31.74085807800293]]],"type":"Polygon"}
+}

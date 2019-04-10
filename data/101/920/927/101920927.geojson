@@ -1,0 +1,86 @@
+{
+  "id": 101920927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":75350.836236,
+    "geom:bbox":"35.3060874939,32.4427833557,35.3097648621,32.4457435608",
+    "geom:latitude":32.444261,
+    "geom:longitude":35.307886,
+    "iso:country":"PS",
+    "lbl:latitude":32.444321,
+    "lbl:longitude":35.307886,
+    "mps:latitude":32.444321,
+    "mps:longitude":35.307886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Arab as Suweitat",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0a3add2585d4d91eaffccebc82d80933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920927,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920927,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920927,
+    "wof:lastmodified":1549929874,
+    "wof:name":"'Arab as Suweitat",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.30608749389648,
+    32.44278335571289,
+    35.30976486206055,
+    32.44574356079102
+],
+  "geometry": {"coordinates":[[[35.30608749389648,32.44371795654297],[35.30719375610352,32.44574356079102],[35.30792617797852,32.44574356079102],[35.30939865112305,32.44511795043945],[35.30976486206055,32.44402694702148],[35.30810928344727,32.44293594360352],[35.30718994140625,32.44278335571289],[35.30663681030273,32.44309616088867],[35.30608749389648,32.44371795654297]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101920825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000007,
+    "geom:area_square_m":76493.608255,
+    "geom:bbox":"35.0972480774,32.4720535278,35.1014709473,32.4753723145",
+    "geom:latitude":32.473418,
+    "geom:longitude":35.099853,
+    "iso:country":"PS",
+    "lbl:latitude":32.47334,
+    "lbl:longitude":35.100525,
+    "mps:latitude":32.47334,
+    "mps:longitude":35.100525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Barta'a ash Sharqiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"107b8808cc8471cb99c629ef100de4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101920825,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920825,
+    "wof:lastmodified":1534985973,
+    "wof:name":"Barta'a ash Sharqiya",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613347
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09724807739258,
+    32.47205352783203,
+    35.10147094726562,
+    32.47537231445312
+],
+  "geometry": {"coordinates":[[[35.10147094726562,32.47223281860352],[35.10033798217773,32.47245025634766],[35.09822845458984,32.47205352783203],[35.09724807739258,32.47309875488281],[35.09863662719727,32.47380065917969],[35.09894561767578,32.47288513183594],[35.09966659545898,32.47367095947266],[35.09956359863281,32.47537231445312],[35.10141754150391,32.4747200012207],[35.10147094726562,32.47223281860352]]],"type":"Polygon"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 101922353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17184.455769,
+    "geom:bbox":"35.3098258972,31.7186336517,35.3119621277,31.720407486",
+    "geom:latitude":31.719425,
+    "geom:longitude":35.310971,
+    "iso:country":"PS",
+    "lbl:latitude":31.71917,
+    "lbl:longitude":35.311132,
+    "mps:latitude":31.71917,
+    "mps:longitude":35.311132,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0628\u064a\u062f\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Ubeidiya"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Ubeidiya"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Ubeidiya"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Ubajdijja"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Ubeidiya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al 'Ubeidiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.723278,
+    "wd:longitude":35.290572,
+    "wd:wordcount":994,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q4703304"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"63a68f373c718149ba65d26097ce4830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922353,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922353,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922353,
+    "wof:lastmodified":1549929808,
+    "wof:name":"Al 'Ubeidiya",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3098258972168,
+    31.7186336517334,
+    35.31196212768555,
+    31.72040748596191
+],
+  "geometry": {"coordinates":[[[35.31076049804688,31.72040748596191],[35.31099700927734,31.71982002258301],[35.31108856201172,31.71961975097656],[35.31132125854492,31.71955299377441],[35.31171417236328,31.71948623657227],[35.31185531616211,31.71945953369141],[35.31187057495117,31.71931266784668],[35.31194686889648,31.71917915344238],[35.31196212768555,31.7190055847168],[35.31188583374023,31.71880531311035],[35.31171417236328,31.71881866455078],[35.31155776977539,31.71888542175293],[35.31113433837891,31.7186336517334],[35.31066513061523,31.71879386901855],[35.31051254272461,31.71894073486328],[35.31069946289062,31.71914100646973],[35.31064987182617,31.7193546295166],[35.31040191650391,31.71942138671875],[35.31024551391602,31.71963500976562],[35.3098258972168,31.71979522705078],[35.30993270874023,31.71990203857422],[35.31027603149414,31.71987533569336],[35.31027603149414,31.72000885009766],[35.31029510498047,31.72023391723633],[35.31057357788086,31.7203540802002],[35.31076049804688,31.72040748596191]]],"type":"Polygon"}
+}

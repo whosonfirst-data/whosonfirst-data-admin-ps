@@ -1,0 +1,91 @@
+{
+  "id": 101920691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11076.984575,
+    "geom:bbox":"34.2827911377,31.2695789337,34.2842178345,31.271894455",
+    "geom:latitude":31.270706,
+    "geom:longitude":34.283507,
+    "geonames:id":"350350,6968060,281102",
+    "iso:country":"PS",
+    "lbl:latitude":31.270706,
+    "lbl:longitude":34.283495,
+    "mps:latitude":31.270706,
+    "mps:longitude":34.283495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rafah",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.288611,
+    "wd:longitude":34.251944,
+    "wd:wordcount":2930,
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913365,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979609,
+        "wd:id":"Q172343"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"bb1091a20405f465a1aa654428fc69ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920691,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913365,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":101920691,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920691,
+    "wof:lastmodified":1549928927,
+    "wof:name":"Rafah",
+    "wof:parent_id":1091913365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.28279113769531,
+    31.26957893371582,
+    34.28421783447266,
+    31.27189445495605
+],
+  "geometry": {"coordinates":[[[34.28377532958984,31.26957893371582],[34.28323745727539,31.27072906494141],[34.28279113769531,31.27189445495605],[34.28312301635742,31.27182579040527],[34.283203125,31.27183532714844],[34.28366470336914,31.2708854675293],[34.28421783447266,31.26975440979004],[34.28377532958984,31.26957893371582]]],"type":"Polygon"}
+}

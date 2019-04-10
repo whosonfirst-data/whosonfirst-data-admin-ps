@@ -1,0 +1,87 @@
+{
+  "id": 1226157745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23828,31.66927,35.23828,31.66927",
+    "geom:latitude":31.66927,
+    "geom:longitude":35.23828,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Al Furaydis",
+    "gn:country_code":"PS",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890695,
+    "gn:latitude":31.66927,
+    "gn:longitude":35.23828,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Furayd\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u064a\u062f\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Al Furayd\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890695
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2ccfb0ece17e632925e5f7e4657da27f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226157745,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226157745,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226157745,
+    "wof:lastmodified":1549929891,
+    "wof:name":"Al Furaydis",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23828,
+    31.66927,
+    35.23828,
+    31.66927
+],
+  "geometry": {"coordinates":[35.23828,31.66927],"type":"Point"}
+}

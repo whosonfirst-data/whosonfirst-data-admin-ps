@@ -1,0 +1,94 @@
+{
+  "id": 101922625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000002,
+    "geom:area_square_m":24408.141233,
+    "geom:bbox":"35.0186805725,31.6099967957,35.0205764771,31.6120166779",
+    "geom:latitude":31.61104,
+    "geom:longitude":35.019615,
+    "gn:population":4328,
+    "iso:country":"PS",
+    "lbl:latitude":31.611054,
+    "lbl:longitude":35.019539,
+    "mps:latitude":31.611054,
+    "mps:longitude":35.019539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0628\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Nuba"
+    ],
+    "name:nno_x_preferred":[
+        "Nuba i Hebron"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nuba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282510,
+        "gp:id":56123330,
+        "qs:id":542424,
+        "wd:id":"Q7067821"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2e87680d13b2080fd9a2e3e8ef4be829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101922625,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922625,
+    "wof:lastmodified":1534985976,
+    "wof:name":"Nuba",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":4328,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613431
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01868057250977,
+    31.6099967956543,
+    35.02057647705078,
+    31.61201667785645
+],
+  "geometry": {"coordinates":[[[35.01868057250977,31.6103687286377],[35.01888656616211,31.61104965209961],[35.01908874511719,31.61148834228516],[35.01948547363281,31.61184120178223],[35.01971817016602,31.6119499206543],[35.01988220214844,31.61199569702148],[35.02009963989258,31.61201667785645],[35.02034378051758,31.61192893981934],[35.02057647705078,31.6116886138916],[35.02057647705078,31.61151313781738],[35.02051162719727,31.61138153076172],[35.02037048339844,31.6112060546875],[35.0201416015625,31.61091995239258],[35.01998901367188,31.61066627502441],[35.01995086669922,31.61050224304199],[35.01990127563477,31.61022758483887],[35.01972198486328,31.6099967956543],[35.01943969726562,31.61004066467285],[35.0190544128418,31.61017227172852],[35.01868057250977,31.6103687286377]]],"type":"Polygon"}
+}

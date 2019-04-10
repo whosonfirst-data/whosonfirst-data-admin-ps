@@ -1,0 +1,105 @@
+{
+  "id": 101921165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":177139.183821,
+    "geom:bbox":"35.4710502625,32.3263626099,35.4796485901,32.3308143616",
+    "geom:latitude":32.328604,
+    "geom:longitude":35.474996,
+    "gn:population":364,
+    "iso:country":"PS",
+    "lbl:latitude":32.327988,
+    "lbl:longitude":35.474931,
+    "mps:latitude":32.327988,
+    "mps:longitude":35.474931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0627\u0644\u062d\u0629"
+    ],
+    "name:ara_x_variant":[
+        "Al M\u0101li\u1e29",
+        "\u0627\u0644\u0645\u0627\u0644\u062d"
+    ],
+    "name:unk_x_variant":[
+        "Al M\u0101li\u1e29"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Malih",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":35.6167,
+    "wd:longitude":37.2167,
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282916,
+        "gp:id":1937304,
+        "qs:id":547025
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c3984043bb7ca53702a8c347a0f967c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921165,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921165,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921165,
+    "wof:lastmodified":1549929796,
+    "wof:name":"Al Malih",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":364,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47105026245117,
+    32.32636260986328,
+    35.47964859008789,
+    32.33081436157227
+],
+  "geometry": {"coordinates":[[[35.47431182861328,32.32636260986328],[35.47365951538086,32.32723617553711],[35.47226333618164,32.32859039306641],[35.47105026245117,32.32954406738281],[35.47133636474609,32.33081436157227],[35.47292327880859,32.33041381835938],[35.47431945800781,32.32937622070312],[35.47637557983398,32.32929611206055],[35.47964859008789,32.32936859130859],[35.47945785522461,32.32841491699219],[35.47693252563477,32.32746887207031],[35.47431182861328,32.32636260986328]]],"type":"Polygon"}
+}

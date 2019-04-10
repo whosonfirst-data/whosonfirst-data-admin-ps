@@ -1,0 +1,112 @@
+{
+  "id": 101921719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":97933.42307,
+    "geom:bbox":"35.3124694824,32.0650558472,35.316696167,32.0701332092",
+    "geom:latitude":32.067448,
+    "geom:longitude":35.315056,
+    "gn:population":459,
+    "iso:country":"PS",
+    "lbl:latitude":32.068036,
+    "lbl:longitude":35.315024,
+    "mps:latitude":32.068036,
+    "mps:longitude":35.315024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "J\u0101l\u016bd"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0627\u0644\u0648\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Jalud"
+    ],
+    "name:dut_x_preferred":[
+        "Jalud"
+    ],
+    "name:eng_x_preferred":[
+        "Jalud"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jalud",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.071111,
+    "wd:longitude":35.313056,
+    "wd:wordcount":1242,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283535,
+        "gp:id":1937300,
+        "qs:id":547077,
+        "wd:id":"Q6126997",
+        "wk:page":"Jalud"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0a7ae5bab1bd038c88f7d23b6a47e635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921719,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921719,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921719,
+    "wof:lastmodified":1549929851,
+    "wof:name":"Jalud",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":459,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31246948242188,
+    32.06505584716797,
+    35.31669616699219,
+    32.07013320922852
+],
+  "geometry": {"coordinates":[[[35.31464004516602,32.06671524047852],[35.31399154663086,32.06809997558594],[35.314208984375,32.06911849975586],[35.31377410888672,32.07013320922852],[35.31583404541016,32.06976318359375],[35.31594085693359,32.06874465942383],[35.31594085693359,32.06754684448242],[35.31669616699219,32.06597518920898],[35.31571960449219,32.06514739990234],[35.31442260742188,32.06560897827148],[35.31246948242188,32.06505584716797],[35.31377029418945,32.06597900390625],[35.31464004516602,32.06671524047852]]],"type":"Polygon"}
+}

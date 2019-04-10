@@ -1,0 +1,91 @@
+{
+  "id": 101921865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":32161.783035,
+    "geom:bbox":"35.2610740662,31.9636936188,35.2635154724,31.9659614563",
+    "geom:latitude":31.965019,
+    "geom:longitude":35.262124,
+    "iso:country":"PS",
+    "lbl:latitude":31.964978,
+    "lbl:longitude":35.262004,
+    "mps:latitude":31.964978,
+    "mps:longitude":35.262004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Silwad-leiren"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Silwad Camp",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":595,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123348,
+        "wd:id":"Q7517183"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"bc25cc8e07bf8b60cebd46b342c30c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921865,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921865,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921865,
+    "wof:lastmodified":1549929866,
+    "wof:name":"Silwad Camp",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26107406616211,
+    31.96369361877441,
+    35.26351547241211,
+    31.96596145629883
+],
+  "geometry": {"coordinates":[[[35.26351547241211,31.96577835083008],[35.26252746582031,31.96437644958496],[35.26149749755859,31.96369361877441],[35.26128768920898,31.96431541442871],[35.26107406616211,31.96497344970703],[35.2614631652832,31.9656925201416],[35.26265716552734,31.96596145629883],[35.26351547241211,31.96577835083008]]],"type":"Polygon"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1125824881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2048,32.52451,35.2048,32.52451",
+    "geom:latitude":32.52451,
+    "geom:longitude":35.2048,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3275,
+    "gn:population":3275,
+    "iso:country":"PS",
+    "lbl:latitude":32.52451,
+    "lbl:longitude":35.2048,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0646\u0629"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u043c\u0430\u043d\u0430\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Rummanah"
+    ],
+    "name:dut_x_preferred":[
+        "Rummanah"
+    ],
+    "name:eng_x_preferred":[
+        "Rummanah"
+    ],
+    "name:nno_x_preferred":[
+        "Rummanah"
+    ],
+    "name:unk_x_variant":[
+        "Rumm\u0101na"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":282119,
+    "qs_pg:gn_pop":3275,
+    "qs_pg:name":"Rummanah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123925,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282119,
+        "qs_pg:id":123925,
+        "wd:id":"Q7379315"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292230,
+    "wof:geomhash":"90d7898bcba62157604174b5d0c4b4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824881,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824881,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125824881,
+    "wof:lastmodified":1549929728,
+    "wof:name":"Rummanah",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":3275,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2048,
+    32.52451,
+    35.2048,
+    32.52451
+],
+  "geometry": {"coordinates":[35.2048,32.52451],"type":"Point"}
+}

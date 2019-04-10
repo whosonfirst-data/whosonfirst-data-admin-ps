@@ -1,0 +1,113 @@
+{
+  "id": 101920997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":521358.159549,
+    "geom:bbox":"35.0500259399,32.4110832214,35.0614509583,32.4179611206",
+    "geom:latitude":32.414899,
+    "geom:longitude":35.055306,
+    "gn:population":2313,
+    "iso:country":"PS",
+    "lbl:latitude":32.415021,
+    "lbl:longitude":35.054735,
+    "mps:latitude":32.415021,
+    "mps:longitude":35.054735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0632\u0644\u0629 \u0639\u064a\u0633\u0649"
+    ],
+    "name:dut_x_preferred":[
+        "Nazlat 'Isa"
+    ],
+    "name:eng_x_preferred":[
+        "Nazlat 'Isa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d6\u05dc\u05ea \u05e2\u05d9\u05e1\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Nazlat 'Isa"
+    ],
+    "name:unk_x_variant":[
+        "Nazlat \u2018\u012as\u00e1"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Nazlat 'Isa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":245,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282540,
+        "gp:id":1968156,
+        "qs:id":79892,
+        "wd:id":"Q12248331",
+        "wk:page":"Nazlat 'Isa"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"274097f660e3f27eef508de685bbef24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920997,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920997,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920997,
+    "wof:lastmodified":1549929880,
+    "wof:name":"Nazlat 'Isa",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":2313,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05002593994141,
+    32.41108322143555,
+    35.06145095825195,
+    32.41796112060547
+],
+  "geometry": {"coordinates":[[[35.0612678527832,32.41529083251953],[35.06092834472656,32.41492080688477],[35.05624008178711,32.41304779052734],[35.05471420288086,32.41108322143555],[35.05408096313477,32.41108322143555],[35.05147552490234,32.41157150268555],[35.05060577392578,32.41255187988281],[35.05002593994141,32.41389846801758],[35.05045700073242,32.41537475585938],[35.0526237487793,32.41697311401367],[35.05580520629883,32.4179573059082],[35.05898666381836,32.41796112060547],[35.06145095825195,32.4166145324707],[35.0612678527832,32.41529083251953]]],"type":"Polygon"}
+}

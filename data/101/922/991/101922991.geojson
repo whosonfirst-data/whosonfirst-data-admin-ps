@@ -1,0 +1,92 @@
+{
+  "id": 101922991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000002,
+    "geom:area_square_m":17001.269311,
+    "geom:bbox":"35.2021865845,31.4054546356,35.2036590576,31.4077987671",
+    "geom:latitude":31.406822,
+    "geom:longitude":35.202918,
+    "gn:population":508,
+    "iso:country":"PS",
+    "lbl:latitude":31.406935,
+    "lbl:longitude":35.202845,
+    "mps:latitude":31.406935,
+    "mps:longitude":35.202845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u062e\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0642\u064a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Umm al Khayr"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Faqir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891508,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"dc397538a2ba71eff41ee933c7097577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101922991,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922991,
+    "wof:lastmodified":1534985966,
+    "wof:name":"Al Faqir",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":508,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613205
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20218658447266,
+    31.40545463562012,
+    35.20365905761719,
+    31.40779876708984
+],
+  "geometry": {"coordinates":[[[35.20260620117188,31.40545463562012],[35.20260620117188,31.40617561340332],[35.20218658447266,31.40716743469238],[35.20334243774414,31.40779876708984],[35.20365905761719,31.40707778930664],[35.2032356262207,31.4066276550293],[35.20313262939453,31.40608596801758],[35.20260620117188,31.40545463562012]]],"type":"Polygon"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1126023981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11693,32.30792,35.11693,32.30792",
+    "geom:latitude":32.30792,
+    "geom:longitude":35.11693,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7106,
+    "gn:population":7106,
+    "iso:country":"PS",
+    "lbl:latitude":32.30792,
+    "lbl:longitude":35.11693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u0628\u062a\u0627"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Anabtah"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284976,
+    "qs_pg:gn_pop":7106,
+    "qs_pg:name":"\u2018Anabt\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":124005,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284976,
+        "qs_pg:id":124005
+    },
+    "wof:country":"PS",
+    "wof:created":1497301010,
+    "wof:geomhash":"80f0a0cdc06110401dfbf17f2623a288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023981,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023981,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126023981,
+    "wof:lastmodified":1549929888,
+    "wof:name":"\u2018Anabt\u0101",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":7106,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11693,
+    32.30792,
+    35.11693,
+    32.30792
+],
+  "geometry": {"coordinates":[35.11693,32.30792],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293820181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23333,31.83333,35.23333,31.83333",
+    "geom:latitude":31.83333,
+    "geom:longitude":35.23333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Newe Ya`aqov",
+    "gn:country_code":"PS",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282534,
+    "gn:latitude":31.83333,
+    "gn:longitude":35.23333,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Newe Ya\u2018aqov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282534
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"dab3ec4b8ae8a834152975525ca2ce1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1293820181,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1293820181,
+    "wof:lastmodified":1549930788,
+    "wof:name":"Newe Ya`aqov",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891419
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23333,
+    31.83333,
+    35.23333,
+    31.83333
+],
+  "geometry": {"coordinates":[35.23333,31.83333],"type":"Point"}
+}

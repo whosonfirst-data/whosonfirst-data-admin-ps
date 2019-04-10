@@ -1,0 +1,91 @@
+{
+  "id": 101921977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28384.852453,
+    "geom:bbox":"35.1926689148,31.8875598907,35.1948776245,31.8916339874",
+    "geom:latitude":31.889909,
+    "geom:longitude":35.193694,
+    "geonames:id":"285108,8052424",
+    "iso:country":"PS",
+    "lbl:latitude":31.891,
+    "lbl:longitude":35.193862,
+    "mps:latitude":31.891,
+    "mps:longitude":35.193862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Bira",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":31.905142,
+    "wd:longitude":35.214958,
+    "wd:wordcount":2273,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937180,
+        "wd:id":"Q311326"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"7c71f02fad1008d9986ab7031a15e3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921977,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921977,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921977,
+    "wof:lastmodified":1549929878,
+    "wof:name":"Al Bira",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19266891479492,
+    31.88755989074707,
+    35.19487762451172,
+    31.89163398742676
+],
+  "geometry": {"coordinates":[[[35.19355773925781,31.89134216308594],[35.19487762451172,31.89163398742676],[35.19480514526367,31.89126777648926],[35.19453811645508,31.89116668701172],[35.19427490234375,31.8907413482666],[35.19384002685547,31.89058303833008],[35.19387054443359,31.88814353942871],[35.19370651245117,31.88763427734375],[35.19347763061523,31.88755989074707],[35.19328308105469,31.88781547546387],[35.1932487487793,31.88824462890625],[35.19347381591797,31.88831520080566],[35.19330978393555,31.88890075683594],[35.19326782226562,31.89026832580566],[35.19267654418945,31.89031600952148],[35.19266891479492,31.89058876037598],[35.19329833984375,31.8906135559082],[35.19355773925781,31.89134216308594]]],"type":"Polygon"}
+}

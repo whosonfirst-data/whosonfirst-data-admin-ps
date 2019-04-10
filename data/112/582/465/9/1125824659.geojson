@@ -1,0 +1,111 @@
+{
+  "id": 1125824659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10366,31.70702,35.10366,31.70702",
+    "geom:latitude":31.70702,
+    "geom:longitude":35.10366,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1153,
+    "gn:population":1153,
+    "iso:country":"PS",
+    "lbl:latitude":31.70702,
+    "lbl:longitude":35.10366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "W\u0101d\u012b F\u016bk\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0627\u062f\u064a \u0641\u0648\u0643\u064a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "name:eng_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05d3\u05d9 \u05e4\u05d5\u05db\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281356,
+    "qs_pg:gn_pop":1153,
+    "qs_pg:name":"W\u0101d\u012b F\u016bk\u012bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":79865,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281356,
+        "qs_pg:id":79865,
+        "wd:id":"Q2896954"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292222,
+    "wof:geomhash":"ba05a5df638325aa5805ded6bf0fa9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824659,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824659,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125824659,
+    "wof:lastmodified":1549929723,
+    "wof:name":"W\u0101d\u012b F\u016bk\u012bn",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":1153,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10366,
+    31.70702,
+    35.10366,
+    31.70702
+],
+  "geometry": {"coordinates":[35.10366,31.70702],"type":"Point"}
+}

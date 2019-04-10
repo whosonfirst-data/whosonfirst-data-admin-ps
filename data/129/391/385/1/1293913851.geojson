@@ -1,0 +1,86 @@
+{
+  "id": 1293913851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29879,32.44329,35.29879,32.44329",
+    "geom:latitude":32.44329,
+    "geom:longitude":35.29879,
+    "gn:admin1_code":"WE",
+    "gn:admin2_code":"7828733",
+    "gn:asciiname":"Jalamat as Siyar",
+    "gn:country_code":"PS",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":283546,
+    "gn:latitude":32.44329,
+    "gn:longitude":35.29879,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Jalamat as Siy\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jalam\u0101t e\u1e63 \u1e62iyar",
+        "Jalamat as Siy\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283546
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1acf92416c638f4e0e1870a343cd2fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293913851,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293913851,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1293913851,
+    "wof:lastmodified":1549929924,
+    "wof:name":"Jalamat as Siyar",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29879000000001,
+    32.44329,
+    35.29879000000001,
+    32.44329
+],
+  "geometry": {"coordinates":[35.29879000000001,32.44329],"type":"Point"}
+}

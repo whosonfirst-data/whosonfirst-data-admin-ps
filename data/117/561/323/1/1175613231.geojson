@@ -1,0 +1,100 @@
+{
+  "id": 1175613231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28447.809094,
+    "geom:bbox":"34.9988632202,31.502199173,35.003578186,31.504278183",
+    "geom:latitude":31.503271,
+    "geom:longitude":35.000701,
+    "iso:country":"PS",
+    "lbl:latitude":31.503646,
+    "lbl:longitude":34.999393,
+    "mps:latitude":31.503646,
+    "mps:longitude":34.999393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "W\u0101\u1e11i\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0648\u0627\u0636\u062d"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat W\u0101\u1e11i\u1e29"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Wadih",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281355,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"81c4bc27e04841d6af64cca95da94802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613231,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613231,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613231,
+    "wof:lastmodified":1549929601,
+    "wof:name":"Wadih",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101922779,
+        101919743
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99886322021484,
+    31.50219917297363,
+    35.00357818603516,
+    31.5042781829834
+],
+  "geometry": {"coordinates":[[[35.0,31.50375556945801],[35.00009536743164,31.50371932983398],[35.00111389160156,31.50341033935547],[35.00154876708984,31.50337982177734],[35.00252532958984,31.503662109375],[35.00357818603516,31.50338363647461],[35.00314331054688,31.50319671630859],[35.00241851806641,31.50316429138184],[35.00151443481445,31.5031623840332],[35.00078582763672,31.50322341918945],[35.00078964233398,31.50288200378418],[35.00093460083008,31.50238609313965],[35.00057220458984,31.50219917297363],[35.00009918212891,31.50235366821289],[35.0,31.50267601013184],[34.99991607666016,31.50294303894043],[34.99980926513672,31.5031909942627],[34.99915313720703,31.50337600708008],[34.99886322021484,31.5040283203125],[34.99918746948242,31.5042781829834],[34.99958801269531,31.50390625],[35.0,31.50375556945801]]],"type":"Polygon"}
+}

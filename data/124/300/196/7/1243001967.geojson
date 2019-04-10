@@ -1,0 +1,82 @@
+{
+  "id": 1243001967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5,32.16667,35.5,32.16667",
+    "geom:latitude":32.16667,
+    "geom:longitude":35.5,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Argaman",
+    "gn:country_code":"PS",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":284902,
+    "gn:latitude":32.16667,
+    "gn:longitude":35.5,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Argaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284902,
+        "wk:page":"Argaman"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2d7ffab45c3af36840555d134580a3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243001967,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243001967,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1243001967,
+    "wof:lastmodified":1549929907,
+    "wof:name":"Argaman",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5,
+    32.16667,
+    35.5,
+    32.16667
+],
+  "geometry": {"coordinates":[35.5,32.16667],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101920971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":44256.479044,
+    "geom:bbox":"35.3903770447,32.4189910889,35.3931884766,32.4214668274",
+    "geom:latitude":32.420322,
+    "geom:longitude":35.391726,
+    "gn:population":2175,
+    "iso:country":"PS",
+    "lbl:latitude":32.420311,
+    "lbl:longitude":35.391753,
+    "mps:latitude":32.420311,
+    "mps:longitude":35.391753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Mughayyir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285023,
+        "gp:id":1937299,
+        "wd:id":"Q4702932"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"aaeb2bbc7c99a3855ad93322800b667b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920971,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920971,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920971,
+    "wof:lastmodified":1549929868,
+    "wof:name":"Al Mughayyir",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":2175,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39037704467773,
+    32.41899108886719,
+    35.3931884765625,
+    32.42146682739258
+],
+  "geometry": {"coordinates":[[[35.39214324951172,32.41899108886719],[35.3911018371582,32.41925811767578],[35.39037704467773,32.42111587524414],[35.39152526855469,32.42146682739258],[35.3931884765625,32.42075729370117],[35.39214324951172,32.41899108886719]]],"type":"Polygon"}
+}

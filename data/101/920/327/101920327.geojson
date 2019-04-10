@@ -1,0 +1,93 @@
+{
+  "id": 101920327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16437.734904,
+    "geom:bbox":"34.949962616,31.3635444641,34.9516181946,31.3648719788",
+    "geom:latitude":31.364225,
+    "geom:longitude":34.950798,
+    "iso:country":"PS",
+    "lbl:latitude":31.364232,
+    "lbl:longitude":34.950798,
+    "mps:latitude":31.364232,
+    "mps:longitude":34.950798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0631\u0647\u0648\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat ar Rahwa"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet ar Rahwa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282253,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"16f8ec7e799994cf0de32bba970e0b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920327,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920327,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920327,
+    "wof:lastmodified":1549929807,
+    "wof:name":"Khirbet ar Rahwa",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9499626159668,
+    31.36354446411133,
+    34.95161819458008,
+    31.36487197875977
+],
+  "geometry": {"coordinates":[[[34.95029449462891,31.36354446411133],[34.9499626159668,31.36467933654785],[34.95117568969727,31.36487197875977],[34.95161819458008,31.36421012878418],[34.95161819458008,31.36383056640625],[34.95029449462891,31.36354446411133]]],"type":"Polygon"}
+}

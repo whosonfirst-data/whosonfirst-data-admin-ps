@@ -1,0 +1,123 @@
+{
+  "id": 1126043293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3611,31.30675,34.3611,31.30675",
+    "geom:latitude":31.30675,
+    "geom:longitude":34.3611,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9023,
+    "gn:population":9023,
+    "iso:country":"PS",
+    "lbl:latitude":31.30675,
+    "lbl:longitude":34.3611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0632\u0627\u0639\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Khuza'a"
+    ],
+    "name:dut_x_preferred":[
+        "Khuza'a"
+    ],
+    "name:eng_x_preferred":[
+        "Khuza'a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05d5\u05d6\u05d0\u05e2\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Khuza'a i Khan Yunis"
+    ],
+    "name:nob_x_preferred":[
+        "Khuza'a"
+    ],
+    "name:pol_x_preferred":[
+        "Chuza\u2019a"
+    ],
+    "name:unk_x_variant":[
+        "Kh Ikhza\u2018a"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0632\u0627\u0639\u06c1\u060c \u062e\u0627\u0646 \u06cc\u0648\u0646\u0633"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281119,
+    "qs_pg:gn_pop":9023,
+    "qs_pg:name":"Khuz\u0101\u2018ah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":547009,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281119,
+        "qs_pg:id":547009,
+        "wd:id":"Q1814882"
+    },
+    "wof:country":"PS",
+    "wof:created":1497302284,
+    "wof:geomhash":"8f85486c93fa356e76473b302ebdcd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1126043293,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1126043293,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1126043293,
+    "wof:lastmodified":1549928935,
+    "wof:name":"Khuz\u0101\u2018ah",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:population":9023,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3611,
+    31.30675,
+    34.3611,
+    31.30675
+],
+  "geometry": {"coordinates":[34.3611,31.30675],"type":"Point"}
+}

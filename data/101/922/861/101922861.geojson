@@ -1,0 +1,93 @@
+{
+  "id": 101922861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28586.692577,
+    "geom:bbox":"35.0024604797,31.4540805817,35.0042037964,31.455953598",
+    "geom:latitude":31.455044,
+    "geom:longitude":35.003349,
+    "iso:country":"PS",
+    "lbl:latitude":31.455031,
+    "lbl:longitude":35.003332,
+    "mps:latitude":31.455031,
+    "mps:longitude":35.003332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0642\u0629 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat al \u2018Alaqa"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al 'Alaqa at Tahta",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285115,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4f41d25977d2c461113d0027f273b244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922861,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922861,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922861,
+    "wof:lastmodified":1549929861,
+    "wof:name":"Al 'Alaqa at Tahta",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00246047973633,
+    31.45408058166504,
+    35.00420379638672,
+    31.45595359802246
+],
+  "geometry": {"coordinates":[[[35.00263595581055,31.45415496826172],[35.00246047973633,31.45512771606445],[35.00289535522461,31.45595169067383],[35.00420379638672,31.45595359802246],[35.00411987304688,31.45528030395508],[35.00411987304688,31.45468139648438],[35.0037727355957,31.45408058166504],[35.00263595581055,31.45415496826172]]],"type":"Polygon"}
+}

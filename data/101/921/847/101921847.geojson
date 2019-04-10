@@ -1,0 +1,98 @@
+{
+  "id": 101921847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":190456.514775,
+    "geom:bbox":"35.0455780029,31.9706020355,35.0511169434,31.9764270782",
+    "geom:latitude":31.973341,
+    "geom:longitude":35.048867,
+    "gn:population":833,
+    "iso:country":"PS",
+    "lbl:latitude":31.973291,
+    "lbl:longitude":35.048909,
+    "mps:latitude":31.973291,
+    "mps:longitude":35.048909,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u062a\u064a\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Shebtin"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Shabtin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281951,
+        "gp:id":1937180,
+        "qs:id":79880
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"05abe4c6e5cba7a1801734890666577a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921847,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921847,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921847,
+    "wof:lastmodified":1549929863,
+    "wof:name":"Shabtin",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":833,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04557800292969,
+    31.97060203552246,
+    35.05111694335938,
+    31.97642707824707
+],
+  "geometry": {"coordinates":[[[35.04575347900391,31.97281074523926],[35.04557800292969,31.97332572937012],[35.04679107666016,31.97362327575684],[35.04704666137695,31.97458267211914],[35.04851913452148,31.97539520263672],[35.0480842590332,31.97642707824707],[35.04903411865234,31.97635459899902],[35.04964065551758,31.97576522827148],[35.05050659179688,31.9751033782959],[35.05111694335938,31.97421836853027],[35.05094528198242,31.97252082824707],[35.05051422119141,31.97126770019531],[35.04921722412109,31.97060203552246],[35.04826736450195,31.97096824645996],[35.04713821411133,31.97200012207031],[35.04644393920898,31.97281074523926],[35.04575347900391,31.97281074523926]]],"type":"Polygon"}
+}

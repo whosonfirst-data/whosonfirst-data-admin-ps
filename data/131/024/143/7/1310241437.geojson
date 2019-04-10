@@ -1,0 +1,89 @@
+{
+  "id": 1310241437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.30565,31.30899,34.30565,31.30899",
+    "geom:latitude":31.30899,
+    "geom:longitude":34.30565,
+    "gn:admin1_code":"GZ",
+    "gn:asciiname":"Qa` al Kharabah",
+    "gn:country_code":"PS",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410881,
+    "gn:latitude":31.30899,
+    "gn:longitude":34.30565,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Q\u0101\u2018 al Khar\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0639 \u0627\u0644\u062e\u064e\u0631\u0627\u0628\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qa\u2018 el-Kharaba",
+        "Q\u0101\u2018 al Khar\u0101bah",
+        "Qa\u2018 al Khar\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410881
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2f7dddb76df744c5ddb2eade9ffd1f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1310241437,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1310241437,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1310241437,
+    "wof:lastmodified":1549928882,
+    "wof:name":"Qa` al Kharabah",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.30565,
+    31.30899,
+    34.30565,
+    31.30899
+],
+  "geometry": {"coordinates":[34.30565,31.30899],"type":"Point"}
+}

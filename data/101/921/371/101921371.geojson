@@ -1,0 +1,102 @@
+{
+  "id": 101921371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4965.134583,
+    "geom:bbox":"35.4071350098,32.2352905273,35.4083976746,32.2359886169",
+    "geom:latitude":32.235592,
+    "geom:longitude":35.407592,
+    "iso:country":"PS",
+    "lbl:latitude":32.235589,
+    "lbl:longitude":35.407479,
+    "mps:latitude":32.235589,
+    "mps:longitude":35.407479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Beit Hasan"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Hasan"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Hasan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d7\u05e1\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Hasan"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Hasan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300,
+        "wd:id":"Q4881445"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"99a546771aaedb461d30c3e74658de61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921371,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921371,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921371,
+    "wof:lastmodified":1549929812,
+    "wof:name":"Beit Hasan",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40713500976562,
+    32.23529052734375,
+    35.40839767456055,
+    32.23598861694336
+],
+  "geometry": {"coordinates":[[[35.40734481811523,32.23598861694336],[35.40839767456055,32.23542785644531],[35.40726470947266,32.23529052734375],[35.40713500976562,32.23563385009766],[35.40713882446289,32.23588562011719],[35.40734481811523,32.23598861694336]]],"type":"Polygon"}
+}

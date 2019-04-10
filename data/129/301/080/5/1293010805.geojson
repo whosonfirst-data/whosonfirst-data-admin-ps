@@ -1,0 +1,89 @@
+{
+  "id": 1293010805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09407,31.53515,35.09407,31.53515",
+    "geom:latitude":31.53515,
+    "geom:longitude":35.09407,
+    "gn:admin1_code":"WE",
+    "gn:admin2_code":"7870658",
+    "gn:asciiname":"Al 'Imarah",
+    "gn:country_code":"PS",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":8073071,
+    "gn:latitude":31.53515,
+    "gn:longitude":35.09407,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Al \u2018Im\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0645\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Im\u0101rah",
+        "District HQ"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8073071
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"aa9c91b383ddf3c8ad1791b30cf258c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293010805,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293010805,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1293010805,
+    "wof:lastmodified":1549929713,
+    "wof:name":"Al 'Imarah",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09407,
+    31.53515,
+    35.09407,
+    31.53515
+],
+  "geometry": {"coordinates":[35.09407,31.53515],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 101921219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":143119.373652,
+    "geom:bbox":"35.0955123901,32.2988891602,35.1008758545,32.3046035767",
+    "geom:latitude":32.301578,
+    "geom:longitude":35.098415,
+    "iso:country":"PS",
+    "lbl:latitude":32.300878,
+    "lbl:longitude":35.098903,
+    "mps:latitude":32.300878,
+    "mps:longitude":35.098903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Izbat al Khilal",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890080,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a20ebf176acdc34fd25d57b8cda70af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921219,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921219,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921219,
+    "wof:lastmodified":1549929800,
+    "wof:name":"'Izbat al Khilal",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09551239013672,
+    32.29888916015625,
+    35.10087585449219,
+    32.30460357666016
+],
+  "geometry": {"coordinates":[[[35.09551239013672,32.30043411254883],[35.09630966186523,32.3015022277832],[35.09779357910156,32.30160140991211],[35.09767913818359,32.30295562744141],[35.09699249267578,32.30440902709961],[35.09881591796875,32.30460357666016],[35.09927368164062,32.30344390869141],[35.09973526000977,32.3019905090332],[35.10087585449219,32.300537109375],[35.09973526000977,32.29975891113281],[35.09916687011719,32.29888916015625],[35.09768295288086,32.29995346069336],[35.09551239013672,32.30043411254883]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242712007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.25,31.8,35.25,31.8",
+    "geom:latitude":31.8,
+    "geom:longitude":35.25,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Giv`at Shappira",
+    "gn:country_code":"PS",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":283856,
+    "gn:latitude":31.8,
+    "gn:longitude":35.25,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Giv\u2018at Shappira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283856
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0e652b10ab1a2e65e86488f1d004d505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1242712007,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1242712007,
+    "wof:lastmodified":1549930774,
+    "wof:name":"Giv`at Shappira",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891417
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25,
+    31.8,
+    35.25,
+    31.8
+],
+  "geometry": {"coordinates":[35.25,31.8],"type":"Point"}
+}

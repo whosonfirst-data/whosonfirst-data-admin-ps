@@ -1,0 +1,98 @@
+{
+  "id": 1126043863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.26916,31.77078,35.26916,31.77078",
+    "geom:latitude":31.77078,
+    "geom:longitude":35.26916,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":17455,
+    "gn:population":17455,
+    "iso:country":"PS",
+    "lbl:latitude":31.77078,
+    "lbl:longitude":35.26916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u0632\u0631\u064a\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Al \u2018Eizariya"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":285111,
+    "qs_pg:gn_pop":17455,
+    "qs_pg:name":"Al \u2018Ayzar\u012byah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":547122,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285111,
+        "qs_pg:id":547122
+    },
+    "wof:country":"PS",
+    "wof:created":1497302313,
+    "wof:geomhash":"4b35d901bb26e26f4ed49d3f121f26ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043863,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043863,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043863,
+    "wof:lastmodified":1549929900,
+    "wof:name":"Al \u2018Ayzar\u012byah",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":17455,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26916,
+    31.77078,
+    35.26916,
+    31.77078
+],
+  "geometry": {"coordinates":[35.26916,31.77078],"type":"Point"}
+}

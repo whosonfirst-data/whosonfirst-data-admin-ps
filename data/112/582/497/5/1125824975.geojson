@@ -1,0 +1,117 @@
+{
+  "id": 1125824975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21569,32.17842,35.21569,32.17842",
+    "geom:latitude":32.17842,
+    "geom:longitude":35.21569,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2341,
+    "gn:population":2341,
+    "iso:country":"PS",
+    "lbl:latitude":32.17842,
+    "lbl:longitude":35.21569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u0635\u064a\u0631\u0629 \u0627\u0644\u0642\u0628\u0644\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:dut_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:eng_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e1\u05d9\u05e8\u05d4 \u05d0\u05dc-\u05e7\u05d1\u05dc\u05d9\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:nob_x_preferred":[
+        "Asira al-Qibliya"
+    ],
+    "name:unk_x_variant":[
+        "Kiblie"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284594,
+    "qs_pg:gn_pop":2341,
+    "qs_pg:name":"\u2018A\u015f\u012brah al Qibl\u012byah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":79954,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284594,
+        "qs_pg:id":79954,
+        "wd:id":"Q2896973"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292235,
+    "wof:geomhash":"d48982bd994c1bbf4c621a215a70cf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824975,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125824975,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125824975,
+    "wof:lastmodified":1549929735,
+    "wof:name":"\u2018A\u015f\u012brah al Qibl\u012byah",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":2341,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21569,
+    32.17842,
+    35.21569,
+    32.17842
+],
+  "geometry": {"coordinates":[35.21569,32.17842],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101921983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":542975.465797,
+    "geom:bbox":"35.0397911072,31.8837928772,35.0500907898,31.8910598755",
+    "geom:latitude":31.887215,
+    "geom:longitude":35.045091,
+    "gn:population":2744,
+    "iso:country":"PS",
+    "lbl:latitude":31.886901,
+    "lbl:longitude":35.044993,
+    "mps:latitude":31.886901,
+    "mps:longitude":35.044993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u064a\u0631\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Sira"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Sira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e1\u05d9\u05e8\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Sira"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Sira"
+    ],
+    "name:unk_x_variant":[
+        "Beit S\u012br\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Sira",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.887419,
+    "wd:longitude":35.044092,
+    "wd:wordcount":431,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284298,
+        "gp:id":1937180,
+        "qs:id":547098,
+        "wd:id":"Q2777855",
+        "wk:page":"Beit Sira"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"06a474ea561a22197ab8a626a25d613a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921983,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921983,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921983,
+    "wof:lastmodified":1549929880,
+    "wof:name":"Beit Sira",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":2744,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03979110717773,
+    31.88379287719727,
+    35.05009078979492,
+    31.89105987548828
+],
+  "geometry": {"coordinates":[[[35.04257583618164,31.89105987548828],[35.04441452026367,31.89007186889648],[35.04600143432617,31.88960075378418],[35.04766464233398,31.89021110534668],[35.04899215698242,31.89084243774414],[35.04975509643555,31.89011573791504],[35.04880905151367,31.88809013366699],[35.04928588867188,31.88703727722168],[35.04973602294922,31.88630676269531],[35.05009078979492,31.88451957702637],[35.04672622680664,31.88444328308105],[35.04464340209961,31.88379287719727],[35.04258728027344,31.8845100402832],[35.04206466674805,31.8845100402832],[35.04031753540039,31.88540077209473],[35.03979110717773,31.88688850402832],[35.04153442382812,31.8886775970459],[35.04135513305664,31.89001655578613],[35.04257583618164,31.89105987548828]]],"type":"Polygon"}
+}

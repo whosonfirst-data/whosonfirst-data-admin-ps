@@ -1,0 +1,115 @@
+{
+  "id": 101921783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":459384.444983,
+    "geom:bbox":"35.1689414978,32.0192260742,35.1843795776,32.0252037048",
+    "geom:latitude":32.02177,
+    "geom:longitude":35.177387,
+    "gn:population":1220,
+    "iso:country":"PS",
+    "lbl:latitude":32.022248,
+    "lbl:longitude":35.1792,
+    "mps:latitude":32.022248,
+    "mps:longitude":35.1792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u062c\u0648\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Ajj\u016bl"
+    ],
+    "name:dut_x_preferred":[
+        "Ajjul"
+    ],
+    "name:eng_x_preferred":[
+        "Ajjul"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u062c\u0648\u0644"
+    ],
+    "name:nno_x_preferred":[
+        "Ajjul"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u062c\u0648\u0644"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Ajjul",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1286,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285126,
+        "gp:id":1937300,
+        "qs:id":547125,
+        "wd:id":"Q4699885"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a68f5678ca22250501086837021ccb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921783,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921783,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921783,
+    "wof:lastmodified":1549929853,
+    "wof:name":"'Ajjul",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1220,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16894149780273,
+    32.01922607421875,
+    35.18437957763672,
+    32.02520370483398
+],
+  "geometry": {"coordinates":[[[35.18409729003906,32.02226257324219],[35.18437957763672,32.02122497558594],[35.17815017700195,32.01922607421875],[35.17691802978516,32.02090454101562],[35.17193603515625,32.01971054077148],[35.17006301879883,32.01930999755859],[35.16894149780273,32.02146148681641],[35.17081069946289,32.02217864990234],[35.17380523681641,32.02162170410156],[35.17555999755859,32.02310562133789],[35.17716217041016,32.02352523803711],[35.17814636230469,32.02426147460938],[35.17962265014648,32.02520370483398],[35.18122482299805,32.02478790283203],[35.18171691894531,32.02321243286133],[35.18409729003906,32.02226257324219]]],"type":"Polygon"}
+}

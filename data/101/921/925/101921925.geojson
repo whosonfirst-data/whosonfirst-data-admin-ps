@@ -1,0 +1,112 @@
+{
+  "id": 101921925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":296507.788283,
+    "geom:bbox":"35.1126899719,31.936252594,35.1251487732,31.9433250427",
+    "geom:latitude":31.938785,
+    "geom:longitude":35.119397,
+    "gn:population":1147,
+    "iso:country":"PS",
+    "lbl:latitude":31.93816,
+    "lbl:longitude":35.118784,
+    "mps:latitude":31.93816,
+    "mps:longitude":35.118784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0646\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Janiya"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Janiya"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Janiya"
+    ],
+    "name:unk_x_variant":[
+        "El J\u0101niya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Janiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.938333,
+    "wd:longitude":35.121944,
+    "wd:wordcount":425,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285071,
+        "gp:id":1937180,
+        "qs:id":547117,
+        "wd:id":"Q4702614",
+        "wk:page":"Al-Janiya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2d654ffb353dac75caa2f33e3b927528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921925,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921925,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921925,
+    "wof:lastmodified":1549929875,
+    "wof:name":"Al Janiya",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1147,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11268997192383,
+    31.93625259399414,
+    35.12514877319336,
+    31.94332504272461
+],
+  "geometry": {"coordinates":[[[35.11734008789062,31.93751335144043],[35.11704254150391,31.9381046295166],[35.116943359375,31.93936729431152],[35.11664581298828,31.94046401977539],[35.11536026000977,31.94113731384277],[35.11328506469727,31.94172477722168],[35.11268997192383,31.94332504272461],[35.11377716064453,31.94290542602539],[35.11516189575195,31.9423999786377],[35.11634826660156,31.94189643859863],[35.11753463745117,31.94122314453125],[35.11832809448242,31.94021224975586],[35.1200065612793,31.93920135498047],[35.12129211425781,31.93869781494141],[35.12277603149414,31.93903541564941],[35.12386322021484,31.93920516967773],[35.12514877319336,31.93886756896973],[35.12475204467773,31.93768882751465],[35.12406158447266,31.93692970275879],[35.12228393554688,31.93625259399414],[35.12060165405273,31.93633651733398],[35.11734390258789,31.9364185333252],[35.11734008789062,31.93751335144043]]],"type":"Polygon"}
+}

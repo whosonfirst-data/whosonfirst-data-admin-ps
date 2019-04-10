@@ -1,0 +1,70 @@
+{
+  "id": 1344087805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.275,31.3567,34.275,31.3567",
+    "geom:latitude":31.3567,
+    "geom:longitude":34.275,
+    "gn:admin1_code":"GZ",
+    "gn:asciiname":"Neveh Dekalim",
+    "gn:country_code":"PS",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7732031,
+    "gn:latitude":31.3567,
+    "gn:longitude":34.275,
+    "gn:modification_date":"2017-12-03",
+    "gn:name":"Neveh Dekalim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681213,
+        102191569,
+        85633739,
+        136253049,
+        1091913333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732031,
+        "wk:page":"Neve_Dekalim"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3662af3948ca465552134e84194a8970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "empire_id":136253049,
+            "locality_id":1344087805,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1344087805,
+    "wof:lastmodified":1537571932,
+    "wof:name":"Neveh Dekalim",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.275,
+    31.3567,
+    34.275,
+    31.3567
+],
+  "geometry": {"coordinates":[34.275,31.3567],"type":"Point"}
+}

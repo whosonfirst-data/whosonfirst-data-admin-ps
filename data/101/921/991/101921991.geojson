@@ -1,0 +1,112 @@
+{
+  "id": 101921991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":213382.597952,
+    "geom:bbox":"35.1104545593,31.8819084167,35.1184844971,31.8872642517",
+    "geom:latitude":31.884946,
+    "geom:longitude":35.114696,
+    "gn:population":852,
+    "iso:country":"PS",
+    "lbl:latitude":31.885011,
+    "lbl:longitude":35.114969,
+    "mps:latitude":31.885011,
+    "mps:longitude":35.114969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0648\u0631 \u0627\u0644\u0641\u0648\u0642\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Ur al-Fauqa"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Ur al-Fauqa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e2\u05d5\u05e8 \u05d0\u05dc-\u05e4\u05d5\u05e7\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Ur al-Fauqa"
+    ],
+    "name:unk_x_variant":[
+        "Beit \u2018\u016ar el F\u014dqa"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit 'Ur al Fauqa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1457,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284293,
+        "gp:id":1937180,
+        "qs:id":79938,
+        "wd:id":"Q2905277"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1519caa1a57c5015339167e9024ab894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921991,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921991,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921991,
+    "wof:lastmodified":1549929881,
+    "wof:name":"Beit 'Ur al Fauqa",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":852,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11045455932617,
+    31.88190841674805,
+    35.11848449707031,
+    31.88726425170898
+],
+  "geometry": {"coordinates":[[[35.11848449707031,31.88190841674805],[35.11481857299805,31.88294792175293],[35.11289596557617,31.88458442687988],[35.11045455932617,31.88577270507812],[35.11219787597656,31.88726425170898],[35.11376571655273,31.88726425170898],[35.11585998535156,31.88637351989746],[35.11690902709961,31.88637351989746],[35.11690902709961,31.88443946838379],[35.11795806884766,31.88324737548828],[35.11848449707031,31.88190841674805]]],"type":"Polygon"}
+}

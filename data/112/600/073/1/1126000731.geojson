@@ -1,0 +1,117 @@
+{
+  "id": 1126000731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02036,32.12167,35.02036,32.12167",
+    "geom:latitude":32.12167,
+    "geom:longitude":35.02036,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1746,
+    "gn:population":1746,
+    "iso:country":"PS",
+    "lbl:latitude":32.12167,
+    "lbl:longitude":35.02036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0648\u0646 \u0639\u062a\u0645\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:eng_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d6\u05d5\u05df \u05e2\u05ea\u05de\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:nob_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:pol_x_preferred":[
+        "Azzun Atma"
+    ],
+    "name:unk_x_variant":[
+        "Azoon Atmah"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7871005,
+    "qs_pg:gn_pop":1746,
+    "qs_pg:name":"Azun Atme",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":743266,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871005,
+        "qs_pg:id":743266,
+        "wd:id":"Q4119457"
+    },
+    "wof:country":"PS",
+    "wof:created":1497299632,
+    "wof:geomhash":"3c9903d3ce1d2edf15d0d9ba48e0b9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126000731,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126000731,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126000731,
+    "wof:lastmodified":1549929883,
+    "wof:name":"Azun Atme",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":1746,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02036,
+    32.12167,
+    35.02036,
+    32.12167
+],
+  "geometry": {"coordinates":[35.02036,32.12167],"type":"Point"}
+}

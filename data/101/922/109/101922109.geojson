@@ -1,0 +1,86 @@
+{
+  "id": 101922109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8899.245816,
+    "geom:bbox":"35.4695053101,31.8405189514,35.4707717896,31.8416900635",
+    "geom:latitude":31.84107,
+    "geom:longitude":35.470109,
+    "iso:country":"PS",
+    "lbl:latitude":31.841071,
+    "lbl:longitude":35.4701,
+    "mps:latitude":31.841071,
+    "mps:longitude":35.4701,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jericho (Ariha)",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56122789
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1db184484c63a34498c2dde32640294b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922109,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922109,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922109,
+    "wof:lastmodified":1549929788,
+    "wof:name":"Jericho (Ariha)",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46950531005859,
+    31.84051895141602,
+    35.47077178955078,
+    31.84169006347656
+],
+  "geometry": {"coordinates":[[[35.47005462646484,31.8415412902832],[35.470458984375,31.84169006347656],[35.47077178955078,31.84123992919922],[35.47003173828125,31.84051895141602],[35.46950531005859,31.84052085876465],[35.46961212158203,31.84106063842773],[35.47005462646484,31.8415412902832]]],"type":"Polygon"}
+}

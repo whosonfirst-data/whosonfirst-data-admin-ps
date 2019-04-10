@@ -1,0 +1,111 @@
+{
+  "id": 101922099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":379503.884252,
+    "geom:bbox":"35.1474189758,31.8437728882,35.1561698914,31.853225708",
+    "geom:latitude":31.847325,
+    "geom:longitude":35.15169,
+    "gn:population":692,
+    "iso:country":"PS",
+    "lbl:latitude":31.846967,
+    "lbl:longitude":35.151027,
+    "mps:latitude":31.846967,
+    "mps:longitude":35.151027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0625\u062c\u0632\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Ijza"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Ijza"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u0627\u062c\u0632\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Bayt Ijz\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Ijza",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.85,
+    "wd:longitude":35.15,
+    "wd:wordcount":328,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284332,
+        "qs:id":79943,
+        "wd:id":"Q4881447",
+        "wk:page":"Beit Ijza"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"665912c647429710c75901d088251b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922099,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922099,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922099,
+    "wof:lastmodified":1549929788,
+    "wof:name":"Beit Ijza",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:population":692,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14741897583008,
+    31.84377288818359,
+    35.15616989135742,
+    31.85322570800781
+],
+  "geometry": {"coordinates":[[[35.15039443969727,31.84412002563477],[35.14950942993164,31.84599685668945],[35.14894104003906,31.84761619567871],[35.14741897583008,31.84907341003418],[35.14931869506836,31.85012626647949],[35.14993667602539,31.85322570800781],[35.15078353881836,31.85274314880371],[35.15192031860352,31.8504467010498],[35.15206146240234,31.84851264953613],[35.15277099609375,31.84742546081543],[35.15531921386719,31.84682273864746],[35.15616989135742,31.84525108337402],[35.15600204467773,31.84377288818359],[35.15326690673828,31.84388732910156],[35.15039443969727,31.84412002563477]]],"type":"Polygon"}
+}

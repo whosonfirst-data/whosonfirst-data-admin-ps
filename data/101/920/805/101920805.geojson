@@ -1,0 +1,103 @@
+{
+  "id": 101920805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000001,
+    "geom:area_square_m":10457.695641,
+    "geom:bbox":"35.1387672424,32.4810905457,35.1398506165,32.4823875427",
+    "geom:latitude":32.48168,
+    "geom:longitude":35.139282,
+    "gn:population":366,
+    "iso:country":"PS",
+    "lbl:latitude":32.481647,
+    "lbl:longitude":35.139293,
+    "mps:latitude":32.481647,
+    "mps:longitude":35.139293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0631\u064a\u062d\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Umm ar-Rihan"
+    ],
+    "name:dut_x_preferred":[
+        "Umm ar-Rihan"
+    ],
+    "name:eng_x_preferred":[
+        "Umm ar-Rihan"
+    ],
+    "name:nno_x_preferred":[
+        "Umm ar-Rihan"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Um er Rih\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm ar Rihan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1151,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283080,
+        "gp:id":1937300,
+        "wd:id":"Q7881670"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d483e5009121d592dd5440cae92159b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101920805,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920805,
+    "wof:lastmodified":1534985969,
+    "wof:name":"Umm ar Rihan",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":366,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613271
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13876724243164,
+    32.4810905456543,
+    35.13985061645508,
+    32.48238754272461
+],
+  "geometry": {"coordinates":[[[35.13882827758789,32.48228073120117],[35.1391487121582,32.48238754272461],[35.13953018188477,32.48200988769531],[35.13985061645508,32.48179244995117],[35.13978576660156,32.48114776611328],[35.13902282714844,32.4810905456543],[35.13876724243164,32.48179244995117],[35.13882827758789,32.48228073120117]]],"type":"Polygon"}
+}

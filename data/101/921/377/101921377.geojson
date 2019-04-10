@@ -1,0 +1,93 @@
+{
+  "id": 101921377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":108250.473962,
+    "geom:bbox":"35.3823776245,32.2338294983,35.388671875,32.2390327454",
+    "geom:latitude":32.236268,
+    "geom:longitude":35.385625,
+    "iso:country":"PS",
+    "lbl:latitude":32.23575,
+    "lbl:longitude":35.38584,
+    "mps:latitude":32.23575,
+    "mps:longitude":35.38584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062d\u062f\u0629 \u0648\u0647\u0645\u0644\u0627\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Shi\u1e29da wa Haml\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Shihda wa Hamlan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7896866,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ca97081ad53019ac5d5e45658c306a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921377,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921377,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921377,
+    "wof:lastmodified":1549929817,
+    "wof:name":"Shihda wa Hamlan",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38237762451172,
+    32.23382949829102,
+    35.388671875,
+    32.23903274536133
+],
+  "geometry": {"coordinates":[[[35.38547897338867,32.23468399047852],[35.38456726074219,32.23646926879883],[35.38237762451172,32.23810195922852],[35.38311004638672,32.23903274536133],[35.3843879699707,32.23856735229492],[35.38566207885742,32.23662567138672],[35.38694000244141,32.23623275756836],[35.38821792602539,32.23553466796875],[35.388671875,32.23437118530273],[35.38711929321289,32.23382949829102],[35.38593292236328,32.23499298095703],[35.38547897338867,32.23468399047852]]],"type":"Polygon"}
+}

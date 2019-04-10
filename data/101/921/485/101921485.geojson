@@ -1,0 +1,93 @@
+{
+  "id": 101921485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11008.582996,
+    "geom:bbox":"35.0304489136,32.1821022034,35.0322990417,32.1828613281",
+    "geom:latitude":32.182491,
+    "geom:longitude":35.031323,
+    "iso:country":"PS",
+    "lbl:latitude":32.182501,
+    "lbl:longitude":35.031322,
+    "mps:latitude":32.182501,
+    "mps:longitude":35.031322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0637\u0629 \u062a\u062d\u0633\u064a\u0646 \u0645\u0646\u0635\u0648\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Ma\u1e29a\u0163\u0163at Ta\u1e29s\u012bn Man\u015f\u016br"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mahattat Tahseen Mansur",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7900430,
+        "gp:id":1937157
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"27f4b5486163be2c5fa5c6f97aa38192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921485,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921485,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921485,
+    "wof:lastmodified":1549929820,
+    "wof:name":"Mahattat Tahseen Mansur",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03044891357422,
+    32.18210220336914,
+    35.03229904174805,
+    32.182861328125
+],
+  "geometry": {"coordinates":[[[35.03044891357422,32.1822509765625],[35.03056716918945,32.18281173706055],[35.03116607666016,32.182861328125],[35.03188323974609,32.18281173706055],[35.03229904174805,32.18235397338867],[35.03176498413086,32.18210220336914],[35.03044891357422,32.1822509765625]]],"type":"Polygon"}
+}

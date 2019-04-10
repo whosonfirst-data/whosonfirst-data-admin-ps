@@ -1,0 +1,112 @@
+{
+  "id": 101921135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23318.23007,
+    "geom:bbox":"35.4078330994,32.3398704529,35.410068512,32.3417625427",
+    "geom:latitude":32.340819,
+    "geom:longitude":35.408985,
+    "gn:population":2323,
+    "iso:country":"PS",
+    "lbl:latitude":32.340823,
+    "lbl:longitude":35.408968,
+    "mps:latitude":32.340823,
+    "mps:longitude":35.408968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0627\u0633\u064a\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Tayasir"
+    ],
+    "name:dut_x_preferred":[
+        "Tayasir"
+    ],
+    "name:eng_x_preferred":[
+        "Tayasir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d9\u05d0\u05e1\u05d9\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Tayasir"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tayasir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281623,
+        "gp:id":1937304,
+        "qs:id":123904,
+        "wd:id":"Q4120042",
+        "wk:page":"Tayasir"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d0a4ad79325e64d3cbdc7f1092452f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921135,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921135,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921135,
+    "wof:lastmodified":1549929794,
+    "wof:name":"Tayasir",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":2323,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40783309936523,
+    32.33987045288086,
+    35.41006851196289,
+    32.34176254272461
+],
+  "geometry": {"coordinates":[[[35.40783309936523,32.34020233154297],[35.40880584716797,32.34159851074219],[35.41006851196289,32.34176254272461],[35.4091911315918,32.33987045288086],[35.40783309936523,32.34020233154297]]],"type":"Polygon"}
+}

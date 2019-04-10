@@ -1,0 +1,89 @@
+{
+  "id": 1175613247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":110822.935993,
+    "geom:bbox":"35.0341491699,32.2668876648,35.0460166931,32.2705535889",
+    "geom:latitude":32.268502,
+    "geom:longitude":35.040503,
+    "iso:country":"PS",
+    "lbl:latitude":32.268174,
+    "lbl:longitude":35.036157,
+    "mps:latitude":32.268174,
+    "mps:longitude":35.036157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Jubara",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56122344
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"9acfea58fc76b2ca2021ee4a79c9ce3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613247,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613247,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613247,
+    "wof:lastmodified":1549929606,
+    "wof:name":"Khirbet Jubara",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101921313,
+        101921309
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03414916992188,
+    32.26688766479492,
+    35.04601669311523,
+    32.27055358886719
+],
+  "geometry": {"coordinates":[[[[35.03562164306641,32.2677001953125],[35.03414916992188,32.26818466186523],[35.03538131713867,32.26874923706055],[35.03694915771484,32.26875305175781],[35.0380859375,32.26826858520508],[35.03623962402344,32.26758193969727],[35.03562164306641,32.2677001953125]]],[[[35.03938293457031,32.26810455322266],[35.04005432128906,32.26941299438477],[35.04005432128906,32.27055358886719],[35.04303359985352,32.26917266845703],[35.04313278198242,32.26819229125977],[35.04447555541992,32.26802825927734],[35.04601669311523,32.26688766479492],[35.04476928710938,32.26688766479492],[35.04361343383789,32.26729583740234],[35.04284286499023,32.26802825927734],[35.04150009155273,32.26810836791992],[35.03938293457031,32.26810455322266]]]],"type":"MultiPolygon"}
+}

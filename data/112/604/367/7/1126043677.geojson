@@ -1,0 +1,98 @@
+{
+  "id": 1126043677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.12682,31.87022,35.12682,31.87022",
+    "geom:latitude":31.87022,
+    "geom:longitude":35.12682,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1340,
+    "gn:population":1340,
+    "iso:country":"PS",
+    "lbl:latitude":31.87022,
+    "lbl:longitude":35.12682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u064a\u0631\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat e\u1e6d \u1e6cira"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284556,
+    "qs_pg:gn_pop":1340,
+    "qs_pg:name":"A\u0163 \u0162\u012brah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":547091,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284556,
+        "qs_pg:id":547091
+    },
+    "wof:country":"PS",
+    "wof:created":1497302305,
+    "wof:geomhash":"7caa38856d29fc7451ea8a19d89026a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043677,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043677,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043677,
+    "wof:lastmodified":1549929901,
+    "wof:name":"A\u0163 \u0162\u012brah",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1340,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12682,
+    31.87022,
+    35.12682,
+    31.87022
+],
+  "geometry": {"coordinates":[35.12682,31.87022],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 101921149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11224.276857,
+    "geom:bbox":"35.3886795044,32.328742981,35.390335083,32.3296699524",
+    "geom:latitude":32.329162,
+    "geom:longitude":35.389592,
+    "gn:population":538,
+    "iso:country":"PS",
+    "lbl:latitude":32.329196,
+    "lbl:longitude":35.389607,
+    "mps:latitude":32.329196,
+    "mps:longitude":35.389607,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u063a\u0631\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Ath Thaghrah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ath Thaghra",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7896871,
+        "gp:id":1937304,
+        "qs:id":744254
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1e673a838c772f60500f639bb2a05ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921149,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921149,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921149,
+    "wof:lastmodified":1549929795,
+    "wof:name":"Ath Thaghra",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":538,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38867950439453,
+    32.32874298095703,
+    35.39033508300781,
+    32.32966995239258
+],
+  "geometry": {"coordinates":[[[35.38867950439453,32.32889175415039],[35.38911437988281,32.32952117919922],[35.38981246948242,32.32966995239258],[35.39033508300781,32.3293342590332],[35.39020538330078,32.32874298095703],[35.38976669311523,32.32874298095703],[35.38867950439453,32.32889175415039]]],"type":"Polygon"}
+}

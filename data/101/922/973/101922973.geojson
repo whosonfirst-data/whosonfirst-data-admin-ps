@@ -1,0 +1,117 @@
+{
+  "id": 101922973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":42407.961568,
+    "geom:bbox":"35.1495018005,31.4108524323,35.1532859802,31.4136486053",
+    "geom:latitude":31.411954,
+    "geom:longitude":35.151858,
+    "gn:population":321,
+    "iso:country":"PS",
+    "lbl:latitude":31.411963,
+    "lbl:longitude":35.152518,
+    "mps:latitude":31.411963,
+    "mps:longitude":35.152518,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "At Tuw\u0101n\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062a\u0648\u0627\u0646\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "At-tuwani"
+    ],
+    "name:eng_x_preferred":[
+        "At-tuwani"
+    ],
+    "name:fre_x_preferred":[
+        "At-tuwani"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05ea\u05d5\u05d5\u05d0\u05e0\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "At-tuwani"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat a\u0163 \u0162uw\u0101n\u012b"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"At Tuwani",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":2270,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891513,
+        "gp:id":1937307,
+        "wd:id":"Q2899654"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4536e9bd563b567edd321952041f778b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922973,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922973,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922973,
+    "wof:lastmodified":1549929879,
+    "wof:name":"At Tuwani",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":321,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14950180053711,
+    31.41085243225098,
+    35.15328598022461,
+    31.41364860534668
+],
+  "geometry": {"coordinates":[[[35.15160369873047,31.41085243225098],[35.15023803710938,31.41121292114258],[35.14950180053711,31.41184234619141],[35.14971160888672,31.41220474243164],[35.1500244140625,31.41211318969727],[35.15034103393555,31.41175270080566],[35.15118408203125,31.41166305541992],[35.15192031860352,31.41184425354004],[35.15192031860352,31.41229438781738],[35.15202331542969,31.41265678405762],[35.15244293212891,31.41301727294922],[35.15181350708008,31.41364860534668],[35.15265274047852,31.41355895996094],[35.15286636352539,31.41319847106934],[35.15328598022461,31.41229629516602],[35.15317916870117,31.41184425354004],[35.15286636352539,31.41121292114258],[35.15213012695312,31.41121292114258],[35.15160369873047,31.41085243225098]]],"type":"Polygon"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 101919439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21087.073909,
+    "geom:bbox":"34.993637085,32.1725692749,34.9958267212,32.1738128662",
+    "geom:latitude":32.173155,
+    "geom:longitude":34.994836,
+    "gn:population":219,
+    "iso:country":"PS",
+    "lbl:latitude":32.173154,
+    "lbl:longitude":34.994836,
+    "mps:latitude":32.173154,
+    "mps:longitude":34.994836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u0631\u0645\u0636\u064a\u0646 \u0627\u0644\u062c\u0646\u0648\u0628\u064a"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Arab ar Ram\u0101\u1e11\u012bn al Jan\u016bb\u012b"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Arab ar Ramadin al Janu",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889502,
+        "qs:id":743859
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c4c4814f0178b942aa4e4730345980f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919439,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919439,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101919439,
+    "wof:lastmodified":1549929816,
+    "wof:name":"'Arab ar Ramadin al Janu",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99363708496094,
+    32.17256927490234,
+    34.99582672119141,
+    32.17381286621094
+],
+  "geometry": {"coordinates":[[[34.99363708496094,32.17281723022461],[34.99421691894531,32.17381286621094],[34.99582290649414,32.17356491088867],[34.99582672119141,32.17269515991211],[34.99494934082031,32.17256927490234],[34.99363708496094,32.17281723022461]]],"type":"Polygon"}
+}

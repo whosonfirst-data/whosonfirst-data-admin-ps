@@ -1,0 +1,147 @@
+{
+  "id": 101922955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":95395.078492,
+    "geom:bbox":"35.0314064026,31.4181003571,35.0355224609,31.4227581024",
+    "geom:latitude":31.420654,
+    "geom:longitude":35.033453,
+    "gn:population":19355,
+    "iso:country":"PS",
+    "lbl:latitude":31.420454,
+    "lbl:longitude":35.033594,
+    "mps:latitude":31.420454,
+    "mps:longitude":35.033594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0648\u0639"
+    ],
+    "name:cat_x_preferred":[
+        "As-Samu"
+    ],
+    "name:dut_x_preferred":[
+        "As-samu"
+    ],
+    "name:eng_x_preferred":[
+        "As-Samu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0648\u0639"
+    ],
+    "name:fre_x_preferred":[
+        "As-Samu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05e1\u05de\u05d5\u05e2"
+    ],
+    "name:ind_x_preferred":[
+        "Es Samu"
+    ],
+    "name:jav_x_preferred":[
+        "Es Samu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30fb\u30b5\u30e0"
+    ],
+    "name:nld_x_preferred":[
+        "As-samu"
+    ],
+    "name:nno_x_preferred":[
+        "As-Samu"
+    ],
+    "name:nob_x_preferred":[
+        "As-Samu"
+    ],
+    "name:nor_x_preferred":[
+        "As-Samu"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0648\u0639"
+    ],
+    "name:pol_x_preferred":[
+        "As-Samu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0648\u0639"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"As Samu'",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":31.400792,
+    "wd:longitude":35.067075,
+    "wd:wordcount":1618,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284583,
+        "gp:id":1937307,
+        "wd:id":"Q1768653",
+        "wk:page":"As-Samu"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6bde32126b157330f22dfe8cac93ab0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922955,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922955,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922955,
+    "wof:lastmodified":1549929878,
+    "wof:name":"As Samu'",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":19355,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03140640258789,
+    31.41810035705566,
+    35.0355224609375,
+    31.42275810241699
+],
+  "geometry": {"coordinates":[[[35.03300857543945,31.41810035705566],[35.03275680541992,31.41827774047852],[35.03270721435547,31.41843605041504],[35.03261566162109,31.41869354248047],[35.03263854980469,31.41903114318848],[35.03266143798828,31.41930770874023],[35.0325927734375,31.41970443725586],[35.03245162963867,31.4200611114502],[35.03226470947266,31.42025947570801],[35.03203582763672,31.42049598693848],[35.03175735473633,31.42085266113281],[35.03180313110352,31.42109107971191],[35.03191757202148,31.42116928100586],[35.03191757202148,31.42134857177734],[35.03163909912109,31.42160606384277],[35.03140640258789,31.42184257507324],[35.0316162109375,31.42214012145996],[35.03198623657227,31.42206192016602],[35.03226470947266,31.42204284667969],[35.03290939331055,31.42204284667969],[35.03314208984375,31.42190551757812],[35.03321075439453,31.4216480255127],[35.03353500366211,31.4216480255127],[35.03360366821289,31.42182540893555],[35.03362655639648,31.42220306396484],[35.03364944458008,31.42253875732422],[35.03401947021484,31.42275810241699],[35.03438568115234,31.42269897460938],[35.03445816040039,31.42238235473633],[35.03436660766602,31.42204475402832],[35.03448104858398,31.42168807983398],[35.03462219238281,31.42152976989746],[35.03533935546875,31.42133331298828],[35.0355224609375,31.42127418518066],[35.03543090820312,31.42093658447266],[35.03457641601562,31.4198055267334],[35.03300857543945,31.41810035705566]]],"type":"Polygon"}
+}

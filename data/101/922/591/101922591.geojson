@@ -1,0 +1,86 @@
+{
+  "id": 101922591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":55837.277529,
+    "geom:bbox":"35.0247116089,31.6227054596,35.0272369385,31.6266155243",
+    "geom:latitude":31.624423,
+    "geom:longitude":35.026033,
+    "iso:country":"PS",
+    "lbl:latitude":31.624027,
+    "lbl:longitude":35.026052,
+    "mps:latitude":31.624027,
+    "mps:longitude":35.026052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Mushrif",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123330
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a809d90d0e4e5c69ac699b184b09e92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922591,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922591,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922591,
+    "wof:lastmodified":1549929823,
+    "wof:name":"Khirbet Mushrif",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02471160888672,
+    31.62270545959473,
+    35.02723693847656,
+    31.62661552429199
+],
+  "geometry": {"coordinates":[[[35.02536010742188,31.62270545959473],[35.02510833740234,31.62301635742188],[35.02482604980469,31.62344741821289],[35.02471160888672,31.62380790710449],[35.02482604980469,31.62416648864746],[35.02502059936523,31.6246223449707],[35.02544021606445,31.62479209899902],[35.02580261230469,31.62483978271484],[35.02597045898438,31.62515258789062],[35.02597045898438,31.62575149536133],[35.02571868896484,31.62598991394043],[35.02571868896484,31.62635040283203],[35.02588653564453,31.62659072875977],[35.02627563476562,31.62661552429199],[35.02664184570312,31.62618446350098],[35.02678298950195,31.62558364868164],[35.02692413330078,31.62503242492676],[35.02706527709961,31.62441062927246],[35.02723693847656,31.62366676330566],[35.02536010742188,31.62270545959473]]],"type":"Polygon"}
+}

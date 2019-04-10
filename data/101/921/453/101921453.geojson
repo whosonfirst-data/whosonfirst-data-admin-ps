@@ -1,0 +1,101 @@
+{
+  "id": 101921453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000026,
+    "geom:area_square_m":267562.373732,
+    "geom:bbox":"35.1453971863,32.1921844482,35.1538238525,32.1981887817",
+    "geom:latitude":32.195572,
+    "geom:longitude":35.15048,
+    "gn:population":2368,
+    "iso:country":"PS",
+    "lbl:latitude":32.19646,
+    "lbl:longitude":35.150544,
+    "mps:latitude":32.19646,
+    "mps:longitude":35.150544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0625\u0645\u0627\u062a\u064a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Immatain"
+    ],
+    "name:eng_x_preferred":[
+        "Immatain"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05de\u05d0\u05ea\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Immatain"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Immatin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1102,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283609,
+        "gp:id":1937300,
+        "qs:id":123957,
+        "wd:id":"Q2896986"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ad9aef4ac47a8719bd03042096d6d51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "empire_id":136253049,
+            "locality_id":101921453,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921453,
+    "wof:lastmodified":1534985976,
+    "wof:name":"Immatin",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":2368,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613425
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1453971862793,
+    32.19218444824219,
+    35.15382385253906,
+    32.19818878173828
+],
+  "geometry": {"coordinates":[[[35.15302276611328,32.19218444824219],[35.15029525756836,32.192626953125],[35.15000152587891,32.19487380981445],[35.1453971862793,32.19688415527344],[35.14768981933594,32.19818878173828],[35.15131759643555,32.19799423217773],[35.15248870849609,32.19671630859375],[35.15355682373047,32.19479370117188],[35.15382385253906,32.19320678710938],[35.15302276611328,32.19218444824219]]],"type":"Polygon"}
+}

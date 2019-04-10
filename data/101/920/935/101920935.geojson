@@ -1,0 +1,114 @@
+{
+  "id": 101920935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":38301.943905,
+    "geom:bbox":"35.2103157043,32.4369735718,35.2127990723,32.4397239685",
+    "geom:latitude":32.438615,
+    "geom:longitude":35.211737,
+    "gn:population":2376,
+    "iso:country":"PS",
+    "lbl:latitude":32.438861,
+    "lbl:longitude":35.211858,
+    "mps:latitude":32.438861,
+    "mps:longitude":35.211858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u064a\u0631\u062a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0444\u0430\u0439\u0440\u0438\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Kufeirit"
+    ],
+    "name:dut_x_preferred":[
+        "Kufeirit"
+    ],
+    "name:eng_x_preferred":[
+        "Kufeirit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d5\u05e4\u05d9\u05e8\u05d0\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Kufeirit"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kufeirit",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283040,
+        "gp:id":1937299,
+        "wd:id":"Q6441897",
+        "wk:page":"Kufeirit"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"15b2c04147060f666e50e48e22c64f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920935,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920935,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920935,
+    "wof:lastmodified":1549929864,
+    "wof:name":"Kufeirit",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":2376,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2103157043457,
+    32.43697357177734,
+    35.21279907226562,
+    32.43972396850586
+],
+  "geometry": {"coordinates":[[[35.21044540405273,32.43870162963867],[35.2103157043457,32.43929290771484],[35.21044540405273,32.43967056274414],[35.21108245849609,32.43951034545898],[35.21152496337891,32.43945693969727],[35.21184539794922,32.43972396850586],[35.21248245239258,32.43961715698242],[35.21279907226562,32.43896865844727],[35.21273422241211,32.43864822387695],[35.21248245239258,32.43848419189453],[35.21235275268555,32.43778228759766],[35.21254348754883,32.43708038330078],[35.2117805480957,32.43697357177734],[35.21152496337891,32.43767547607422],[35.21146392822266,32.43810653686523],[35.21114349365234,32.43875503540039],[35.21044540405273,32.43870162963867]]],"type":"Polygon"}
+}

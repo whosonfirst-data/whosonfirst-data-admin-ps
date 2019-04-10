@@ -1,0 +1,81 @@
+{
+  "id": 1276911813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06667,32.15,35.06667,32.15",
+    "geom:latitude":32.15,
+    "geom:longitude":35.06667,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Ma`ale Shomeron",
+    "gn:country_code":"PS",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":282987,
+    "gn:latitude":32.15,
+    "gn:longitude":35.06667,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Ma\u2018ale Shomeron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282987
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"558c9f90af909fe737811ebc43a49ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1276911813,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1276911813,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1276911813,
+    "wof:lastmodified":1549929914,
+    "wof:name":"Ma`ale Shomeron",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06667,
+    32.15,
+    35.06667,
+    32.15
+],
+  "geometry": {"coordinates":[35.06667,32.15],"type":"Point"}
+}

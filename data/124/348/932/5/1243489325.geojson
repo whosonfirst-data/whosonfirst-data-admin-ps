@@ -1,0 +1,82 @@
+{
+  "id": 1243489325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18333,32.25,35.18333,32.25",
+    "geom:latitude":32.25,
+    "geom:longitude":35.18333,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Shave Shomeron",
+    "gn:country_code":"PS",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281872,
+    "gn:latitude":32.25,
+    "gn:longitude":35.18333,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Shave Shomeron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281872,
+        "wk:page":"Shavei_Shomron"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c71c71b9a7fd5921329a2654efdf25d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243489325,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243489325,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1243489325,
+    "wof:lastmodified":1549929917,
+    "wof:name":"Shave Shomeron",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18333,
+    32.25,
+    35.18333,
+    32.25
+],
+  "geometry": {"coordinates":[35.18333,32.25],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101920989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":213587.689261,
+    "geom:bbox":"35.2333259583,32.4141845703,35.2400436401,32.4209671021",
+    "geom:latitude":32.417125,
+    "geom:longitude":35.236439,
+    "gn:population":1291,
+    "iso:country":"PS",
+    "lbl:latitude":32.417191,
+    "lbl:longitude":35.23621,
+    "mps:latitude":32.417191,
+    "mps:longitude":35.23621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0627\u0644\u0628\u0627\u0634\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Bir al-Basha"
+    ],
+    "name:dut_x_preferred":[
+        "Bir al-Basha"
+    ],
+    "name:eng_x_preferred":[
+        "Bir al-Basha"
+    ],
+    "name:nno_x_preferred":[
+        "Bir al-Basha"
+    ],
+    "name:unk_x_variant":[
+        "B\u012br al B\u0101sh\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bir al Basha",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895292,
+        "gp:id":1937299,
+        "wd:id":"Q12200560",
+        "wk:page":"Bir al-Basha"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"bf017b57b8e69bd120bcbbac22cf9fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920989,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920989,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920989,
+    "wof:lastmodified":1549929872,
+    "wof:name":"Bir al Basha",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":1291,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23332595825195,
+    32.4141845703125,
+    35.24004364013672,
+    32.42096710205078
+],
+  "geometry": {"coordinates":[[[35.24004364013672,32.4141845703125],[35.23636627197266,32.41436386108398],[35.23629379272461,32.41550445556641],[35.23473739624023,32.41658782958984],[35.23431396484375,32.41670608520508],[35.23417282104492,32.41742706298828],[35.23332595825195,32.41886520385742],[35.23410415649414,32.42030715942383],[35.23502349853516,32.42096710205078],[35.23650741577148,32.41904449462891],[35.23721313476562,32.41802597045898],[35.23792266845703,32.41724395751953],[35.23813247680664,32.41658401489258],[35.2391242980957,32.41646575927734],[35.23976135253906,32.41556549072266],[35.24004364013672,32.4141845703125]]],"type":"Polygon"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1126023927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04012,31.98696,35.04012,31.98696",
+    "geom:latitude":31.98696,
+    "geom:longitude":35.04012,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4188,
+    "gn:population":4188,
+    "iso:country":"PS",
+    "lbl:latitude":31.98696,
+    "lbl:longitude":35.04012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0642\u0628\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Shuqba"
+    ],
+    "name:eng_x_preferred":[
+        "Shuqba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e7\u05d1\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Shuqba"
+    ],
+    "name:unk_x_variant":[
+        "Shuqbah"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281808,
+    "qs_pg:gn_pop":4188,
+    "qs_pg:name":"Shuqb\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123915,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281808,
+        "qs_pg:id":123915,
+        "wd:id":"Q2898432"
+    },
+    "wof:country":"PS",
+    "wof:created":1497301007,
+    "wof:geomhash":"77fc573b0abc4f670cedc86c6e9489ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023927,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023927,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126023927,
+    "wof:lastmodified":1549929887,
+    "wof:name":"Shuqb\u0101",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":4188,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04012,
+    31.98696,
+    35.04012,
+    31.98696
+],
+  "geometry": {"coordinates":[35.04012,31.98696],"type":"Point"}
+}

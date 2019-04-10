@@ -1,0 +1,117 @@
+{
+  "id": 101919455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":25875.048217,
+    "geom:bbox":"34.9943580627,31.969039917,34.9957885742,31.971540451",
+    "geom:latitude":31.97019,
+    "geom:longitude":34.995089,
+    "gn:population":1380,
+    "iso:country":"PS",
+    "lbl:latitude":31.970173,
+    "lbl:longitude":34.995103,
+    "mps:latitude":31.970173,
+    "mps:longitude":34.995103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064c\u062f\u0631\u064f\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0434\u0440\u0443\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Budrus"
+    ],
+    "name:eng_x_preferred":[
+        "Budrus"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d3\u05e8\u05d5\u05e1"
+    ],
+    "name:nno_x_preferred":[
+        "Budrus"
+    ],
+    "name:pol_x_preferred":[
+        "Budrus"
+    ],
+    "name:por_x_preferred":[
+        "Budrus"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Budrus",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284228,
+        "gp:id":1937180,
+        "wd:id":"Q2918883",
+        "wk:page":"Budrus"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2c0c029942b6b66187441a445e7578de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919455,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101919455,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101919455,
+    "wof:lastmodified":1549929811,
+    "wof:name":"Budrus",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1380,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99435806274414,
+    31.96903991699219,
+    34.99578857421875,
+    31.9715404510498
+],
+  "geometry": {"coordinates":[[[34.99435806274414,31.9690990447998],[34.99457168579102,31.97007369995117],[34.99478149414062,31.97153854370117],[34.99542617797852,31.9715404510498],[34.99564361572266,31.9703197479248],[34.99578857421875,31.96965026855469],[34.99528884887695,31.96903991699219],[34.99435806274414,31.9690990447998]]],"type":"Polygon"}
+}

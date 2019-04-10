@@ -1,0 +1,86 @@
+{
+  "id": 101921095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":104447.412718,
+    "geom:bbox":"35.5002822876,32.3678512573,35.5040435791,32.3720207214",
+    "geom:latitude":32.36977,
+    "geom:longitude":35.502043,
+    "iso:country":"PS",
+    "lbl:latitude":32.369635,
+    "lbl:longitude":35.501891,
+    "mps:latitude":32.369635,
+    "mps:longitude":35.501891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Tell el Himma",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937299
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"1db620fab78106679383629f11ab164f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921095,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921095,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921095,
+    "wof:lastmodified":1549929789,
+    "wof:name":"Khirbet Tell el Himma",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50028228759766,
+    32.36785125732422,
+    35.50404357910156,
+    32.37202072143555
+],
+  "geometry": {"coordinates":[[[35.50028228759766,32.36929321289062],[35.50083923339844,32.3714485168457],[35.50261306762695,32.37202072143555],[35.50313186645508,32.3703498840332],[35.50404357910156,32.36912536621094],[35.50338745117188,32.36817932128906],[35.50154876708984,32.36785125732422],[35.50028228759766,32.36929321289062]]],"type":"Polygon"}
+}

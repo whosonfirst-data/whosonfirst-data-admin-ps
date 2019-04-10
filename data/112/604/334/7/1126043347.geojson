@@ -1,0 +1,101 @@
+{
+  "id": 1126043347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46187,32.32745,35.46187,32.32745",
+    "geom:latitude":32.32745,
+    "geom:longitude":35.46187,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":364,
+    "gn:population":364,
+    "iso:country":"PS",
+    "lbl:latitude":32.32745,
+    "lbl:longitude":35.46187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Al M\u0101li\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0627\u0644\u062d"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat al M\u0101li\u1e29"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":282916,
+    "qs_pg:gn_pop":364,
+    "qs_pg:name":"Al M\u0101li\u1e29",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":547025,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282916,
+        "qs_pg:id":547025
+    },
+    "wof:country":"PS",
+    "wof:created":1497302287,
+    "wof:geomhash":"6f687377ecea7da342bed6175f0616ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043347,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043347,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043347,
+    "wof:lastmodified":1549929895,
+    "wof:name":"Al M\u0101li\u1e29",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:population":364,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46187,
+    32.32745,
+    35.46187,
+    32.32745
+],
+  "geometry": {"coordinates":[35.46187,32.32745],"type":"Point"}
+}

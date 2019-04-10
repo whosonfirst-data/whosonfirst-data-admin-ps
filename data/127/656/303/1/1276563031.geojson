@@ -1,0 +1,87 @@
+{
+  "id": 1276563031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20783,31.83026,35.20783,31.83026",
+    "geom:latitude":31.83026,
+    "geom:longitude":35.20783,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bayt Hanina al Balad",
+    "gn:country_code":"PS",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537203,
+    "gn:latitude":31.83026,
+    "gn:longitude":35.20783,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Bayt \u1e28an\u012bn\u0101 al Balad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062d\u0646\u064a\u0646\u0627 \u0627\u0644\u0628\u0644\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u1e28an\u012bn\u0101 al Balad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537203
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e08f6f67b782aa4184c425238f04e1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1276563031,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1276563031,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1276563031,
+    "wof:lastmodified":1549929914,
+    "wof:name":"Bayt Hanina al Balad",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20783,
+    31.83026,
+    35.20783,
+    31.83026
+],
+  "geometry": {"coordinates":[35.20783,31.83026],"type":"Point"}
+}

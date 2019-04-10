@@ -1,0 +1,121 @@
+{
+  "id": 101921115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":460044.133792,
+    "geom:bbox":"35.2383346558,32.3536071777,35.2503623962,32.3609733582",
+    "geom:latitude":32.356732,
+    "geom:longitude":35.244899,
+    "gn:population":4141,
+    "iso:country":"PS",
+    "lbl:latitude":32.356563,
+    "lbl:longitude":35.244808,
+    "mps:latitude":32.356563,
+    "mps:longitude":35.244808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u015e\u0101n\u016br"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0627\u0646\u0648\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Sanur"
+    ],
+    "name:dan_x_preferred":[
+        "Sanur"
+    ],
+    "name:dut_x_preferred":[
+        "Sanur"
+    ],
+    "name:eng_x_preferred":[
+        "Sanur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d5\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Sanur"
+    ],
+    "name:nno_x_preferred":[
+        "Sanur i Jenin"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sanur",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281997,
+        "gp:id":1937300,
+        "qs:id":123919,
+        "wd:id":"Q2384654"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c5b25eeba3506daed0551574cf380652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921115,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921115,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921115,
+    "wof:lastmodified":1549929801,
+    "wof:name":"Sanur",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":4141,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23833465576172,
+    32.35360717773438,
+    35.25036239624023,
+    32.3609733581543
+],
+  "geometry": {"coordinates":[[[35.24118804931641,32.35750198364258],[35.2425537109375,32.35750198364258],[35.24317169189453,32.35918426513672],[35.24354553222656,32.36013412475586],[35.24528121948242,32.3609733581543],[35.24627304077148,32.36002731323242],[35.24726486206055,32.35929107666016],[35.24664306640625,32.35729217529297],[35.24813079833984,32.35760498046875],[35.25036239624023,32.35739517211914],[35.25036239624023,32.3564453125],[35.2497444152832,32.3548698425293],[35.24875259399414,32.35444641113281],[35.24763488769531,32.35444641113281],[35.24676513671875,32.35360717773438],[35.24515533447266,32.35392379760742],[35.24366760253906,32.35434341430664],[35.24304580688477,32.35528945922852],[35.24155807495117,32.3548698425293],[35.24031829833984,32.35497665405273],[35.23970031738281,32.35581970214844],[35.23870849609375,32.35518646240234],[35.23833465576172,32.35634613037109],[35.23945236206055,32.35729217529297],[35.24118804931641,32.35750198364258]]],"type":"Polygon"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1126020795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22451,31.61083,35.22451,31.61083",
+    "geom:latitude":31.61083,
+    "geom:longitude":35.22451,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":448,
+    "gn:population":448,
+    "iso:country":"PS",
+    "lbl:latitude":31.61083,
+    "lbl:longitude":35.22451,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "K\u012bs\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u064a\u0633\u0627\u0646"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7890392,
+    "qs_pg:gn_pop":448,
+    "qs_pg:name":"K\u012bs\u0101n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":743887,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890392,
+        "qs_pg:id":743887
+    },
+    "wof:country":"PS",
+    "wof:created":1497300819,
+    "wof:geomhash":"f8ad2570dab756e1345ca6bc0d672a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126020795,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126020795,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126020795,
+    "wof:lastmodified":1549929885,
+    "wof:name":"K\u012bs\u0101n",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:population":448,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22451,
+    31.61083,
+    35.22451,
+    31.61083
+],
+  "geometry": {"coordinates":[35.22451,31.61083],"type":"Point"}
+}

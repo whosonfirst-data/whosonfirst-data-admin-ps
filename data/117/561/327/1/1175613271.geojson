@@ -1,0 +1,115 @@
+{
+  "id": 1175613271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":107864.668632,
+    "geom:bbox":"35.1385498047,32.4810905457,35.1437034607,32.4849624634",
+    "geom:latitude":32.483226,
+    "geom:longitude":35.140999,
+    "gn:population":366,
+    "iso:country":"PS",
+    "lbl:latitude":32.483279,
+    "lbl:longitude":35.141184,
+    "mps:latitude":32.483279,
+    "mps:longitude":35.141184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0631\u064a\u062d\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Umm ar-Rihan"
+    ],
+    "name:dut_x_preferred":[
+        "Umm ar-Rihan"
+    ],
+    "name:eng_x_preferred":[
+        "Umm ar-Rihan"
+    ],
+    "name:nno_x_preferred":[
+        "Umm ar-Rihan"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Um er Rih\u0101n"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm ar Rihan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1151,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283080,
+        "gp:id":22722787,
+        "qs:id":547034,
+        "wd:id":"Q7881670"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"3e0f5dd759a084a55e6f0e1bebdd140a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613271,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613271,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613271,
+    "wof:lastmodified":1549929612,
+    "wof:name":"Umm ar Rihan",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":366,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101920805,
+        101920803
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1385498046875,
+    32.4810905456543,
+    35.14370346069336,
+    32.48496246337891
+],
+  "geometry": {"coordinates":[[[[35.13882827758789,32.48228073120117],[35.1391487121582,32.48238754272461],[35.13953018188477,32.48200988769531],[35.13985061645508,32.48179244995117],[35.13978576660156,32.48114776611328],[35.13902282714844,32.4810905456543],[35.13876724243164,32.48179244995117],[35.13882827758789,32.48228073120117]]],[[[35.13985824584961,32.48241806030273],[35.13954925537109,32.48352813720703],[35.1385498046875,32.484375],[35.13916397094727,32.48496246337891],[35.13985824584961,32.48469924926758],[35.14147186279297,32.48489761352539],[35.1418571472168,32.48418045043945],[35.14224243164062,32.48385620117188],[35.14370346069336,32.48405075073242],[35.14354705810547,32.48333358764648],[35.14262771606445,32.48300933837891],[35.14224243164062,32.48294067382812],[35.14270401000977,32.48268127441406],[35.14316558837891,32.48189926147461],[35.14239501953125,32.48137664794922],[35.14155197143555,32.48209381103516],[35.13985824584961,32.48241806030273]]]],"type":"MultiPolygon"}
+}

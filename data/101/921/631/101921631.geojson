@@ -1,0 +1,93 @@
+{
+  "id": 101921631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":14460.428457,
+    "geom:bbox":"35.3652572632,32.1105995178,35.3667259216,32.1119422913",
+    "geom:latitude":32.111339,
+    "geom:longitude":35.365882,
+    "iso:country":"PS",
+    "lbl:latitude":32.111331,
+    "lbl:longitude":35.365866,
+    "mps:latitude":32.111331,
+    "mps:longitude":35.365866,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u062e\u0634\u0628\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat e\u1e6d \u1e6cuwaiyil"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tall al Khashaba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283136,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"594f5590847e595fd9dc6b4ebd109122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921631,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921631,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921631,
+    "wof:lastmodified":1549929833,
+    "wof:name":"Tall al Khashaba",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36525726318359,
+    32.11059951782227,
+    35.36672592163086,
+    32.11194229125977
+],
+  "geometry": {"coordinates":[[[35.36525726318359,32.11088943481445],[35.36525726318359,32.11184692382812],[35.36616134643555,32.11194229125977],[35.36672592163086,32.11155700683594],[35.36604690551758,32.11059951782227],[35.36525726318359,32.11088943481445]]],"type":"Polygon"}
+}

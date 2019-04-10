@@ -1,0 +1,86 @@
+{
+  "id": 101921735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":33646.739522,
+    "geom:bbox":"35.1500320435,32.0515213013,35.1527137756,32.0540046692",
+    "geom:latitude":32.052588,
+    "geom:longitude":35.151099,
+    "iso:country":"PS",
+    "lbl:latitude":32.052451,
+    "lbl:longitude":35.151078,
+    "mps:latitude":32.052451,
+    "mps:longitude":35.151078,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mazari' an Nubani (Bani Zeid ash S",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"4d65d527f6422eac84cc715e6dd1ae54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921735,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921735,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921735,
+    "wof:lastmodified":1549929845,
+    "wof:name":"Mazari' an Nubani (Bani Zeid ash S",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15003204345703,
+    32.05152130126953,
+    35.15271377563477,
+    32.05400466918945
+],
+  "geometry": {"coordinates":[[[35.15271377563477,32.05245971679688],[35.15224075317383,32.05219268798828],[35.15105819702148,32.05152130126953],[35.15018844604492,32.05171966552734],[35.15042495727539,32.05299758911133],[35.15003204345703,32.05339813232422],[35.15066146850586,32.05400466918945],[35.15137100219727,32.05313110351562],[35.15271377563477,32.05245971679688]]],"type":"Polygon"}
+}

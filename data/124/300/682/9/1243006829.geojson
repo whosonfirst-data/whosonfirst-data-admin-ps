@@ -1,0 +1,85 @@
+{
+  "id": 1243006829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29832,32.45015,35.29832,32.45015",
+    "geom:latitude":32.45015,
+    "geom:longitude":35.29832,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Bal`amah",
+    "gn:country_code":"PS",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":284450,
+    "gn:latitude":32.45015,
+    "gn:longitude":35.29832,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bal\u2018amah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u2018ama",
+        "Bal\u2018amah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284450
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0f12b1c69d940da071616d151542a173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243006829,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1243006829,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1243006829,
+    "wof:lastmodified":1549929907,
+    "wof:name":"Bal`amah",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29832000000001,
+    32.45015,
+    35.29832000000001,
+    32.45015
+],
+  "geometry": {"coordinates":[35.29832000000001,32.45015],"type":"Point"}
+}

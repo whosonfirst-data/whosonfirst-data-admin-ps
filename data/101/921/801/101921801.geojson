@@ -1,0 +1,98 @@
+{
+  "id": 101921801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":158113.764899,
+    "geom:bbox":"35.1620063782,32.0064811707,35.1675453186,32.0102424622",
+    "geom:latitude":32.008248,
+    "geom:longitude":35.1645,
+    "gn:population":604,
+    "iso:country":"PS",
+    "lbl:latitude":32.008258,
+    "lbl:longitude":35.164223,
+    "mps:latitude":32.008258,
+    "mps:longitude":35.164223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0635\u0641\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Um es Saf"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm Safa",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281441,
+        "gp:id":1937300,
+        "qs:id":79867
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"dfa21fda3742ddf4fe2c5b71ed8a3e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921801,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921801,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921801,
+    "wof:lastmodified":1549929855,
+    "wof:name":"Umm Safa",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":604,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16200637817383,
+    32.0064811706543,
+    35.16754531860352,
+    32.0102424621582
+],
+  "geometry": {"coordinates":[[[35.16200637817383,32.00656127929688],[35.16219329833984,32.00856018066406],[35.16200637817383,32.009521484375],[35.16313171386719,32.0102424621582],[35.1649169921875,32.01016235351562],[35.16510391235352,32.00920104980469],[35.16623306274414,32.00904083251953],[35.16754531860352,32.00872039794922],[35.16754531860352,32.00760269165039],[35.16623306274414,32.0064811706543],[35.16426086425781,32.00696182250977],[35.16200637817383,32.00656127929688]]],"type":"Polygon"}
+}

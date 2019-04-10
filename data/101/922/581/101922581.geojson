@@ -1,0 +1,86 @@
+{
+  "id": 101922581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10720.529267,
+    "geom:bbox":"35.2057685852,31.627696991,35.207572937,31.6295471191",
+    "geom:latitude":31.628698,
+    "geom:longitude":35.206838,
+    "iso:country":"PS",
+    "lbl:latitude":31.628787,
+    "lbl:longitude":35.206851,
+    "mps:latitude":31.628787,
+    "mps:longitude":35.206851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Tuqu'",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56123332
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"343bafc590bab7a3ec1858cc0c35035d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922581,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922581,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922581,
+    "wof:lastmodified":1549929827,
+    "wof:name":"Khirbet Tuqu'",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20576858520508,
+    31.6276969909668,
+    35.20757293701172,
+    31.62954711914062
+],
+  "geometry": {"coordinates":[[[35.20648956298828,31.62872505187988],[35.20576858520508,31.62841606140137],[35.20672988891602,31.62954711914062],[35.20745086669922,31.62841606140137],[35.20757293701172,31.6276969909668],[35.20648956298828,31.62872505187988]]],"type":"Polygon"}
+}

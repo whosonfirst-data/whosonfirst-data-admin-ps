@@ -1,0 +1,99 @@
+{
+  "id": 101922789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22848.02413,
+    "geom:bbox":"35.1475601196,31.4860858917,35.1496238708,31.488117218",
+    "geom:latitude":31.487169,
+    "geom:longitude":35.148521,
+    "iso:country":"PS",
+    "lbl:latitude":31.48715,
+    "lbl:longitude":35.148505,
+    "mps:latitude":31.48715,
+    "mps:longitude":35.148505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "B\u012br\u012bn"
+    ],
+    "name:pol_x_preferred":[
+        "Birajn"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Birin",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":35.0094,
+    "wd:longitude":36.6694,
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892526,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b276dbfaa9281df1737ce90c86dbb2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922789,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922789,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922789,
+    "wof:lastmodified":1549929852,
+    "wof:name":"Birin",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14756011962891,
+    31.48608589172363,
+    35.14962387084961,
+    31.48811721801758
+],
+  "geometry": {"coordinates":[[[35.14910888671875,31.48608589172363],[35.14807510375977,31.48679161071777],[35.14756011962891,31.48749923706055],[35.14766311645508,31.48802947998047],[35.14797210693359,31.48811721801758],[35.14838409423828,31.48811721801758],[35.14879989624023,31.4876766204834],[35.14921188354492,31.48705673217773],[35.14962387084961,31.48661613464355],[35.14910888671875,31.48608589172363]]],"type":"Polygon"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1175613287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9674.604845,
+    "geom:bbox":"35.1258239746,31.4582328796,35.1288490295,31.4597015381",
+    "geom:latitude":31.459013,
+    "geom:longitude":35.127232,
+    "iso:country":"PS",
+    "lbl:latitude":31.459038,
+    "lbl:longitude":35.126935,
+    "mps:latitude":31.459038,
+    "mps:longitude":35.126935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ad Duweir",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d63b5968364fd26c0746e85131851909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613287,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1175613287,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1175613287,
+    "wof:lastmodified":1549929616,
+    "wof:name":"Ad Duweir",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101922841,
+        101922845
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12582397460938,
+    31.45823287963867,
+    35.12884902954102,
+    31.45970153808594
+],
+  "geometry": {"coordinates":[[[[35.12845993041992,31.45826721191406],[35.12844848632812,31.45823287963867],[35.12703704833984,31.45874977111816],[35.12582397460938,31.45926856994629],[35.12651062011719,31.45946502685547],[35.12704849243164,31.4592342376709],[35.12782669067383,31.45869064331055],[35.12845993041992,31.45826721191406]]],[[[35.12831497192383,31.45970153808594],[35.12834548950195,31.45970153808594],[35.12884902954102,31.45927047729492],[35.12876510620117,31.45905685424805],[35.12839126586914,31.45941734313965],[35.12831497192383,31.45970153808594]]]],"type":"MultiPolygon"}
+}

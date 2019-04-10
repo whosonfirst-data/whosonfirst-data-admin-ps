@@ -1,0 +1,126 @@
+{
+  "id": 1126023947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.07689,32.35244,35.07689,32.35244",
+    "geom:latitude":32.35244,
+    "geom:longitude":35.07689,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9187,
+    "gn:population":9187,
+    "iso:country":"PS",
+    "lbl:latitude":32.35244,
+    "lbl:longitude":35.07689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u063a\u0635\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Deir al-Ghusoun"
+    ],
+    "name:eng_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:fre_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05d0\u05dc-\u05e2'\u05d5\u05e1\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Dayr al-Ghusun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a4\u30eb\u30fb\u30a2\u30eb\uff1d\u30b0\u30b9\u30fc\u30f3"
+    ],
+    "name:nno_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:nob_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:spa_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:unk_x_variant":[
+        "Dayr al Ghu\u015fn"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":284100,
+    "qs_pg:gn_pop":9187,
+    "qs_pg:name":"Dayr al Ghu\u015f\u016bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":123973,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284100,
+        "qs_pg:id":123973,
+        "wd:id":"Q627230"
+    },
+    "wof:country":"PS",
+    "wof:created":1497301009,
+    "wof:geomhash":"fcdad97dc18b837278a5c4421d3d875b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023947,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126023947,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126023947,
+    "wof:lastmodified":1549929887,
+    "wof:name":"Dayr al Ghu\u015f\u016bn",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":9187,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07689,
+    32.35244,
+    35.07689,
+    32.35244
+],
+  "geometry": {"coordinates":[35.07689,32.35244],"type":"Point"}
+}

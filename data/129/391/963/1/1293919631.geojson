@@ -1,0 +1,81 @@
+{
+  "id": 1293919631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1308,31.85941,35.1308,31.85941",
+    "geom:latitude":31.85941,
+    "geom:longitude":35.1308,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Bayt Duqu",
+    "gn:country_code":"PS",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7873934,
+    "gn:latitude":31.85941,
+    "gn:longitude":35.1308,
+    "gn:modification_date":"2011-06-27",
+    "gn:name":"Bayt Duqu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        421200701,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873934
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"60ebd50f44b5f66cdc30740c7b77fd29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293919631,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":421200701,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293919631,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1293919631,
+    "wof:lastmodified":1549929924,
+    "wof:name":"Bayt Duqu",
+    "wof:parent_id":421200701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1308,
+    31.85941,
+    35.1308,
+    31.85941
+],
+  "geometry": {"coordinates":[35.1308,31.85941],"type":"Point"}
+}

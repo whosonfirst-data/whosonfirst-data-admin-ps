@@ -1,0 +1,93 @@
+{
+  "id": 101921203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8582.579142,
+    "geom:bbox":"35.430896759,32.3068580627,35.4324226379,32.3079376221",
+    "geom:latitude":32.307219,
+    "geom:longitude":35.431492,
+    "iso:country":"PS",
+    "lbl:latitude":32.307219,
+    "lbl:longitude":35.431417,
+    "mps:latitude":32.307219,
+    "mps:longitude":35.431417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u064a\u0631\u0632\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Yarzah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Yarza",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913213,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281299,
+        "gp:id":1937304
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"02c3fe3998c741057952f5355f7a85fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921203,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913213,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921203,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921203,
+    "wof:lastmodified":1549929799,
+    "wof:name":"Khirbet Yarza",
+    "wof:parent_id":1091913213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4308967590332,
+    32.30685806274414,
+    35.43242263793945,
+    32.30793762207031
+],
+  "geometry": {"coordinates":[[[35.4308967590332,32.30686187744141],[35.43115615844727,32.30793762207031],[35.43242263793945,32.30685806274414],[35.4308967590332,32.30686187744141]]],"type":"Polygon"}
+}

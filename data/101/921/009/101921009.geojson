@@ -1,0 +1,93 @@
+{
+  "id": 101921009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":48311.723542,
+    "geom:bbox":"35.2256126404,32.4048881531,35.2290763855,32.4080657959",
+    "geom:latitude":32.40625,
+    "geom:longitude":35.227285,
+    "iso:country":"PS",
+    "lbl:latitude":32.406138,
+    "lbl:longitude":35.227403,
+    "mps:latitude":32.406138,
+    "mps:longitude":35.227403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0641\u064a\u0631\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat el \u1e24ufeira"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Hafira",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283668,
+        "gp:id":56123308
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"eb003476958ee02fff50146133499b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921009,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921009,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921009,
+    "wof:lastmodified":1549929791,
+    "wof:name":"Al Hafira",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22561264038086,
+    32.40488815307617,
+    35.22907638549805,
+    32.40806579589844
+],
+  "geometry": {"coordinates":[[[35.226318359375,32.40572738647461],[35.226318359375,32.40674591064453],[35.22561264038086,32.40728759765625],[35.22639083862305,32.40806579589844],[35.22702789306641,32.40698623657227],[35.2280158996582,32.40692520141602],[35.22830200195312,32.40614700317383],[35.22907638549805,32.40548706054688],[35.22822952270508,32.40488815307617],[35.22731018066406,32.40518569946289],[35.226318359375,32.40572738647461]]],"type":"Polygon"}
+}

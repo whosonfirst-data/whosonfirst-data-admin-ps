@@ -1,0 +1,104 @@
+{
+  "id": 101921789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":171769.24365,
+    "geom:bbox":"35.252407074,32.0139389038,35.2577667236,32.022567749",
+    "geom:latitude":32.0185,
+    "geom:longitude":35.256037,
+    "gn:population":4435,
+    "iso:country":"PS",
+    "lbl:latitude":32.018283,
+    "lbl:longitude":35.256443,
+    "mps:latitude":32.018283,
+    "mps:longitude":35.256443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Mazra'a ash-Sharqiya"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Mazra'a ash-Sharqiya"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Mazra'a ash Sharqiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.003333,
+    "wd:longitude":35.273056,
+    "wd:wordcount":1610,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285033,
+        "gp:id":1937300,
+        "wd:id":"Q4702883"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"cc3246bc3c7f75d6d212728b931aaa50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921789,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921789,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921789,
+    "wof:lastmodified":1549929853,
+    "wof:name":"Al Mazra'a ash Sharqiya",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":4435,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25240707397461,
+    32.01393890380859,
+    35.25776672363281,
+    32.02256774902344
+],
+  "geometry": {"coordinates":[[[35.25776672363281,32.01393890380859],[35.25608062744141,32.01444625854492],[35.25558471679688,32.01596832275391],[35.25548553466797,32.01774597167969],[35.25528717041016,32.01960754394531],[35.25498962402344,32.02087783813477],[35.25240707397461,32.02214813232422],[35.25379943847656,32.02248382568359],[35.25548553466797,32.02256774902344],[35.25737380981445,32.01901626586914],[35.25746917724609,32.01791381835938],[35.25776672363281,32.01393890380859]]],"type":"Polygon"}
+}

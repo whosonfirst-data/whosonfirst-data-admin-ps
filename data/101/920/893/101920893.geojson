@@ -1,0 +1,117 @@
+{
+  "id": 101920893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":167584.584006,
+    "geom:bbox":"35.3453025818,32.4539642334,35.3539619446,32.4586410522",
+    "geom:latitude":32.45646,
+    "geom:longitude":35.349351,
+    "gn:population":5506,
+    "iso:country":"PS",
+    "lbl:latitude":32.456258,
+    "lbl:longitude":35.348334,
+    "mps:latitude":32.456258,
+    "mps:longitude":35.348334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0623\u0628\u0648 \u0636\u0639\u064a\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:dut_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:nob_x_preferred":[
+        "Deir Abu Da'if"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr Abu Da\u2019if"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Abu Da'if",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.455917,
+    "wd:longitude":35.365736,
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284105,
+        "gp:id":56123307,
+        "qs:id":79932,
+        "wd:id":"Q3380916"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"acfea6150b77c68c6ffacf87ec046d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920893,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920893,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920893,
+    "wof:lastmodified":1549929863,
+    "wof:name":"Deir Abu Da'if",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":5506,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34530258178711,
+    32.45396423339844,
+    35.35396194458008,
+    32.45864105224609
+],
+  "geometry": {"coordinates":[[[35.34530258178711,32.45414352416992],[35.3458251953125,32.45511627197266],[35.34718322753906,32.45617294311523],[35.34718322753906,32.45714569091797],[35.34854125976562,32.45793914794922],[35.34926986694336,32.45705413818359],[35.35041809082031,32.45829010009766],[35.35302352905273,32.45864105224609],[35.35396194458008,32.45749282836914],[35.35239791870117,32.45705413818359],[35.34968566894531,32.45564270019531],[35.34728240966797,32.45396423339844],[35.34530258178711,32.45414352416992]]],"type":"Polygon"}
+}

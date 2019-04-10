@@ -1,0 +1,116 @@
+{
+  "id": 101921655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":585853.061178,
+    "geom:bbox":"35.0865478516,32.1007156372,35.0988769531,32.1106414795",
+    "geom:latitude":32.105103,
+    "geom:longitude":35.092003,
+    "geonames:id":"281982,281979",
+    "iso:country":"PS",
+    "lbl:latitude":32.104264,
+    "lbl:longitude":35.091583,
+    "mps:latitude":32.104264,
+    "mps:longitude":35.091583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0635\u0631\u0637\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Sarta"
+    ],
+    "name:dut_x_preferred":[
+        "Sarta"
+    ],
+    "name:eng_x_preferred":[
+        "Sarta"
+    ],
+    "name:nno_x_preferred":[
+        "Sarta"
+    ],
+    "name:pol_x_preferred":[
+        "Sarta"
+    ],
+    "name:unk_x_variant":[
+        "\u015ear\u0163ah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sarta",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":32.104167,
+    "wd:longitude":35.090278,
+    "wd:wordcount":782,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281979,
+        "gp:id":56123354,
+        "qs_pg:id":123917,
+        "wd:id":"Q7424625"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"112976366824afbe90aa891d9b022094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921655,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921655,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921655,
+    "wof:lastmodified":1549929843,
+    "wof:name":"Sarta",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0865478515625,
+    32.10071563720703,
+    35.098876953125,
+    32.11064147949219
+],
+  "geometry": {"coordinates":[[[35.09590530395508,32.10493087768555],[35.09722518920898,32.10615158081055],[35.0987663269043,32.10530853271484],[35.098876953125,32.10409164428711],[35.09745025634766,32.10362243652344],[35.09634780883789,32.10296630859375],[35.09601974487305,32.10277938842773],[35.09613037109375,32.10146713256836],[35.09481048583984,32.10071563720703],[35.09360122680664,32.10174560546875],[35.09183883666992,32.10155487060547],[35.0889778137207,32.10164642333984],[35.08787536621094,32.10305023193359],[35.08842468261719,32.104736328125],[35.08963394165039,32.10586166381836],[35.08687973022461,32.10754776000977],[35.0865478515625,32.10857772827148],[35.08731842041016,32.10942077636719],[35.08885955810547,32.10857772827148],[35.08973693847656,32.11007690429688],[35.09039688110352,32.11064147949219],[35.09215927124023,32.11017608642578],[35.09183120727539,32.10829925537109],[35.09249114990234,32.10680389404297],[35.09381484985352,32.10549163818359],[35.09502792358398,32.10474395751953],[35.09590530395508,32.10493087768555]]],"type":"Polygon"}
+}

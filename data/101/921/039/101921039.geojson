@@ -1,0 +1,103 @@
+{
+  "id": 101921039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":98497.931537,
+    "geom:bbox":"35.0555610657,32.3901023865,35.0596122742,32.394153595",
+    "geom:latitude":32.392224,
+    "geom:longitude":35.057975,
+    "gn:population":3052,
+    "iso:country":"PS",
+    "lbl:latitude":32.392175,
+    "lbl:longitude":35.058006,
+    "mps:latitude":32.392175,
+    "mps:longitude":35.058006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u062a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Zeita"
+    ],
+    "name:nno_x_preferred":[
+        "Zeita i Tulkarm"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Zeita",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913233,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281226,
+        "gp:id":56123312,
+        "qs:id":547005,
+        "wd:id":"Q8068604"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"348c105dfefacb2134f10eef07ca9bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921039,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913233,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921039,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921039,
+    "wof:lastmodified":1549929781,
+    "wof:name":"Zeita",
+    "wof:parent_id":1091913233,
+    "wof:placetype":"locality",
+    "wof:population":3052,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05556106567383,
+    32.39010238647461,
+    35.05961227416992,
+    32.3941535949707
+],
+  "geometry": {"coordinates":[[[35.05815887451172,32.3941535949707],[35.05960845947266,32.3935432434082],[35.05961227416992,32.39182281494141],[35.05831146240234,32.39010238647461],[35.05556106567383,32.39206314086914],[35.05815887451172,32.3941535949707]]],"type":"Polygon"}
+}

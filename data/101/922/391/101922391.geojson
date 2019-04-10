@@ -1,0 +1,97 @@
+{
+  "id": 101922391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4155.992206,
+    "geom:bbox":"35.2805213928,31.7093334198,35.281414032,31.7100715637",
+    "geom:latitude":31.709703,
+    "geom:longitude":35.281028,
+    "iso:country":"PS",
+    "lbl:latitude":31.709822,
+    "lbl:longitude":35.281065,
+    "mps:latitude":31.709822,
+    "mps:longitude":35.281065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dar Salah"
+    ],
+    "name:eng_x_preferred":[
+        "Dar Salah"
+    ],
+    "name:nno_x_preferred":[
+        "Dar Salah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dar Salah",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873886,
+        "wd:id":"Q5221933",
+        "wk:page":"Dar Salah"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"bc573a273a22994ec78e95da08120450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922391,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922391,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922391,
+    "wof:lastmodified":1549929811,
+    "wof:name":"Dar Salah",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28052139282227,
+    31.7093334197998,
+    35.28141403198242,
+    31.7100715637207
+],
+  "geometry": {"coordinates":[[[35.28052139282227,31.7093505859375],[35.2806282043457,31.70968246459961],[35.28079986572266,31.70986175537109],[35.28094100952148,31.71002388000488],[35.28128433227539,31.7100715637207],[35.28138732910156,31.7099494934082],[35.28138732910156,31.70978736877441],[35.28137588500977,31.70960998535156],[35.28141403198242,31.70939826965332],[35.28116989135742,31.70938301086426],[35.28110122680664,31.70960998535156],[35.28084564208984,31.70956039428711],[35.28074264526367,31.7093334197998],[35.28052139282227,31.7093505859375]]],"type":"Polygon"}
+}

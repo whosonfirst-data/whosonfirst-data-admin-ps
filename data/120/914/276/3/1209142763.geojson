@@ -1,0 +1,85 @@
+{
+  "id": 1209142763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17728,32.00109,35.17728,32.00109",
+    "geom:latitude":32.00109,
+    "geom:longitude":35.17728,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"`Ateret",
+    "gn:country_code":"PS",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":284571,
+    "gn:latitude":32.00109,
+    "gn:longitude":35.17728,
+    "gn:modification_date":"2017-12-03",
+    "gn:name":"\u2018Ateret",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ateret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284571,
+        "wk:page":"Ateret"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"88331c4fc0938afef03e496b82c1b3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209142763,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209142763,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209142763,
+    "wof:lastmodified":1549929703,
+    "wof:name":"`Ateret",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17728,
+    32.00109,
+    35.17728,
+    32.00109
+],
+  "geometry": {"coordinates":[35.17728,32.00109],"type":"Point"}
+}

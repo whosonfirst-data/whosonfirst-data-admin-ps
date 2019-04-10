@@ -1,0 +1,87 @@
+{
+  "id": 101922023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":627386.080393,
+    "geom:bbox":"35.1172409058,31.8674716949,35.1316604614,31.8736305237",
+    "geom:latitude":31.870218,
+    "geom:longitude":35.125191,
+    "geonames:id":"284556,8052424",
+    "iso:country":"PS",
+    "lbl:latitude":31.870131,
+    "lbl:longitude":35.126495,
+    "mps:latitude":31.870131,
+    "mps:longitude":35.126495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"At Tira",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937180
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"0df4cd37a7eb9e67498c4b5a1809dcfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922023,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922023,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922023,
+    "wof:lastmodified":1549929777,
+    "wof:name":"At Tira",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11724090576172,
+    31.86747169494629,
+    35.13166046142578,
+    31.87363052368164
+],
+  "geometry": {"coordinates":[[[35.12325668334961,31.87224769592285],[35.12363815307617,31.87363052368164],[35.12649154663086,31.87271118164062],[35.12843704223633,31.87298393249512],[35.12930679321289,31.8734302520752],[35.13150405883789,31.87166023254395],[35.13158416748047,31.87060737609863],[35.13166046142578,31.86922645568848],[35.13081359863281,31.86850166320801],[35.12904357910156,31.86777687072754],[35.12564849853516,31.86747360229492],[35.12233352661133,31.86747169494629],[35.11986541748047,31.86856079101562],[35.11797332763672,31.86970138549805],[35.11724090576172,31.87059783935547],[35.11762237548828,31.87223052978516],[35.11970901489258,31.87191581726074],[35.12186813354492,31.8707332611084],[35.12407684326172,31.87119483947754],[35.12325668334961,31.87224769592285]]],"type":"Polygon"}
+}

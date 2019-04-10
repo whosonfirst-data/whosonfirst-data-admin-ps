@@ -1,0 +1,168 @@
+{
+  "id": 1125841713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.49514,31.5464,34.49514,31.5464",
+    "geom:latitude":31.5464,
+    "geom:longitude":34.49514,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":56919,
+    "gn:population":56919,
+    "iso:country":"PS",
+    "lbl:latitude":31.5464,
+    "lbl:longitude":34.49514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0644\u0627\u0647\u064a\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:cze_x_preferred":[
+        "Bajt Lah\u00edja"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:fre_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:ger_x_preferred":[
+        "Bait Lahiya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05dc\u05d0\u05d4\u05d9\u05d0"
+    ],
+    "name:ind_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:ita_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a4\u30c8\u30a5\u30fb\u30e9\u30d2\u30a2"
+    ],
+    "name:min_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:nob_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:nor_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a\u200c\u0644\u0627\u0647\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Lahija"
+    ],
+    "name:por_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "name:sco_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Lahia"
+    ],
+    "name:tur_x_preferred":[
+        "Beyt Lahya"
+    ],
+    "name:unk_x_variant":[
+        "Bayt L\u0101hiya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0644\u0627\u06c1\u06cc\u0627"
+    ],
+    "name:wel_x_preferred":[
+        "Beit Lahiya"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281145,
+    "qs_pg:gn_pop":56919,
+    "qs_pg:name":"Bayt L\u0101hy\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":203621,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913267,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281145,
+        "qs_pg:id":203621,
+        "wd:id":"Q803986"
+    },
+    "wof:country":"PS",
+    "wof:created":1497292963,
+    "wof:geomhash":"ab3d48a08eba25bdc1a6f0db45bfc85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1125841713,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1125841713,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1125841713,
+    "wof:lastmodified":1549928884,
+    "wof:name":"Bayt L\u0101hy\u0101",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:population":56919,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.49514,
+    31.5464,
+    34.49514,
+    31.5464
+],
+  "geometry": {"coordinates":[34.49514,31.5464],"type":"Point"}
+}

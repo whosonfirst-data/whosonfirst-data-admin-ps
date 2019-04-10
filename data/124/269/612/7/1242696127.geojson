@@ -1,0 +1,90 @@
+{
+  "id": 1242696127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08542,32.07814,35.08542,32.07814",
+    "geom:latitude":32.07814,
+    "geom:longitude":35.08542,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khirbat Susah",
+    "gn:country_code":"PS",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889511,
+    "gn:latitude":32.07814,
+    "gn:longitude":35.08542,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khirbat S\u016bsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0633\u0648\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat S\u016bsah",
+        "Khirbat S\u016bsiy\u0101",
+        "Khirbat S\u016bsiyah",
+        "Khirbat Susya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889511
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"e5bc051ee3ce6800b1ab4142e9b7fb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1242696127,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1242696127,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1242696127,
+    "wof:lastmodified":1549929712,
+    "wof:name":"Khirbat Susah",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08542,
+    32.07814,
+    35.08542,
+    32.07814
+],
+  "geometry": {"coordinates":[35.08542,32.07814],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101920849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8220.947849,
+    "geom:bbox":"35.1127128601,32.4635276794,35.1138687134,32.4647521973",
+    "geom:latitude":32.464173,
+    "geom:longitude":35.113123,
+    "iso:country":"PS",
+    "lbl:latitude":32.464178,
+    "lbl:longitude":35.113115,
+    "mps:latitude":32.464178,
+    "mps:longitude":35.113115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u0646\u0637\u0627\u0631 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat al Mun\u0163\u0101r al Gharb\u012byah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet al Muntar al Gharbiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895630,
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"c654df1d0f5a04a70646b49ef16c624b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920849,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920849,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920849,
+    "wof:lastmodified":1549929856,
+    "wof:name":"Khirbet al Muntar al Gharbiya",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11271286010742,
+    32.46352767944336,
+    35.11386871337891,
+    32.46475219726562
+],
+  "geometry": {"coordinates":[[[35.11271286010742,32.46352767944336],[35.11271286010742,32.46475219726562],[35.11343383789062,32.46450805664062],[35.11386871337891,32.46413803100586],[35.11271286010742,32.46352767944336]]],"type":"Polygon"}
+}

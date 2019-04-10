@@ -1,0 +1,86 @@
+{
+  "id": 101919679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000001,
+    "geom:area_square_m":8451.069355,
+    "geom:bbox":"34.9691696167,31.5325775146,34.9708099365,31.5339450836",
+    "geom:latitude":31.533349,
+    "geom:longitude":34.969893,
+    "iso:country":"PS",
+    "lbl:latitude":31.533399,
+    "lbl:longitude":34.969879,
+    "mps:latitude":31.533399,
+    "mps:longitude":34.969879,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Maqdum",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85687577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"b984cc16dd51cec81c38fbe21d84e8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101919679,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "locality_id":101919679,
+            "region_id":85687577
+        }
+    ],
+    "wof:id":101919679,
+    "wof:lastmodified":1534985969,
+    "wof:name":"Beit Maqdum",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613263
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96916961669922,
+    31.53257751464844,
+    34.97080993652344,
+    31.53394508361816
+],
+  "geometry": {"coordinates":[[[34.97080993652344,31.53358459472656],[34.97068023681641,31.53357124328613],[34.96922302246094,31.53257751464844],[34.96916961669922,31.53277206420898],[34.96950149536133,31.53323936462402],[34.96944046020508,31.53334045410156],[34.96996307373047,31.53394508361816],[34.97080993652344,31.53358459472656]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1226476427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1551,32.376,35.1551,32.376",
+    "geom:latitude":32.376,
+    "geom:longitude":35.1551,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Kafr Rai",
+    "gn:country_code":"PS",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870322,
+    "gn:latitude":32.376,
+    "gn:longitude":35.1551,
+    "gn:modification_date":"2011-06-13",
+    "gn:name":"Kafr Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870322,
+        "wk:page":"Kafr_Rai"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"652cf63c791ecfa93b872f85161270b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226476427,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1226476427,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1226476427,
+    "wof:lastmodified":1549929915,
+    "wof:name":"Kafr Rai",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1551,
+    32.376,
+    35.1551,
+    32.376
+],
+  "geometry": {"coordinates":[35.1551,32.376],"type":"Point"}
+}

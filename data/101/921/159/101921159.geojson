@@ -1,0 +1,189 @@
+{
+  "id": 101921159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000075,
+    "geom:area_square_m":788510.555315,
+    "geom:bbox":"35.2931976318,32.3272438049,35.3090820312,32.3400840759",
+    "geom:latitude":32.333985,
+    "geom:longitude":35.301599,
+    "iso:country":"PS",
+    "lbl:latitude":32.335542,
+    "lbl:longitude":35.300817,
+    "mps:latitude":32.335542,
+    "mps:longitude":35.300817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u042d\u043b\u044c-\u0414\u0436\u0430\u0434\u0437\u0456\u0434\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Djadida"
+    ],
+    "name:ces_x_preferred":[
+        "Al-D\u017ead\u00edda"
+    ],
+    "name:cym_x_preferred":[
+        "El Jadida"
+    ],
+    "name:dan_x_preferred":[
+        "El Jadida"
+    ],
+    "name:deu_x_preferred":[
+        "El Jadida"
+    ],
+    "name:epo_x_preferred":[
+        "El Jadida"
+    ],
+    "name:eus_x_preferred":[
+        "El Jadida"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u062f\u06cc\u062f\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "El Jadida"
+    ],
+    "name:fra_x_preferred":[
+        "El Jadida"
+    ],
+    "name:hbs_x_preferred":[
+        "Mazagan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d2'\u05d3\u05d9\u05d3\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Mazagan"
+    ],
+    "name:ind_x_preferred":[
+        "El Jadida"
+    ],
+    "name:ita_x_preferred":[
+        "El Jadida"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30b8\u30e3\u30c7\u30a3\u30fc\u30c0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10ef\u10d0\u10d3\u10d8\u10d3\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uc790\ub514\ub2e4"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eadida"
+    ],
+    "name:nep_x_preferred":[
+        "\u090f\u0932 \u091c\u0926\u093f\u0926\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "El Jadida"
+    ],
+    "name:nor_x_preferred":[
+        "El Jadida"
+    ],
+    "name:pol_x_preferred":[
+        "Al-D\u017cadida"
+    ],
+    "name:por_x_preferred":[
+        "El Jadida"
+    ],
+    "name:ron_x_preferred":[
+        "El Jadida"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0414\u0436\u0430\u0434\u0438\u0434\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "El Jadida"
+    ],
+    "name:spa_x_preferred":[
+        "El-Yadida"
+    ],
+    "name:swe_x_preferred":[
+        "El Jadida"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e25\u0e0c\u0e32\u0e14\u0e35\u0e14\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440\u0491\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062c\u062f\u06cc\u062f\u06c1"
+    ],
+    "name:war_x_preferred":[
+        "El Jadida"
+    ],
+    "name:zho_x_preferred":[
+        "\u6770\u8fea\u4ee3"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Jadida",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":33.233333,
+    "wd:longitude":-8.5,
+    "wd:wordcount":930,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"39869e3d9821f226c6a094e004dde912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "empire_id":136253049,
+            "locality_id":101921159,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921159,
+    "wof:lastmodified":1534985966,
+    "wof:name":"Al Jadida",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613191
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29319763183594,
+    32.32724380493164,
+    35.30908203125,
+    32.34008407592773
+],
+  "geometry": {"coordinates":[[[35.30908203125,32.32804489135742],[35.30773162841797,32.32724380493164],[35.30624771118164,32.32747268676758],[35.303955078125,32.32850646972656],[35.30355072021484,32.32987976074219],[35.3013916015625,32.33057022094727],[35.3012580871582,32.33229064941406],[35.30031204223633,32.33297729492188],[35.30004119873047,32.33171844482422],[35.29771423339844,32.33229446411133],[35.29691696166992,32.33180618286133],[35.29634094238281,32.33113098144531],[35.29607391357422,32.33049392700195],[35.29558563232422,32.33128356933594],[35.29496765136719,32.33173370361328],[35.29430389404297,32.33162307739258],[35.29447937011719,32.33229827880859],[35.29319763183594,32.33349990844727],[35.29373168945312,32.33444213867188],[35.29426193237305,32.33455276489258],[35.29443740844727,32.33372497558594],[35.29470443725586,32.33293533325195],[35.2957649230957,32.33218383789062],[35.29620742797852,32.33259582519531],[35.29707336425781,32.33389663696289],[35.29775238037109,32.33538818359375],[35.29721069335938,32.3363037109375],[35.29775238037109,32.33790588378906],[35.29816055297852,32.33939743041992],[35.30167007446289,32.34008407592773],[35.30274963378906,32.33927917480469],[35.30220794677734,32.33767700195312],[35.30369186401367,32.3364143371582],[35.30463790893555,32.33560943603516],[35.30652618408203,32.33595275878906],[35.30733489990234,32.33400344848633],[35.30625534057617,32.33354568481445],[35.30544281005859,32.3326301574707],[35.30517196655273,32.33125686645508],[35.30557632446289,32.32976531982422],[35.30908203125,32.32804489135742]]],"type":"Polygon"}
+}

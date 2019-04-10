@@ -1,0 +1,81 @@
+{
+  "id": 1293814609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1,31.66667,35.1,31.66667",
+    "geom:latitude":31.66667,
+    "geom:longitude":35.1,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Zoref B",
+    "gn:country_code":"PS",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281211,
+    "gn:latitude":31.66667,
+    "gn:longitude":35.1,
+    "gn:modification_date":"1993-12-16",
+    "gn:name":"Zoref B",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281211
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"aa90108188556a5ce24153ff86644a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293814609,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1293814609,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1293814609,
+    "wof:lastmodified":1549929923,
+    "wof:name":"Zoref B",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1,
+    31.66667,
+    35.1,
+    31.66667
+],
+  "geometry": {"coordinates":[35.1,31.66667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1376891477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23374,31.7644,35.23374,31.7644",
+    "geom:latitude":31.7644,
+    "geom:longitude":35.23374,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ath Thawri",
+    "gn:country_code":"PS",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890122,
+    "gn:latitude":31.7644,
+    "gn:longitude":35.23374,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ath Thawr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0648\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ath Thawr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890122
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"fad3e9d93835f9f78807669f0a479cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":1376891477,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1376891477,
+    "wof:lastmodified":1549930821,
+    "wof:name":"Ath Thawri",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243187079
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23374000000001,
+    31.7644,
+    35.23374000000001,
+    31.7644
+],
+  "geometry": {"coordinates":[35.23374000000001,31.7644],"type":"Point"}
+}

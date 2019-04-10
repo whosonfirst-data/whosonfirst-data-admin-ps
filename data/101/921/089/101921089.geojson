@@ -1,0 +1,114 @@
+{
+  "id": 101921089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":49870.419392,
+    "geom:bbox":"35.2296829224,32.3737792969,35.2325630188,32.3762207031",
+    "geom:latitude":32.374956,
+    "geom:longitude":35.231287,
+    "gn:population":761,
+    "iso:country":"PS",
+    "lbl:latitude":32.374931,
+    "lbl:longitude":35.231457,
+    "mps:latitude":32.374931,
+    "mps:longitude":35.231457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0627\u0648\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Zawiya"
+    ],
+    "name:dut_x_preferred":[
+        "Zawiya"
+    ],
+    "name:eng_x_preferred":[
+        "Zawiya"
+    ],
+    "name:nno_x_preferred":[
+        "Az-Zawiya"
+    ],
+    "name:pol_x_preferred":[
+        "Az-Zawija"
+    ],
+    "name:unk_x_variant":[
+        "Az Z\u0101wiyah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Az Zawiya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281235,
+        "gp:id":1937300,
+        "qs:id":547022,
+        "wd:id":"Q9163181"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"5634df25c498c3b97da3fd5b4c24ffb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921089,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921089,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921089,
+    "wof:lastmodified":1553815587,
+    "wof:name":"Az Zawiya",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":761,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22968292236328,
+    32.373779296875,
+    35.23256301879883,
+    32.376220703125
+],
+  "geometry": {"coordinates":[[[35.22968673706055,32.37411499023438],[35.22990417480469,32.37445068359375],[35.23001480102539,32.37490081787109],[35.23041152954102,32.37517929077148],[35.23082733154297,32.37556838989258],[35.23073959350586,32.37601852416992],[35.23124313354492,32.376220703125],[35.23188018798828,32.376220703125],[35.23245239257812,32.37614822387695],[35.23256301879883,32.37571716308594],[35.23245239257812,32.37528991699219],[35.23236465454102,32.37497329711914],[35.2322998046875,32.37450790405273],[35.23225402832031,32.37404251098633],[35.2320556640625,32.37387466430664],[35.23155212402344,32.37396621704102],[35.23067474365234,32.37400436401367],[35.23001480102539,32.373779296875],[35.22968292236328,32.37385559082031],[35.22968673706055,32.37411499023438]]],"type":"Polygon"}
+}

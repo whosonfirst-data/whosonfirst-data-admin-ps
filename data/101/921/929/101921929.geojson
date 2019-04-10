@@ -1,0 +1,99 @@
+{
+  "id": 101921929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000032,
+    "geom:area_square_m":333686.88123,
+    "geom:bbox":"35.0000762939,31.9322452545,35.0075798035,31.9399795532",
+    "geom:latitude":31.935659,
+    "geom:longitude":35.003681,
+    "gn:population":1284,
+    "iso:country":"PS",
+    "lbl:latitude":31.935218,
+    "lbl:longitude":35.003624,
+    "mps:latitude":31.935218,
+    "mps:longitude":35.003624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Midya"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Midya"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Midya"
+    ],
+    "name:unk_x_variant":[
+        "Midy\u0101"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Midya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1156,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285032,
+        "wd:id":"Q4702893"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2c70afa6f64bf5a01d2611a4f71f6241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "empire_id":136253049,
+            "locality_id":101921929,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921929,
+    "wof:lastmodified":1534985975,
+    "wof:name":"Al Midya",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1284,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613391
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00007629394531,
+    31.9322452545166,
+    35.0075798034668,
+    31.93997955322266
+],
+  "geometry": {"coordinates":[[[35.00513458251953,31.93715476989746],[35.0075798034668,31.93656349182129],[35.00688552856445,31.9349250793457],[35.00654220581055,31.9322452545166],[35.00514602661133,31.93254089355469],[35.00374603271484,31.93283653259277],[35.00217437744141,31.93313026428223],[35.00007629394531,31.93506240844727],[35.00077438354492,31.93595695495605],[35.00146865844727,31.93714904785156],[35.00076293945312,31.93982696533203],[35.002685546875,31.93997955322266],[35.00356292724609,31.93759918212891],[35.00513458251953,31.9370059967041],[35.00513458251953,31.93715476989746]]],"type":"Polygon"}
+}

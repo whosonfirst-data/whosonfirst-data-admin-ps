@@ -1,0 +1,147 @@
+{
+  "id": 1126043315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.34005,31.31913,34.34005,31.31913",
+    "geom:latitude":31.31913,
+    "geom:longitude":34.34005,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18163,
+    "gn:population":18163,
+    "iso:country":"PS",
+    "lbl:latitude":31.31913,
+    "lbl:longitude":34.34005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:baq_x_preferred":[
+        "Abasan al-Kabira"
+    ],
+    "name:cat_x_preferred":[
+        "Abasan al-Kabira"
+    ],
+    "name:dut_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:eng_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:fre_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:ger_x_preferred":[
+        "Abasan al-Kabira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d1\u05e1\u05d0\u05df \u05d0\u05dc-\u05db\u05d1\u05d9\u05e8\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d0\u30b5\u30f3\u30fb\u30a2\u30eb\u30fb\u30ab\u30d9\u30e9"
+    ],
+    "name:nno_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:nob_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u0628\u0627\u0633\u0627\u0646 \u0627\u0644-\u06a9\u0627\u0628\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Abasan al-Kabira"
+    ],
+    "name:por_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "name:rum_x_preferred":[
+        "Abasan al_Kabira"
+    ],
+    "name:unk_x_variant":[
+        "Abas\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u06a9\u0628\u06cc\u0631\u06c1"
+    ],
+    "name:wel_x_preferred":[
+        "Abasan al-Kabera"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":281165,
+    "qs_pg:gn_pop":18163,
+    "qs_pg:name":"\u2018Abas\u0101n al Kab\u012brah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":547017,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681213,
+        1159339485,
+        102191569,
+        85633739,
+        136253049,
+        1091913333,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281165,
+        "qs_pg:id":547017,
+        "wd:id":"Q3303148"
+    },
+    "wof:country":"PS",
+    "wof:created":1497302285,
+    "wof:geomhash":"fa462f69ec7ac527fc47fe7ef301e6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1126043315,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913333,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":1126043315,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":1126043315,
+    "wof:lastmodified":1549928935,
+    "wof:name":"\u2018Abas\u0101n al Kab\u012brah",
+    "wof:parent_id":1091913333,
+    "wof:placetype":"locality",
+    "wof:population":18163,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34005,
+    31.31913,
+    34.34005,
+    31.31913
+],
+  "geometry": {"coordinates":[34.34005,31.31913],"type":"Point"}
+}

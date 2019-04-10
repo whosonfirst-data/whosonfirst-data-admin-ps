@@ -1,0 +1,78 @@
+{
+  "id": 101921341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000001,
+    "geom:area_square_m":11532.995335,
+    "geom:bbox":"35.3817558289,32.2458648682,35.3831253052,32.2475700378",
+    "geom:latitude":32.246702,
+    "geom:longitude":35.382363,
+    "iso:country":"PS",
+    "lbl:latitude":32.246768,
+    "lbl:longitude":35.382419,
+    "mps:latitude":32.246768,
+    "mps:longitude":35.382419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al 'Aqrabaniya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937300
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"cfb28c18e1ea0333dbd5affdc2563e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "empire_id":136253049,
+            "locality_id":101921341,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921341,
+    "wof:lastmodified":1534985964,
+    "wof:name":"Al 'Aqrabaniya",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613161
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38175582885742,
+    32.24586486816406,
+    35.38312530517578,
+    32.2475700378418
+],
+  "geometry": {"coordinates":[[[35.38175582885742,32.24633026123047],[35.38230514526367,32.2475700378418],[35.38312530517578,32.24679565429688],[35.38202667236328,32.24586486816406],[35.38175582885742,32.24633026123047]]],"type":"Polygon"}
+}

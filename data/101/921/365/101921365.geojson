@@ -1,0 +1,106 @@
+{
+  "id": 101921365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000004,
+    "geom:area_square_m":44494.707599,
+    "geom:bbox":"35.2845954895,32.2394332886,35.2877044678,32.2417831421",
+    "geom:latitude":32.240534,
+    "geom:longitude":35.286058,
+    "gn:population":7475,
+    "iso:country":"PS",
+    "lbl:latitude":32.240487,
+    "lbl:longitude":35.286035,
+    "mps:latitude":32.240487,
+    "mps:longitude":35.286035,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0635\u064a\u0631\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Asira ash-Shamaliya"
+    ],
+    "name:eng_x_preferred":[
+        "Asira ash-Shamaliya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e1\u05d9\u05e8\u05d4 \u05d0-\u05e9\u05de\u05d0\u05dc\u05d9\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Asira ash-Shamaliya"
+    ],
+    "name:unk_x_variant":[
+        "A\u015f \u015e\u012br\u0101 ash Sham\u0101l\u012byah"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Asira ash Shamaliya",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":32.250678,
+    "wd:longitude":35.267003,
+    "wd:wordcount":344,
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091913091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284593,
+        "gp:id":1937290,
+        "wd:id":"Q4807028",
+        "wk:page":"Asira ash-Shamaliya"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"d5cb6419b09cb09479dcdfe2184d408b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "empire_id":136253049,
+            "locality_id":101921365,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921365,
+    "wof:lastmodified":1534985973,
+    "wof:name":"'Asira ash Shamaliya",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":7475,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613357
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28459548950195,
+    32.23943328857422,
+    35.28770446777344,
+    32.24178314208984
+],
+  "geometry": {"coordinates":[[[35.28554534912109,32.23972702026367],[35.28459548950195,32.24082946777344],[35.28468322753906,32.24178314208984],[35.28667068481445,32.24112319946289],[35.28770446777344,32.24038696289062],[35.28718566894531,32.23943328857422],[35.28554534912109,32.23972702026367]]],"type":"Polygon"}
+}

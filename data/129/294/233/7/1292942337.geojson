@@ -1,0 +1,67 @@
+{
+  "id": 1292942337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21667,31.3,34.21667,31.3",
+    "geom:latitude":31.3,
+    "geom:longitude":34.21667,
+    "gn:admin1_code":"GZ",
+    "gn:asciiname":"Rafah Yam",
+    "gn:country_code":"PS",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":281099,
+    "gn:latitude":31.3,
+    "gn:longitude":34.21667,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Rafah Yam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Gaza",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092023763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281099
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"57c860a55cd56bf8899e8c181d21d081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023763,
+            "locality_id":1292942337,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1292942337,
+    "wof:lastmodified":1537072801,
+    "wof:name":"Rafah Yam",
+    "wof:parent_id":1092023763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21667,
+    31.3,
+    34.21667,
+    31.3
+],
+  "geometry": {"coordinates":[34.21667,31.3],"type":"Point"}
+}

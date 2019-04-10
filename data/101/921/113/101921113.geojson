@@ -1,0 +1,111 @@
+{
+  "id": 101921113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000024,
+    "geom:area_square_m":246346.064528,
+    "geom:bbox":"35.2156448364,32.3546638489,35.2229614258,32.3609771729",
+    "geom:latitude":32.357835,
+    "geom:longitude":35.219481,
+    "gn:population":1851,
+    "iso:country":"PS",
+    "lbl:latitude":32.358535,
+    "lbl:longitude":35.21973,
+    "mps:latitude":32.358535,
+    "mps:longitude":35.21973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u0632\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Anzah"
+    ],
+    "name:dut_x_preferred":[
+        "Anzah"
+    ],
+    "name:eng_x_preferred":[
+        "Anzah"
+    ],
+    "name:nno_x_preferred":[
+        "Anzah"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Anza"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"'Anza",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284933,
+        "gp:id":56123344,
+        "qs:id":79963,
+        "wd:id":"Q4778426"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ba7ad41ea380529c61ac2718cbcdd7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921113,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921113,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921113,
+    "wof:lastmodified":1549929792,
+    "wof:name":"'Anza",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":1851,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21564483642578,
+    32.35466384887695,
+    35.22296142578125,
+    32.36097717285156
+],
+  "geometry": {"coordinates":[[[35.21799850463867,32.35466384887695],[35.21738052368164,32.35508346557617],[35.21564483642578,32.35529327392578],[35.21589279174805,32.35666275024414],[35.21750259399414,32.35666275024414],[35.2183723449707,32.35729598999023],[35.21713256835938,32.35845184326172],[35.21775436401367,32.35961151123047],[35.21949005126953,32.36076736450195],[35.22109985351562,32.35982131958008],[35.22283554077148,32.36097717285156],[35.22296142578125,32.35929489135742],[35.22184371948242,32.35845184326172],[35.22196960449219,32.35729598999023],[35.22196960449219,32.35613632202148],[35.22035598754883,32.35676956176758],[35.21949005126953,32.35540008544922],[35.21799850463867,32.35466384887695]]],"type":"Polygon"}
+}

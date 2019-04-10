@@ -1,0 +1,116 @@
+{
+  "id": 101921321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":359793.708819,
+    "geom:bbox":"35.1916999817,32.261554718,35.2059516907,32.2666702271",
+    "geom:latitude":32.264189,
+    "geom:longitude":35.199153,
+    "gn:population":1528,
+    "iso:country":"PS",
+    "lbl:latitude":32.264357,
+    "lbl:longitude":35.200448,
+    "mps:latitude":32.264357,
+    "mps:longitude":35.200448,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0642\u0648\u0631\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0627\u0642\u0648\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "An-Naqura"
+    ],
+    "name:dut_x_preferred":[
+        "An-Naqura"
+    ],
+    "name:eng_x_preferred":[
+        "An-Naqura"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05e0\u05d0\u05e7\u05d5\u05e8\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "Naq\u016bra"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"An Naqura",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":269,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284939,
+        "gp:id":1937302,
+        "qs:id":547104,
+        "wd:id":"Q2903268",
+        "wk:page":"An-Naqura"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2e171e0ae5aa797fc7c811bcfea0db95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921321,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921321,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921321,
+    "wof:lastmodified":1549929807,
+    "wof:name":"An Naqura",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":1528,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19169998168945,
+    32.26155471801758,
+    35.20595169067383,
+    32.26667022705078
+],
+  "geometry": {"coordinates":[[[35.20373916625977,32.26562881469727],[35.20595169067383,32.26573181152344],[35.20595169067383,32.26395797729492],[35.2050895690918,32.26239013671875],[35.20337295532227,32.2619743347168],[35.20177459716797,32.26291275024414],[35.19981002807617,32.2635383605957],[35.19771957397461,32.26385116577148],[35.19538497924805,32.26259994506836],[35.19379043579102,32.26155471801758],[35.19305419921875,32.26239013671875],[35.19354248046875,32.26343536376953],[35.19342041015625,32.26447677612305],[35.19169998168945,32.26447677612305],[35.19169998168945,32.265625],[35.19329833984375,32.26656723022461],[35.19403457641602,32.26583480834961],[35.19464874267578,32.26468658447266],[35.19673919677734,32.26416397094727],[35.19612121582031,32.26531219482422],[35.19808959960938,32.26667022705078],[35.19821166992188,32.26552200317383],[35.19931793212891,32.26531600952148],[35.2011604309082,32.26541900634766],[35.20214462280273,32.26458358764648],[35.20373916625977,32.26562881469727]]],"type":"Polygon"}
+}

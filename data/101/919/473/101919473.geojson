@@ -1,0 +1,93 @@
+{
+  "id": 101919473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000003,
+    "geom:area_square_m":35626.129089,
+    "geom:bbox":"34.9807281494,31.5712909698,34.9832763672,31.5735969543",
+    "geom:latitude":31.57238,
+    "geom:longitude":34.981994,
+    "iso:country":"PS",
+    "lbl:latitude":31.572243,
+    "lbl:longitude":34.981906,
+    "mps:latitude":31.572243,
+    "mps:longitude":34.981906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0645\u0633\u0644\u0645"
+    ],
+    "name:unk_x_variant":[
+        "B\u012br Musallam"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bir Musallam",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85687577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891888,
+        "gp:id":56123329
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"39bac6cf31d5c125e4b342782e3b0551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "empire_id":136253049,
+            "locality_id":101919473,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "locality_id":101919473,
+            "region_id":85687577
+        }
+    ],
+    "wof:id":101919473,
+    "wof:lastmodified":1534985974,
+    "wof:name":"Bir Musallam",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613379
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98072814941406,
+    31.57129096984863,
+    34.9832763671875,
+    31.5735969543457
+],
+  "geometry": {"coordinates":[[[34.98122787475586,31.57129096984863],[34.98072814941406,31.57201766967773],[34.98136520385742,31.57274627685547],[34.98192977905273,31.5734748840332],[34.98263549804688,31.5735969543457],[34.9832763671875,31.57323455810547],[34.98263931274414,31.5726261138916],[34.98263931274414,31.57208061218262],[34.98292541503906,31.57153701782227],[34.98122787475586,31.57129096984863]]],"type":"Polygon"}
+}

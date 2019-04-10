@@ -1,0 +1,98 @@
+{
+  "id": 101922823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":78989.711526,
+    "geom:bbox":"35.0282745361,31.4650535583,35.0320777893,31.4683532715",
+    "geom:latitude":31.466441,
+    "geom:longitude":35.030326,
+    "iso:country":"PS",
+    "lbl:latitude":31.466438,
+    "lbl:longitude":35.030363,
+    "mps:latitude":31.466438,
+    "mps:longitude":35.030363,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0631\u0627\u0632\u062d"
+    ],
+    "name:dut_x_preferred":[
+        "Deir Razih"
+    ],
+    "name:eng_x_preferred":[
+        "Deir Razih"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Deir Razih",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283117,
+        "gp:id":1937307,
+        "wd:id":"Q5252522",
+        "wk:page":"Deir Razih"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"2605039142d0830888b3148453b00dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922823,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922823,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922823,
+    "wof:lastmodified":1549929856,
+    "wof:name":"Deir Razih",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02827453613281,
+    31.46505355834961,
+    35.03207778930664,
+    31.46835327148438
+],
+  "geometry": {"coordinates":[[[35.03005218505859,31.46821594238281],[35.03006744384766,31.46830940246582],[35.03091812133789,31.46835327148438],[35.03089904785156,31.46821784973145],[35.03126525878906,31.46759414672852],[35.03179168701172,31.4669017791748],[35.03183364868164,31.46669387817383],[35.03207778930664,31.46641540527344],[35.03187561035156,31.46572303771973],[35.03136825561523,31.46529960632324],[35.03066635131836,31.46524047851562],[35.02996444702148,31.46515464782715],[35.02912521362305,31.46505355834961],[35.02841567993164,31.46540832519531],[35.02827453613281,31.46603012084961],[35.02900314331055,31.46623802185059],[35.02924728393555,31.46661949157715],[35.0292854309082,31.46700096130371],[35.02972793579102,31.46738433837891],[35.03005218505859,31.46821594238281]]],"type":"Polygon"}
+}

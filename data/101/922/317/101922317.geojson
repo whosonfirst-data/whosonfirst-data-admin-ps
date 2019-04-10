@@ -1,0 +1,93 @@
+{
+  "id": 101922317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9870.559102,
+    "geom:bbox":"35.2430648804,31.7270584106,35.2449111938,31.7283668518",
+    "geom:latitude":31.7278,
+    "geom:longitude":35.243851,
+    "iso:country":"PS",
+    "lbl:latitude":31.728079,
+    "lbl:longitude":35.24348,
+    "mps:latitude":31.728079,
+    "mps:longitude":35.24348,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0637\u0648\u0628\u0627"
+    ],
+    "name:cze_x_preferred":[
+        "Umm Tuba"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Tuba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dd \u05d8\u05d5\u05d1\u05d0"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645 \u0637\u0648\u0628\u06cc"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Umm Tuba",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1156,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283075,
+        "wd:id":"Q2897524",
+        "wk:page":"Umm Tuba"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"05c4060967d94281f4c2e1e2e833010d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":101922317,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":101922317,
+    "wof:lastmodified":1549931439,
+    "wof:name":"Umm Tuba",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1376891681
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24306488037109,
+    31.72705841064453,
+    35.24491119384766,
+    31.72836685180664
+],
+  "geometry": {"coordinates":[[[35.24323654174805,31.72836685180664],[35.24349212646484,31.72836685180664],[35.24367904663086,31.72835350036621],[35.24383926391602,31.72823143005371],[35.24407577514648,31.72821807861328],[35.2443733215332,31.72792053222656],[35.24454879760742,31.72781372070312],[35.24467468261719,31.72744941711426],[35.24491119384766,31.72719192504883],[35.24481582641602,31.72705841064453],[35.24462509155273,31.72707176208496],[35.24449920654297,31.72724723815918],[35.2443733215332,31.7275562286377],[35.24418640136719,31.72774505615234],[35.24369430541992,31.72792053222656],[35.24359893798828,31.72754287719727],[35.24323654174805,31.72727394104004],[35.24306488037109,31.72738265991211],[35.2431755065918,31.72758483886719],[35.24320602416992,31.72797584533691],[35.24323654174805,31.72836685180664]]],"type":"Polygon"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101920957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16980.282946,
+    "geom:bbox":"35.3673591614,32.4265403748,35.3693351746,32.4279518127",
+    "geom:latitude":32.427239,
+    "geom:longitude":35.368199,
+    "gn:population":1968,
+    "iso:country":"PS",
+    "lbl:latitude":32.427286,
+    "lbl:longitude":35.368184,
+    "mps:latitude":32.427286,
+    "mps:longitude":35.368184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0642\u0645\u0648\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Jalqamus"
+    ],
+    "name:dut_x_preferred":[
+        "Jalqamus"
+    ],
+    "name:eng_x_preferred":[
+        "Jalqamus"
+    ],
+    "name:nno_x_preferred":[
+        "Jalqamus"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017calkamus"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jalqamus",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283536,
+        "gp:id":1937299,
+        "qs:id":547078,
+        "wd:id":"Q4120130",
+        "wk:page":"Jalqamus"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"efa729bc6bb34a9cbe1f1e21f20077a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920957,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920957,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920957,
+    "wof:lastmodified":1549929867,
+    "wof:name":"Jalqamus",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":1968,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36735916137695,
+    32.42654037475586,
+    35.36933517456055,
+    32.42795181274414
+],
+  "geometry": {"coordinates":[[[35.36746215820312,32.42654037475586],[35.36735916137695,32.42751312255859],[35.36850357055664,32.42795181274414],[35.36933517456055,32.42706680297852],[35.36746215820312,32.42654037475586]]],"type":"Polygon"}
+}

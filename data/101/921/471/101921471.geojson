@@ -1,0 +1,101 @@
+{
+  "id": 101921471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":363433.791089,
+    "geom:bbox":"35.1315956116,32.1872062683,35.1405181885,32.1955413818",
+    "geom:latitude":32.190849,
+    "geom:longitude":35.135123,
+    "gn:population":747,
+    "iso:country":"PS",
+    "lbl:latitude":32.190069,
+    "lbl:longitude":35.134447,
+    "mps:latitude":32.190069,
+    "mps:longitude":35.134447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0646\u062f\u0642"
+    ],
+    "name:unk_x_variant":[
+        "Pundaq"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Funduq",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":285100,
+        "gp:id":1937300,
+        "qs:id":547120,
+        "qs_pg:id":547120
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f657a45f4b6eb38b1720eb4dda60a613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921471,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921471,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921471,
+    "wof:lastmodified":1549929821,
+    "wof:name":"Al Funduq",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:population":747,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13159561157227,
+    32.18720626831055,
+    35.14051818847656,
+    32.19554138183594
+],
+  "geometry": {"coordinates":[[[35.13446044921875,32.18720626831055],[35.13324737548828,32.18776702880859],[35.13203811645508,32.18888854980469],[35.13159561157227,32.18973159790039],[35.13181304931641,32.19057464599609],[35.13291549682617,32.19301223754883],[35.1328010559082,32.19554138183594],[35.13401412963867,32.19535446166992],[35.13434600830078,32.19245147705078],[35.1361083984375,32.19366836547852],[35.13732147216797,32.19310760498047],[35.13831329345703,32.19160842895508],[35.13886260986328,32.19114303588867],[35.14051818847656,32.19039154052734],[35.13765335083008,32.18917465209961],[35.13677215576172,32.18907928466797],[35.13567352294922,32.18786239624023],[35.13446044921875,32.18720626831055]]],"type":"Polygon"}
+}

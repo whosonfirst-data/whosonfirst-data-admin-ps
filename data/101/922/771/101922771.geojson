@@ -1,0 +1,101 @@
+{
+  "id": 101922771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5416.137572,
+    "geom:bbox":"35.2084274292,31.5042285919,35.2094039917,31.5048561096",
+    "geom:latitude":31.504557,
+    "geom:longitude":35.20886,
+    "gn:population":214,
+    "iso:country":"PS",
+    "lbl:latitude":31.504565,
+    "lbl:longitude":35.208858,
+    "mps:latitude":31.504565,
+    "mps:longitude":35.208858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0629 \u0627\u0644\u0645\u0633\u0627\u0641\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0648\u0627\u0639\u064a\u0646",
+        "\u0645\u0633\u0641\u0631\u0629 \u0628\u0646\u064a \u0646\u0639\u064a\u0645"
+    ],
+    "name:unk_x_variant":[
+        "Khallat al Mus\u0101fir"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ar Rawa'in",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890848,
+        "gp:id":1937307
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"01a32bad2977ff55ba2cad35fdd820c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922771,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922771,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922771,
+    "wof:lastmodified":1549929859,
+    "wof:name":"Ar Rawa'in",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20842742919922,
+    31.50422859191895,
+    35.20940399169922,
+    31.50485610961914
+],
+  "geometry": {"coordinates":[[[35.20842742919922,31.50422859191895],[35.20842742919922,31.50485610961914],[35.20922088623047,31.50485610961914],[35.20940399169922,31.50433349609375],[35.20842742919922,31.50422859191895]]],"type":"Polygon"}
+}

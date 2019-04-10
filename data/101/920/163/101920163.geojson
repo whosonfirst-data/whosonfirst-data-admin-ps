@@ -1,0 +1,87 @@
+{
+  "id": 101920163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23143.569133,
+    "geom:bbox":"34.9920463562,31.4027576447,34.995464325,31.4043769836",
+    "geom:latitude":31.403636,
+    "geom:longitude":34.993527,
+    "iso:country":"PS",
+    "lbl:latitude":31.403711,
+    "lbl:longitude":34.993216,
+    "mps:latitude":31.403711,
+    "mps:longitude":34.993216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Khirbet Shuweika",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281800,
+        "gp:id":1937293
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"bd74a3dd9e5ef0208f72415b4400b7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920163,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101920163,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101920163,
+    "wof:lastmodified":1549929796,
+    "wof:name":"Khirbet Shuweika",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99204635620117,
+    31.40275764465332,
+    34.99546432495117,
+    31.40437698364258
+],
+  "geometry": {"coordinates":[[[34.99322128295898,31.40323448181152],[34.99258041381836,31.40346145629883],[34.99215316772461,31.40369033813477],[34.99204635620117,31.40414810180664],[34.99252700805664,31.40437698364258],[34.99292755126953,31.40431022644043],[34.99431610107422,31.40371704101562],[34.99517059326172,31.40328407287598],[34.99546432495117,31.40294075012207],[34.99546432495117,31.40275764465332],[34.99442291259766,31.40316772460938],[34.99410247802734,31.40323638916016],[34.99364852905273,31.40328025817871],[34.99322128295898,31.40323448181152]]],"type":"Polygon"}
+}

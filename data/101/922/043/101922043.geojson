@@ -1,0 +1,86 @@
+{
+  "id": 101922043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":15329.095591,
+    "geom:bbox":"35.4877319336,31.857793808,35.489944458,31.8594207764",
+    "geom:latitude":31.858501,
+    "geom:longitude":35.488882,
+    "iso:country":"PS",
+    "lbl:latitude":31.858462,
+    "lbl:longitude":35.488881,
+    "mps:latitude":31.858462,
+    "mps:longitude":35.488881,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Jericho (Ariha)",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913007,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56122789
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"83b811e3b5d5b601251dcfb74178cb53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922043,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913007,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922043,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922043,
+    "wof:lastmodified":1549929795,
+    "wof:name":"Jericho (Ariha)",
+    "wof:parent_id":1091913007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48773193359375,
+    31.8577938079834,
+    35.48994445800781,
+    31.85942077636719
+],
+  "geometry": {"coordinates":[[[35.48941421508789,31.8577938079834],[35.48825454711914,31.85833740234375],[35.48773193359375,31.85942077636719],[35.48857498168945,31.85896873474121],[35.48952484130859,31.85869598388672],[35.48994445800781,31.85806274414062],[35.48941421508789,31.8577938079834]]],"type":"Polygon"}
+}

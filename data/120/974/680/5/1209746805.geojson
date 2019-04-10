@@ -1,0 +1,87 @@
+{
+  "id": 1209746805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1,32.1,35.1,32.1",
+    "geom:latitude":32.1,
+    "geom:longitude":35.1,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Barqan",
+    "gn:country_code":"PS",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":284408,
+    "gn:latitude":32.1,
+    "gn:longitude":35.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barqan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"PS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Broqeen",
+        "Barkan",
+        "Barqan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913173,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284408,
+        "wk:page":"Barkan"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"ff3d6eda6455b181b019210e396d64ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209746805,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913173,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209746805,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209746805,
+    "wof:lastmodified":1549929921,
+    "wof:name":"Barqan",
+    "wof:parent_id":1091913173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1,
+    32.1,
+    35.1,
+    32.1
+],
+  "geometry": {"coordinates":[35.1,32.1],"type":"Point"}
+}

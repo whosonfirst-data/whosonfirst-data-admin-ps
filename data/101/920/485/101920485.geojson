@@ -1,0 +1,78 @@
+{
+  "id": 101920485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000002,
+    "geom:area_square_m":22205.722943,
+    "geom:bbox":"34.2265930176,31.325674057,34.2288131714,31.3272037506",
+    "geom:latitude":31.326525,
+    "geom:longitude":34.227719,
+    "iso:country":"PS",
+    "lbl:latitude":31.326488,
+    "lbl:longitude":34.227718,
+    "mps:latitude":31.326488,
+    "mps:longitude":34.227718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Al Mawais (Rafah)",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681213,
+        102191569,
+        85633739,
+        136253049,
+        1091913365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1979600
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"8a3e24b89fce65aedcdfec2b462b573f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913365,
+            "empire_id":136253049,
+            "locality_id":101920485,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":101920485,
+    "wof:lastmodified":1534985971,
+    "wof:name":"Al Mawais (Rafah)",
+    "wof:parent_id":1091913365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[
+        1175613315
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.22659301757812,
+    31.32567405700684,
+    34.22881317138672,
+    31.32720375061035
+],
+  "geometry": {"coordinates":[[[34.22719573974609,31.32567405700684],[34.22659301757812,31.32693481445312],[34.22850799560547,31.32720375061035],[34.22881317138672,31.32631874084473],[34.22719573974609,31.32567405700684]]],"type":"Polygon"}
+}

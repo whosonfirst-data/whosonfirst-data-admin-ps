@@ -1,0 +1,111 @@
+{
+  "id": 101922641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":62087.884188,
+    "geom:bbox":"35.1704216003,31.6054916382,35.1756515503,31.60729599",
+    "geom:latitude":31.606439,
+    "geom:longitude":35.172713,
+    "gn:population":8151,
+    "iso:country":"PS",
+    "lbl:latitude":31.606394,
+    "lbl:longitude":35.171929,
+    "mps:latitude":31.606394,
+    "mps:longitude":35.171929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u0648\u062e"
+    ],
+    "name:dut_x_preferred":[
+        "Ash-Shuyukh"
+    ],
+    "name:eng_x_preferred":[
+        "Ash-Shuyukh"
+    ],
+    "name:fre_x_preferred":[
+        "Ash-Shuyukh"
+    ],
+    "name:nno_x_preferred":[
+        "Ash-Shuyukh"
+    ],
+    "name:pol_x_preferred":[
+        "Asz-Szujuch"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ash Shuyukh",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":714,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912955,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284597,
+        "gp:id":1937307,
+        "wd:id":"Q4804345"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"65b6e2f50ff5917bdc98460cb106e60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922641,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912955,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101922641,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101922641,
+    "wof:lastmodified":1549929834,
+    "wof:name":"Ash Shuyukh",
+    "wof:parent_id":1091912955,
+    "wof:placetype":"locality",
+    "wof:population":8151,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1704216003418,
+    31.60549163818359,
+    35.17565155029297,
+    31.60729598999023
+],
+  "geometry": {"coordinates":[[[35.171142578125,31.60725021362305],[35.17194366455078,31.60729598999023],[35.17255401611328,31.60727310180664],[35.17263412475586,31.60690689086914],[35.17324829101562,31.60718154907227],[35.17412948608398,31.60690879821777],[35.17506408691406,31.60690879821777],[35.17565155029297,31.60686302185059],[35.17546463012695,31.60645294189453],[35.17506408691406,31.60610961914062],[35.17453002929688,31.60610961914062],[35.17426300048828,31.60624694824219],[35.1735954284668,31.60610961914062],[35.17314147949219,31.60551452636719],[35.17255783081055,31.60558319091797],[35.17191696166992,31.60549163818359],[35.17106246948242,31.60569763183594],[35.17066192626953,31.60603904724121],[35.1704216003418,31.60640525817871],[35.17076873779297,31.60656547546387],[35.17111587524414,31.6067008972168],[35.17084884643555,31.60688400268555],[35.17087554931641,31.60727310180664],[35.171142578125,31.60725021362305]]],"type":"Polygon"}
+}

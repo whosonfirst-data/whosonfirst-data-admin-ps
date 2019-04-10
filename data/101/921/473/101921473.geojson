@@ -1,0 +1,111 @@
+{
+  "id": 101921473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":740908.789019,
+    "geom:bbox":"35.3675117493,32.1871833801,35.3844337463,32.1967964172",
+    "geom:latitude":32.191212,
+    "geom:longitude":35.374302,
+    "gn:population":3487,
+    "iso:country":"PS",
+    "lbl:latitude":32.191676,
+    "lbl:longitude":35.37302,
+    "mps:latitude":32.191676,
+    "mps:longitude":35.37302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062f\u062c\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Dajan"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Dajan"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Dajan"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Dajan i Nablus"
+    ],
+    "name:unk_x_variant":[
+        "Bayt Dajan"
+    ],
+    "qs:a0":"Palestine",
+    "qs:a0_lc":"PSE",
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Palestine",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beit Dajan",
+    "qs:pop":0,
+    "qs:source":"EGlobalMap",
+    "qs:type":"Built-Up Area",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913091,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":284343,
+        "gp:id":56123300,
+        "qs:id":123989,
+        "wd:id":"Q12200452"
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"6ec0fd7d692c4418912916e71654b031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921473,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":101921473,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":101921473,
+    "wof:lastmodified":1549929826,
+    "wof:name":"Beit Dajan",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:population":3487,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36751174926758,
+    32.18718338012695,
+    35.38443374633789,
+    32.19679641723633
+],
+  "geometry": {"coordinates":[[[35.36774826049805,32.19375228881836],[35.36880874633789,32.19460296630859],[35.37015914916992,32.19504928588867],[35.37163162231445,32.19499969482422],[35.37210083007812,32.19584655761719],[35.37345504760742,32.19679641723633],[35.37462997436523,32.19574356079102],[35.37386322021484,32.19504547119141],[35.37556838989258,32.19429397583008],[35.37627029418945,32.1924934387207],[35.37750244140625,32.19174194335938],[35.37885284423828,32.19039154052734],[35.38102722167969,32.18938827514648],[35.38249588012695,32.18903350830078],[35.38443374633789,32.18788146972656],[35.38266754150391,32.18718338012695],[35.38066864013672,32.1874885559082],[35.37778854370117,32.18769073486328],[35.37467575073242,32.18834686279297],[35.37144470214844,32.18844985961914],[35.37026977539062,32.18894958496094],[35.36944580078125,32.1899528503418],[35.36921310424805,32.19090270996094],[35.36821365356445,32.19130325317383],[35.36751174926758,32.19265365600586],[35.36774826049805,32.19375228881836]]],"type":"Polygon"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1126043591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22649,32.45661,35.22649,32.45661",
+    "geom:latitude":32.45661,
+    "geom:longitude":35.22649,
+    "gn:gn_country":"PS",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1129,
+    "gn:population":1129,
+    "iso:country":"PS",
+    "lbl:latitude":32.45661,
+    "lbl:longitude":35.22649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0642\u0648\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Kafr Qud"
+    ],
+    "name:dut_x_preferred":[
+        "Kafr Qud"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Qud"
+    ],
+    "qs_pg:aaroncc":"PS",
+    "qs_pg:gn_country":"PS",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":283362,
+    "qs_pg:gn_pop":1129,
+    "qs_pg:name":"Kafr Q\u016bd",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":547067,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283362,
+        "qs_pg:id":547067,
+        "wd:id":"Q12235567"
+    },
+    "wof:country":"PS",
+    "wof:created":1497302301,
+    "wof:geomhash":"3de34b23d3eb3847a10199897542395e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043591,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1126043591,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1126043591,
+    "wof:lastmodified":1549929898,
+    "wof:name":"Kafr Q\u016bd",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:population":1129,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22649,
+    32.45661,
+    35.22649,
+    32.45661
+],
+  "geometry": {"coordinates":[35.22649,32.45661],"type":"Point"}
+}
