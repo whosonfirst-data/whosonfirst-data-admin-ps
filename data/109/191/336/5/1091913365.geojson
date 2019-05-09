@@ -10,6 +10,12 @@
     "geom:latitude":31.282949,
     "geom:longitude":34.27276,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Rafah Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":31.269081,
     "lbl:longitude":34.281228,
     "meso:admin_1":"Gaza",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913365,
-    "wof:lastmodified":1549995376,
+    "wof:lastmodified":1553717979,
     "wof:name":"Rafah",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

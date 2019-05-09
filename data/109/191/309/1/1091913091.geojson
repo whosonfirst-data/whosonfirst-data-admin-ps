@@ -10,6 +10,12 @@
     "geom:latitude":32.183095,
     "geom:longitude":35.298128,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Nablus Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":32.199452,
     "lbl:longitude":35.295005,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913091,
-    "wof:lastmodified":1549931127,
+    "wof:lastmodified":1553717978,
     "wof:name":"Nablus",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

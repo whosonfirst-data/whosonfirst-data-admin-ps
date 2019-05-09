@@ -10,6 +10,12 @@
     "geom:latitude":31.336443,
     "geom:longitude":34.318941,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Khan Younis Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":31.34253,
     "lbl:longitude":34.313757,
     "meso:admin_1":"Gaza",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913333,
-    "wof:lastmodified":1549931164,
+    "wof:lastmodified":1553717979,
     "wof:name":"Khan Younis",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

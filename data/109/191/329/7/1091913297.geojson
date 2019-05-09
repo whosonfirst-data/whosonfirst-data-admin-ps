@@ -10,6 +10,12 @@
     "geom:latitude":31.488316,
     "geom:longitude":34.445547,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Gaza Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":31.487336,
     "lbl:longitude":34.444478,
     "meso:admin_1":"Gaza",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913297,
-    "wof:lastmodified":1549931158,
+    "wof:lastmodified":1553717978,
     "wof:name":"Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":32.303364,
     "geom:longitude":35.464258,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Tubas Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":32.316599,
     "lbl:longitude":35.466712,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913213,
-    "wof:lastmodified":1549931149,
+    "wof:lastmodified":1553717979,
     "wof:name":"Tubas",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

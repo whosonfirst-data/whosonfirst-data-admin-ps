@@ -10,6 +10,12 @@
     "geom:latitude":31.488182,
     "geom:longitude":35.092066,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Hebron Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":31.494356,
     "lbl:longitude":35.08754,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091912955,
-    "wof:lastmodified":1549931100,
+    "wof:lastmodified":1553717978,
     "wof:name":"Hebron",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

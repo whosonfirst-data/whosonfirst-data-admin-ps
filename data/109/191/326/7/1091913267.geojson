@@ -10,6 +10,12 @@
     "geom:latitude":31.544148,
     "geom:longitude":34.509673,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "North Gaza Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":31.546713,
     "lbl:longitude":34.509698,
     "meso:admin_1":"Gaza",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913267,
-    "wof:lastmodified":1549931157,
+    "wof:lastmodified":1553717978,
     "wof:name":"North Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

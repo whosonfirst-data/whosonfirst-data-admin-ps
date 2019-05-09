@@ -10,6 +10,12 @@
     "geom:latitude":31.95956,
     "geom:longitude":35.206823,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Ramallah Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":31.970042,
     "lbl:longitude":35.206866,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913137,
-    "wof:lastmodified":1549931141,
+    "wof:lastmodified":1553717982,
     "wof:name":"Ramallah",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

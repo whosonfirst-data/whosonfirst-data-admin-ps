@@ -10,6 +10,12 @@
     "geom:latitude":32.183818,
     "geom:longitude":35.068612,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Qalqilya Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":32.170036,
     "lbl:longitude":35.027094,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913123,
-    "wof:lastmodified":1549931131,
+    "wof:lastmodified":1553717978,
     "wof:name":"Qalqilya",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

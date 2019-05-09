@@ -10,6 +10,12 @@
     "geom:latitude":31.968186,
     "geom:longitude":35.472898,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Jericho Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":31.961351,
     "lbl:longitude":35.481498,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913007,
-    "wof:lastmodified":1549931117,
+    "wof:lastmodified":1553717982,
     "wof:name":"Jericho",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":32.313303,
     "geom:longitude":35.083081,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Tulkarm Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":32.301331,
     "lbl:longitude":35.077658,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913233,
-    "wof:lastmodified":1549931154,
+    "wof:lastmodified":1553717980,
     "wof:name":"Tulkarm",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":32.104293,
     "geom:longitude":35.111694,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Salfit Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":32.110933,
     "lbl:longitude":35.099962,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913173,
-    "wof:lastmodified":1549931145,
+    "wof:lastmodified":1553717979,
     "wof:name":"Salfit",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

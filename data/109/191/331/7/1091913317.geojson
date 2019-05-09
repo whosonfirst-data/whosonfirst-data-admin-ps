@@ -10,6 +10,12 @@
     "geom:latitude":31.420629,
     "geom:longitude":34.369337,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Deir Al-Balah Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":31.417528,
     "lbl:longitude":34.369264,
     "meso:admin_1":"Gaza",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091913317,
-    "wof:lastmodified":1549931161,
+    "wof:lastmodified":1553717979,
     "wof:name":"Deir Al-Balah",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

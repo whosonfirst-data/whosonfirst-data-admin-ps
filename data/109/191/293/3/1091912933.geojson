@@ -10,6 +10,12 @@
     "geom:latitude":31.632878,
     "geom:longitude":35.295711,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Bethlehem Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":31.630641,
     "lbl:longitude":35.316999,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091912933,
-    "wof:lastmodified":1549931088,
+    "wof:lastmodified":1553717978,
     "wof:name":"Bethlehem",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

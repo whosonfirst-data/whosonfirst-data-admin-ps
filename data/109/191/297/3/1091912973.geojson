@@ -10,6 +10,12 @@
     "geom:latitude":32.42282,
     "geom:longitude":35.255922,
     "iso:country":"PS",
+    "label:eng_x_preferred_longname":[
+        "Jenin Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
     "lbl:latitude":32.419731,
     "lbl:longitude":35.24159,
     "meso:admin_1":"West Bank",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1091912973,
-    "wof:lastmodified":1549931108,
+    "wof:lastmodified":1553717981,
     "wof:name":"Jenin",
     "wof:parent_id":85681427,
     "wof:placetype":"county",
