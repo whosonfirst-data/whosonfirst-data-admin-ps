@@ -1,0 +1,16 @@
+{
+  "id": 1293129319,
+  "type": "Feature",
+  "properties": {
+    "src:geom":"geonames",
+    "wof:geomhash":"cb16fdca5f5815365d0af651d14ed184",
+    "wof:id":1293129319
+},
+  "bbox": [
+    35.22417,
+    31.89904000000001,
+    35.22417,
+    31.89904000000001
+],
+  "geometry": {"coordinates":[35.22417,31.89904000000001],"type":"Point"}
+}
