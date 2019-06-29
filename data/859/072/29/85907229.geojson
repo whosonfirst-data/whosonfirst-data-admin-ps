@@ -30,22 +30,13 @@
     "name:ces_x_preferred":[
         "Gilo"
     ],
-    "name:cze_x_preferred":[
-        "Gilo"
-    ],
     "name:deu_x_preferred":[
-        "Gilo"
-    ],
-    "name:dut_x_preferred":[
         "Gilo"
     ],
     "name:eng_x_preferred":[
         "Gilo"
     ],
-    "name:fre_x_preferred":[
-        "Gilo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gilo"
     ],
     "name:heb_x_preferred":[
@@ -55,6 +46,9 @@
         "Gilo"
     ],
     "name:jav_x_preferred":[
+        "Gilo"
+    ],
+    "name:nld_x_preferred":[
         "Gilo"
     ],
     "name:pol_x_preferred":[
@@ -98,11 +92,11 @@
     "wd:longitude":35.186389,
     "wd:wordcount":1745,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930543,
+    "wof:lastmodified":1561827594,
     "wof:name":"Gilo",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

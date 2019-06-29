@@ -28,14 +28,14 @@
     "name:cat_x_preferred":[
         "Ijnisinya"
     ],
-    "name:dut_x_preferred":[
-        "Ijnisinya"
-    ],
     "name:eng_x_preferred":[
         "Ijnisinya"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05d2'\u05e0\u05d9\u05e1\u05d9\u05e0\u05d9\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ijnisinya"
     ],
     "name:nno_x_preferred":[
         "Ijnisinya"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125839019,
-    "wof:lastmodified":1549929753,
+    "wof:lastmodified":1561827645,
     "wof:name":"Ijnisiny\u0101",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -21,10 +21,10 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0639\u0633\u0644 \u0627\u0644\u0641\u0648\u0642\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Deir al-'Asal al-Fauqa"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Deir al-'Asal al-Fauqa"
     ],
     "name:nno_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":101919835,
-    "wof:lastmodified":1534985972,
+    "wof:lastmodified":1561827621,
     "wof:name":"Deir al 'Asal al Fauqa",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -22,19 +22,13 @@
     "name:ces_x_preferred":[
         "Isavija"
     ],
-    "name:cze_x_preferred":[
-        "Isavija"
-    ],
-    "name:dut_x_preferred":[
-        "Al-Issawiya"
-    ],
     "name:eng_x_preferred":[
         "Al-Issawiya"
     ],
     "name:fra_x_preferred":[
         "Issawiya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Al-Issawiya"
     ],
     "name:heb_x_preferred":[
@@ -46,11 +40,11 @@
     "name:ita_x_preferred":[
         "Al-Issawiya"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043b-\u0418\u0441\u0430\u0432\u0438\u0458\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u043b-\u0418\u0441\u0430\u0432\u0438\u0458\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Al-Issawiya"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -69,11 +63,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":1360,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":1376891713,
-    "wof:lastmodified":1549931464,
+    "wof:lastmodified":1561827634,
     "wof:name":"Al 'Isawiya",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

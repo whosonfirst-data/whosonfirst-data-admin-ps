@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Silat ad-Dhahr"
     ],
-    "name:dut_x_preferred":[
-        "Silat ad-Dhahr"
-    ],
     "name:eng_x_preferred":[
         "Silat ad-Dhahr"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05dc\u05ea \u05d0-\u05d3'\u05d0\u05d4\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Silat ad-Dhahr"
     ],
     "name:nno_x_preferred":[
         "Silat ad-Dhahr"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125824793,
-    "wof:lastmodified":1549929727,
+    "wof:lastmodified":1561827640,
     "wof:name":"S\u012blat az\u0327 Z\u0327ahr",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

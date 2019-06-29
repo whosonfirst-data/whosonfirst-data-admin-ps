@@ -26,9 +26,6 @@
     "name:fra_x_preferred":[
         "Shu'fat"
     ],
-    "name:fre_x_preferred":[
-        "Shu'fat"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05e0\u05d4 \u05d4\u05e4\u05dc\u05d9\u05d8\u05d9\u05dd \u05e9\u05d5\u05e2\u05e4\u05d0\u05d8"
     ],
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":101922179,
-    "wof:lastmodified":1549931398,
+    "wof:lastmodified":1561827610,
     "wof:name":"Shu'fat Camp",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

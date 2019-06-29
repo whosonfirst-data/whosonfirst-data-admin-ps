@@ -20,20 +20,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0639\u0628\u0648\u0634"
     ],
-    "name:dut_x_preferred":[
-        "Kafr Abbush"
-    ],
     "name:eng_x_preferred":[
         "Kafr Abbush"
     ],
     "name:fra_x_preferred":[
         "Kufur Aboush"
     ],
-    "name:fre_x_preferred":[
-        "Kufur Aboush"
-    ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05e2\u05d1\u05d5\u05e9"
+    ],
+    "name:nld_x_preferred":[
+        "Kafr Abbush"
     ],
     "name:nno_x_preferred":[
         "Kafr Abbush"
@@ -100,7 +97,7 @@
         }
     ],
     "wof:id":101921403,
-    "wof:lastmodified":1549929814,
+    "wof:lastmodified":1561827633,
     "wof:name":"Kafr 'Abbush",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -25,19 +25,13 @@
     "name:cat_x_preferred":[
         "Balata"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "Balata"
-    ],
     "name:eng_x_preferred":[
         "Balata"
     ],
     "name:epo_x_preferred":[
         "Balata"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Balata"
     ],
     "name:heb_x_preferred":[
@@ -45,6 +39,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30bf\u30fb\u30ad\u30e3\u30f3\u30d7"
+    ],
+    "name:nld_x_preferred":[
+        "Balata"
     ],
     "name:pol_x_preferred":[
         "Ob\u00f3z Balata"
@@ -57,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Bal\u0101ta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u5854"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1125861469,
-    "wof:lastmodified":1553816580,
+    "wof:lastmodified":1561827638,
     "wof:name":"Balatah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

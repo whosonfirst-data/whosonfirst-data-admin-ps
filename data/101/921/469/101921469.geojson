@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000036,
-    "geom:area_square_m":373946.206328,
+    "geom:area_square_m":373946.206327,
     "geom:bbox":"35.1526260376,32.1875419617,35.1614189148,32.193775177",
     "geom:latitude":32.190494,
     "geom:longitude":35.157495,
@@ -22,14 +22,14 @@
     "name:ara_x_preferred":[
         "\u0625\u0645\u0627\u062a\u064a\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Immatain"
-    ],
     "name:eng_x_preferred":[
         "Immatain"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05de\u05d0\u05ea\u05d9\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Immatain"
     ],
     "name:nno_x_preferred":[
         "Immatain"
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101921469,
-    "wof:lastmodified":1534985976,
+    "wof:lastmodified":1561827632,
     "wof:name":"Immatin",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

@@ -23,14 +23,14 @@
     "name:cat_x_preferred":[
         "Zawata"
     ],
-    "name:dut_x_preferred":[
-        "Zawata"
-    ],
     "name:eng_x_preferred":[
         "Zawata"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d0\u05d5\u05d5\u05d0\u05ea\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Zawata"
     ],
     "name:unk_x_variant":[
         "Zaw\u0101t\u0101"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1175613367,
-    "wof:lastmodified":1549929635,
+    "wof:lastmodified":1561827597,
     "wof:name":"Zawata",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

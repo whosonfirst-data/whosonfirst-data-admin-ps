@@ -26,14 +26,14 @@
     "name:eng_x_preferred":[
         "Qatanna"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0637\u0646\u0647"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d8\u05d0\u05e0\u05d0"
     ],
     "name:nno_x_preferred":[
         "Qatanna"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0637\u0646\u0647"
     ],
     "name:unk_x_variant":[
         "Katanneh"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101922159,
-    "wof:lastmodified":1549929795,
+    "wof:lastmodified":1561827602,
     "wof:name":"Qatanna",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

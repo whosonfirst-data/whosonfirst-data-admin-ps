@@ -20,10 +20,10 @@
     "name:ara_x_preferred":[
         "\u0635\u0641\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Saffa"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Saffa"
     ],
     "name:nno_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":101921963,
-    "wof:lastmodified":1549929882,
+    "wof:lastmodified":1561827626,
     "wof:name":"Saffa",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

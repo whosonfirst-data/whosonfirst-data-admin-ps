@@ -23,10 +23,10 @@
     "name:cat_x_preferred":[
         "Beit Dajan"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Beit Dajan"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Beit Dajan"
     ],
     "name:nno_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":101921473,
-    "wof:lastmodified":1549929826,
+    "wof:lastmodified":1561827632,
     "wof:name":"Beit Dajan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -20,23 +20,23 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0623\u0645\u0631"
     ],
-    "name:dut_x_preferred":[
-        "Beit Ummar"
-    ],
     "name:eng_x_preferred":[
         "Beit Ummar"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u0627\u0645\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Beit Ommar"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d0\u05d5\u05de\u05e8"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Beit Ummar"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u062a \u0627\u0645\u0631"
+    "name:nno_x_preferred":[
+        "Beit Ummar"
     ],
     "name:pol_x_preferred":[
         "Bajt Immar"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101922517,
-    "wof:lastmodified":1549929821,
+    "wof:lastmodified":1561827605,
     "wof:name":"Beit Ummar",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

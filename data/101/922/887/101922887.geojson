@@ -50,9 +50,6 @@
     "name:deu_x_preferred":[
         "Karma"
     ],
-    "name:dut_x_preferred":[
-        "Karma"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c1\u03bc\u03b1"
     ],
@@ -289,7 +286,7 @@
         }
     ],
     "wof:id":101922887,
-    "wof:lastmodified":1549929872,
+    "wof:lastmodified":1561827603,
     "wof:name":"Karma",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

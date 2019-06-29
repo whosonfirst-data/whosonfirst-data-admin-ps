@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062a\u0639\u0645\u0631"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Beit Ta'mir"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Beit Ta'mir"
     ],
     "name:nno_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125826635,
-    "wof:lastmodified":1549929746,
+    "wof:lastmodified":1561827642,
     "wof:name":"Bayt Ta\u2018mar",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -22,17 +22,17 @@
     "name:ara_x_preferred":[
         "\u0628\u062f\u0648"
     ],
-    "name:dut_x_preferred":[
-        "Biddu"
-    ],
     "name:eng_x_preferred":[
         "Biddu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Biddu"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d3\u05d5"
+    ],
+    "name:nld_x_preferred":[
+        "Biddu"
     ],
     "name:nno_x_preferred":[
         "Biddu i Jerusalem"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125855183,
-    "wof:lastmodified":1549929765,
+    "wof:lastmodified":1561827643,
     "wof:name":"Bidd\u016b",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

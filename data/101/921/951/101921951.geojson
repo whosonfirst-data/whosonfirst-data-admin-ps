@@ -19,10 +19,10 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0646\u0639\u0645\u0629"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kafr Ni'ma"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Kafr Ni'ma"
     ],
     "name:nno_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101921951,
-    "wof:lastmodified":1549929879,
+    "wof:lastmodified":1561827630,
     "wof:name":"Kafr Ni'ma",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000007,
-    "geom:area_square_m":69170.255919,
+    "geom:area_square_m":69170.255918,
     "geom:bbox":"35.4730873108,32.3859596252,35.4767379761,32.3895263672",
     "geom:latitude":32.387723,
     "geom:longitude":35.474814,
@@ -28,14 +28,14 @@
     "name:cat_x_preferred":[
         "Bardala"
     ],
-    "name:dut_x_preferred":[
-        "Bardala"
-    ],
     "name:eng_x_preferred":[
         "Bardala"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d3\u05dc\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Bardala"
     ],
     "name:nno_x_preferred":[
         "Bardala"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":101921053,
-    "wof:lastmodified":1534985965,
+    "wof:lastmodified":1561827628,
     "wof:name":"Bardala",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

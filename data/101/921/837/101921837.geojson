@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000094,
-    "geom:area_square_m":980772.147973,
+    "geom:area_square_m":980772.147972,
     "geom:bbox":"35.0,31.9719295502,35.0179443359,31.9811992645",
     "geom:latitude":31.976585,
     "geom:longitude":35.008971,
@@ -28,23 +28,17 @@
     "name:deu_x_preferred":[
         "Qibya"
     ],
-    "name:dut_x_preferred":[
-        "Qibya"
-    ],
     "name:eng_x_preferred":[
         "Qibya"
     ],
     "name:fra_x_preferred":[
         "Qibya"
     ],
-    "name:fre_x_preferred":[
-        "Qibya"
-    ],
-    "name:ger_x_preferred":[
-        "Qibya"
-    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05d1\u05d9\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Qibya"
     ],
     "name:nno_x_preferred":[
         "Qibya"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101921837,
-    "wof:lastmodified":1534985972,
+    "wof:lastmodified":1561827632,
     "wof:name":"Qibya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

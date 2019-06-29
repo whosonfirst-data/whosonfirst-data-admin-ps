@@ -32,9 +32,6 @@
     "name:deu_x_preferred":[
         "Yabrud"
     ],
-    "name:dut_x_preferred":[
-        "Yabrud"
-    ],
     "name:eng_x_preferred":[
         "Yabrud"
     ],
@@ -142,7 +139,7 @@
         }
     ],
     "wof:id":101921839,
-    "wof:lastmodified":1549929863,
+    "wof:lastmodified":1561827632,
     "wof:name":"Yabrud",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

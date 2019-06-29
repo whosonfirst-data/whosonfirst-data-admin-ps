@@ -26,10 +26,10 @@
         "\u0627\u0644\u0627\u062a\u062d\u0627\u062f",
         "\u0628\u064a\u062a\u0644\u0644\u0648"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Beitillu"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Beitillu"
     ],
     "name:unk_x_variant":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":101921853,
-    "wof:lastmodified":1534985976,
+    "wof:lastmodified":1561827632,
     "wof:name":"Beitillu",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

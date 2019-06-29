@@ -22,14 +22,14 @@
     "name:cat_x_preferred":[
         "Madinat al-Awda"
     ],
-    "name:dut_x_preferred":[
-        "Madinat al-Awda"
-    ],
     "name:eng_x_preferred":[
         "Madinat al-Awda"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d3\u05d9\u05e0\u05ea \u05d0\u05dc-\u05e2\u05d5\u05d5\u05d3\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Madinat al-Awda"
     ],
     "name:nno_x_preferred":[
         "Madinat al-Awda"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101919651,
-    "wof:lastmodified":1549928921,
+    "wof:lastmodified":1561827621,
     "wof:name":"Madinat al 'Awda",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",

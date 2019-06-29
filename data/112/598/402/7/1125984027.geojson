@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Deir Sharaf"
     ],
-    "name:dut_x_preferred":[
-        "Deir Sharaf"
-    ],
     "name:eng_x_preferred":[
         "Deir Sharaf"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05e8 \u05e9\u05e8\u05e3"
+    ],
+    "name:nld_x_preferred":[
+        "Deir Sharaf"
     ],
     "name:nno_x_preferred":[
         "Deir Sharaf"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125984027,
-    "wof:lastmodified":1549929773,
+    "wof:lastmodified":1561827639,
     "wof:name":"Dayr Sharaf",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

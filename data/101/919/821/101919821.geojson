@@ -23,10 +23,10 @@
     "name:cat_x_preferred":[
         "Al-Mughraqa"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Al-Mughraqa"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Al-Mughraqa"
     ],
     "name:jpn_x_preferred":[
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":101919821,
-    "wof:lastmodified":1549928927,
+    "wof:lastmodified":1561827621,
     "wof:name":"Al Mughraqa",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",

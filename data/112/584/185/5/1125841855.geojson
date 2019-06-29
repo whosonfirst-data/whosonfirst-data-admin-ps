@@ -25,20 +25,17 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a4\u09cd\u09a4\u09bf\u09b0"
     ],
-    "name:cze_x_preferred":[
-        "Battir"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Battir"
     ],
     "name:eng_x_preferred":[
         "Battir"
     ],
-    "name:fre_x_preferred":[
-        "Battir"
+    "name:fas_x_preferred":[
+        "\u0628\u062a\u06cc\u0631"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e2\u10d8\u10e0\u10d8"
+    "name:fra_x_preferred":[
+        "Battir"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05ea\u05d9\u05e8"
@@ -52,11 +49,14 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30c6\u30a3\u30a2"
     ],
-    "name:nno_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e2\u10d8\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Battir"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062a\u06cc\u0631"
+    "name:nno_x_preferred":[
+        "Battir"
     ],
     "name:pol_x_preferred":[
         "Battir"
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1125841855,
-    "wof:lastmodified":1549929761,
+    "wof:lastmodified":1561827644,
     "wof:name":"Batt\u012br",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

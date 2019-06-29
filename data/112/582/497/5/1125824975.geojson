@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Asira al-Qibliya"
     ],
-    "name:dut_x_preferred":[
-        "Asira al-Qibliya"
-    ],
     "name:eng_x_preferred":[
         "Asira al-Qibliya"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05e1\u05d9\u05e8\u05d4 \u05d0\u05dc-\u05e7\u05d1\u05dc\u05d9\u05d9\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Asira al-Qibliya"
     ],
     "name:nno_x_preferred":[
         "Asira al-Qibliya"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125824975,
-    "wof:lastmodified":1549929735,
+    "wof:lastmodified":1561827640,
     "wof:name":"\u2018A\u015f\u012brah al Qibl\u012byah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -25,10 +25,10 @@
     "name:cat_x_preferred":[
         "Kafr Qud"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kafr Qud"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Kafr Qud"
     ],
     "qs:a0":"Palestine",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":101920865,
-    "wof:lastmodified":1534985972,
+    "wof:lastmodified":1561827618,
     "wof:name":"Kafr Qud",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

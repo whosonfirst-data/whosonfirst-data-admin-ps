@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u063a\u0632\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0542\u0561\u0566\u0561"
-    ],
     "name:ast_x_preferred":[
         "Gaza"
     ],
@@ -40,9 +37,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0492\u04d9\u0437\u0437\u04d9"
-    ],
-    "name:baq_x_preferred":[
-        "Gaza"
     ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0437\u0430"
@@ -62,16 +56,16 @@
     "name:cat_x_preferred":[
         "Gaza"
     ],
+    "name:ces_x_preferred":[
+        "Gaza"
+    ],
     "name:che_x_preferred":[
         "\u0413\u0430\u0437\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u52a0\u85a9"
     ],
     "name:ckb_x_preferred":[
         "\u063a\u06d5\u0632\u0632\u06d5"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Gaza"
     ],
     "name:dan_x_preferred":[
@@ -80,8 +74,8 @@
     "name:deu_x_preferred":[
         "Gaza"
     ],
-    "name:dut_x_preferred":[
-        "Gaza"
+    "name:ell_x_preferred":[
+        "\u0393\u03ac\u03b6\u03b1"
     ],
     "name:eng_x_colloquial":[
         "Azza",
@@ -106,6 +100,12 @@
     "name:est_x_preferred":[
         "Gaza"
     ],
+    "name:eus_x_preferred":[
+        "Gaza"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0632\u0647"
+    ],
     "name:fin_x_preferred":[
         "Gaza"
     ],
@@ -115,16 +115,7 @@
     "name:fra_x_variant":[
         "Ville de Gaza"
     ],
-    "name:fre_x_preferred":[
-        "Gaza"
-    ],
     "name:frr_x_preferred":[
-        "Gaza"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e6\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Gaza"
     ],
     "name:gla_x_preferred":[
@@ -132,9 +123,6 @@
     ],
     "name:glg_x_preferred":[
         "Gaza"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ac\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0a9d\u0abe \u0ab6\u0ab9\u0ac7\u0ab0"
@@ -150,6 +138,9 @@
     ],
     "name:hun_x_preferred":[
         "G\u00e1za"
+    ],
+    "name:hye_x_preferred":[
+        "\u0542\u0561\u0566\u0561"
     ],
     "name:ind_x_preferred":[
         "Gaza"
@@ -168,6 +159,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c97\u0cbe\u0c9c\u0cbe \u0ca8\u0c97\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e6\u10d0\u10d6\u10d0"
     ],
     "name:kir_x_preferred":[
         "\u0413\u0430\u0437a"
@@ -190,9 +184,6 @@
     "name:lit_x_preferred":[
         "Gaza"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0430\u0437\u0430"
-    ],
     "name:mai_x_preferred":[
         "\u0917\u093e\u091c\u093e \u0936\u0939\u0930"
     ],
@@ -202,7 +193,10 @@
     "name:mar_x_preferred":[
         "\u0917\u093e\u091d\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u0437\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Gaza"
     ],
     "name:nep_x_preferred":[
@@ -238,9 +232,6 @@
     "name:pdc_x_preferred":[
         "Gaesa"
     ],
-    "name:per_x_preferred":[
-        "\u063a\u0632\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u063a\u0632\u06c1"
     ],
@@ -250,7 +241,7 @@
     "name:por_x_preferred":[
         "Gaza"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gaza"
     ],
     "name:rus_x_preferred":[
@@ -265,7 +256,7 @@
     "name:sin_x_preferred":[
         "\u0d9c\u0dcf\u0dc3\u0dcf \u0db1\u0d9c\u0dbb\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gaza"
     ],
     "name:spa_x_preferred":[
@@ -313,9 +304,6 @@
     "name:war_x_preferred":[
         "Gaza"
     ],
-    "name:wel_x_preferred":[
-        "Gaza"
-    ],
     "name:wuu_x_preferred":[
         "\u52a0\u6c99\u57ce"
     ],
@@ -327,6 +315,9 @@
     ],
     "name:yue_x_preferred":[
         "\u52a0\u6c99"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u85a9"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -383,7 +374,7 @@
         }
     ],
     "wof:id":101919747,
-    "wof:lastmodified":1549928922,
+    "wof:lastmodified":1561827622,
     "wof:name":"Gaza",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",

@@ -20,10 +20,10 @@
     "name:ara_x_preferred":[
         "\u0642\u0644\u0642\u0633"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Qalqas"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Qalqas"
     ],
     "name:nno_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101922793,
-    "wof:lastmodified":1549929856,
+    "wof:lastmodified":1561827606,
     "wof:name":"Qalqas",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -16,14 +16,14 @@
     "mps:longitude":35.15221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Hureiz"
-    ],
     "name:eng_x_preferred":[
         "Hureiz"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05e8\u05d9\u05d6"
+    ],
+    "name:nld_x_preferred":[
+        "Hureiz"
     ],
     "name:nno_x_preferred":[
         "Hureiz"
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101922809,
-    "wof:lastmodified":1549929854,
+    "wof:lastmodified":1561827608,
     "wof:name":"Hureiz",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

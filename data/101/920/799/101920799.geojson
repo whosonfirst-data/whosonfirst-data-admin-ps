@@ -23,14 +23,8 @@
     "name:cat_x_preferred":[
         "Faqqua"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u5e93\u963f"
-    ],
     "name:deu_x_preferred":[
         "Faqqua"
-    ],
-    "name:dut_x_preferred":[
-        "Faqoa"
     ],
     "name:eng_x_preferred":[
         "Faqqua"
@@ -40,12 +34,6 @@
     ],
     "name:fra_x_preferred":[
         "Faqoa"
-    ],
-    "name:fre_x_preferred":[
-        "Faqoa"
-    ],
-    "name:ger_x_preferred":[
-        "Faqqua"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e7\u05d5\u05e2\u05d4"
@@ -58,9 +46,6 @@
     ],
     "name:nno_x_preferred":[
         "Faqqua"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0642\u0648\u0639\u0629"
     ],
     "name:pol_x_preferred":[
         "Fakua"
@@ -133,7 +118,7 @@
         }
     ],
     "wof:id":101920799,
-    "wof:lastmodified":1549929852,
+    "wof:lastmodified":1561827611,
     "wof:name":"Faqqu'a",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

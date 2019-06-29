@@ -26,17 +26,17 @@
     "name:deu_x_preferred":[
         "Abasan as-Saghira"
     ],
-    "name:dut_x_preferred":[
-        "Abasan al-Saghira"
-    ],
     "name:eng_x_preferred":[
         "Abasan al-Saghira"
     ],
     "name:fas_x_preferred":[
         "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u0635\u063a\u06cc\u0631\u0647"
     ],
-    "name:ger_x_preferred":[
-        "Abasan as-Saghira"
+    "name:fas_x_variant":[
+        "\u0639\u0628\u0627\u0633\u0627\u0646 \u0627\u0644-\u0633\u0642\u06cc\u0631\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Abasan al-Saghira"
     ],
     "name:nno_x_preferred":[
         "Abasan al-Saghira"
@@ -46,9 +46,6 @@
     ],
     "name:nor_x_preferred":[
         "Abasan al-Saghira"
-    ],
-    "name:per_x_preferred":[
-        "\u0639\u0628\u0627\u0633\u0627\u0646 \u0627\u0644-\u0633\u0642\u06cc\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Abasan as-Saghira"
@@ -111,7 +108,7 @@
         }
     ],
     "wof:id":101920447,
-    "wof:lastmodified":1549928902,
+    "wof:lastmodified":1561827612,
     "wof:name":"'Abasan al Jadida",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

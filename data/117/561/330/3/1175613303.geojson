@@ -22,9 +22,6 @@
     "name:cat_x_preferred":[
         "Tel al-Sultan"
     ],
-    "name:dut_x_preferred":[
-        "Tall as-Sultan"
-    ],
     "name:eng_x_preferred":[
         "Tall as-Sultan"
     ],
@@ -36,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30eb\u30fb\u30a2\u30c3\u30b9\u30eb\u30bf\u30fc\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Tall as-Sultan"
     ],
     "name:pol_x_preferred":[
         "Tall as-Sultan"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1175613303,
-    "wof:lastmodified":1549928882,
+    "wof:lastmodified":1561827598,
     "wof:name":"Tall as Sultan",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

@@ -19,29 +19,29 @@
     "mps:longitude":35.226905,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:alb_x_preferred":[
-        "Al Hashimiyya"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629"
-    ],
-    "name:dut_x_preferred":[
-        "Al Hashimiyya"
     ],
     "name:eng_x_preferred":[
         "Al Hashimiyya"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0647\u0627\u0634\u0645\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Al Hashimiyya"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0644\u0647\u0627\u0634\u0645\u06cc\u0647"
     ],
+    "name:nld_x_preferred":[
+        "Al Hashimiyya"
+    ],
     "name:nno_x_preferred":[
         "Al Hashimiyya"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0647\u0627\u0634\u0645\u06cc\u0647"
+    "name:sqi_x_preferred":[
+        "Al Hashimiyya"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101920855,
-    "wof:lastmodified":1534985974,
+    "wof:lastmodified":1561827618,
     "wof:name":"Al Hashimiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

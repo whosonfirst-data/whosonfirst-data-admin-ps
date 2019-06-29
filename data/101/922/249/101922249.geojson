@@ -24,10 +24,7 @@
     "name:ces_x_preferred":[
         "Silvan"
     ],
-    "name:cze_x_preferred":[
-        "Silvan"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Silwan"
     ],
     "name:eng_x_preferred":[
@@ -39,20 +36,11 @@
     "name:fra_x_preferred":[
         "Silwan"
     ],
-    "name:fre_x_preferred":[
-        "Silwan"
-    ],
-    "name:ger_x_preferred":[
-        "Silwan"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05dc\u05d5\u05d0\u05df"
     ],
     "name:ind_x_preferred":[
         "Silwan"
-    ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u043b\u0432\u0430\u043d"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u043b\u0432\u0430\u043d"
@@ -110,7 +98,7 @@
         }
     ],
     "wof:id":101922249,
-    "wof:lastmodified":1549931419,
+    "wof:lastmodified":1561827608,
     "wof:name":"Silwan",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

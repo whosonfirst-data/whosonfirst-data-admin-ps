@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Baituniya"
     ],
-    "name:dut_x_preferred":[
-        "Beitunia"
-    ],
     "name:eng_x_preferred":[
         "Beitunia"
     ],
@@ -38,12 +35,6 @@
     "name:fra_x_preferred":[
         "Beitunia"
     ],
-    "name:fre_x_preferred":[
-        "Beitunia"
-    ],
-    "name:ger_x_preferred":[
-        "Baituniya"
-    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea\u05d5\u05e0\u05d9\u05d0"
     ],
@@ -52,9 +43,6 @@
     ],
     "name:nno_x_preferred":[
         "Beitunia"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u062a\u0648\u0646\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Bajtunija"
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":101921997,
-    "wof:lastmodified":1549929881,
+    "wof:lastmodified":1561827626,
     "wof:name":"Beituniya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

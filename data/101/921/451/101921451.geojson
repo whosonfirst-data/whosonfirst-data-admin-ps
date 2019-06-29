@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000003,
-    "geom:area_square_m":31725.713479,
+    "geom:area_square_m":31725.713478,
     "geom:bbox":"35.4426498413,32.1924133301,35.4453277588,32.1947517395",
     "geom:latitude":32.193671,
     "geom:longitude":35.443822,
@@ -21,14 +21,14 @@
     "name:cat_x_preferred":[
         "Furush Beit Dajan"
     ],
-    "name:dut_x_preferred":[
-        "Furush Beit Dajan"
-    ],
     "name:eng_x_preferred":[
         "Furush Beit Dajan"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d5\u05e9 \u05d1\u05d9\u05ea \u05d3\u05d2'\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Furush Beit Dajan"
     ],
     "name:nno_x_preferred":[
         "Furush Beit Dajan"
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101921451,
-    "wof:lastmodified":1534985968,
+    "wof:lastmodified":1561827632,
     "wof:name":"Furush Beit Dajan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

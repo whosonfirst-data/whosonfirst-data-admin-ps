@@ -20,20 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062d\u0627\u0646\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Beit Hanoun"
-    ],
     "name:cat_x_preferred":[
         "Beit Hanoun"
     ],
-    "name:chi_x_preferred":[
-        "\u62dc\u7279\u54c8\u519c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bajt Han\u00fan"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Beit Hanoun"
+    ],
+    "name:deu_x_preferred":[
+        "Beit Hanun"
     ],
     "name:eng_x_preferred":[
         "Beit Hanoun"
@@ -41,14 +38,17 @@
     "name:epo_x_preferred":[
         "Bait Hanun"
     ],
+    "name:eus_x_preferred":[
+        "Beit Hanoun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a\u200c\u062d\u0627\u0646\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Beit Hanoun"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beit Hanoun"
-    ],
-    "name:ger_x_preferred":[
-        "Beit Hanun"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d7\u05d0\u05e0\u05d5\u05df"
@@ -59,14 +59,14 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30a4\u30c8\u30fb\u30cf\u30cc\u30fc\u30f3"
     ],
+    "name:nld_x_preferred":[
+        "Beit Hanoun"
+    ],
     "name:nno_x_preferred":[
         "Beit Hanoun"
     ],
     "name:oci_x_preferred":[
         "Beit Hanoun"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u062a\u200c\u062d\u0627\u0646\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Bajt Hanun"
@@ -92,8 +92,8 @@
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062a \u062d\u0627\u0646\u0648\u0646"
     ],
-    "name:wel_x_preferred":[
-        "Beit Hanoun"
+    "name:zho_x_preferred":[
+        "\u62dc\u7279\u54c8\u519c"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":101919685,
-    "wof:lastmodified":1549928918,
+    "wof:lastmodified":1561827623,
     "wof:name":"Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

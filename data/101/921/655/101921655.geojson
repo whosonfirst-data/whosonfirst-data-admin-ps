@@ -23,10 +23,10 @@
     "name:cat_x_preferred":[
         "Sarta"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Sarta"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Sarta"
     ],
     "name:nno_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":101921655,
-    "wof:lastmodified":1549929843,
+    "wof:lastmodified":1561827632,
     "wof:name":"Sarta",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

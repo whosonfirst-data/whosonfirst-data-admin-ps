@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000037,
-    "geom:area_square_m":384402.423867,
+    "geom:area_square_m":384402.423869,
     "geom:bbox":"35.2512016296,31.7293663025,35.2602462769,31.7416381836",
     "geom:latitude":31.7364,
     "geom:longitude":35.255845,
@@ -21,17 +21,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u064a\u062e \u0633\u0639\u062f"
     ],
-    "name:dut_x_preferred":[
-        "Ash-Sheikh Sa'd"
-    ],
     "name:eng_x_preferred":[
         "Ash-Sheikh Sa'd"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0634\u06cc\u062e \u0633\u0639\u062f"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05d9\u05d7' \u05e1\u05e2\u05d3"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0634\u06cc\u062e \u0633\u0639\u062f"
+    "name:nld_x_preferred":[
+        "Ash-Sheikh Sa'd"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":101922307,
-    "wof:lastmodified":1534985966,
+    "wof:lastmodified":1561827601,
     "wof:name":"Ash Sheikh Sa'd",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

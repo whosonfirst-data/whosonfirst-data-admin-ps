@@ -19,11 +19,11 @@
     "name:ara_x_preferred":[
         "\u062a\u0642\u0648\u0639"
     ],
-    "name:dut_x_preferred":[
-        "Tuqu'"
-    ],
     "name:eng_x_preferred":[
         "Tuqu'"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0642\u0648\u0639"
     ],
     "name:heb_x_preferred":[
         "\u05ea\u05d5\u05e7\u05d5\u05e2"
@@ -34,11 +34,11 @@
     "name:jpn_x_preferred":[
         "\u30c6\u30b3\u30a2"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Tuqu'"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0642\u0648\u0639"
+    "name:nno_x_preferred":[
+        "Tuqu'"
     ],
     "name:pol_x_preferred":[
         "Tuku"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101922521,
-    "wof:lastmodified":1549929829,
+    "wof:lastmodified":1561827605,
     "wof:name":"Tuqu'",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

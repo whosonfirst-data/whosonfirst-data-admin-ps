@@ -20,10 +20,10 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u062c\u0631\u064a\u0631"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Deir Jarir"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Deir Jarir"
     ],
     "name:nno_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101921871,
-    "wof:lastmodified":1549929877,
+    "wof:lastmodified":1561827631,
     "wof:name":"Deir Jarir",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

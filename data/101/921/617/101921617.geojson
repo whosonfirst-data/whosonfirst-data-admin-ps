@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000111,
-    "geom:area_square_m":1164623.863653,
+    "geom:area_square_m":1164623.863652,
     "geom:bbox":"35.3359107971,32.1169815063,35.3523597717,32.1325531006",
     "geom:latitude":32.125045,
     "geom:longitude":35.344598,
@@ -23,9 +23,6 @@
         "\u0639\u0642\u0631\u0628\u0627"
     ],
     "name:cat_x_preferred":[
-        "Aqraba"
-    ],
-    "name:dut_x_preferred":[
         "Aqraba"
     ],
     "name:eng_x_preferred":[
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":101921617,
-    "wof:lastmodified":1534985973,
+    "wof:lastmodified":1561827627,
     "wof:name":"Aqraba",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

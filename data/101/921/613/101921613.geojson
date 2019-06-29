@@ -26,14 +26,14 @@
     "name:cat_x_preferred":[
         "Osarin"
     ],
-    "name:dut_x_preferred":[
-        "Osarin"
-    ],
     "name:eng_x_preferred":[
         "Osarin"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d5\u05e1\u05d0\u05e8\u05d9\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Osarin"
     ],
     "name:unk_x_variant":[
         "Usarin"
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":101921613,
-    "wof:lastmodified":1549929832,
+    "wof:lastmodified":1561827631,
     "wof:name":"Osarin",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

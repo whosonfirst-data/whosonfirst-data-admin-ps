@@ -23,10 +23,10 @@
     "name:cat_x_preferred":[
         "Umm al-Tut"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Umm at-Tut"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Umm at-Tut"
     ],
     "name:nno_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101920953,
-    "wof:lastmodified":1549929866,
+    "wof:lastmodified":1561827611,
     "wof:name":"Umm at Tut",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

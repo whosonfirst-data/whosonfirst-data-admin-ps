@@ -22,14 +22,14 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a"
     ],
-    "name:dut_x_preferred":[
-        "Jit"
-    ],
     "name:eng_x_preferred":[
         "Jit"
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05d9\u05ea"
+    ],
+    "name:nld_x_preferred":[
+        "Jit"
     ],
     "name:nno_x_preferred":[
         "Jit i Qalqilya"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125855415,
-    "wof:lastmodified":1549929766,
+    "wof:lastmodified":1561827643,
     "wof:name":"J\u012bt",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

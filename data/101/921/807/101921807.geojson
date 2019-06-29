@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000022,
-    "geom:area_square_m":235888.038334,
+    "geom:area_square_m":235888.038333,
     "geom:bbox":"35.0977592468,31.9997158051,35.1079673767,32.0048103333",
     "geom:latitude":32.002291,
     "geom:longitude":35.103439,
@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0646\u0638\u0627\u0645"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Deir Nidham"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Deir Nidham"
     ],
     "name:nno_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":101921807,
-    "wof:lastmodified":1534985974,
+    "wof:lastmodified":1561827632,
     "wof:name":"Deir Nidham",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

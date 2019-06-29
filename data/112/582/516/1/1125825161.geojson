@@ -22,10 +22,13 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u064a\u0628"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Jib"
     ],
-    "name:eng_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u06cc\u0628"
+    ],
+    "name:nld_x_preferred":[
         "Jib"
     ],
     "name:nno_x_preferred":[
@@ -33,9 +36,6 @@
     ],
     "name:nob_x_preferred":[
         "Jib i Jerusalem"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u062c\u06cc\u0628"
     ],
     "name:unk_x_variant":[
         "El J\u012bb"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125825161,
-    "wof:lastmodified":1549929740,
+    "wof:lastmodified":1561827641,
     "wof:name":"Al J\u012bb",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

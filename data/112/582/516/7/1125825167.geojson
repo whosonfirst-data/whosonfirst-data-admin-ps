@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Fandaqumiya"
     ],
-    "name:dut_x_preferred":[
-        "Fandaqumiya"
-    ],
     "name:eng_x_preferred":[
         "Fandaqumiya"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e0\u05d3\u05e7\u05d5\u05de\u05d9\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Fandaqumiya"
     ],
     "name:nno_x_preferred":[
         "Fandaqumiya"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125825167,
-    "wof:lastmodified":1549929743,
+    "wof:lastmodified":1561827641,
     "wof:name":"Al Fandaq\u016bm\u012byah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Bir Zait"
     ],
-    "name:dut_x_preferred":[
-        "Bir Zeit"
-    ],
     "name:eng_x_preferred":[
         "Birzeit"
     ],
@@ -37,12 +34,6 @@
     ],
     "name:fra_x_preferred":[
         "Bir Zeit"
-    ],
-    "name:fre_x_preferred":[
-        "Bir Zeit"
-    ],
-    "name:ger_x_preferred":[
-        "Bir Zait"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05e8 \u05d6\u05d9\u05ea"
@@ -123,7 +114,7 @@
         }
     ],
     "wof:id":101921881,
-    "wof:lastmodified":1549929868,
+    "wof:lastmodified":1561827627,
     "wof:name":"Bir Zeit",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

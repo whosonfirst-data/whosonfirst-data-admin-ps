@@ -20,20 +20,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0633\u0648\u0631\u064a\u0643"
     ],
-    "name:dut_x_preferred":[
-        "Beit Surik"
-    ],
     "name:eng_x_preferred":[
         "Beit Surik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u0633\u0648\u0631\u06cc\u06a9"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05e1\u05d5\u05e8\u05d9\u05db"
     ],
+    "name:nld_x_preferred":[
+        "Beit Surik"
+    ],
     "name:nno_x_preferred":[
         "Beit Sirik"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u062a \u0633\u0648\u0631\u06cc\u06a9"
     ],
     "name:pol_x_preferred":[
         "Bajt Surik"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101922173,
-    "wof:lastmodified":1549929797,
+    "wof:lastmodified":1561827605,
     "wof:name":"Beit Surik",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

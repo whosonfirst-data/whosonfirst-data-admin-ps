@@ -26,9 +26,6 @@
     "name:cat_x_preferred":[
         "Al-Bayuk"
     ],
-    "name:dut_x_preferred":[
-        "Al-Bayuk"
-    ],
     "name:eng_x_preferred":[
         "Al-Bayuk"
     ],
@@ -36,6 +33,9 @@
         "\u05d0\u05dc-\u05d1\u05d0\u05d9\u05d5\u05e7"
     ],
     "name:ind_x_preferred":[
+        "Al-Bayuk"
+    ],
+    "name:nld_x_preferred":[
         "Al-Bayuk"
     ],
     "name:nno_x_preferred":[
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":101920681,
-    "wof:lastmodified":1549928924,
+    "wof:lastmodified":1561827612,
     "wof:name":"Al Bayuk",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

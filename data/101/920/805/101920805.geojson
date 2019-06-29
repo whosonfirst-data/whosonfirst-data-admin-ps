@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000001,
-    "geom:area_square_m":10457.695641,
+    "geom:area_square_m":10457.695642,
     "geom:bbox":"35.1387672424,32.4810905457,35.1398506165,32.4823875427",
     "geom:latitude":32.48168,
     "geom:longitude":35.139282,
@@ -25,10 +25,10 @@
     "name:cat_x_preferred":[
         "Umm ar-Rihan"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Umm ar-Rihan"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Umm ar-Rihan"
     ],
     "name:nno_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101920805,
-    "wof:lastmodified":1534985969,
+    "wof:lastmodified":1561827614,
     "wof:name":"Umm ar Rihan",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

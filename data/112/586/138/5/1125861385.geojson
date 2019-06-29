@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Yatma"
     ],
-    "name:dut_x_preferred":[
-        "Yatma"
-    ],
     "name:eng_x_preferred":[
         "Yatma"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05ea\u05de\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Yatma"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125861385,
-    "wof:lastmodified":1549929759,
+    "wof:lastmodified":1561827638,
     "wof:name":"Yatm\u0101",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

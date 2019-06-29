@@ -26,17 +26,17 @@
     "name:cat_x_preferred":[
         "Tubas"
     ],
-    "name:chi_x_preferred":[
-        "\u56fe\u5df4\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "T\u00fab\u00e1s"
     ],
     "name:dan_x_preferred":[
         "Tubas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tubas"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03bc\u03c0\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tubas"
@@ -44,17 +44,14 @@
     "name:eng_x_variant":[
         "T\u016bb\u0101s"
     ],
+    "name:fas_x_preferred":[
+        "\u0637\u0648\u0628\u0627\u0633"
+    ],
     "name:fin_x_preferred":[
         "Tubas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tubas"
-    ],
-    "name:ger_x_preferred":[
-        "Tubas"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03cd\u03bc\u03c0\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0aaf\u0ac1\u0aac\u0ab8"
@@ -89,7 +86,10 @@
     "name:mar_x_preferred":[
         "\u091f\u0941\u092c\u093e\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Tubas"
+    ],
+    "name:nld_x_preferred":[
         "Tubas"
     ],
     "name:nno_x_preferred":[
@@ -97,9 +97,6 @@
     ],
     "name:nob_x_preferred":[
         "Tubas"
-    ],
-    "name:per_x_preferred":[
-        "\u0637\u0648\u0628\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Tubas"
@@ -142,6 +139,9 @@
     ],
     "name:vie_x_preferred":[
         "Tubas"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fe\u5df4\u65af"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":101921143,
-    "wof:lastmodified":1549929794,
+    "wof:lastmodified":1561827629,
     "wof:name":"Tubas",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

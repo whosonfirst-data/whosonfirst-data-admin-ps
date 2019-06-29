@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "An-Naqura"
     ],
-    "name:dut_x_preferred":[
-        "An-Naqura"
-    ],
     "name:eng_x_preferred":[
         "An-Naqura"
     ],
     "name:heb_x_preferred":[
         "\u05d0-\u05e0\u05e7\u05d5\u05e8\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "An-Naqura"
     ],
     "name:unk_x_variant":[
         "Naq\u016bra"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1126043765,
-    "wof:lastmodified":1549929899,
+    "wof:lastmodified":1561827636,
     "wof:name":"An N\u0101q\u016brah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",
