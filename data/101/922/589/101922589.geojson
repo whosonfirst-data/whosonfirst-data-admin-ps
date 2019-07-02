@@ -23,14 +23,14 @@
     "name:ara_x_variant":[
         "\u015e\u016br\u012bf"
     ],
-    "name:dut_x_preferred":[
-        "Surif"
-    ],
     "name:eng_x_preferred":[
         "Surif"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05d5\u05e8\u05d9\u05e3"
+    ],
+    "name:nld_x_preferred":[
+        "Surif"
     ],
     "name:nno_x_preferred":[
         "Surif"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101922589,
-    "wof:lastmodified":1549929828,
+    "wof:lastmodified":1561827606,
     "wof:name":"Surif",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

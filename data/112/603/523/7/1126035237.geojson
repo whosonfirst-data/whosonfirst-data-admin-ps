@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0646\u0638\u0627\u0645"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Deir Nidham"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Deir Nidham"
     ],
     "name:nno_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1126035237,
-    "wof:lastmodified":1549929891,
+    "wof:lastmodified":1561827638,
     "wof:name":"Dayr Niz\u0327\u0101m",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

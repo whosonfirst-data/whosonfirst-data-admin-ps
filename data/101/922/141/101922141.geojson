@@ -22,20 +22,17 @@
     "name:cat_x_preferred":[
         "Aqabat Jaber"
     ],
-    "name:dut_x_preferred":[
-        "Aqabat Jaber"
-    ],
     "name:eng_x_preferred":[
         "Aqabat Jaber"
     ],
     "name:fra_x_preferred":[
         "Aqabat Jabr"
     ],
-    "name:fre_x_preferred":[
-        "Aqabat Jabr"
-    ],
     "name:heb_x_preferred":[
         "\u05e2\u05e7\u05d1\u05ea \u05d2'\u05d1\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Aqabat Jaber"
     ],
     "name:nno_x_preferred":[
         "Akabat Jaber"
@@ -96,7 +93,7 @@
         }
     ],
     "wof:id":101922141,
-    "wof:lastmodified":1549929794,
+    "wof:lastmodified":1561827610,
     "wof:name":"Aqbat Jaber Camp",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

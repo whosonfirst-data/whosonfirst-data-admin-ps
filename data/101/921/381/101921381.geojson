@@ -31,9 +31,6 @@
     "name:deu_x_preferred":[
         "Kur"
     ],
-    "name:dut_x_preferred":[
-        "Kur"
-    ],
     "name:eng_x_preferred":[
         "Kur"
     ],
@@ -128,7 +125,7 @@
         }
     ],
     "wof:id":101921381,
-    "wof:lastmodified":1553815587,
+    "wof:lastmodified":1561827634,
     "wof:name":"Kur",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

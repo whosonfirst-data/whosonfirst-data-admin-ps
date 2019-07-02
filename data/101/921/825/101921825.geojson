@@ -20,14 +20,14 @@
     "name:ara_x_preferred":[
         "\u0634\u0642\u0628\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Shuqba"
-    ],
     "name:eng_x_preferred":[
         "Shuqba"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d5\u05e7\u05d1\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Shuqba"
     ],
     "name:nno_x_preferred":[
         "Shuqba"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101921825,
-    "wof:lastmodified":1549929860,
+    "wof:lastmodified":1561827632,
     "wof:name":"Shuqba",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -20,14 +20,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0631"
     ],
-    "name:dut_x_preferred":[
-        "Kobar"
-    ],
     "name:eng_x_preferred":[
         "Kobar"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05d5\u05d1\u05d0\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Kobar"
     ],
     "name:nno_x_preferred":[
         "Kobar"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101921829,
-    "wof:lastmodified":1549929855,
+    "wof:lastmodified":1561827626,
     "wof:name":"Kobar",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

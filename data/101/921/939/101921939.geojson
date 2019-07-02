@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Bil'in"
     ],
-    "name:dut_x_preferred":[
-        "Bil'in"
-    ],
     "name:eng_x_preferred":[
         "Bil'in"
     ],
     "name:fra_x_preferred":[
-        "Bil'in"
-    ],
-    "name:fre_x_preferred":[
-        "Bil'in"
-    ],
-    "name:ger_x_preferred":[
         "Bil'in"
     ],
     "name:heb_x_preferred":[
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":101921939,
-    "wof:lastmodified":1549929881,
+    "wof:lastmodified":1561827626,
     "wof:name":"Bil'in",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

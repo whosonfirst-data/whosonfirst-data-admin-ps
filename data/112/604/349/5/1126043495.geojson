@@ -22,14 +22,14 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0623\u0645\u064a\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Beit Amin"
-    ],
     "name:eng_x_preferred":[
         "Beit Amin"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d0\u05de\u05d9\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Beit Amin"
     ],
     "name:nno_x_preferred":[
         "Beit Amin"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1126043495,
-    "wof:lastmodified":1549929894,
+    "wof:lastmodified":1561827636,
     "wof:name":"Bayt Am\u012bn",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

@@ -27,17 +27,17 @@
     "name:deu_x_preferred":[
         "Beita"
     ],
-    "name:dut_x_preferred":[
-        "Beita"
-    ],
     "name:eng_x_preferred":[
         "Beita"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beita"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Beita"
     ],
     "name:nno_x_preferred":[
         "Beita i Nablus"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":101921579,
-    "wof:lastmodified":1534985965,
+    "wof:lastmodified":1561827634,
     "wof:name":"Beita",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

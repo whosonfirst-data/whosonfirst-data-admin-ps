@@ -22,20 +22,17 @@
     "name:cat_x_preferred":[
         "Nur Shams"
     ],
-    "name:dut_x_preferred":[
-        "Nur Shams"
-    ],
     "name:eng_x_preferred":[
         "Nur Shams"
     ],
     "name:fra_x_preferred":[
         "Nur Shams"
     ],
-    "name:fre_x_preferred":[
-        "Nur Shams"
-    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05e8 \u05d0-\u05e9\u05de\u05e1"
+    ],
+    "name:nld_x_preferred":[
+        "Nur Shams"
     ],
     "name:nno_x_preferred":[
         "Nur Shams i Tulkarm"
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":101921189,
-    "wof:lastmodified":1549929798,
+    "wof:lastmodified":1561827629,
     "wof:name":"Nur Shams Camp",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

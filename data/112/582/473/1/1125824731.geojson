@@ -28,14 +28,14 @@
     "name:cat_x_preferred":[
         "Ti'inik"
     ],
-    "name:dut_x_preferred":[
-        "Ti'inik"
-    ],
     "name:eng_x_preferred":[
         "Ti'inik"
     ],
     "name:heb_x_preferred":[
         "\u05ea\u05d9\u05e2\u05e0\u05d9\u05db"
+    ],
+    "name:nld_x_preferred":[
+        "Ti'inik"
     ],
     "name:nno_x_preferred":[
         "Ti'inik"
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125824731,
-    "wof:lastmodified":1549929724,
+    "wof:lastmodified":1561827642,
     "wof:name":"Ti\u2018innik",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

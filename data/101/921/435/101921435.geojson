@@ -20,14 +20,14 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0648\u0633"
     ],
-    "name:dut_x_preferred":[
-        "Jayyous"
-    ],
     "name:eng_x_preferred":[
         "Jayyous"
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05d9\u05d5\u05e1"
+    ],
+    "name:nld_x_preferred":[
+        "Jayyous"
     ],
     "name:nno_x_preferred":[
         "Jayyous"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101921435,
-    "wof:lastmodified":1549929823,
+    "wof:lastmodified":1561827633,
     "wof:name":"Jayyus",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

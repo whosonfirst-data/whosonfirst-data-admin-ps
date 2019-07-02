@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645 \u0627\u0644\u0644\u0647"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0561\u0574\u0561\u056c\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0631\u0627\u0645 \u0627\u0644\u0644\u0647"
     ],
@@ -40,9 +37,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0420\u0430\u043c\u0430\u043b\u043b\u0430\u04bb"
-    ],
-    "name:baq_x_preferred":[
-        "Ramallah"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u043c\u0430\u043b\u0430"
@@ -65,25 +59,16 @@
     "name:che_x_preferred":[
         "\u0420\u0430\u043c\u0430\u043b\u043b\u0430\u0445\u04c0"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u59c6\u5b89\u62c9"
-    ],
     "name:ckb_x_preferred":[
         "\u0695\u0627\u0645\u06d5\u06b5\u0627"
     ],
     "name:cym_x_preferred":[
         "Ramallah"
     ],
-    "name:cze_x_preferred":[
-        "Ramall\u00e1h"
-    ],
     "name:dan_x_preferred":[
         "Ramallah"
     ],
     "name:deu_x_preferred":[
-        "Ramallah"
-    ],
-    "name:dut_x_preferred":[
         "Ramallah"
     ],
     "name:ell_x_preferred":[
@@ -110,23 +95,11 @@
     "name:fra_x_preferred":[
         "Ramallah"
     ],
-    "name:fre_x_preferred":[
-        "Ramallah"
-    ],
     "name:fry_x_preferred":[
-        "Ramallah"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10db\u10d0\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Ramallah"
     ],
     "name:glg_x_preferred":[
         "Ramala"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03bc\u03ac\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0aae\u0abe\u0ab2\u0abe\u0ab9"
@@ -149,8 +122,8 @@
     "name:hye_x_preferred":[
         "\u054c\u0561\u0574\u0561\u056c\u056c\u0561\u0570"
     ],
-    "name:ice_x_preferred":[
-        "Ramallah"
+    "name:hye_x_variant":[
+        "\u054c\u0561\u0574\u0561\u056c\u0561"
     ],
     "name:ilo_x_preferred":[
         "Ramallah"
@@ -175,6 +148,9 @@
     ],
     "name:kas_x_preferred":[
         "\u0631\u0645\u0644\u06c1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10db\u10d0\u10da\u10d0"
     ],
     "name:kir_x_preferred":[
         "\u0420\u0430\u043c\u0430\u043b\u043b\u0430"
@@ -203,17 +179,14 @@
     "name:ltz_x_preferred":[
         "Ramallah"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0430\u043c\u0430\u043b\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d31\u0d3e\u0d2e\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0930\u093e\u092e\u093e\u0932\u094d\u0932\u093e"
     ],
-    "name:may_x_preferred":[
-        "Ramallah"
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u043b\u0430"
     ],
     "name:msa_x_preferred":[
         "Ramallah"
@@ -242,9 +215,6 @@
     "name:pan_x_preferred":[
         "\u0a30\u0a3e\u0a2e\u0a71\u0a32\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u0645\u200c\u0627\u0644\u0644\u0647"
-    ],
     "name:pms_x_preferred":[
         "Ramallah"
     ],
@@ -264,9 +234,6 @@
         "Ramallah"
     ],
     "name:ron_x_variant":[
-        "Ramala"
-    ],
-    "name:rum_x_preferred":[
         "Ramala"
     ],
     "name:rus_x_preferred":[
@@ -327,9 +294,6 @@
         "Ramallah"
     ],
     "name:war_x_preferred":[
-        "Ramallah"
-    ],
-    "name:wel_x_preferred":[
         "Ramallah"
     ],
     "name:yid_x_preferred":[
@@ -400,7 +364,7 @@
         }
     ],
     "wof:id":101921973,
-    "wof:lastmodified":1549929882,
+    "wof:lastmodified":1561827633,
     "wof:name":"Ramallah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

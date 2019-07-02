@@ -19,17 +19,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0635\u0631\u0629"
     ],
-    "name:dut_x_preferred":[
-        "Al-Masara"
-    ],
     "name:eng_x_preferred":[
         "Al-Masara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644-\u0645\u0633\u0627\u0631\u0627"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e2\u05e1\u05e8\u05d4"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644-\u0645\u0633\u0627\u0631\u0627"
+    "name:nld_x_preferred":[
+        "Al-Masara"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101922513,
-    "wof:lastmodified":1549929820,
+    "wof:lastmodified":1561827610,
     "wof:name":"Al Ma'sara",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

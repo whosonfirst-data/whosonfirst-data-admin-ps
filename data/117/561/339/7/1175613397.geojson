@@ -20,10 +20,10 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0623\u0648\u0644\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Beit Ula"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Beit Ula"
     ],
     "name:nno_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1175613397,
-    "wof:lastmodified":1549929644,
+    "wof:lastmodified":1561827598,
     "wof:name":"Beit Ula",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

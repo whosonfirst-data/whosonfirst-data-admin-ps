@@ -35,9 +35,6 @@
     "name:deu_x_preferred":[
         "Tell"
     ],
-    "name:dut_x_preferred":[
-        "Tell"
-    ],
     "name:eng_x_preferred":[
         "Tell"
     ],
@@ -169,7 +166,7 @@
         }
     ],
     "wof:id":101921447,
-    "wof:lastmodified":1549929824,
+    "wof:lastmodified":1561827626,
     "wof:name":"Tell",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

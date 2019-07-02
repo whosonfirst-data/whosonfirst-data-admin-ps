@@ -26,14 +26,14 @@
     "name:ceb_x_preferred":[
         "Marda"
     ],
-    "name:dut_x_preferred":[
-        "Marda"
-    ],
     "name:eng_x_preferred":[
         "Marda"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d3\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Marda"
     ],
     "name:nno_x_preferred":[
         "Marda i Salfit"
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":101921637,
-    "wof:lastmodified":1549929841,
+    "wof:lastmodified":1561827632,
     "wof:name":"Marda",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

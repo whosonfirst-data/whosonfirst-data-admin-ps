@@ -26,7 +26,7 @@
     "name:cat_x_preferred":[
         "Qabatiya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qabatiya"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +39,6 @@
         "\u0642\u0628\u0627\u0637\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
-        "Qabatiya"
-    ],
-    "name:fre_x_preferred":[
-        "Qabatiya"
-    ],
-    "name:ger_x_preferred":[
         "Qabatiya"
     ],
     "name:heb_x_preferred":[
@@ -62,16 +56,10 @@
     "name:nno_x_preferred":[
         "Qabatiya"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0628\u0627\u0637\u06cc\u0647"
-    ],
     "name:pol_x_preferred":[
         "Kabatija"
     ],
     "name:ron_x_preferred":[
-        "Qabatiya"
-    ],
-    "name:rum_x_preferred":[
         "Qabatiya"
     ],
     "name:spa_x_preferred":[
@@ -140,7 +128,7 @@
         }
     ],
     "wof:id":101920987,
-    "wof:lastmodified":1549929871,
+    "wof:lastmodified":1561827619,
     "wof:name":"Qabatiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

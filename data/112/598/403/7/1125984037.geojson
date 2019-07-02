@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u062c\u0631\u064a\u0631"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Deir Jarir"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Deir Jarir"
     ],
     "name:nno_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125984037,
-    "wof:lastmodified":1549929773,
+    "wof:lastmodified":1561827639,
     "wof:name":"Dayr Jar\u012br",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

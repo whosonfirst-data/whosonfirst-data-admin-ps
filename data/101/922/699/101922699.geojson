@@ -29,13 +29,7 @@
     "name:ces_x_preferred":[
         "Halh\u00fal"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u970d"
-    ],
-    "name:cze_x_preferred":[
-        "Halh\u00fal"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Halhul"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +38,7 @@
     "name:fas_x_preferred":[
         "\u062d\u0644\u062d\u0648\u0644"
     ],
-    "name:fre_x_preferred":[
-        "Halhul"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Halhul"
     ],
     "name:heb_x_preferred":[
@@ -65,9 +56,6 @@
     "name:nno_x_preferred":[
         "Halhul"
     ],
-    "name:per_x_preferred":[
-        "\u062d\u0644\u062d\u0648\u0644"
-    ],
     "name:pnb_x_preferred":[
         "\u062d\u0644\u062d\u0648\u0644"
     ],
@@ -79,6 +67,9 @@
     ],
     "name:unk_x_variant":[
         "\u1e28al\u1e29\u016bl"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u970d"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -141,7 +132,7 @@
         }
     ],
     "wof:id":101922699,
-    "wof:lastmodified":1549929840,
+    "wof:lastmodified":1561827608,
     "wof:name":"Halhul",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -20,14 +20,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0632\u064a\u0628\u0627\u062f"
     ],
-    "name:dut_x_preferred":[
-        "Kafr Zibad"
-    ],
     "name:eng_x_preferred":[
         "Kafr Zibad"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d6\u05d9\u05d1\u05d0\u05d3"
+    ],
+    "name:nld_x_preferred":[
+        "Kafr Zibad"
     ],
     "name:nno_x_preferred":[
         "Kafr Zibad"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101921399,
-    "wof:lastmodified":1549929813,
+    "wof:lastmodified":1561827626,
     "wof:name":"Kafr Zibad",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

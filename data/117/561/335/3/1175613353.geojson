@@ -23,9 +23,6 @@
     "name:cat_x_preferred":[
         "Aqraba"
     ],
-    "name:dut_x_preferred":[
-        "Aqraba"
-    ],
     "name:eng_x_preferred":[
         "Aqraba"
     ],
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":1175613353,
-    "wof:lastmodified":1549929631,
+    "wof:lastmodified":1561827599,
     "wof:name":"Aqraba",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

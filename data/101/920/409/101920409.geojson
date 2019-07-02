@@ -20,25 +20,28 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u0647\u064a\u0644\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Bani Suheila"
-    ],
     "name:cat_x_preferred":[
         "Bani Suheila"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ban\u00ed Suhajla"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
+        "Bani Suheila"
+    ],
+    "name:deu_x_preferred":[
         "Bani Suheila"
     ],
     "name:eng_x_preferred":[
         "Bani Suheila"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Bani Suheila"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06cc \u0633\u0647\u06cc\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Bani Suheila"
     ],
     "name:heb_x_preferred":[
@@ -50,14 +53,14 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30cb\u30fb\u30b9\u30d8\u30a4\u30e9"
     ],
+    "name:nld_x_preferred":[
+        "Bani Suheila"
+    ],
     "name:nno_x_preferred":[
         "Bani Suheila"
     ],
     "name:nob_x_preferred":[
         "Bani Suheila"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0646\u06cc \u0633\u0647\u06cc\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Bani Suhajla"
@@ -73,9 +76,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0646\u06cc \u0633\u06c1\u06cc\u0644\u06c1"
-    ],
-    "name:wel_x_preferred":[
-        "Bani Suheila"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":101920409,
-    "wof:lastmodified":1549928894,
+    "wof:lastmodified":1561827614,
     "wof:name":"Bani Suheila",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

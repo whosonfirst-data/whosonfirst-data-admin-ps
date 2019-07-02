@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000093,
-    "geom:area_square_m":971452.535929,
+    "geom:area_square_m":971452.535928,
     "geom:bbox":"35.2726707458,32.1369094849,35.2933769226,32.1465950012",
     "geom:latitude":32.141729,
     "geom:longitude":35.284815,
@@ -24,17 +24,17 @@
     "name:cat_x_preferred":[
         "Beita"
     ],
-    "name:dut_x_preferred":[
-        "Beita"
-    ],
     "name:eng_x_preferred":[
         "Beita"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beita"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Beita"
     ],
     "name:nno_x_preferred":[
         "Beita i Nablus"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101921575,
-    "wof:lastmodified":1534985965,
+    "wof:lastmodified":1561827629,
     "wof:name":"Beita",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

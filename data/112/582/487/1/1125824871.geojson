@@ -28,16 +28,13 @@
     "name:cat_x_preferred":[
         "Sebastia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sebastia"
     ],
     "name:eng_x_preferred":[
         "Sebastia"
     ],
-    "name:fre_x_preferred":[
-        "Sebastia"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sebastia"
     ],
     "name:heb_x_preferred":[
@@ -49,13 +46,16 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30d0\u30b9\u30c6\u30a3\u30fc\u30e4"
     ],
+    "name:nld_x_preferred":[
+        "Sebastia"
+    ],
     "name:nno_x_preferred":[
         "Sebastia i Nablus"
     ],
     "name:por_x_preferred":[
         "Sebastia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sebastia"
     ],
     "name:spa_x_preferred":[
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1125824871,
-    "wof:lastmodified":1549929734,
+    "wof:lastmodified":1561827641,
     "wof:name":"Sabas\u0163\u012byah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

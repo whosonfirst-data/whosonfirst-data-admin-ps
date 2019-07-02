@@ -20,10 +20,10 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0623\u0628\u0648 \u0645\u0634\u0639\u0644"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Deir Abu Mash'al"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Deir Abu Mash'al"
     ],
     "name:nno_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101921813,
-    "wof:lastmodified":1549929858,
+    "wof:lastmodified":1561827632,
     "wof:name":"Deir Abu Mash'al",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

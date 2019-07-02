@@ -23,14 +23,14 @@
     "name:cat_x_preferred":[
         "Tammun"
     ],
-    "name:dut_x_preferred":[
-        "Tammun"
-    ],
     "name:eng_x_preferred":[
         "Tammun"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05de\u05d5\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Tammun"
     ],
     "name:nno_x_preferred":[
         "Tammun"
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":101921295,
-    "wof:lastmodified":1549929805,
+    "wof:lastmodified":1561827628,
     "wof:name":"Tammun",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

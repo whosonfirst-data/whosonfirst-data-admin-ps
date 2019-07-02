@@ -20,17 +20,17 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0627\u0644\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Jabalia"
-    ],
     "name:cat_x_preferred":[
         "Jabalia"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "D\u017eabal\u00edja"
     ],
-    "name:dut_x_preferred":[
-        "Jabalia"
+    "name:cym_x_preferred":[
+        "Jabaliya"
+    ],
+    "name:deu_x_preferred":[
+        "Dschabaliya"
     ],
     "name:eng_x_preferred":[
         "Jabalia"
@@ -38,11 +38,14 @@
     "name:epo_x_preferred":[
         "\u011cabalija"
     ],
-    "name:fre_x_preferred":[
-        "Jabaliya"
+    "name:eus_x_preferred":[
+        "Jabalia"
     ],
-    "name:ger_x_preferred":[
-        "Dschabaliya"
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0627\u0644\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Jabaliya"
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05d1\u05d0\u05dc\u05d9\u05d4"
@@ -53,14 +56,14 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30d0\u30ea\u30a2"
     ],
+    "name:nld_x_preferred":[
+        "Jabalia"
+    ],
     "name:nno_x_preferred":[
         "Jabalia"
     ],
     "name:nob_x_preferred":[
         "Jabalia"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0628\u0627\u0644\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u0628\u0627\u0644\u06cc\u06c1"
@@ -85,9 +88,6 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0628\u0627\u0644\u06cc\u06c1"
-    ],
-    "name:wel_x_preferred":[
-        "Jabaliya"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":101919523,
-    "wof:lastmodified":1549928912,
+    "wof:lastmodified":1561827625,
     "wof:name":"Jabalya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

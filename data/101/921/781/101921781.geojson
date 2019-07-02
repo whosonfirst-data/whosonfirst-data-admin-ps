@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000085,
-    "geom:area_square_m":891577.392775,
+    "geom:area_square_m":891577.392777,
     "geom:bbox":"35.1418151855,32.0218391418,35.1639709473,32.0349502563",
     "geom:latitude":32.027231,
     "geom:longitude":35.151756,
@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0633\u0648\u062f\u0627\u0646"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Deir as-Sudan"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Deir as-Sudan"
     ],
     "name:nno_x_preferred":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":101921781,
-    "wof:lastmodified":1534985965,
+    "wof:lastmodified":1561827633,
     "wof:name":"Deir as Sudan",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

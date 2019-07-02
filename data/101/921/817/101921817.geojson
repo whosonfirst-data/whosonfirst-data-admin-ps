@@ -22,13 +22,10 @@
     "name:deu_x_preferred":[
         "Atara"
     ],
-    "name:dut_x_preferred":[
-        "Atara"
-    ],
     "name:eng_x_preferred":[
         "Atara"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Atara"
     ],
     "name:nno_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101921817,
-    "wof:lastmodified":1553815587,
+    "wof:lastmodified":1561827627,
     "wof:name":"'Atara",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

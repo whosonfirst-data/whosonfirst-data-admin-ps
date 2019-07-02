@@ -20,10 +20,10 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0625\u0628\u0632\u064a\u0639"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Deir Ibzi"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Deir Ibzi"
     ],
     "name:nno_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101921955,
-    "wof:lastmodified":1549929882,
+    "wof:lastmodified":1561827626,
     "wof:name":"Deir Ibzi'",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

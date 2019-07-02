@@ -26,20 +26,17 @@
     "name:cat_x_preferred":[
         "Beit Imrin"
     ],
-    "name:dut_x_preferred":[
-        "Beit Imrin"
-    ],
     "name:eng_x_preferred":[
         "Beit Imrin"
     ],
     "name:fra_x_preferred":[
         "Beit Imrin"
     ],
-    "name:fre_x_preferred":[
-        "Beit Imrin"
-    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d0\u05d9\u05de\u05e8\u05d9\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Beit Imrin"
     ],
     "name:nno_x_preferred":[
         "Beit Imrin"
@@ -103,7 +100,7 @@
         }
     ],
     "wof:id":101921249,
-    "wof:lastmodified":1549929796,
+    "wof:lastmodified":1561827631,
     "wof:name":"Beit Imrin",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

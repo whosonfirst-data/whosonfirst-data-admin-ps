@@ -20,16 +20,13 @@
     "name:ara_x_preferred":[
         "\u0631\u0646\u062a\u064a\u0633"
     ],
-    "name:dut_x_preferred":[
-        "Rantis"
-    ],
     "name:eng_x_preferred":[
         "Rantis"
     ],
     "name:fra_x_preferred":[
         "Rantis"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Rantis"
     ],
     "name:nno_x_preferred":[
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":101921779,
-    "wof:lastmodified":1549929852,
+    "wof:lastmodified":1561827630,
     "wof:name":"Rantis",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

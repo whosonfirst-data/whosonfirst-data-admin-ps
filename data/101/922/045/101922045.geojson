@@ -22,14 +22,14 @@
     "name:cat_x_preferred":[
         "Ein ad-Duyuk at-Tahta"
     ],
-    "name:dut_x_preferred":[
-        "Ein ad-Duyuk at-Tahta"
-    ],
     "name:eng_x_preferred":[
         "Ein ad-Duyuk at-Tahta"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05df \u05d0-\u05d3\u05d9\u05d5\u05e7 \u05d0-\u05ea\u05d7\u05ea\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Ein ad-Duyuk at-Tahta"
     ],
     "name:nno_x_preferred":[
         "Ein ad-Duyuk at-Tahta"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101922045,
-    "wof:lastmodified":1549929780,
+    "wof:lastmodified":1561827607,
     "wof:name":"'Ein ad Duyuk at Tahta",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

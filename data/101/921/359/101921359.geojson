@@ -22,17 +22,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0635\u0648\u0631"
     ],
-    "name:dut_x_preferred":[
-        "Kafr Sur"
-    ],
     "name:eng_x_preferred":[
         "Kafr Sur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kufr Sour"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05e1\u05d5\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Kafr Sur"
     ],
     "name:nno_x_preferred":[
         "Kafr Sur"
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101921359,
-    "wof:lastmodified":1534985972,
+    "wof:lastmodified":1561827630,
     "wof:name":"Kafr Sur",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

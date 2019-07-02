@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0639\u064a\u0646"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kafr Ein"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Kafr Ein"
     ],
     "name:nno_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1126038203,
-    "wof:lastmodified":1549929892,
+    "wof:lastmodified":1561827637,
     "wof:name":"Kafr Awan",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

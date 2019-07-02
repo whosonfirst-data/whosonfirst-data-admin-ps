@@ -22,13 +22,10 @@
     "name:ces_x_preferred":[
         "\u0160u'afat"
     ],
-    "name:cze_x_preferred":[
-        "\u0160u'afat"
-    ],
     "name:eng_x_preferred":[
         "Shuafat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shuafat"
     ],
     "name:heb_x_preferred":[
@@ -36,9 +33,6 @@
     ],
     "name:ind_x_preferred":[
         "Shuafat"
-    ],
-    "name:mac_x_preferred":[
-        "\u0428\u0443\u0430\u0444\u0430\u0442"
     ],
     "name:mkd_x_preferred":[
         "\u0428\u0443\u0430\u0444\u0430\u0442"
@@ -63,11 +57,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":3083,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":1376891697,
-    "wof:lastmodified":1549931461,
+    "wof:lastmodified":1561827634,
     "wof:name":"Shu'fat",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

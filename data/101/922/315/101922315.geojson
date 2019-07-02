@@ -20,17 +20,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0637\u0648\u0628\u0627"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Umm Tuba"
     ],
     "name:eng_x_preferred":[
         "Umm Tuba"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0637\u0648\u0628\u06cc"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05dd \u05d8\u05d5\u05d1\u05d0"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0645 \u0637\u0648\u0628\u06cc"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":101922315,
-    "wof:lastmodified":1549931438,
+    "wof:lastmodified":1561827605,
     "wof:name":"Umm Tuba",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

@@ -22,17 +22,17 @@
     "name:ara_x_preferred":[
         "\u0646\u062d\u0627\u0644\u064a\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Nahalin"
-    ],
     "name:eng_x_preferred":[
         "Nahalin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nahalin"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d7\u05d0\u05dc\u05d9\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Nahalin"
     ],
     "name:nno_x_preferred":[
         "Nahalin"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125861411,
-    "wof:lastmodified":1549929759,
+    "wof:lastmodified":1561827638,
     "wof:name":"Na\u1e29\u1e29\u0101l\u012bn",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -29,7 +29,7 @@
     "name:nno_x_preferred":[
         "Ajjah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aja"
     ],
     "name:unk_x_variant":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101921123,
-    "wof:lastmodified":1549929792,
+    "wof:lastmodified":1561827633,
     "wof:name":"'Ajja",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

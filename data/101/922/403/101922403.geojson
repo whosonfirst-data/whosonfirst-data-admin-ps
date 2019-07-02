@@ -28,12 +28,6 @@
     "name:ces_x_preferred":[
         "Battir"
     ],
-    "name:cze_x_preferred":[
-        "Battir"
-    ],
-    "name:dut_x_preferred":[
-        "Battir"
-    ],
     "name:eng_x_preferred":[
         "Battir"
     ],
@@ -42,12 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Battir"
-    ],
-    "name:fre_x_preferred":[
-        "Battir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e2\u10d8\u10e0\u10d8"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05ea\u05d9\u05e8"
@@ -69,9 +57,6 @@
     ],
     "name:nno_x_preferred":[
         "Battir"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u062a\u06cc\u0631"
     ],
     "name:pol_x_preferred":[
         "Battir"
@@ -131,7 +116,7 @@
         }
     ],
     "wof:id":101922403,
-    "wof:lastmodified":1534985970,
+    "wof:lastmodified":1561827609,
     "wof:name":"Battir",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

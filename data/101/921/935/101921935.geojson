@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000048,
-    "geom:area_square_m":507807.052288,
+    "geom:area_square_m":507807.052287,
     "geom:bbox":"35.1991386414,31.9301662445,35.2077407837,31.945848465",
     "geom:latitude":31.937703,
     "geom:longitude":35.20309,
@@ -26,10 +26,10 @@
         "\u0635\u0631\u062f\u0627",
         "\u0633\u0631\u062f\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Surda"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Surda"
     ],
     "name:nno_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101921935,
-    "wof:lastmodified":1534985969,
+    "wof:lastmodified":1561827630,
     "wof:name":"Surda",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

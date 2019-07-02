@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0627\u0648\u0629 \u0628\u0646\u064a \u0632\u064a\u062f"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Qarawat Bani Zeid"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Qarawat Bani Zeid"
     ],
     "name:nno_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125825055,
-    "wof:lastmodified":1549929740,
+    "wof:lastmodified":1561827639,
     "wof:name":"Qar\u0101wat Ban\u012b Zayd",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0644\u0644\u0648"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Beitillu"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Beitillu"
     ],
     "qs:a0":"Palestine",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":101921843,
-    "wof:lastmodified":1534985976,
+    "wof:lastmodified":1561827627,
     "wof:name":"Beitillu",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

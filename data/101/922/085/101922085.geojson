@@ -34,9 +34,6 @@
     "name:ast_x_preferred":[
         "Xeric\u00f3"
     ],
-    "name:baq_x_preferred":[
-        "Jeriko"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0435\u0440\u044b\u0445\u043e\u043d"
     ],
@@ -55,8 +52,8 @@
     "name:cat_x_preferred":[
         "Jeric\u00f3"
     ],
-    "name:chi_x_preferred":[
-        "\u6770\u91cc\u79d1"
+    "name:ces_x_preferred":[
+        "Jericho"
     ],
     "name:chv_x_preferred":[
         "\u0418\u0435\u0440\u0438\u0445\u043e\u043d"
@@ -64,16 +61,10 @@
     "name:csb_x_preferred":[
         "Jerich\u00f2"
     ],
-    "name:cze_x_preferred":[
-        "Jericho"
-    ],
     "name:dan_x_preferred":[
         "Jeriko"
     ],
     "name:deu_x_preferred":[
-        "Jericho"
-    ],
-    "name:dut_x_preferred":[
         "Jericho"
     ],
     "name:ell_x_preferred":[
@@ -103,15 +94,6 @@
     "name:fra_x_preferred":[
         "J\u00e9richo"
     ],
-    "name:fre_x_preferred":[
-        "J\u00e9richo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d4\u10e0\u10d8\u10e5\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Jericho"
-    ],
     "name:gle_x_preferred":[
         "Ireach\u00f3"
     ],
@@ -120,9 +102,6 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf34\ud800\udf39\ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf34\ud800\udf39\ud800\udf3a\ud800\udf49"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03b5\u03c1\u03b9\u03c7\u03ce"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0ab0\u0abf\u0a95\u0acb"
@@ -172,13 +151,13 @@
     "name:lit_x_preferred":[
         "Jerichas"
     ],
-    "name:mac_x_preferred":[
-        "\u0415\u0440\u0438\u0445\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u0947\u0930\u093f\u091a\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0415\u0440\u0438\u0445\u043e\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Jericho"
     ],
     "name:nld_x_preferred":[
@@ -199,9 +178,6 @@
     "name:oss_x_preferred":[
         "\u0418\u0435\u0440\u0438\u0445\u043e\u043d"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u06cc\u062d\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0631\u06cc\u062d\u0627"
     ],
@@ -214,9 +190,6 @@
     "name:ron_x_preferred":[
         "Ierihon"
     ],
-    "name:rum_x_preferred":[
-        "Ierihon"
-    ],
     "name:rus_x_preferred":[
         "\u0418\u0435\u0440\u0438\u0445\u043e\u043d"
     ],
@@ -226,7 +199,7 @@
     "name:sin_x_preferred":[
         "\u0da2\u0dd9\u0dbb\u0dd2\u0da0\u0ddd"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Jericho"
     ],
     "name:spa_x_preferred":[
@@ -330,7 +303,7 @@
         }
     ],
     "wof:id":101922085,
-    "wof:lastmodified":1549929785,
+    "wof:lastmodified":1561827603,
     "wof:name":"Jericho (Ariha)",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

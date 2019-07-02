@@ -20,16 +20,16 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0638\u0627\u0647\u0631\u064a\u0629"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Az-Z\u00e1hir\u00edja"
-    ],
-    "name:dut_x_preferred":[
-        "Ad-Dhahiriya"
     ],
     "name:eng_x_preferred":[
         "Ad-Dhahiriya"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0638\u0627\u0647\u0631\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Ad-Dhahiriya"
     ],
     "name:heb_x_preferred":[
@@ -41,11 +41,11 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30c9\u30fb\u30c0\u30d2\u30ea\u30e4"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Ad-Dhahiriya"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0638\u0627\u0647\u0631\u06cc\u0647"
+    "name:nno_x_preferred":[
+        "Ad-Dhahiriya"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u0638\u0627\u06c1\u0631\u06cc\u06c1"
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":101920135,
-    "wof:lastmodified":1549929794,
+    "wof:lastmodified":1561827610,
     "wof:name":"Adh Dhahiriya",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

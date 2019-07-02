@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u0627\u0647\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Beit Lahia"
-    ],
     "name:cat_x_preferred":[
         "Beit Lahia"
     ],
@@ -32,14 +29,8 @@
     "name:cym_x_preferred":[
         "Beit Lahiya"
     ],
-    "name:cze_x_preferred":[
-        "Bajt Lah\u00edja"
-    ],
     "name:deu_x_preferred":[
         "Bait Lahiya"
-    ],
-    "name:dut_x_preferred":[
-        "Beit Lahiya"
     ],
     "name:eng_x_preferred":[
         "Beit Lahia"
@@ -50,11 +41,8 @@
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062a\u200c\u0644\u0627\u0647\u06cc\u0627"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beit Lahia"
-    ],
-    "name:ger_x_preferred":[
-        "Bait Lahiya"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05dc\u05d4\u05d9\u05d4"
@@ -86,9 +74,6 @@
     "name:nor_x_variant":[
         "Beit Lahia"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u062a\u200c\u0644\u0627\u0647\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Bajt Lahija"
     ],
@@ -109,9 +94,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062a \u0644\u0627\u06c1\u06cc\u0627"
-    ],
-    "name:wel_x_preferred":[
-        "Beit Lahiya"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -172,7 +154,7 @@
         }
     ],
     "wof:id":101919683,
-    "wof:lastmodified":1549928917,
+    "wof:lastmodified":1561827624,
     "wof:name":"Beit Lahiya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

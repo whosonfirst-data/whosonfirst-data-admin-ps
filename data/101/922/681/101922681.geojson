@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000208,
-    "geom:area_square_m":2189967.536681,
+    "geom:area_square_m":2189967.536678,
     "geom:bbox":"35.0046882629,31.5858650208,35.0339279175,31.6075820923",
     "geom:latitude":31.597378,
     "geom:longitude":35.021074,
@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0623\u0648\u0644\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Beit Ula"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Beit Ula"
     ],
     "name:nno_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101922681,
-    "wof:lastmodified":1534985975,
+    "wof:lastmodified":1561827603,
     "wof:name":"Beit Ula",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

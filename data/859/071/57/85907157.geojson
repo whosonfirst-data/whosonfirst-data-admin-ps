@@ -36,17 +36,8 @@
     "name:ces_x_preferred":[
         "Muslimsk\u00e1 \u010dtvr\u0165"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u65af\u6797\u533a"
-    ],
-    "name:cze_x_preferred":[
-        "Muslimsk\u00e1 \u010dtvr\u0165"
-    ],
     "name:deu_x_preferred":[
         "Muslimisches Viertel von Jerusalem"
-    ],
-    "name:dut_x_preferred":[
-        "Islamitische wijk"
     ],
     "name:eng_x_preferred":[
         "Moslem Quarter"
@@ -57,11 +48,8 @@
     "name:fra_x_preferred":[
         "Quartier musulman de la vieille ville de J\u00e9rusalem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "quartier musulman de la vieille ville de J\u00e9rusalem"
-    ],
-    "name:ger_x_preferred":[
-        "Muslimisches Viertel von Jerusalem"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05e8\u05d5\u05d1\u05e2 \u05d4\u05de\u05d5\u05e1\u05dc\u05de\u05d9"
@@ -74,9 +62,6 @@
     ],
     "name:jav_x_preferred":[
         "Kampung Muslim"
-    ],
-    "name:mac_x_preferred":[
-        "\u041c\u0443\u0441\u043b\u0438\u043c\u0430\u043d\u0441\u043a\u0430 \u043d\u0430\u0441\u0435\u043b\u0431\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0443\u0441\u043b\u0438\u043c\u0430\u043d\u0441\u043a\u0430 \u043d\u0430\u0441\u0435\u043b\u0431\u0430"
@@ -147,11 +132,11 @@
     "wd:longitude":35.2325,
     "wd:wordcount":344,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930545,
+    "wof:lastmodified":1561827594,
     "wof:name":"Moslem Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

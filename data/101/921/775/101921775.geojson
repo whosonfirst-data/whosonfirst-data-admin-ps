@@ -19,9 +19,6 @@
     "name:cat_x_preferred":[
         "Fasayil"
     ],
-    "name:dut_x_preferred":[
-        "Phasa\u00eblis"
-    ],
     "name:eng_x_preferred":[
         "Fasayil"
     ],
@@ -89,7 +86,7 @@
         }
     ],
     "wof:id":101921775,
-    "wof:lastmodified":1549929852,
+    "wof:lastmodified":1561827633,
     "wof:name":"Fasayil",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

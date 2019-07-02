@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000017,
-    "geom:area_square_m":182412.066799,
+    "geom:area_square_m":182412.0668,
     "geom:bbox":"35.2046546936,32.2122688293,35.2106285095,32.2186927795",
     "geom:latitude":32.215837,
     "geom:longitude":35.20701,
@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Sarra"
     ],
-    "name:dut_x_preferred":[
-        "Sarra"
-    ],
     "name:eng_x_preferred":[
         "Sarra"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Sarra"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":101921417,
-    "wof:lastmodified":1534985975,
+    "wof:lastmodified":1561827631,
     "wof:name":"Sarra",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

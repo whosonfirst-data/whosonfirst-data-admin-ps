@@ -22,14 +22,14 @@
     "name:ara_x_preferred":[
         "\u0635\u064a\u062f\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Seida"
-    ],
     "name:eng_x_preferred":[
         "Seida"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d3\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Seida"
     ],
     "name:nno_x_preferred":[
         "Seida i Tulkarm"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1126023933,
-    "wof:lastmodified":1549929888,
+    "wof:lastmodified":1561827635,
     "wof:name":"\u015eayd\u0101",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

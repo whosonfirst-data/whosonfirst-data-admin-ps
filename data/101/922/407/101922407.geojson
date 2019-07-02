@@ -22,10 +22,10 @@
     "name:ara_x_variant":[
         "\u062c\u0647\u0636\u0645"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Juhdum"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Juhdum"
     ],
     "name:nno_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101922407,
-    "wof:lastmodified":1549929811,
+    "wof:lastmodified":1561827604,
     "wof:name":"Juhdum",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

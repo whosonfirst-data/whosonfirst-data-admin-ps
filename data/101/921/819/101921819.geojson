@@ -29,9 +29,6 @@
     "name:cym_x_preferred":[
         "Burham"
     ],
-    "name:dut_x_preferred":[
-        "Burham"
-    ],
     "name:eng_x_preferred":[
         "Burham"
     ],
@@ -111,7 +108,7 @@
         }
     ],
     "wof:id":101921819,
-    "wof:lastmodified":1549929857,
+    "wof:lastmodified":1561827627,
     "wof:name":"Burham",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

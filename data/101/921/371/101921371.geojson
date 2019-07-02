@@ -19,14 +19,14 @@
     "name:cat_x_preferred":[
         "Beit Hasan"
     ],
-    "name:dut_x_preferred":[
-        "Beit Hasan"
-    ],
     "name:eng_x_preferred":[
         "Beit Hasan"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d7\u05e1\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Beit Hasan"
     ],
     "name:nno_x_preferred":[
         "Beit Hasan"
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101921371,
-    "wof:lastmodified":1549929812,
+    "wof:lastmodified":1561827629,
     "wof:name":"Beit Hasan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

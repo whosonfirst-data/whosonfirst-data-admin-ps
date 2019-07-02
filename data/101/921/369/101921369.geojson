@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000076,
-    "geom:area_square_m":792562.139708,
+    "geom:area_square_m":792562.139709,
     "geom:bbox":"35.213508606,32.2365036011,35.2369041443,32.2446098328",
     "geom:latitude":32.240603,
     "geom:longitude":35.226955,
@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Zawata"
     ],
-    "name:dut_x_preferred":[
-        "Zawata"
-    ],
     "name:eng_x_preferred":[
         "Zawata"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d0\u05d5\u05d5\u05d0\u05ea\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Zawata"
     ],
     "name:unk_x_variant":[
         "Zaw\u0101t\u0101"
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101921369,
-    "wof:lastmodified":1534985973,
+    "wof:lastmodified":1561827630,
     "wof:name":"Zawata",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

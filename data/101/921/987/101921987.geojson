@@ -22,14 +22,14 @@
     "name:cat_x_preferred":[
         "Ein ad-Duyuk al-Foqa"
     ],
-    "name:dut_x_preferred":[
-        "Ein ad-Duyuk al-Foqa"
-    ],
     "name:eng_x_preferred":[
         "Ein ad-Duyuk al-Foqa"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05df \u05d0-\u05d3\u05d9\u05d5\u05e7 \u05d0\u05dc-\u05e4\u05d5\u05e7\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ein ad-Duyuk al-Foqa"
     ],
     "name:nno_x_preferred":[
         "Ein ad-Duyuk al-Foqa"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":101921987,
-    "wof:lastmodified":1549929860,
+    "wof:lastmodified":1561827633,
     "wof:name":"'Ein ad Duyuk al Foqa",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

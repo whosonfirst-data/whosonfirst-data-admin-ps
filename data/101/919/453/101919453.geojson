@@ -22,20 +22,20 @@
     "name:ara_x_preferred":[
         "\u0642\u0628\u064a\u0629"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qibya"
     ],
     "name:eng_x_preferred":[
         "Qibya"
     ],
-    "name:fre_x_preferred":[
-        "Qibya"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Qibya"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05d1\u05d9\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Qibya"
     ],
     "name:nno_x_preferred":[
         "Qibya"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101919453,
-    "wof:lastmodified":1534985972,
+    "wof:lastmodified":1561827622,
     "wof:name":"Qibya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

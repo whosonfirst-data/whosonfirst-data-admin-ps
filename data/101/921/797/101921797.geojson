@@ -22,10 +22,10 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0623\u0628\u0648 \u0641\u0644\u0627\u062d"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Khirbet Abu Falah"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Khirbet Abu Falah"
     ],
     "name:nno_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":101921797,
-    "wof:lastmodified":1534985968,
+    "wof:lastmodified":1561827625,
     "wof:name":"Khirbet Abu Falah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

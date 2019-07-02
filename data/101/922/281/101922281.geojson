@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000005,
-    "geom:area_square_m":56142.812017,
+    "geom:area_square_m":56142.812016,
     "geom:bbox":"35.2853622437,31.7420139313,35.288192749,31.7466373444",
     "geom:latitude":31.744122,
     "geom:longitude":35.286664,
@@ -24,11 +24,11 @@
     "name:eng_x_preferred":[
         "As-Sawahira ash-Sharqiya"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627\u062d\u0631\u0647 \u0627\u0644\u0634\u0631\u0642\u06cc"
+    ],
     "name:nno_x_preferred":[
         "As-Sawahira ash Sharqiya"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0633\u0648\u0627\u062d\u0631\u0647 \u0627\u0644\u0634\u0631\u0642\u06cc"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101922281,
-    "wof:lastmodified":1534985970,
+    "wof:lastmodified":1561827604,
     "wof:name":"As Sawahira ash Sharqiya",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

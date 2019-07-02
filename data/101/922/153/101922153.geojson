@@ -23,14 +23,14 @@
     "name:eng_x_preferred":[
         "Hizma"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0632\u0645\u0627"
+    ],
     "name:heb_x_preferred":[
         "\u05d7\u05d9\u05d6\u05de\u05d4"
     ],
     "name:nno_x_preferred":[
         "Hizma"
-    ],
-    "name:per_x_preferred":[
-        "\u062d\u0632\u0645\u0627"
     ],
     "name:unk_x_variant":[
         "\u1e28izmah"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101922153,
-    "wof:lastmodified":1549931491,
+    "wof:lastmodified":1561827606,
     "wof:name":"Hizma",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

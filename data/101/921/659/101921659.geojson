@@ -23,14 +23,14 @@
     "name:cat_x_preferred":[
         "Yatma"
     ],
-    "name:dut_x_preferred":[
-        "Yatma"
-    ],
     "name:eng_x_preferred":[
         "Yatma"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05ea\u05de\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Yatma"
     ],
     "name:unk_x_variant":[
         "Yatm\u0101"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":101921659,
-    "wof:lastmodified":1549929835,
+    "wof:lastmodified":1561827628,
     "wof:name":"Yatma",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

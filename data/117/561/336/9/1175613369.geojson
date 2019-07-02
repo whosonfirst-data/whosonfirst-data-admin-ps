@@ -17,29 +17,29 @@
     "mps:longitude":35.219478,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:alb_x_preferred":[
-        "Al Hashimiyya"
-    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629"
-    ],
-    "name:dut_x_preferred":[
-        "Al Hashimiyya"
     ],
     "name:eng_x_preferred":[
         "Al Hashimiyya"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0647\u0627\u0634\u0645\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Al Hashimiyya"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0644\u0647\u0627\u0634\u0645\u06cc\u0647"
     ],
+    "name:nld_x_preferred":[
+        "Al Hashimiyya"
+    ],
     "name:nno_x_preferred":[
         "Al Hashimiyya"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0647\u0627\u0634\u0645\u06cc\u0647"
+    "name:sqi_x_preferred":[
+        "Al Hashimiyya"
     ],
     "name:unk_x_variant":[
         "El H\u0101shimiya"
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1175613369,
-    "wof:lastmodified":1549929635,
+    "wof:lastmodified":1561827597,
     "wof:name":"Al Hashimiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

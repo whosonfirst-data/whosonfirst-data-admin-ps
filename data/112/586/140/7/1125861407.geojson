@@ -22,14 +22,14 @@
     "name:ara_x_preferred":[
         "\u0641\u0642\u064a\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Qaffin"
-    ],
     "name:eng_x_preferred":[
         "Qaffin"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e4\u05d9\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Qaffin"
     ],
     "name:nno_x_preferred":[
         "Qaffin"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125861407,
-    "wof:lastmodified":1549929759,
+    "wof:lastmodified":1561827638,
     "wof:name":"Qaff\u012bn",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",
