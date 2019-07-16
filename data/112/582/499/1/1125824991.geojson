@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0631\u0627\u0645\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Ramin"
+    ],
     "name:eng_x_preferred":[
         "Ramin"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:nno_x_preferred":[
         "Ramin i Tulkarm"
+    ],
+    "name:pol_x_preferred":[
+        "Ramin"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125824991,
-    "wof:lastmodified":1561827640,
+    "wof:lastmodified":1563248068,
     "wof:name":"R\u0101m\u012bn",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

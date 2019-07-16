@@ -44,6 +44,9 @@
     "name:spa_x_preferred":[
         "Al-Bayuk"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0627\u0631\u06c1"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101920659,
-    "wof:lastmodified":1561827614,
+    "wof:lastmodified":1563247666,
     "wof:name":"Al Bayuk",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

@@ -16,6 +16,51 @@
     "mps:longitude":35.254866,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u062d\u0645\u062f \u0627\u0644\u0639\u0627\u0635\u064a \u0627\u0644\u062c\u0631\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ahmad Jarba"
+    ],
+    "name:deu_x_preferred":[
+        "Ahmad al-Dscharba"
+    ],
+    "name:eng_x_preferred":[
+        "Ahmad Jarba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062d\u0645\u062f\u0627\u0644\u0639\u0627\u0635\u06cc \u0627\u0644\u062c\u0631\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ahmad Jarba"
+    ],
+    "name:hun_x_preferred":[
+        "Ahmad Jarba"
+    ],
+    "name:ita_x_preferred":[
+        "Ahmad Jarba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d5\u30de\u30c9\u30fb\u30b8\u30e3\u30eb\u30d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ahmad Jarba"
+    ],
+    "name:pol_x_preferred":[
+        "Ahmad al-D\u017carba"
+    ],
+    "name:por_x_preferred":[
+        "Ahmad Jarba"
+    ],
+    "name:spa_x_preferred":[
+        "Ahmad Jarba"
+    ],
+    "name:tur_x_preferred":[
+        "Ahmed el-Cerba"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u54c8\u8fc8\u5fb7\u00b7\u8d3e\u5c14\u5df4"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -69,7 +114,7 @@
         }
     ],
     "wof:id":101921057,
-    "wof:lastmodified":1549929782,
+    "wof:lastmodified":1563247954,
     "wof:name":"Al Jarba",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

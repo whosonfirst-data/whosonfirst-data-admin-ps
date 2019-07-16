@@ -23,10 +23,22 @@
     "name:ara_x_variant":[
         "Kh\u0101r\u0101s"
     ],
+    "name:cat_x_preferred":[
+        "Kharas"
+    ],
+    "name:ceb_x_preferred":[
+        "Kh\u0101r\u0101s"
+    ],
     "name:eng_x_preferred":[
         "Kharas"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05e8\u05d0\u05e1"
+    ],
     "name:nno_x_preferred":[
+        "Kharas"
+    ],
+    "name:pol_x_preferred":[
         "Kharas"
     ],
     "qs:a0":"Palestine",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":101922631,
-    "wof:lastmodified":1549929833,
+    "wof:lastmodified":1563247601,
     "wof:name":"Kharas",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Nisf Jubeil"
     ],
+    "name:ceb_x_preferred":[
+        "Ni\u015ff Jubayl"
+    ],
     "name:eng_x_preferred":[
         "Nisf Jubeil"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125838891,
-    "wof:lastmodified":1561827645,
+    "wof:lastmodified":1563248108,
     "wof:name":"Ni\u015ff Jubayl",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

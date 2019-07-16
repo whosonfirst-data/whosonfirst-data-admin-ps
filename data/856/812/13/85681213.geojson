@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0637\u0627\u0639 \u063a\u0632\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0632\u0629"
+    ],
     "name:arg_x_preferred":[
         "Faixa de Gaza"
     ],
@@ -105,6 +108,9 @@
     "name:epo_x_preferred":[
         "Gaza Sektoro"
     ],
+    "name:epo_x_variant":[
+        "Gubernio Gazao"
+    ],
     "name:est_x_preferred":[
         "Gaza tsoon"
     ],
@@ -171,6 +177,9 @@
     "name:hun_x_preferred":[
         "G\u00e1zai \u00f6vezet"
     ],
+    "name:hun_x_variant":[
+        "G\u00e1za korm\u00e1nyz\u00f3s\u00e1g"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u0561\u0566\u0561\u0575\u056b \u0570\u0561\u057f\u057e\u0561\u056e"
     ],
@@ -179,6 +188,9 @@
     ],
     "name:ind_x_preferred":[
         "Jalur Gaza"
+    ],
+    "name:ind_x_variant":[
+        "Kegubernuran Gaza"
     ],
     "name:isl_x_preferred":[
         "Gasastr\u00f6ndin"
@@ -192,6 +204,9 @@
     "name:jpn_x_preferred":[
         "\u30ac\u30b6\u5730\u533a"
     ],
+    "name:jpn_x_variant":[
+        "\u30ac\u30b6\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c97\u0cbe\u0c9c\u0cbe \u0caa\u0c9f\u0ccd\u0c9f\u0cbf"
     ],
@@ -203,6 +218,9 @@
     ],
     "name:kor_x_preferred":[
         "\uac00\uc790 \uc9c0\uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\uc790\uc8fc"
     ],
     "name:kur_x_preferred":[
         "\u015eir\u00eeta Xezey\u00ea"
@@ -258,6 +276,9 @@
     "name:nno_x_preferred":[
         "Gazastripa"
     ],
+    "name:nno_x_variant":[
+        "Gaza guvernement"
+    ],
     "name:nob_x_preferred":[
         "Gazastripen"
     ],
@@ -276,6 +297,9 @@
     "name:pol_x_preferred":[
         "Strefa Gazy"
     ],
+    "name:pol_x_variant":[
+        "Gaza"
+    ],
     "name:por_x_preferred":[
         "Faixa de Gaza"
     ],
@@ -291,8 +315,14 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u043a\u0442\u043e\u0440 \u0413\u0430\u0437\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u0437\u0430"
+    ],
     "name:sco_x_preferred":[
         "Gaza Strip"
+    ],
+    "name:sco_x_variant":[
+        "Gaza Govrenorate"
     ],
     "name:slk_x_preferred":[
         "P\u00e1smo Gazy"
@@ -330,14 +360,23 @@
     "name:tur_x_preferred":[
         "Gazze \u015eeridi"
     ],
+    "name:tur_x_variant":[
+        "Gazze valili\u011fi"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043a\u0442\u043e\u0440 \u0413\u0430\u0437\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "\u043c\u0443\u0433\u0430\u0444\u0430\u0437\u0430 \u0490\u0430\u0437\u0430"
     ],
     "name:unk_x_variant":[
         "Qi\u0163\u0101` Ghazzah"
     ],
     "name:urd_x_preferred":[
         "\u063a\u0632\u06c1 \u06a9\u06cc \u067e\u0679\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u063a\u0632\u06c1"
     ],
     "name:vep_x_preferred":[
         "Gazan sektor"
@@ -506,7 +545,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827596,
+    "wof:lastmodified":1563247446,
     "wof:name":"Gaza Strip",
     "wof:parent_id":1159339485,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646\u0628\u0648\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0646\u0648\u0628\u0633"
+    ],
     "name:cat_x_preferred":[
         "Einabus"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101921563,
-    "wof:lastmodified":1561827630,
+    "wof:lastmodified":1563247929,
     "wof:name":"'Einabus",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

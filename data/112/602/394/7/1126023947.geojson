@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u063a\u0635\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:cat_x_preferred":[
+        "Deir al-Ghusun"
+    ],
+    "name:ceb_x_preferred":[
+        "Dayr al Ghu\u015f\u016bn"
+    ],
     "name:eng_x_preferred":[
         "Deir al-Ghusun"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:nob_x_preferred":[
         "Deir al-Ghusun"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr al-Ghusun"
     ],
     "name:spa_x_preferred":[
         "Deir al-Ghusun"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1126023947,
-    "wof:lastmodified":1561827635,
+    "wof:lastmodified":1563248004,
     "wof:name":"Dayr al Ghu\u015f\u016bn",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

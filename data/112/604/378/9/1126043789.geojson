@@ -25,8 +25,17 @@
     "name:ara_x_variant":[
         "\u0639\u0646\u0627\u062a\u0627"
     ],
+    "name:cat_x_preferred":[
+        "'Anata"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018An\u0101t\u0101"
+    ],
     "name:eng_x_preferred":[
         "Anata"
+    ],
+    "name:eng_x_variant":[
+        "'Anata"
     ],
     "name:fas_x_preferred":[
         "\u0639\u0646\u0627\u062a\u0627"
@@ -37,17 +46,29 @@
     "name:ita_x_preferred":[
         "Anata"
     ],
+    "name:ita_x_variant":[
+        "'Anata"
+    ],
     "name:nld_x_preferred":[
         "Anata"
     ],
+    "name:nld_x_variant":[
+        "'Anata"
+    ],
     "name:nno_x_preferred":[
         "Anata"
+    ],
+    "name:nno_x_variant":[
+        "'Anata"
     ],
     "name:pol_x_preferred":[
         "Anata"
     ],
     "name:unk_x_variant":[
         "\u2018An\u0101t\u014dt"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0646\u0627\u062a\u0627"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -102,7 +123,7 @@
         }
     ],
     "wof:id":1126043789,
-    "wof:lastmodified":1561827636,
+    "wof:lastmodified":1563248018,
     "wof:name":"\u2018An\u0101t\u0101",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

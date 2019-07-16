@@ -22,14 +22,26 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0625\u0628\u0632\u064a\u0639"
     ],
+    "name:cat_x_preferred":[
+        "Deir Ibzi"
+    ],
+    "name:ceb_x_preferred":[
+        "Dayr Ibz\u012b\u2018"
+    ],
     "name:eng_x_preferred":[
         "Deir Ibzi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05d0\u05d9\u05d1\u05d6\u05d9"
     ],
     "name:nld_x_preferred":[
         "Deir Ibzi"
     ],
     "name:nno_x_preferred":[
         "Deir Ibzi"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr Ibzi"
     ],
     "name:unk_x_variant":[
         "Deir Ibz\u012b\u2018"
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":1126035247,
-    "wof:lastmodified":1561827638,
+    "wof:lastmodified":1563248035,
     "wof:name":"Dayr Ibz\u012b\u2018",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

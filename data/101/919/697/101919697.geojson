@@ -92,6 +92,9 @@
     "name:tur_x_preferred":[
         "Beyt Hanun"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0425\u0430\u043d\u0443\u043d"
+    ],
     "name:unk_x_variant":[
         "Bayt \u1e28\u0101n\u016bn"
     ],
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101919697,
-    "wof:lastmodified":1561827624,
+    "wof:lastmodified":1563247847,
     "wof:name":"Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

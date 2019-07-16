@@ -23,6 +23,30 @@
     "name:ara_x_variant":[
         "\u0631\u0627\u0641\u0627\u062a"
     ],
+    "name:cat_x_preferred":[
+        "Rafat"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u0101f\u0101t"
+    ],
+    "name:eng_x_preferred":[
+        "Rafat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0641\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Rafat"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e4\u05d0\u05ea"
+    ],
+    "name:nld_x_preferred":[
+        "Rafat"
+    ],
+    "name:nno_x_preferred":[
+        "Rafat"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -79,7 +103,7 @@
         }
     ],
     "wof:id":1175613317,
-    "wof:lastmodified":1549929622,
+    "wof:lastmodified":1563247473,
     "wof:name":"Rafat",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

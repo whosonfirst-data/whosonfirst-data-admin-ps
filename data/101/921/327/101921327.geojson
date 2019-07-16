@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u064a\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Beit Lid"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt L\u012bd"
+    ],
     "name:eng_x_preferred":[
         "Beit Lid"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:nno_x_preferred":[
         "Beit Lid"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Lid"
     ],
     "name:unk_x_variant":[
         "Beit L\u012bd"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":101921327,
-    "wof:lastmodified":1549929808,
+    "wof:lastmodified":1563247963,
     "wof:name":"Beit Lid",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

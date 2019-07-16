@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u0641\u0642\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0641\u064a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Qaffin"
+    ],
+    "name:ceb_x_preferred":[
+        "Qaff\u012bn"
+    ],
     "name:eng_x_preferred":[
         "Qaffin"
     ],
@@ -33,6 +42,9 @@
     ],
     "name:nno_x_preferred":[
         "Qaffin"
+    ],
+    "name:pol_x_preferred":[
+        "Kaffin"
     ],
     "name:unk_x_variant":[
         "Quff\u012bn"
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":1125861407,
-    "wof:lastmodified":1561827638,
+    "wof:lastmodified":1563248042,
     "wof:name":"Qaff\u012bn",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

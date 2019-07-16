@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0623\u0633 \u0627\u0644\u0639\u0645\u0648\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u0627\u0633 \u0627\u0644\u0639\u0627\u0645\u0648\u062f"
+    ],
     "name:ces_x_preferred":[
         "Ras al-Amud"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101922221,
-    "wof:lastmodified":1561827603,
+    "wof:lastmodified":1563247548,
     "wof:name":"Ras al 'Amud",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

@@ -22,6 +22,27 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0637\u0648\u0631"
     ],
+    "name:ces_x_preferred":[
+        "At-Tur"
+    ],
+    "name:deu_x_preferred":[
+        "At-Tur"
+    ],
+    "name:eng_x_preferred":[
+        "At-Tur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05d8\u05d5\u05e8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0442 \u0422\u0443\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "At Tur"
+    ],
+    "name:spa_x_preferred":[
+        "At-Tur"
+    ],
     "name:unk_x_variant":[
         "\u1e6cur"
     ],
@@ -67,7 +88,7 @@
         }
     ],
     "wof:id":101922211,
-    "wof:lastmodified":1549931493,
+    "wof:lastmodified":1563247542,
     "wof:name":"At Tur",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

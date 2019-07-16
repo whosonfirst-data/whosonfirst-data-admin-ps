@@ -22,14 +22,26 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u062b\u0627 \u0627\u0644\u0645\u0635\u0628\u0627\u062d"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u062a\u0627 \u0627\u0644\u0645\u0635\u0628\u0627\u062d"
+    ],
+    "name:cat_x_preferred":[
+        "Kharbatha al-Misbah"
+    ],
     "name:eng_x_preferred":[
         "Kharbatha al-Misbah"
     ],
     "name:heb_x_preferred":[
         "\u05d7'\u05e8\u05d1\u05ea \u05d0\u05dc-\u05de\u05e6\u05d1\u05d0\u05d7"
     ],
+    "name:heb_x_variant":[
+        "\u05d7\u05e8\u05d1\u05ea\u05d0 \u05d0\u05dc-\u05de\u05e6\u05d1\u05d0\u05d7"
+    ],
     "name:nno_x_preferred":[
         "Kharbatha al-Misbah"
+    ],
+    "name:pol_x_preferred":[
+        "Charbata al-Misbah"
     ],
     "name:unk_x_variant":[
         "Khirbat el Mi\u1e63b\u0101\u1e25"
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":1125838967,
-    "wof:lastmodified":1549929752,
+    "wof:lastmodified":1563248117,
     "wof:name":"Kharbath\u0101 al Mi\u015fb\u0101\u1e29",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Yabroud"
     ],
+    "name:cat_x_variant":[
+        "Yabrud"
+    ],
     "name:ceb_x_preferred":[
         "Yabr\u016bd"
     ],
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101921839,
-    "wof:lastmodified":1561827632,
+    "wof:lastmodified":1563247957,
     "wof:name":"Yabrud",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

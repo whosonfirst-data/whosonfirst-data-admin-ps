@@ -24,14 +24,29 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:bar_x_preferred":[
+        "Arnona"
+    ],
     "name:ces_x_preferred":[
+        "Arnona"
+    ],
+    "name:deu_x_preferred":[
         "Arnona"
     ],
     "name:eng_x_preferred":[
         "Arnona"
     ],
+    "name:fra_x_preferred":[
+        "Arnona"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05e0\u05d5\u05e0\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Arnona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30ce\u30ca"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u0440\u043d\u043e\u043d\u0430"
@@ -69,11 +84,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":439,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930559,
+    "wof:lastmodified":1563247442,
     "wof:name":"Arnona",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

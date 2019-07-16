@@ -28,6 +28,9 @@
     "name:est_x_preferred":[
         "Rafa\u1e29i p\u00f5genikelaager"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u062f\u0648\u06af\u0627\u0647 \u0631\u0641\u062d"
+    ],
     "name:fra_x_preferred":[
         "Rafah camp"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101920651,
-    "wof:lastmodified":1561827613,
+    "wof:lastmodified":1563247658,
     "wof:name":"Rafah Camp",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

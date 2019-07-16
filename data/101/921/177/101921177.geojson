@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Tubas"
     ],
+    "name:ceb_x_preferred":[
+        "\u0162\u016bb\u0101s"
+    ],
     "name:ces_x_preferred":[
         "T\u00fab\u00e1s"
     ],
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101921177,
-    "wof:lastmodified":1561827633,
+    "wof:lastmodified":1563247968,
     "wof:name":"Tubas",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

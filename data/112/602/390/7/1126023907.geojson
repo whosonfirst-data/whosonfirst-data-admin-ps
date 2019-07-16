@@ -25,10 +25,16 @@
     "name:cat_x_preferred":[
         "Talfit"
     ],
+    "name:ceb_x_preferred":[
+        "Talf\u012bt"
+    ],
     "name:eng_x_preferred":[
         "Talfit"
     ],
     "name:nld_x_preferred":[
+        "Talfit"
+    ],
+    "name:pol_x_preferred":[
         "Talfit"
     ],
     "name:unk_x_variant":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1126023907,
-    "wof:lastmodified":1561827635,
+    "wof:lastmodified":1563248001,
     "wof:name":"Talf\u012bt",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

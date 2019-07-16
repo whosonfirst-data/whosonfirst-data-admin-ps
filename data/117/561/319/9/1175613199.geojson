@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Yasuf"
     ],
+    "name:ceb_x_preferred":[
+        "Y\u0101s\u016bf"
+    ],
     "name:eng_x_preferred":[
         "Yasuf"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1175613199,
-    "wof:lastmodified":1561827600,
+    "wof:lastmodified":1563247500,
     "wof:name":"Yasuf",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

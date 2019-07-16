@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Kufeirit"
     ],
+    "name:ceb_x_preferred":[
+        "Kufayrit"
+    ],
     "name:eng_x_preferred":[
         "Kufeirit"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101920937,
-    "wof:lastmodified":1561827611,
+    "wof:lastmodified":1563247628,
     "wof:name":"Kufeirit",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

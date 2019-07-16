@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0642\u062f\u064a\u0633"
     ],
+    "name:cat_x_preferred":[
+        "Deir Qaddis"
+    ],
+    "name:ceb_x_preferred":[
+        "Dayr Qidd\u012bs"
+    ],
     "name:eng_x_preferred":[
         "Deir Qaddis"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:nno_x_preferred":[
         "Deir Qaddis"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr Kiddis"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":101921893,
-    "wof:lastmodified":1561827628,
+    "wof:lastmodified":1563247908,
     "wof:name":"Deir Qaddis",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

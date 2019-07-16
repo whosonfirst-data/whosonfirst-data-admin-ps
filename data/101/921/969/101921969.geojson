@@ -17,11 +17,18 @@
     "mps:longitude":35.252545,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Boerka"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u0642\u0639"
     ],
     "name:ara_x_variant":[
-        "\u0628\u0631\u0642\u0629"
+        "\u0628\u0631\u0642\u0629",
+        "\u0628\u0631\u0642\u0639 \u0623\u0641\u063a\u0627\u0646\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Burca"
     ],
     "name:aze_x_preferred":[
         "P\u0259r\u0259nc\u0259"
@@ -30,9 +37,6 @@
         "Burka"
     ],
     "name:bel_x_preferred":[
-        "\u041f\u0430\u0440\u0430\u043d\u0434\u0436\u0430"
-    ],
-    "name:bel_x_variant":[
         "\u041f\u0430\u0440\u0430\u043d\u0434\u0436\u0430"
     ],
     "name:ben_x_preferred":[
@@ -47,6 +51,9 @@
     "name:cat_x_preferred":[
         "Burca"
     ],
+    "name:cat_x_variant":[
+        "burca"
+    ],
     "name:ces_x_preferred":[
         "Burka"
     ],
@@ -55,6 +62,9 @@
     ],
     "name:deu_x_preferred":[
         "Burka"
+    ],
+    "name:eng_x_preferred":[
+        "burqa"
     ],
     "name:epo_x_preferred":[
         "Bur\u0125o"
@@ -65,6 +75,9 @@
     "name:eus_x_preferred":[
         "Burka"
     ],
+    "name:fao_x_preferred":[
+        "Burka"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0642\u0639"
     ],
@@ -73,6 +86,15 @@
     ],
     "name:fra_x_preferred":[
         "Burqa"
+    ],
+    "name:fra_x_variant":[
+        "burqa"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00farca"
+    ],
+    "name:glg_x_preferred":[
+        "Burca"
     ],
     "name:hbs_x_preferred":[
         "Burka"
@@ -89,14 +111,26 @@
     "name:hun_x_preferred":[
         "Burka"
     ],
+    "name:hye_x_preferred":[
+        "\u0553\u0561\u0580\u0561\u057b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Burqa"
+    ],
+    "name:ind_x_variant":[
+        "burqa"
+    ],
+    "name:isl_x_preferred":[
+        "b\u00farka"
     ],
     "name:ita_x_preferred":[
         "Burqa"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30eb\u30ab"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc1\u0cb0\u0ccd\u0c95\u0cbe"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0443\u0440\u049b\u0430"
@@ -119,6 +153,12 @@
     "name:nld_x_preferred":[
         "Boerka"
     ],
+    "name:nld_x_variant":[
+        "boerka"
+    ],
+    "name:nob_x_preferred":[
+        "burka"
+    ],
     "name:nor_x_preferred":[
         "Burka"
     ],
@@ -131,6 +171,9 @@
     "name:por_x_preferred":[
         "Burca"
     ],
+    "name:por_x_variant":[
+        "burca"
+    ],
     "name:pus_x_preferred":[
         "\u0628\u0648\u0631\u0642\u0647"
     ],
@@ -140,17 +183,29 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043d\u0434\u0436\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0431\u0443\u0440\u043a\u0430"
+    ],
     "name:sco_x_preferred":[
         "Burqa"
     ],
+    "name:sco_x_variant":[
+        "burqa"
+    ],
     "name:slv_x_preferred":[
         "Burka"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u0631\u0642\u0639\u0648"
     ],
     "name:spa_x_preferred":[
         "Burka"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0440\u043a\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0431\u0443\u0440\u043a\u0430"
     ],
     "name:swe_x_preferred":[
         "Burka"
@@ -164,8 +219,14 @@
     "name:tur_x_preferred":[
         "Burka"
     ],
+    "name:tur_x_variant":[
+        "burka"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043d\u0434\u0436\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0440\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Burqah"
@@ -173,8 +234,17 @@
     "name:urd_x_preferred":[
         "\u0628\u0631\u0642\u0639"
     ],
+    "name:uzb_x_preferred":[
+        "Paranji"
+    ],
     "name:vie_x_preferred":[
         "Burqa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10d0\u10e0\u10d0\u10dc\u10ef\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u7f69\u888d"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u5361"
@@ -238,7 +308,7 @@
         }
     ],
     "wof:id":101921969,
-    "wof:lastmodified":1549929882,
+    "wof:lastmodified":1563247932,
     "wof:name":"Burqa",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

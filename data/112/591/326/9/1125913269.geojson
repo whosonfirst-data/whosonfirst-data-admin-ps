@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Qusin"
     ],
+    "name:ceb_x_preferred":[
+        "Q\u016b\u015f\u012bn"
+    ],
     "name:eng_x_preferred":[
         "Qusin"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125913269,
-    "wof:lastmodified":1561827639,
+    "wof:lastmodified":1563248053,
     "wof:name":"Q\u016b\u015f\u012bn",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Giv'at Shapira"
     ],
+    "name:eng_x_variant":[
+        "Givat Shapira"
+    ],
     "name:fra_x_preferred":[
         "Givat-Shapira"
     ],
@@ -72,11 +75,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":79,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930543,
+    "wof:lastmodified":1563247438,
     "wof:name":"Giv'at Shapira",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

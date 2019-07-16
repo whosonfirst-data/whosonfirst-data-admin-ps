@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0639\u0648\u0631 \u0627\u0644\u062a\u062d\u062a\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Beit Ur al-Tahta"
+    ],
     "name:eng_x_preferred":[
         "Beit Ur al-Tahta"
     ],
@@ -32,8 +35,14 @@
     "name:nno_x_preferred":[
         "Beit Ur al-Tahta"
     ],
+    "name:pol_x_preferred":[
+        "Bajt Ur at-Tahta"
+    ],
     "name:unk_x_variant":[
         "Beit \u2018\u016ar et Taht\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0639\u0648\u0631 \u0627\u0644\u062a\u062d\u062a\u0627"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":101921971,
-    "wof:lastmodified":1561827629,
+    "wof:lastmodified":1563247921,
     "wof:name":"Beit 'Ur at Tahta",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

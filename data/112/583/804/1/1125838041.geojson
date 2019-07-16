@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Qira"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e8\u05d4"
+    ],
     "name:nld_x_preferred":[
         "Qira"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125838041,
-    "wof:lastmodified":1561827645,
+    "wof:lastmodified":1563248110,
     "wof:name":"Q\u012brah",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

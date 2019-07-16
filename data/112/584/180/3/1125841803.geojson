@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u062c\u0641\u0646\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Jifna"
+    ],
+    "name:ceb_x_preferred":[
+        "Jifn\u0101"
+    ],
     "name:eng_x_preferred":[
         "Jifna"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:nno_x_preferred":[
         "Jifna"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cifna"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125841803,
-    "wof:lastmodified":1561827644,
+    "wof:lastmodified":1563248096,
     "wof:name":"Jifn\u0101",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

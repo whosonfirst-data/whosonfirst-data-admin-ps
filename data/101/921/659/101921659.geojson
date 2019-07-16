@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Yatma"
     ],
+    "name:ceb_x_preferred":[
+        "Yatm\u0101"
+    ],
     "name:eng_x_preferred":[
         "Yatma"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101921659,
-    "wof:lastmodified":1561827628,
+    "wof:lastmodified":1563247909,
     "wof:name":"Yatma",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

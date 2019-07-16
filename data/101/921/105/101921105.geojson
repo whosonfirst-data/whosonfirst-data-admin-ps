@@ -24,11 +24,17 @@
         "\u015e\u012br",
         "\u0635\u064a\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Sir"
+    ],
     "name:aze_x_preferred":[
         "Ser"
     ],
     "name:bel_x_preferred":[
         "\u0421\u044d\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u0441\u044d\u0440"
     ],
     "name:bul_x_preferred":[
         "\u0421\u044a\u0440/\u0434\u0435\u0439\u043c"
@@ -42,16 +48,43 @@
     "name:che_x_preferred":[
         "\u0421\u044d\u0440"
     ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06ce\u0631"
+    ],
+    "name:cym_x_preferred":[
+        "Syr"
+    ],
+    "name:deu_x_preferred":[
+        "Sir"
+    ],
+    "name:diq_x_preferred":[
+        "Sir"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Sir"
+    ],
     "name:epo_x_preferred":[
         "Siro"
     ],
     "name:est_x_preferred":[
         "Sir"
     ],
+    "name:eus_x_preferred":[
+        "Sir"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0631"
     ],
     "name:fin_x_preferred":[
+        "Sir"
+    ],
+    "name:fin_x_variant":[
+        "sir"
+    ],
+    "name:fra_x_preferred":[
         "Sir"
     ],
     "name:fry_x_preferred":[
@@ -65,6 +98,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0939\u094b\u0926\u092f"
     ],
     "name:hrv_x_preferred":[
         "Sir"
@@ -81,8 +117,17 @@
     "name:kor_x_preferred":[
         "Sir"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0440"
+    ],
     "name:nld_x_preferred":[
         "Sir"
+    ],
+    "name:nno_x_preferred":[
+        "Sir"
+    ],
+    "name:nob_x_preferred":[
+        "sir"
     ],
     "name:nor_x_preferred":[
         "Sir"
@@ -99,14 +144,23 @@
     "name:rus_x_preferred":[
         "\u0421\u044d\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u0441\u044d\u0440"
+    ],
     "name:slk_x_preferred":[
         "Sir"
     ],
     "name:slv_x_preferred":[
         "Sir"
     ],
+    "name:snd_x_preferred":[
+        "\u0633\u0631"
+    ],
     "name:spa_x_preferred":[
         "Sir"
+    ],
+    "name:spa_x_variant":[
+        "sir"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0440"
@@ -122,6 +176,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u0441\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631"
     ],
     "name:zho_x_preferred":[
         "\u7235\u58eb"
@@ -182,7 +242,7 @@
         }
     ],
     "wof:id":101921105,
-    "wof:lastmodified":1549929790,
+    "wof:lastmodified":1563247877,
     "wof:name":"Sir",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

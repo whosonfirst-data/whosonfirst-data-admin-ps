@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Abasan al-Kabira"
     ],
+    "name:ceb_x_preferred":[
+        "\u2018Abas\u0101n al Kab\u012brah"
+    ],
     "name:cym_x_preferred":[
         "Abasan al-Kabera"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101920539,
-    "wof:lastmodified":1561827615,
+    "wof:lastmodified":1563247693,
     "wof:name":"'Abasan al Kabira",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

@@ -26,11 +26,17 @@
     "name:cat_x_preferred":[
         "An-Naqura"
     ],
+    "name:ceb_x_preferred":[
+        "An N\u0101q\u016brah"
+    ],
     "name:eng_x_preferred":[
         "An-Naqura"
     ],
     "name:heb_x_preferred":[
         "\u05d0-\u05e0\u05d0\u05e7\u05d5\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0-\u05e0\u05e7\u05d5\u05e8\u05d4"
     ],
     "name:nld_x_preferred":[
         "An-Naqura"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":101921321,
-    "wof:lastmodified":1561827634,
+    "wof:lastmodified":1563247974,
     "wof:name":"An Naqura",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

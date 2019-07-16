@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Hashimiyya"
     ],
@@ -37,6 +40,12 @@
     ],
     "name:nno_x_preferred":[
         "Al Hashimiyya"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Haszimijja"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u0448\u0438\u043c\u0438\u044f"
     ],
     "name:sqi_x_preferred":[
         "Al Hashimiyya"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1175613369,
-    "wof:lastmodified":1561827597,
+    "wof:lastmodified":1563247472,
     "wof:name":"Al Hashimiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

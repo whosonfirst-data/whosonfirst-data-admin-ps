@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0628\u0631\u0647\u0627\u0645"
     ],
+    "name:cat_x_preferred":[
+        "Burham"
+    ],
     "name:eng_x_preferred":[
         "Burham"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:nno_x_preferred":[
         "Burham i Ramallah"
+    ],
+    "name:pol_x_preferred":[
+        "Burham"
     ],
     "name:unk_x_variant":[
         "Burbam"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1126043653,
-    "wof:lastmodified":1561827636,
+    "wof:lastmodified":1563248008,
     "wof:name":"Burh\u0101m",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u062c\u0645\u0627\u0644"
     ],
+    "name:cat_x_preferred":[
+        "Kafr Jammal"
+    ],
+    "name:ceb_x_preferred":[
+        "Kafr Jamm\u0101l"
+    ],
     "name:eng_x_preferred":[
         "Kafr Jammal"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:nno_x_preferred":[
         "Kafr Jammal"
+    ],
+    "name:pol_x_preferred":[
+        "Kafr D\u017cammal"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1125778343,
-    "wof:lastmodified":1561827644,
+    "wof:lastmodified":1563248100,
     "wof:name":"Kafr Jamm\u0101l",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0631\u0627\u0633 \u0643\u0631\u0643\u0631"
     ],
+    "name:cat_x_preferred":[
+        "Ras Karkar"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u0101s Karkar"
+    ],
     "name:eng_x_preferred":[
         "Ras Karkar"
     ],
@@ -33,6 +39,9 @@
         "Ras Karkar"
     ],
     "name:nno_x_preferred":[
+        "Ras Karkar"
+    ],
+    "name:pol_x_preferred":[
         "Ras Karkar"
     ],
     "name:unk_x_variant":[
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":101921917,
-    "wof:lastmodified":1561827634,
+    "wof:lastmodified":1563247974,
     "wof:name":"Ras Karkar",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -16,8 +16,17 @@
     "mps:longitude":35.261995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0639\u064a\u0645"
+    ],
+    "name:cat_x_preferred":[
+        "Az-Za'ayyem"
+    ],
     "name:eng_x_preferred":[
         "Az-Za'ayyem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0632\u0639\u06cc\u0645"
     ],
     "name:heb_x_preferred":[
         "\u05d0-\u05d6\u05e2\u05d9\u05d9\u05dd"
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1175613241,
-    "wof:lastmodified":1561827598,
+    "wof:lastmodified":1563247480,
     "wof:name":"Az Za'ayyem",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

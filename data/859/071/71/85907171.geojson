@@ -24,11 +24,41 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ces_x_preferred":[
+        "Kirjat ha-Mem\u0161ala"
+    ],
     "name:eng_x_preferred":[
         "Kiryat Ha-memshala"
     ],
+    "name:eng_x_variant":[
+        "Kiryat HaMemshala"
+    ],
+    "name:fra_x_preferred":[
+        "Kiryat HaMemshala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d4\u05de\u05de\u05e9\u05dc\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Kiryat HaMemshala"
+    ],
+    "name:lad_x_preferred":[
+        "Kiryat Amemshala"
+    ],
+    "name:nld_x_preferred":[
+        "Kiryat HaMemshala"
+    ],
+    "name:por_x_preferred":[
+        "Kiryat HaMemshala"
+    ],
     "name:unk_x_variant":[
         "Kiryat Ha-memshala"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05ea \u05d4\u05de\u05de\u05e9\u05dc\u05d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u653f\u5e9c\u5efa\u7b51\u7fa4"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -57,11 +87,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":169,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930547,
+    "wof:lastmodified":1563247441,
     "wof:name":"Kiryat Ha-memshala",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

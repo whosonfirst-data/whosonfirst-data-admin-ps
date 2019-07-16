@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Bir al-Basha"
     ],
+    "name:ceb_x_preferred":[
+        "B\u012br al B\u0101sh\u0101"
+    ],
     "name:eng_x_preferred":[
         "Bir al-Basha"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:nno_x_preferred":[
         "Bir al-Basha"
+    ],
+    "name:pol_x_preferred":[
+        "Bir al-Basza"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1125775137,
-    "wof:lastmodified":1561827644,
+    "wof:lastmodified":1563248103,
     "wof:name":"B\u012br al B\u0101sh\u0101",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

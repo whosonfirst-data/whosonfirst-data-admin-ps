@@ -16,8 +16,14 @@
     "mps:longitude":35.443007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0635\u0627\u064a\u0644"
+    ],
     "name:cat_x_preferred":[
         "Fasayil"
+    ],
+    "name:deu_x_preferred":[
+        "Phasaelis"
     ],
     "name:eng_x_preferred":[
         "Fasayil"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":101921775,
-    "wof:lastmodified":1561827633,
+    "wof:lastmodified":1563247964,
     "wof:name":"Fasayil",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

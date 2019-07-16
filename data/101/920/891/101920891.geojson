@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Jalbun"
     ],
+    "name:ceb_x_preferred":[
+        "Jalb\u016bn"
+    ],
     "name:eng_x_preferred":[
         "Jalbun"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101920891,
-    "wof:lastmodified":1561827618,
+    "wof:lastmodified":1563247740,
     "wof:name":"Jalbun",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

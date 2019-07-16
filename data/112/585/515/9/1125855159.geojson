@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0645\u0627\u062a\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Immatain"
+    ],
     "name:eng_x_preferred":[
         "Immatain"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125855159,
-    "wof:lastmodified":1561827643,
+    "wof:lastmodified":1563248094,
     "wof:name":"Imm\u0101t\u012bn",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

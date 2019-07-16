@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0641\u0648\u062d"
     ],
+    "name:cat_x_preferred":[
+        "Taffuh"
+    ],
+    "name:ceb_x_preferred":[
+        "Taff\u016b\u1e29"
+    ],
     "name:eng_x_preferred":[
         "Taffuh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05e4\u05d5\u05d7"
     ],
     "name:nld_x_preferred":[
         "Taffuh"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":101922737,
-    "wof:lastmodified":1561827602,
+    "wof:lastmodified":1563247537,
     "wof:name":"Taffuh",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

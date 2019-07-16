@@ -23,8 +23,17 @@
     "name:ara_x_variant":[
         "\u2018An\u0101t\u0101"
     ],
+    "name:cat_x_preferred":[
+        "'Anata"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018An\u0101t\u0101"
+    ],
     "name:eng_x_preferred":[
         "Anata"
+    ],
+    "name:eng_x_variant":[
+        "'Anata"
     ],
     "name:fas_x_preferred":[
         "\u0639\u0646\u0627\u062a\u0627"
@@ -38,6 +47,9 @@
     "name:nld_x_preferred":[
         "Anata"
     ],
+    "name:nld_x_variant":[
+        "'Anata"
+    ],
     "name:nno_x_preferred":[
         "'Anata"
     ],
@@ -46,6 +58,9 @@
     ],
     "name:unk_x_variant":[
         "\u2018An\u0101t\u014dt"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0646\u0627\u062a\u0627"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":101922177,
-    "wof:lastmodified":1561827610,
+    "wof:lastmodified":1563247605,
     "wof:name":"'Anata",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

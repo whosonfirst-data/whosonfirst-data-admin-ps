@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Szuafat"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0430\u0444\u0430\u0442"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1376891697,
-    "wof:lastmodified":1561827634,
+    "wof:lastmodified":1563247982,
     "wof:name":"Shu'fat",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

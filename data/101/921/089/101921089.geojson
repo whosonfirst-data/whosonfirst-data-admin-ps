@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Zawiya"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d0\u05d5\u05d5\u05d9\u05d4"
+    ],
     "name:nld_x_preferred":[
         "Zawiya"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101921089,
-    "wof:lastmodified":1561827631,
+    "wof:lastmodified":1563247936,
     "wof:name":"Az Zawiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

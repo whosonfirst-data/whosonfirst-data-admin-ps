@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0639\u0628\u0648\u0634"
     ],
+    "name:cat_x_preferred":[
+        "Kafr Abbush"
+    ],
+    "name:ceb_x_preferred":[
+        "Kafr \u2018Abb\u016bsh"
+    ],
     "name:eng_x_preferred":[
         "Kafr Abbush"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:nno_x_preferred":[
         "Kafr Abbush"
+    ],
+    "name:pol_x_preferred":[
+        "Kafr Abbusz"
     ],
     "name:unk_x_variant":[
         "Kafr \u2018Abb\u016bsh"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":101921403,
-    "wof:lastmodified":1561827633,
+    "wof:lastmodified":1563247960,
     "wof:name":"Kafr 'Abbush",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

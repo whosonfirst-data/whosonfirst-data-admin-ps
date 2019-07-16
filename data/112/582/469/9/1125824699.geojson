@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Odala"
     ],
+    "name:ceb_x_preferred":[
+        "\u016adalah"
+    ],
     "name:eng_x_preferred":[
         "Odala"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125824699,
-    "wof:lastmodified":1561827642,
+    "wof:lastmodified":1563248079,
     "wof:name":"\u016adalah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

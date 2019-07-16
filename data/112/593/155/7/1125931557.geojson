@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Tayasir"
     ],
+    "name:ceb_x_preferred":[
+        "Tay\u0101s\u012br"
+    ],
     "name:eng_x_preferred":[
         "Tayasir"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:nno_x_preferred":[
         "Tayasir"
+    ],
+    "name:pol_x_preferred":[
+        "Tajasir"
     ],
     "name:unk_x_variant":[
         "Tayaseer"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125931557,
-    "wof:lastmodified":1561827635,
+    "wof:lastmodified":1563247998,
     "wof:name":"Tay\u0101s\u012br",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

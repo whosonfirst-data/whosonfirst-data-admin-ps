@@ -23,13 +23,25 @@
     "name:ara_x_variant":[
         "\u1e28\u016bs\u0101n"
     ],
+    "name:cat_x_preferred":[
+        "Husan"
+    ],
+    "name:ceb_x_preferred":[
+        "\u1e28\u016bs\u0101n"
+    ],
     "name:eng_x_preferred":[
         "Husan"
+    ],
+    "name:fra_x_preferred":[
+        "Houssane"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d5\u05e1\u05d0\u05df"
     ],
     "name:nno_x_preferred":[
+        "Husan"
+    ],
+    "name:pol_x_preferred":[
         "Husan"
     ],
     "name:spa_x_preferred":[
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":101922409,
-    "wof:lastmodified":1549929811,
+    "wof:lastmodified":1563247559,
     "wof:name":"Husan",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

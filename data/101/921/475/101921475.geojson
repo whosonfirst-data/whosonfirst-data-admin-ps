@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Rujeib"
     ],
+    "name:ceb_x_preferred":[
+        "R\u016bjayb"
+    ],
     "name:eng_x_preferred":[
         "Rujeib"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:nld_x_preferred":[
         "Rujeib"
+    ],
+    "name:pol_x_preferred":[
+        "Rud\u017cajb"
     ],
     "name:unk_x_variant":[
         "R\u016bjayb"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101921475,
-    "wof:lastmodified":1561827631,
+    "wof:lastmodified":1563247940,
     "wof:name":"Rujeib",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

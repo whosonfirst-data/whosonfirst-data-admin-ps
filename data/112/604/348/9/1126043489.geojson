@@ -22,11 +22,23 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0639\u0648\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Beit Awwa"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt \u2018Aww\u0101"
+    ],
     "name:eng_x_preferred":[
         "Beit Awwa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e2\u05d5\u05d5\u05d0"
+    ],
     "name:nno_x_preferred":[
         "Beit 'Awwa"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Awwa"
     ],
     "name:unk_x_variant":[
         "Khirbat Beit \u2018Awwa"
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":1126043489,
-    "wof:lastmodified":1549929894,
+    "wof:lastmodified":1563248014,
     "wof:name":"Bayt \u2018Aww\u0101",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

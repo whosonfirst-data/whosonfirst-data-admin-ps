@@ -23,11 +23,20 @@
     "name:cat_x_preferred":[
         "Qalqilya"
     ],
+    "name:ceb_x_preferred":[
+        "Qalq\u012blyah"
+    ],
     "name:ces_x_preferred":[
         "Kalk\u00edlija"
     ],
+    "name:dan_x_preferred":[
+        "Qalqilya"
+    ],
     "name:deu_x_preferred":[
         "Qalqiliya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03ba\u03b9\u03bb\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Qalqilya"
@@ -44,6 +53,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05dc\u05e7\u05d9\u05dc\u05d9\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Kalk\u00edlja"
+    ],
     "name:ind_x_preferred":[
         "Qalqiliya"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30ad\u30eb\u30e4\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c\ud0ac\ub9ac\uc57c"
     ],
     "name:lit_x_preferred":[
         "Kalkilja"
@@ -91,6 +106,9 @@
     ],
     "name:tur_x_preferred":[
         "Qalqilya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u043a\u0456\u043b\u0456\u044f"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0644\u0642\u06cc\u0644\u06cc\u06c1"
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":101919435,
-    "wof:lastmodified":1561827624,
+    "wof:lastmodified":1563247854,
     "wof:name":"Qalqiliya",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

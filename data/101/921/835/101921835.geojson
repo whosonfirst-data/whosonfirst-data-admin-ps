@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0632\u064a\u062a"
     ],
+    "name:cat_x_preferred":[
+        "Bir Zeit"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u012br Zayt"
+    ],
+    "name:cym_x_preferred":[
+        "Bir Zait"
+    ],
     "name:deu_x_preferred":[
         "Bir Zait"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Birzeit"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u0641\u06cc\u062a"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":101921835,
-    "wof:lastmodified":1561827628,
+    "wof:lastmodified":1563247903,
     "wof:name":"Bir Zeit",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

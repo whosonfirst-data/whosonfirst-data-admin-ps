@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0632\u0644\u0629 \u0639\u064a\u0633\u0649"
     ],
+    "name:cat_x_preferred":[
+        "Nazlat 'Isa"
+    ],
+    "name:ceb_x_preferred":[
+        "Nazlat \u2018\u012as\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Nazlat 'Isa"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:nno_x_preferred":[
         "Nazlat 'Isa"
+    ],
+    "name:pol_x_preferred":[
+        "Nazlat Isa"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1125838901,
-    "wof:lastmodified":1561827646,
+    "wof:lastmodified":1563248119,
     "wof:name":"Nazlat \u2018\u012as\u00e1",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

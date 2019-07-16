@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u0639\u064a\u0646 \u0639\u0631\u064a\u0643"
     ],
+    "name:cat_x_preferred":[
+        "Ein 'Arik"
+    ],
     "name:eng_x_preferred":[
         "Ein 'Arik"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:nno_x_preferred":[
         "Ein 'Arik"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Arik"
     ],
     "name:unk_x_variant":[
         "\u2018Ein \u2018Ar\u012bk"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125841857,
-    "wof:lastmodified":1561827644,
+    "wof:lastmodified":1563248098,
     "wof:name":"\u2018Ayn \u2018Ar\u012bk",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

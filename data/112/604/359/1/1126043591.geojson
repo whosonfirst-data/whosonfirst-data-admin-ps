@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Kafr Qud"
     ],
+    "name:ceb_x_preferred":[
+        "Kafr Q\u016bd"
+    ],
     "name:eng_x_preferred":[
         "Kafr Qud"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1126043591,
-    "wof:lastmodified":1561827637,
+    "wof:lastmodified":1563248019,
     "wof:name":"Kafr Q\u016bd",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

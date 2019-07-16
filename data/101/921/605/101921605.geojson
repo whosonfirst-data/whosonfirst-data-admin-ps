@@ -37,6 +37,9 @@
     "name:nor_x_preferred":[
         "Jammain"
     ],
+    "name:pol_x_preferred":[
+        "D\u017cammain"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0430\u043c\u043c\u0430\u0438\u043d"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101921605,
-    "wof:lastmodified":1549929829,
+    "wof:lastmodified":1563247901,
     "wof:name":"Jamma'in",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

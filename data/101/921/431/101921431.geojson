@@ -20,6 +20,21 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0642\u0629 \u0627\u0644\u062d\u0637\u0628"
     ],
+    "name:cat_x_preferred":[
+        "Baqat al-Hatab"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u0101qat al \u1e28a\u0163ab"
+    ],
+    "name:eng_x_preferred":[
+        "Baqat al-Hatab"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e7\u05d4 \u05d0\u05dc-\u05d7\u05d8\u05d1"
+    ],
+    "name:nld_x_preferred":[
+        "Baqat al-Hatab"
+    ],
     "name:nno_x_preferred":[
         "Baqat al-Hatab"
     ],
@@ -85,7 +100,7 @@
         }
     ],
     "wof:id":101921431,
-    "wof:lastmodified":1549929815,
+    "wof:lastmodified":1563247906,
     "wof:name":"Baqat al Hatab",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

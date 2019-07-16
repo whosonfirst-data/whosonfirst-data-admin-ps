@@ -16,6 +16,12 @@
     "mps:longitude":34.999876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0644\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Qila"
+    ],
     "name:eng_x_preferred":[
         "Qila"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":101919461,
-    "wof:lastmodified":1561827624,
+    "wof:lastmodified":1563247853,
     "wof:name":"Qila",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

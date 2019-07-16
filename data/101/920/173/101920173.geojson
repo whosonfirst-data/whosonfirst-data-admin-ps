@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Deir al-Balah"
     ],
+    "name:ceb_x_preferred":[
+        "Dayr al Bala\u1e29"
+    ],
     "name:ces_x_preferred":[
         "Dajr al-Balah"
     ],
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101920173,
-    "wof:lastmodified":1561827614,
+    "wof:lastmodified":1563247671,
     "wof:name":"Deir al Balah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:nno_x_preferred":[
         "Kafr Rai"
     ],
+    "name:pol_x_preferred":[
+        "Kafr Ra\u2019i"
+    ],
     "name:unk_x_variant":[
         "Raay"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126043585,
-    "wof:lastmodified":1549929897,
+    "wof:lastmodified":1563248024,
     "wof:name":"Kafr R\u0101\u2018\u012b",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

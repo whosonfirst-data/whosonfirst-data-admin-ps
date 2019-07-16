@@ -38,20 +38,47 @@
         "\u062f\u0648\u0644\u0629 \u0641\u0644\u0633\u0637\u064a\u0646",
         "\u0627\u0644\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0644\u0629 \u0641\u0644\u0633\u0637\u064a\u0646"
+    ],
+    "name:ava_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u0441\u0442\u0406\u0438\u043d"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u06cc\u0644\u06cc\u0633\u0637\u06cc\u0646 \u062f\u0624\u0648\u0644\u062a\u06cc"
+    ],
     "name:aze_x_preferred":[
         "F\u0259l\u0259stin B\u00f6lq\u00fcs\u00fc"
+    ],
+    "name:aze_x_variant":[
+        "F\u0259l\u0259stin D\u00f6vl\u0259ti"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430 \u0414\u04d9\u04af\u043b\u04d9\u0442\u0435"
     ],
     "name:bam_x_preferred":[
         "Palesitini"
     ],
+    "name:bar_x_preferred":[
+        "Pal\u00e4stinensische Autonomiegebiete"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u044b\u043d\u0441\u043a\u0456\u044f \u0442\u044d\u0440\u044b\u0442\u043e\u0440\u044b\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0437\u044f\u0440\u0436\u0430\u0432\u0430 \u041f\u0430\u043b\u0435\u0441\u0442\u044b\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09bf\u09b2\u09bf\u09b8\u09cd\u09a4\u09bf\u09a8 \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09ab\u09bf\u09b2\u09bf\u09b8\u09cd\u09a4\u09bf\u09a8"
+    ],
     "name:bos_x_preferred":[
         "Palestinska Teritorija"
+    ],
+    "name:bos_x_variant":[
+        "Palestina"
     ],
     "name:bre_x_preferred":[
         "Tiriado\u00f9 Palestina"
@@ -59,17 +86,38 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0441\u043a\u0438 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0438"
     ],
+    "name:bul_x_variant":[
+        "\u0414\u044a\u0440\u0436\u0430\u0432\u0430 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
         "Palestine"
     ],
     "name:cat_x_variant":[
         "Palestina"
     ],
+    "name:cdo_x_preferred":[
+        "Palestine Gu\u00f3k"
+    ],
+    "name:ceb_x_preferred":[
+        "Palestina"
+    ],
     "name:ces_x_preferred":[
         "Palestinsk\u00e1 \u00fazem\u00ed"
     ],
+    "name:ces_x_variant":[
+        "Palestinsk\u00fd st\u00e1t"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u043b\u0435\u0441\u0442\u04c0\u0438\u043d\u0430 \u041f\u0430\u0447\u0445\u044c\u0430\u043b\u043a\u0445"
+    ],
+    "name:crh_x_preferred":[
+        "Filistin"
+    ],
     "name:cym_x_preferred":[
         "Tiriogaeth Palesteina"
+    ],
+    "name:cym_x_variant":[
+        "Gwladwriaeth Palesteina"
     ],
     "name:dan_x_colloquial":[
         "Palaestinensiske Besatte Territorier"
@@ -89,7 +137,14 @@
     ],
     "name:deu_x_variant":[
         "Pal\u00e4stina",
-        "Pal\u00e4stinensische Autonomiegebiete"
+        "Pal\u00e4stinensische Autonomiegebiete",
+        "Staat Pal\u00e4stina"
+    ],
+    "name:diq_x_preferred":[
+        "F\u0131l\u0131stin"
+    ],
+    "name:div_x_preferred":[
+        "\u078a\u07a6\u078d\u07a6\u0790\u07b0\u07a0\u07a9\u0782\u07aa\u078e\u07ac \u078b\u07a6\u0787\u07aa\u078d\u07a6\u078c\u07b0"
     ],
     "name:dzo_x_preferred":[
         "\u0f54\u0f7a\u0f0b\u0f63\u0f72\u0f66\u0f72\u0f0b\u0f4a\u0f72\u0f0b\u0f53\u0f72\u0f61 \u0f53\u0f0b\u0f4a\u0f7a\u0f0b\u0f62\u0f72\u0f0b\u0f44\u0f7c\u0f0b\u0f62\u0f72"
@@ -117,8 +172,14 @@
         "Palestinian Territory (the Occupied)",
         "the Occupied Palestinian Territory"
     ],
+    "name:epo_x_preferred":[
+        "Palestino"
+    ],
     "name:est_x_preferred":[
         "Palestiina ala"
+    ],
+    "name:est_x_variant":[
+        "Palestiina"
     ],
     "name:eus_x_preferred":[
         "Palestina"
@@ -131,6 +192,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0631\u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u0641\u0644\u0633\u0637\u06cc\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u0644\u062a \u0641\u0644\u0633\u0637\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Palestiina"
@@ -145,10 +209,17 @@
         "Palestine (homonymie)"
     ],
     "name:fra_x_variant":[
-        "Territoire palestinien"
+        "Territoire palestinien",
+        "Palestine"
+    ],
+    "name:frr_x_preferred":[
+        "Palestina"
     ],
     "name:ful_x_preferred":[
         "Palestiin Sisjordani e Gaasaa"
+    ],
+    "name:gag_x_preferred":[
+        "Palestina"
     ],
     "name:gle_x_preferred":[
         "Na Cr\u00edocha Pailist\u00edneacha"
@@ -156,8 +227,14 @@
     "name:glg_x_preferred":[
         "Palestina"
     ],
+    "name:grn_x_preferred":[
+        "Palet\u00edna"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0ab2\u0ac7\u0ab8\u0acd\u0a9f\u0abf\u0aa8\u0abf\u0aaf\u0aa8 \u0a9f\u0ac7\u0ab0\u0abf\u0a9f\u0ab0\u0ac0"
+    ],
+    "name:guj_x_variant":[
+        "\u0aab\u0abf\u0ab2\u0ab8\u0acd\u0a9f\u0ac0\u0aa8"
     ],
     "name:hau_x_preferred":[
         "Palas\u0257inu"
@@ -166,22 +243,44 @@
         "\u05e4\u05dc\u05e1\u05d8\u05d9\u05df"
     ],
     "name:heb_x_variant":[
-        "\u05d4\u05e9\u05d8\u05d7\u05d9\u05dd \u05d4\u05e4\u05dc\u05e1\u05d8\u05d9\u05e0\u05d9\u05d9\u05dd"
+        "\u05d4\u05e9\u05d8\u05d7\u05d9\u05dd \u05d4\u05e4\u05dc\u05e1\u05d8\u05d9\u05e0\u05d9\u05d9\u05dd",
+        "\u05de\u05d3\u05d9\u05e0\u05ea \u05e4\u05dc\u05e1\u05d8\u05d9\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092b\u093c\u093f\u0932\u093f\u0938\u094d\u0924\u0940\u0928"
     ],
+    "name:hin_x_variant":[
+        "\u092b\u093f\u0932\u093f\u0938\u094d\u0924\u0940\u0928 \u0930\u093e\u091c\u094d\u092f"
+    ],
     "name:hrv_x_preferred":[
         "Palestinsko Podru\u010dje"
+    ],
+    "name:hsb_x_preferred":[
+        "Palestina"
     ],
     "name:hun_x_preferred":[
         "Palesztin Ter\u00fclet"
     ],
+    "name:hun_x_variant":[
+        "Palesztina"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0572\u0565\u057d\u057f\u056b\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0572\u0565\u057d\u057f\u056b\u0576"
+    ],
     "name:ind_x_preferred":[
         "Otoritas Palestina"
     ],
+    "name:ind_x_variant":[
+        "Negara Palestina"
+    ],
     "name:isl_x_preferred":[
         "Palest\u00edna"
+    ],
+    "name:isl_x_variant":[
+        "Palest\u00ednur\u00edki"
     ],
     "name:ita_x_preferred":[
         "Palestine"
@@ -191,12 +290,19 @@
         "Palestina",
         "Stato di Palestina"
     ],
+    "name:jav_x_preferred":[
+        "Negara Pal\u00e8stina"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ec\u30b9\u30c1\u30ca\u5360\u9818\u5730"
     ],
     "name:jpn_x_variant":[
         "\u30d1 \u30ec \u30b9 \u30c1 \u30ca",
-        "\u30d1\u30ec\u30b9\u30c1\u30ca"
+        "\u30d1\u30ec\u30b9\u30c1\u30ca",
+        "\u30d1\u30ec\u30b9\u30c1\u30ca\u56fd"
+    ],
+    "name:kab_x_preferred":[
+        "Fales\u1e6din"
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0ccd\u0caf\u0cbe\u0cb2\u0cbf\u0cb8\u0ccd\u0c9f\u0cc7\u0ca8\u0cbf\u0caf\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
@@ -204,23 +310,54 @@
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10da\u10d4\u10e1\u10e2\u10d8\u10dc\u10d8\u10e1 \u10e2\u10d4\u10e0\u10d8\u10e2\u10dd\u10e0\u10d8\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10de\u10d0\u10da\u10d4\u10e1\u10e2\u10d8\u10dc\u10d8\u10e1 \u10e1\u10d0\u10ee\u10d4\u10da\u10db\u10ec\u10d8\u10e4\u10dd"
+    ],
+    "name:kbp_x_preferred":[
+        "Pal\u025bstiinii"
+    ],
     "name:khm_x_preferred":[
         "\u1794\u17c9\u17b6\u179b\u17c1\u179f\u17d2\u1791\u17b8\u1793"
     ],
     "name:kik_x_preferred":[
         "Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina"
     ],
+    "name:kik_x_variant":[
+        "Palestine"
+    ],
+    "name:kin_x_preferred":[
+        "Palestine"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430 \u041c\u0430\u043c\u043b\u0435\u043a\u0435\u0442\u0438"
+    ],
+    "name:kon_x_preferred":[
+        "Palestine"
+    ],
     "name:kor_x_preferred":[
         "\ud314\ub808\uc2a4\ud0c0\uc778 (\ub3d9\uc74c\uc774\uc758)"
     ],
     "name:kor_x_variant":[
-        "\ud314\ub808\uc2a4\ud0c0\uc778 \uc9c0\uad6c"
+        "\ud314\ub808\uc2a4\ud0c0\uc778 \uc9c0\uad6c",
+        "\ud314\ub808\uc2a4\ud0c0\uc778"
     ],
     "name:kur_x_preferred":[
         "\u0641\u06d5\u0644\u06d5\u0633\u062a\u06cc\u0646"
     ],
+    "name:kur_x_variant":[
+        "Dewleta Filist\u00een\u00ea"
+    ],
     "name:lav_x_preferred":[
         "Palest\u012bna"
+    ],
+    "name:lav_x_variant":[
+        "Palest\u012bnas Valsts"
+    ],
+    "name:lez_x_preferred":[
+        "\u0413\u044c\u0443\u043a\u0443\u043c\u0430\u0442 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Filastin"
     ],
     "name:lin_x_preferred":[
         "Pal\u025bsine"
@@ -228,17 +365,27 @@
     "name:lit_x_preferred":[
         "Palestinos teritorija"
     ],
+    "name:lit_x_variant":[
+        "Palestinos valstyb\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Palestina"
+    ],
     "name:lub_x_preferred":[
         "Palesine"
     ],
     "name:lug_x_preferred":[
         "Palesitayini"
     ],
+    "name:lzh_x_preferred":[
+        "\u5df4\u52d2\u65af\u5766"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d32\u0d38\u0d4d\u0d24\u0d40\u0d7b"
     ],
     "name:mal_x_variant":[
-        "\u0d2a\u0d3e\u0d32\u0d38\u0d4d\u0d24\u0d40\u0d28\u0d4d\u200d \u0d2a\u0d4d\u0d30\u0d26\u0d47\u0d36\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d"
+        "\u0d2a\u0d3e\u0d32\u0d38\u0d4d\u0d24\u0d40\u0d28\u0d4d\u200d \u0d2a\u0d4d\u0d30\u0d26\u0d47\u0d36\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d",
+        "\u0d2a\u0d32\u0d38\u0d4d\u0d24\u0d40\u0d7b \u0d30\u0d3e\u0d1c\u0d4d\u0d2f\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0945\u0932\u0947\u0938\u094d\u091f\u093f\u0928\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -246,17 +393,38 @@
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0441\u043a\u0438 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0438"
     ],
+    "name:mkd_x_variant":[
+        "\u0414\u0440\u0436\u0430\u0432\u0430 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430"
+    ],
     "name:mlg_x_preferred":[
         "Palestina"
     ],
     "name:mlt_x_preferred":[
         "Palestinian Territory"
     ],
+    "name:mlt_x_variant":[
+        "Palestina"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d"
+    ],
     "name:msa_x_preferred":[
         "Palestinian Territory"
     ],
+    "name:msa_x_variant":[
+        "Negara Palestin"
+    ],
     "name:mya_x_preferred":[
         "\u1015\u102b\u101c\u1000\u103a\u1005\u1010\u102d\u102f\u1004\u103a\u1038 \u1015\u102d\u102f\u1004\u103a\u1014\u1000\u103a"
+    ],
+    "name:mya_x_variant":[
+        "\u1015\u102b\u101c\u1000\u103a\u1005\u1010\u102d\u102f\u1004\u103a\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:nah_x_preferred":[
+        "Tlahtohc\u0101y\u014dtl Palestina"
+    ],
+    "name:nan_x_preferred":[
+        "Palestine Kok"
     ],
     "name:nde_x_preferred":[
         "Palestinian West Bank and Gaza"
@@ -278,6 +446,9 @@
     "name:nob_x_preferred":[
         "Palestinsk territorium"
     ],
+    "name:nob_x_variant":[
+        "Palestina"
+    ],
     "name:nor_x_colloquial":[
         "Okkupert Palestinsk Omrade"
     ],
@@ -290,11 +461,21 @@
     "name:ori_x_preferred":[
         "\u0b2a\u0b3e\u0b32\u0b47\u0b38\u0b4d\u0b24\u0b47\u0b28\u0b3f\u0b06"
     ],
+    "name:ori_x_variant":[
+        "\u0b2a\u0b3e\u0b32\u0b47\u0b37\u0b4d\u0b1f\u0b3e\u0b07\u0b28"
+    ],
+    "name:pli_x_preferred":[
+        "\u092b\u093f\u0932\u093f\u0938\u094d\u0924\u0940\u0928"
+    ],
+    "name:pnt_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03c3\u03c4\u03af\u03bd\u03b7"
+    ],
     "name:pol_x_preferred":[
         "Palestine"
     ],
     "name:pol_x_variant":[
-        "Terytoria Palesty\u0144skie"
+        "Terytoria Palesty\u0144skie",
+        "Pa\u0144stwo Palestyna"
     ],
     "name:por_x_preferred":[
         "Palestina"
@@ -311,14 +492,23 @@
     "name:ron_x_preferred":[
         "Teritoriul Palestinian"
     ],
+    "name:ron_x_variant":[
+        "Statul Palestina"
+    ],
     "name:run_x_preferred":[
         "Palesitina Wesitibanka na Gaza"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0441\u043a\u0438\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430"
+    ],
     "name:sag_x_preferred":[
         "S\u00ease t\u00ee Palest\u00eeni"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c6e\u1c5e\u1c6e\u1c65\u1c74\u1c5f\u1c6d\u1c64\u1c71"
     ],
     "name:sco_x_preferred":[
         "Palestine (disambiguation)"
@@ -326,14 +516,26 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dbd\u0dc3\u0dca\u0dad\u0dd3\u0db1\u0dba"
     ],
+    "name:sin_x_variant":[
+        "\u0db4\u0dbd\u0dc3\u0dca\u0dad\u0dd3\u0db1 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba\u0dba"
+    ],
     "name:slk_x_preferred":[
         "Palest\u00ednske \u00fazemie"
+    ],
+    "name:slk_x_variant":[
+        "Palest\u00edna"
     ],
     "name:slv_x_preferred":[
         "Palestinsko ozemlje"
     ],
+    "name:slv_x_variant":[
+        "Palestina"
+    ],
     "name:sme_x_preferred":[
         "Palestina"
+    ],
+    "name:sna_x_preferred":[
+        "Palestine"
     ],
     "name:som_x_preferred":[
         "Falastiin Daanka galbeed iyo Qasa"
@@ -342,13 +544,26 @@
         "Palestine"
     ],
     "name:spa_x_variant":[
-        "Territorios Palestinos"
+        "Territorios Palestinos",
+        "Palestina"
+    ],
+    "name:sqi_x_preferred":[
+        "Palestina"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0441\u043a\u0435 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0458\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430"
+    ],
+    "name:ssw_x_preferred":[
+        "IPhalestina"
+    ],
     "name:swa_x_preferred":[
         "Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina"
+    ],
+    "name:swa_x_variant":[
+        "Palestina"
     ],
     "name:swe_x_colloquial":[
         "Palestinska Ockuperade Omraden"
@@ -364,14 +579,27 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb2\u0bb8\u0bcd\u0ba4\u0bc0\u0ba9\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0bbe\u0bb9\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bb2\u0ba4\u0bcd\u0ba4\u0bc0\u0ba9\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u04d9\u043b\u04d9\u0441\u0442\u044b\u0439\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c3e\u0c32\u0c3f\u0c38\u0c4d\u0c24\u0c3f\u0c28\u0c3f\u0c2f\u0c3e\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tet_x_preferred":[
+        "Palestina"
+    ],
+    "name:tgl_x_preferred":[
+        "Palestina"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e32\u0e40\u0e25\u0e2a\u0e44\u0e15\u0e19\u0e4c (\u0e41\u0e01\u0e49\u0e04\u0e27\u0e32\u0e21\u0e01\u0e33\u0e01\u0e27\u0e21)"
     ],
     "name:tha_x_variant":[
-        "\u0e1b\u0e32\u0e40\u0e25\u0e2a\u0e44\u0e15\u0e19\u0e4c"
+        "\u0e1b\u0e32\u0e40\u0e25\u0e2a\u0e44\u0e15\u0e19\u0e4c",
+        "\u0e23\u0e31\u0e10\u0e1b\u0e32\u0e40\u0e25\u0e2a\u0e44\u0e15\u0e19\u0e4c"
     ],
     "name:tir_x_preferred":[
         "\u12e8\u134d\u120d\u1235\u1324\u121d \u130d\u12db\u1275"
@@ -382,11 +610,26 @@
     "name:tur_x_preferred":[
         "Filistin B\u00f6lgesi"
     ],
+    "name:tur_x_variant":[
+        "Filistin Devleti"
+    ],
+    "name:uig_x_preferred":[
+        "\u067e\u06d5\u0644\u06d5\u0633\u062a\u0649\u0646"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0441\u044c\u043a\u0430 \u0434\u0435\u0440\u0436\u0430\u0432\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0641\u0644\u0633\u0637\u06cc\u0646\u06cc \u062e\u0637\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u062f\u0648\u0644\u062a \u0641\u0644\u0633\u0637\u06cc\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Falastin"
     ],
     "name:vie_x_preferred":[
         "Palestine (\u0111\u1ecbnh h\u01b0\u1edbng)"
@@ -397,11 +640,29 @@
     "name:vol_x_preferred":[
         "Palestine"
     ],
+    "name:vol_x_variant":[
+        "Pal\u00e4stin\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Pal\u00f5stiina"
+    ],
     "name:wln_x_preferred":[
         "Palestene"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u52d2\u65af\u5766\u56fd"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10d0\u10da\u10d4\u10e1\u10e2\u10d8\u10dc\u10d0\u10e8 \u10e1\u10d0\u10ee\u10d4\u10dc\u10ec\u10f7\u10e4\u10dd"
+    ],
     "name:yor_x_preferred":[
         "Or\u00edl\u1eb9\u0301\u00e8de Iw\u1ecdorun Pakisitian ati Ga\u1e63a"
+    ],
+    "name:yor_x_variant":[
+        "Or\u00edl\u1eb9\u0300-\u00e8d\u00e8 Pal\u1eb9st\u00edn\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u52d2\u65af\u5766\u570b"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u52d2\u65af\u5766 (\u6d88\u6b67\u7fa9)"
@@ -545,7 +806,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553298657,
+    "wof:lastmodified":1563247443,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

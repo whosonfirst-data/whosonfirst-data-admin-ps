@@ -41,6 +41,9 @@
     "name:pol_x_preferred":[
         "Al-Bajuk"
     ],
+    "name:pol_x_variant":[
+        "Wadi as-Salka"
+    ],
     "name:spa_x_preferred":[
         "Al-Bayuk"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101920625,
-    "wof:lastmodified":1561827616,
+    "wof:lastmodified":1563247715,
     "wof:name":"Al Bayuk",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

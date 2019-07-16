@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Bani Na'im"
     ],
+    "name:ceb_x_preferred":[
+        "Ban\u012b Na\u2018\u012bm"
+    ],
     "name:deu_x_preferred":[
         "Bani Na'im"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125839273,
-    "wof:lastmodified":1561827646,
+    "wof:lastmodified":1563248120,
     "wof:name":"Ban\u012b Na\u2018\u012bm",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "name:ara_x_variant":[
         "\u0639\u0632\u0648\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Azzun"
+    ],
     "name:eng_x_preferred":[
         "Azzoun"
+    ],
+    "name:fra_x_preferred":[
+        "Azzun"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d6\u05d5\u05df"
@@ -35,6 +41,9 @@
         "Azzun"
     ],
     "name:nno_x_preferred":[
+        "Azzun"
+    ],
+    "name:pol_x_preferred":[
         "Azzun"
     ],
     "qs_pg:aaroncc":"PS",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125839283,
-    "wof:lastmodified":1561827647,
+    "wof:lastmodified":1563248123,
     "wof:name":"\u2018Azz\u016bn",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

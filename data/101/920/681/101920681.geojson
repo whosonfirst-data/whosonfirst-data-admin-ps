@@ -50,6 +50,9 @@
     "name:unk_x_variant":[
         "Al Bayk"
     ],
+    "name:urd_x_preferred":[
+        "Deir al Balah"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101920681,
-    "wof:lastmodified":1561827612,
+    "wof:lastmodified":1563247636,
     "wof:name":"Al Bayuk",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

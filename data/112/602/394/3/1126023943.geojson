@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Deir al-Hatab"
     ],
+    "name:ceb_x_preferred":[
+        "Dayr al \u1e28a\u0163ab"
+    ],
     "name:eng_x_preferred":[
         "Deir al-Hatab"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126023943,
-    "wof:lastmodified":1561827635,
+    "wof:lastmodified":1563248005,
     "wof:name":"Dayr al \u1e28a\u0163ab",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

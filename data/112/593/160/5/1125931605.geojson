@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0637\u0627\u0633"
     ],
+    "name:cat_x_preferred":[
+        "Artas"
+    ],
+    "name:ceb_x_preferred":[
+        "Ar\u0163\u0101s"
+    ],
     "name:eng_x_preferred":[
         "Artas"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:nno_x_preferred":[
         "Artas i Betlehem"
+    ],
+    "name:pol_x_preferred":[
+        "Artas"
     ],
     "name:spa_x_preferred":[
         "Artas"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1125931605,
-    "wof:lastmodified":1561827635,
+    "wof:lastmodified":1563247997,
     "wof:name":"Ar\u0163\u0101s",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

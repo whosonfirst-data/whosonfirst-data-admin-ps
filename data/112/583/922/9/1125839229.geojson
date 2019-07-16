@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062f\u0642\u0648"
     ],
+    "name:cat_x_preferred":[
+        "Beit Duqqu"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt Duqq\u016b"
+    ],
     "name:eng_x_preferred":[
         "Beit Duqqu"
     ],
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125839229,
-    "wof:lastmodified":1561827646,
+    "wof:lastmodified":1563248113,
     "wof:name":"Bayt Duqq\u016b",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

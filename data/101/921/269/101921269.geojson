@@ -26,6 +26,9 @@
     "name:aze_x_preferred":[
         "Ramin"
     ],
+    "name:cat_x_preferred":[
+        "Ramin"
+    ],
     "name:deu_x_preferred":[
         "Ramin"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:nno_x_preferred":[
         "Ramin i Tulkarm"
+    ],
+    "name:pol_x_preferred":[
+        "Ramin"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101921269,
-    "wof:lastmodified":1561827628,
+    "wof:lastmodified":1563247908,
     "wof:name":"Ramin",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

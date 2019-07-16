@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Meithalun"
     ],
+    "name:ceb_x_preferred":[
+        "Maythal\u016bn"
+    ],
     "name:eng_x_preferred":[
         "Meithalun"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:nno_x_preferred":[
         "Meithalun"
+    ],
+    "name:pol_x_preferred":[
+        "Majsalun"
     ],
     "name:unk_x_variant":[
         "Maysal\u016bn"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101921133,
-    "wof:lastmodified":1561827626,
+    "wof:lastmodified":1563247878,
     "wof:name":"Meithalun",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

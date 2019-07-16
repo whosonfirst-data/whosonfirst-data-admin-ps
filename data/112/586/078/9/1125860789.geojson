@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Khan Yunis"
     ],
+    "name:ceb_x_preferred":[
+        "Kh\u0101n Y\u016bnis"
+    ],
     "name:ces_x_preferred":[
         "Ch\u00e1n J\u00fanis"
     ],
@@ -179,6 +182,9 @@
     "name:vie_x_preferred":[
         "Khan Yunis"
     ],
+    "name:zho_x_preferred":[
+        "\u6c57\u5c24\u5c3c\u65af"
+    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -246,7 +252,7 @@
         }
     ],
     "wof:id":1125860789,
-    "wof:lastmodified":1561827638,
+    "wof:lastmodified":1563248037,
     "wof:name":"Khan Yunus",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

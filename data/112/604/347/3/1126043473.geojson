@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u062d \u0631\u0628\u0627\u062d"
     ],
+    "name:cat_x_preferred":[
+        "Marah Rabah"
+    ],
     "name:eng_x_preferred":[
         "Marah Rabah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d0\u05d7 \u05e8\u05d1\u05d0\u05d7"
     ],
     "name:nno_x_preferred":[
         "Marah Rabah"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1126043473,
-    "wof:lastmodified":1549929894,
+    "wof:lastmodified":1563248018,
     "wof:name":"Mar\u0101\u1e29 Rabb\u0101\u1e29",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

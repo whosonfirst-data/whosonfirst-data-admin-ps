@@ -16,6 +16,9 @@
     "mps:longitude":35.460091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Jericho"
+    ],
     "name:amh_x_preferred":[
         "\u12a2\u12eb\u122a\u12ae"
     ],
@@ -37,6 +40,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0435\u0440\u044b\u0445\u043e\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u0406\u0435\u0440\u044b\u0445\u043e\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09b0\u09bf\u0995"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:cat_x_preferred":[
         "Jeric\u00f3"
+    ],
+    "name:ceb_x_preferred":[
+        "Jericho"
     ],
     "name:ces_x_preferred":[
         "Jericho"
@@ -102,6 +111,9 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf34\ud800\udf39\ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf34\ud800\udf39\ud800\udf3a\ud800\udf49"
+    ],
+    "name:got_x_variant":[
+        "\ud800\udf39\ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf39\ud800\udf3a\ud800\udf49"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0ab0\u0abf\u0a95\u0acb"
@@ -156,6 +168,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0415\u0440\u0438\u0445\u043e\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Jeriko"
     ],
     "name:msa_x_preferred":[
         "Jericho"
@@ -220,6 +235,9 @@
     "name:tel_x_preferred":[
         "\u0c1c\u0c46\u0c30\u0c3f\u0c15\u0c4b"
     ],
+    "name:tgl_x_preferred":[
+        "Jerico"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e22\u0e23\u0e34\u0e04\u0e42\u0e0a\u0e27\u0e4c"
     ],
@@ -237,6 +255,9 @@
     ],
     "name:vie_x_preferred":[
         "Jericho"
+    ],
+    "name:war_x_preferred":[
+        "Jeric\u00f3"
     ],
     "name:yid_x_preferred":[
         "\u05d9\u05e8\u05d9\u05d7\u05d5"
@@ -303,7 +324,7 @@
         }
     ],
     "wof:id":101922085,
-    "wof:lastmodified":1561827603,
+    "wof:lastmodified":1563247551,
     "wof:name":"Jericho (Ariha)",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

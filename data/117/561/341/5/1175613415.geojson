@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Silat ad-Dhahr"
     ],
+    "name:ceb_x_preferred":[
+        "S\u012blat az\u0327 Z\u0327ahr"
+    ],
     "name:eng_x_preferred":[
         "Silat ad-Dhahr"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:nno_x_preferred":[
         "Silat ad-Dhahr"
+    ],
+    "name:pol_x_preferred":[
+        "Silat az-Zahr"
     ],
     "name:unk_x_variant":[
         "Saylat a\u1e11 \u1e10ahr"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1175613415,
-    "wof:lastmodified":1561827598,
+    "wof:lastmodified":1563247479,
     "wof:name":"Silat adh Dhahr",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

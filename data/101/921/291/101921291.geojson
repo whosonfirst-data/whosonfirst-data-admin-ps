@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Tammun"
     ],
+    "name:ceb_x_preferred":[
+        "\u0162amm\u016bn"
+    ],
     "name:eng_x_preferred":[
         "Tammun"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101921291,
-    "wof:lastmodified":1561827632,
+    "wof:lastmodified":1563247954,
     "wof:name":"Tammun",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

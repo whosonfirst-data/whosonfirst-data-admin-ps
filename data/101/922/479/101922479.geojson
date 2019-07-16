@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0629 \u0627\u0644\u0630\u064a\u0628"
     ],
+    "name:cat_x_preferred":[
+        "Jubbet ad-Dib"
+    ],
     "name:eng_x_preferred":[
         "Jubbet ad-Dib"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101922479,
-    "wof:lastmodified":1561827603,
+    "wof:lastmodified":1563247549,
     "wof:name":"Jubbet adh Dhib",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

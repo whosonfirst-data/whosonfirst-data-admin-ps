@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u062b\u0627 \u0628\u0646\u064a \u062d\u0627\u0631\u062b"
     ],
+    "name:cat_x_preferred":[
+        "Kharbatha Bani Harith"
+    ],
     "name:eng_x_preferred":[
         "Kharbatha Bani Harith"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05e8\u05d1\u05ea'\u05d0 \u05d1\u05e0\u05d9 \u05d7\u05e8\u05d9\u05ea"
+    ],
     "name:nno_x_preferred":[
         "Kharbatha Bani Harith"
+    ],
+    "name:pol_x_preferred":[
+        "Charbata Bani Harit"
     ],
     "name:unk_x_variant":[
         "Khirbat\u0101"
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":1126043561,
-    "wof:lastmodified":1549929899,
+    "wof:lastmodified":1563248023,
     "wof:name":"Kharbath\u0101 Ban\u012b \u1e28\u0101rith",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

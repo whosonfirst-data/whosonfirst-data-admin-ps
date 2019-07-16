@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Jabalia"
     ],
+    "name:ceb_x_preferred":[
+        "Jab\u0101ly\u0101"
+    ],
     "name:ces_x_preferred":[
         "D\u017eabal\u00edja"
     ],
@@ -86,6 +89,9 @@
     "name:tur_x_preferred":[
         "Jabalia"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u0431\u0430\u043b\u0456\u044f"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0628\u0627\u0644\u06cc\u06c1"
     ],
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":101919725,
-    "wof:lastmodified":1561827622,
+    "wof:lastmodified":1563247811,
     "wof:name":"Jabalya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

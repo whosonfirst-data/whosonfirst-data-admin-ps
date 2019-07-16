@@ -23,6 +23,12 @@
     "name:cat_x_preferred":[
         "Abu Dis"
     ],
+    "name:ceb_x_preferred":[
+        "Ab\u016b D\u012bs"
+    ],
+    "name:dan_x_preferred":[
+        "Abu Dis"
+    ],
     "name:deu_x_preferred":[
         "Abu Dis"
     ],
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":101922245,
-    "wof:lastmodified":1561827603,
+    "wof:lastmodified":1563247545,
     "wof:name":"Abu Dis",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

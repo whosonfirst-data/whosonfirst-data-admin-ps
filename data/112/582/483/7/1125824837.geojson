@@ -37,6 +37,12 @@
     "name:nld_x_preferred":[
         "Salim"
     ],
+    "name:pol_x_preferred":[
+        "Salim"
+    ],
+    "name:swe_x_preferred":[
+        "Salim"
+    ],
     "name:unk_x_variant":[
         "S\u0101lem"
     ],
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125824837,
-    "wof:lastmodified":1561827640,
+    "wof:lastmodified":1563248064,
     "wof:name":"S\u0101lim",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

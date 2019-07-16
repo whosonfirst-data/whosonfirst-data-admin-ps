@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0631\u0627\u0628\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Arraba"
+    ],
     "name:unk_x_variant":[
         "\u2018Ar\u0101v\u0101"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101921029,
-    "wof:lastmodified":1549929779,
+    "wof:lastmodified":1563247940,
     "wof:name":"Arraba",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

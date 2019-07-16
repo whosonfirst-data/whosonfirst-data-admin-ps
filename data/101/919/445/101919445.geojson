@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0633 \u0639\u0637\u064a\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Ras Atiya"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u0101s \u2018A\u0163\u012byah"
+    ],
     "name:eng_x_preferred":[
         "Ras Atiya"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":101919445,
-    "wof:lastmodified":1561827624,
+    "wof:lastmodified":1563247845,
     "wof:name":"Ras 'Atiya",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

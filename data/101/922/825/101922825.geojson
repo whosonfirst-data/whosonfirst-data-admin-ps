@@ -19,6 +19,15 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0631\u0627\u0632\u062d"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0631 \u0631\u0627\u0632\u062d"
+    ],
+    "name:cat_x_preferred":[
+        "Deir Razih"
+    ],
+    "name:ceb_x_preferred":[
+        "Dayr ar R\u0101zi\u1e29"
+    ],
     "name:eng_x_preferred":[
         "Deir Razih"
     ],
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":101922825,
-    "wof:lastmodified":1561827608,
+    "wof:lastmodified":1563247590,
     "wof:name":"Deir Razih",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

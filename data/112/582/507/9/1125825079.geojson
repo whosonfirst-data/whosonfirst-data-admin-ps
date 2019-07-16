@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0641\u062d\u0645\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0641\u062d\u0645\u0647"
+    ],
     "name:cat_x_preferred":[
         "Fahma"
+    ],
+    "name:ceb_x_preferred":[
+        "Fa\u1e29mah"
     ],
     "name:eng_x_preferred":[
         "Fahma"
@@ -32,6 +38,9 @@
         "Famah"
     ],
     "name:nno_x_preferred":[
+        "Fahma"
+    ],
+    "name:pol_x_preferred":[
         "Fahma"
     ],
     "name:unk_x_variant":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125825079,
-    "wof:lastmodified":1561827641,
+    "wof:lastmodified":1563248074,
     "wof:name":"Fa\u1e29mah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

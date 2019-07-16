@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u064a\u062e \u0633\u0639\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Ash-Sheikh Sa'd"
+    ],
     "name:eng_x_preferred":[
         "Ash-Sheikh Sa'd"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1175613209,
-    "wof:lastmodified":1561827599,
+    "wof:lastmodified":1563247491,
     "wof:name":"Ash Sheikh Sa'd",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

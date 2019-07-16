@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Zawata"
     ],
+    "name:ceb_x_preferred":[
+        "Zaw\u0101t\u0101"
+    ],
     "name:eng_x_preferred":[
         "Zawata"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1175613367,
-    "wof:lastmodified":1561827597,
+    "wof:lastmodified":1563247472,
     "wof:name":"Zawata",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

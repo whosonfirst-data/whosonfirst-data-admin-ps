@@ -16,6 +16,27 @@
     "mps:longitude":35.248435,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u0631 \u0628\u0627\u0647\u0631"
+    ],
+    "name:ces_x_preferred":[
+        "Sur Bahir"
+    ],
+    "name:eng_x_preferred":[
+        "Sur Baher"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05d5\u05e8 \u05d1\u05d0\u05d4\u05e8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0443\u0440 \u0411\u0430\u0445\u0435\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "Sur Baher"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0631 \u0628\u0627\u06c1\u0631"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":101922337,
-    "wof:lastmodified":1549929806,
+    "wof:lastmodified":1563247538,
     "wof:name":"Sur Bahir",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

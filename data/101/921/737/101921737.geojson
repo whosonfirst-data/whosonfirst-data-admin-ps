@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Duma"
     ],
+    "name:ceb_x_preferred":[
+        "Domea"
+    ],
     "name:eng_x_preferred":[
         "Duma"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101921737,
-    "wof:lastmodified":1561827626,
+    "wof:lastmodified":1563247875,
     "wof:name":"Duma",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

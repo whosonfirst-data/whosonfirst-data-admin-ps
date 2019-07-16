@@ -21,17 +21,25 @@
         "\u0633\u0631\u062f\u0627"
     ],
     "name:ara_x_variant":[
-        "\u0635\u0631\u062f\u0627",
-        "\u0633\u0631\u062f\u0627"
+        "\u0635\u0631\u062f\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Surda"
     ],
     "name:eng_x_preferred":[
         "Surda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e8\u05d3\u05d0"
     ],
     "name:nld_x_preferred":[
         "Surda"
     ],
     "name:nno_x_preferred":[
         "Surda i Ramallah"
+    ],
+    "name:pol_x_preferred":[
+        "Surda"
     ],
     "name:unk_x_variant":[
         "Surdah"
@@ -92,7 +100,7 @@
         }
     ],
     "wof:id":1175613265,
-    "wof:lastmodified":1561827600,
+    "wof:lastmodified":1563247503,
     "wof:name":"Surda",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

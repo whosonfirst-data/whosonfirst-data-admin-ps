@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0641\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Shufa"
+    ],
     "name:eng_x_preferred":[
         "Shufa"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:nno_x_preferred":[
         "Shufa i Tulkarm"
+    ],
+    "name:pol_x_preferred":[
+        "Szufa"
     ],
     "name:unk_x_variant":[
         "Shawfah"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101921299,
-    "wof:lastmodified":1561827633,
+    "wof:lastmodified":1563247962,
     "wof:name":"Shufa",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

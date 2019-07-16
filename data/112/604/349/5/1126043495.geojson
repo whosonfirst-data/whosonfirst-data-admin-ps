@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0623\u0645\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Beit Amin"
+    ],
     "name:eng_x_preferred":[
         "Beit Amin"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126043495,
-    "wof:lastmodified":1561827636,
+    "wof:lastmodified":1563248017,
     "wof:name":"Bayt Am\u012bn",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

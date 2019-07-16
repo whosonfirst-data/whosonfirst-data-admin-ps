@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u064a\u0631\u064a\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Sanniriya"
+    ],
+    "name:ceb_x_preferred":[
+        "Sann\u012bry\u0101"
+    ],
     "name:eng_x_preferred":[
         "Sanniriya"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101921601,
-    "wof:lastmodified":1561827632,
+    "wof:lastmodified":1563247954,
     "wof:name":"Sanniriya",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

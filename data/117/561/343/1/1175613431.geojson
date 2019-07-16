@@ -23,11 +23,20 @@
     "name:ara_x_variant":[
         "\u0646\u0648\u0628\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Nuba"
+    ],
     "name:eng_x_preferred":[
         "Nuba"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d0"
+    ],
     "name:nno_x_preferred":[
         "Nuba i Hebron"
+    ],
+    "name:pol_x_preferred":[
+        "Nuba"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1175613431,
-    "wof:lastmodified":1549929652,
+    "wof:lastmodified":1563247504,
     "wof:name":"Nuba",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

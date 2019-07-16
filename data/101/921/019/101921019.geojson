@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Qabatiya"
     ],
+    "name:ceb_x_preferred":[
+        "Qab\u0101\u0163\u012byah"
+    ],
     "name:deu_x_preferred":[
         "Qabatiya"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101921019,
-    "wof:lastmodified":1561827632,
+    "wof:lastmodified":1563247947,
     "wof:name":"Qabatiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

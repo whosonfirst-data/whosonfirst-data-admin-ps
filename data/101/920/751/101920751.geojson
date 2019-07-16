@@ -20,6 +20,21 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u064a\u0628\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0637\u064a\u0628\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "At-Tayba"
+    ],
+    "name:eng_x_preferred":[
+        "At-Tayba"
+    ],
+    "name:nld_x_preferred":[
+        "At-Tayba"
+    ],
+    "name:nno_x_preferred":[
+        "At-Tayba"
+    ],
     "name:unk_x_variant":[
         "Khirbat a\u0163 \u0162ayyibah"
     ],
@@ -79,7 +94,7 @@
         }
     ],
     "wof:id":101920751,
-    "wof:lastmodified":1549929847,
+    "wof:lastmodified":1563247701,
     "wof:name":"At Tayba",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
