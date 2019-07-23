@@ -22,6 +22,18 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0632\u064a\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0631\u0632\u064a\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Bir Zeit"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u012br Zayt"
+    ],
+    "name:cym_x_preferred":[
+        "Bir Zait"
+    ],
     "name:deu_x_preferred":[
         "Bir Zait"
     ],
@@ -51,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Birzeit"
+    ],
+    "name:spa_x_variant":[
+        "An Na\u015fr"
     ],
     "name:unk_x_variant":[
         "Bi\u2019r az Zayt"
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1125855173,
-    "wof:lastmodified":1561827643,
+    "wof:lastmodified":1563248086,
     "wof:name":"B\u012br Zayt",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

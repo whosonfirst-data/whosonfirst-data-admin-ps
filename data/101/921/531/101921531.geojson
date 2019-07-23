@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Yanun"
     ],
+    "name:ceb_x_preferred":[
+        "Y\u0101n\u016bn"
+    ],
     "name:eng_x_preferred":[
         "Yanun"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101921531,
-    "wof:lastmodified":1561827630,
+    "wof:lastmodified":1563247931,
     "wof:name":"Yanun",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

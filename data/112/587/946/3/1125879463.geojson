@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Juhor ad-Dik"
     ],
+    "name:ceb_x_preferred":[
+        "Ju\u1e29r ad D\u012bk"
+    ],
     "name:eng_x_preferred":[
         "Juhor ad-Dik"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125879463,
-    "wof:lastmodified":1561827639,
+    "wof:lastmodified":1563248050,
     "wof:name":"Ju\u1e29r ad D\u012bk",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",

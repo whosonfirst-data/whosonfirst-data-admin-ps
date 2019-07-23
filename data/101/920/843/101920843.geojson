@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Araqah"
     ],
+    "name:ceb_x_preferred":[
+        "Al \u2018Araqa"
+    ],
     "name:eng_x_preferred":[
         "Araqah"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101920843,
-    "wof:lastmodified":1561827613,
+    "wof:lastmodified":1563247651,
     "wof:name":"Al 'Araqa",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

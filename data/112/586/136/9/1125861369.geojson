@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0631\u064a\u062c"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062e\u064a\u0645 \u0627\u0644\u0628\u0631\u064a\u062c"
+    ],
     "name:cat_x_preferred":[
         "Camp de Bureij"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Burayj"
     ],
     "name:eng_x_preferred":[
         "Bureij"
@@ -48,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "Campamento de Bureij"
+    ],
+    "name:tur_x_preferred":[
+        "Bureyc M\u00fclteci Kamp\u0131"
     ],
     "name:unk_x_variant":[
         "Al-Bureij"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1125861369,
-    "wof:lastmodified":1561827638,
+    "wof:lastmodified":1563248039,
     "wof:name":"Al Burayj",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

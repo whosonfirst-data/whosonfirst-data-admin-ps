@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0641\u0627\u0631\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Saffarin"
+    ],
+    "name:ceb_x_preferred":[
+        "Saff\u0101r\u012bn"
+    ],
     "name:eng_x_preferred":[
         "Saffarin"
     ],
@@ -32,6 +38,9 @@
         "Saffarin"
     ],
     "name:nno_x_preferred":[
+        "Saffarin"
+    ],
+    "name:pol_x_preferred":[
         "Saffarin"
     ],
     "qs_pg:aaroncc":"PS",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1125838861,
-    "wof:lastmodified":1561827645,
+    "wof:lastmodified":1563248108,
     "wof:name":"Saff\u0101r\u012bn",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

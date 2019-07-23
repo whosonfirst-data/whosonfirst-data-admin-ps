@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Beit Lahia"
     ],
+    "name:ceb_x_preferred":[
+        "Bayt L\u0101hy\u0101"
+    ],
     "name:ces_x_preferred":[
         "Bajt Lah\u00edja"
     ],
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101919497,
-    "wof:lastmodified":1561827621,
+    "wof:lastmodified":1563247802,
     "wof:name":"Beit Lahiya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

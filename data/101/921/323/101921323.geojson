@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0641\u0627\u0631\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Saffarin"
+    ],
+    "name:ceb_x_preferred":[
+        "Saff\u0101r\u012bn"
+    ],
     "name:eng_x_preferred":[
         "Saffarin"
     ],
@@ -30,6 +36,9 @@
         "Saffarin"
     ],
     "name:nno_x_preferred":[
+        "Saffarin"
+    ],
+    "name:pol_x_preferred":[
         "Saffarin"
     ],
     "name:unk_x_variant":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":101921323,
-    "wof:lastmodified":1561827629,
+    "wof:lastmodified":1563247917,
     "wof:name":"Saffarin",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

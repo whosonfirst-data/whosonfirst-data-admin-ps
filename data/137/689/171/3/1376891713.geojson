@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "Al-Issawiya"
     ],
+    "name:spa_x_preferred":[
+        "Isawiya"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1376891713,
-    "wof:lastmodified":1561827634,
+    "wof:lastmodified":1563247989,
     "wof:name":"Al 'Isawiya",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

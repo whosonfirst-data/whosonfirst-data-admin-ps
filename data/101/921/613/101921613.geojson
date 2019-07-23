@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Osarin"
     ],
+    "name:ceb_x_preferred":[
+        "Usarin"
+    ],
     "name:eng_x_preferred":[
         "Osarin"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101921613,
-    "wof:lastmodified":1561827631,
+    "wof:lastmodified":1563247937,
     "wof:name":"Osarin",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

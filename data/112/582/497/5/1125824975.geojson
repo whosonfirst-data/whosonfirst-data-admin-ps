@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Asira al-Qibliya"
     ],
+    "name:ceb_x_preferred":[
+        "\u2018A\u015f\u012brah al Qibl\u012byah"
+    ],
     "name:eng_x_preferred":[
         "Asira al-Qibliya"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:nob_x_preferred":[
         "Asira al-Qibliya"
+    ],
+    "name:pol_x_preferred":[
+        "Asira al-Kiblijja"
     ],
     "name:unk_x_variant":[
         "Kiblie"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125824975,
-    "wof:lastmodified":1561827640,
+    "wof:lastmodified":1563248066,
     "wof:name":"\u2018A\u015f\u012brah al Qibl\u012byah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

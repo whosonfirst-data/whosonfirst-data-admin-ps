@@ -42,6 +42,9 @@
     "name:eng_x_preferred":[
         "Moslem Quarter"
     ],
+    "name:eng_x_variant":[
+        "Muslim Quarter"
+    ],
     "name:fin_x_preferred":[
         "Jerusalemin muslimikortteli"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u0941\u0938\u094d\u0932\u093f\u092e \u0916\u0923\u094d\u0921"
+    ],
+    "name:hrv_x_preferred":[
+        "Muslimanska \u010detvrt"
     ],
     "name:ind_x_preferred":[
         "Bagian Muslim"
@@ -89,6 +95,9 @@
     ],
     "name:spa_x_preferred":[
         "Barrio musulm\u00e1n de Jerusal\u00e9n"
+    ],
+    "name:spa_x_variant":[
+        "Barrio Musulm\u00e1n"
     ],
     "name:tam_x_preferred":[
         "\u0b87\u0b9a\u0bc1\u0bb2\u0bbe\u0bae\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
@@ -161,7 +170,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561827594,
+    "wof:lastmodified":1563247438,
     "wof:name":"Moslem Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

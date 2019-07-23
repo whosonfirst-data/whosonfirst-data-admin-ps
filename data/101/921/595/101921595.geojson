@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Zeita Jamma'in"
     ],
+    "name:pol_x_preferred":[
+        "Zajta D\u017camma\u2019in"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101921595,
-    "wof:lastmodified":1561827626,
+    "wof:lastmodified":1563247876,
     "wof:name":"Zeita Jamma'in",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

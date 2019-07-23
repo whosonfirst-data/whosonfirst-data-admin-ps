@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Beit Sahour"
     ],
+    "name:ceb_x_preferred":[
+        "Bayt S\u0101\u1e29\u016br"
+    ],
     "name:deu_x_preferred":[
         "Bait Sahur"
     ],
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101922415,
-    "wof:lastmodified":1561827603,
+    "wof:lastmodified":1563247551,
     "wof:name":"Beit Sahur",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:nno_x_preferred":[
         "Al-Attara"
     ],
+    "name:pol_x_preferred":[
+        "Al-Attara"
+    ],
     "name:unk_x_variant":[
         "\u2018A\u1e6d\u1e6d\u0101ra"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101921173,
-    "wof:lastmodified":1561827629,
+    "wof:lastmodified":1563247914,
     "wof:name":"Al 'Attara",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

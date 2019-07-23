@@ -17,6 +17,24 @@
     "mps:longitude":35.248884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0627\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Huwara"
+    ],
+    "name:eng_x_preferred":[
+        "Huwara"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d5\u05d0\u05e8\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Huwara"
+    ],
+    "name:pol_x_preferred":[
+        "Huwara"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":101921537,
-    "wof:lastmodified":1549929817,
+    "wof:lastmodified":1563247925,
     "wof:name":"Huwwara",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

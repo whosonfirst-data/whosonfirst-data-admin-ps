@@ -26,8 +26,14 @@
     "name:cat_x_preferred":[
         "Haris"
     ],
+    "name:ceb_x_preferred":[
+        "\u1e28\u0101ris"
+    ],
     "name:eng_x_preferred":[
         "Haris"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d0\u05e8\u05e1"
     ],
     "name:nld_x_preferred":[
         "Haris"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101921629,
-    "wof:lastmodified":1561827627,
+    "wof:lastmodified":1563247896,
     "wof:name":"Haris",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

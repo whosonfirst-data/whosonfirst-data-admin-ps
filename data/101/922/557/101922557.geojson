@@ -17,8 +17,17 @@
     "mps:longitude":35.181168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u062d \u0631\u0628\u0627\u062d"
+    ],
+    "name:cat_x_preferred":[
+        "Marah Rabah"
+    ],
     "name:eng_x_preferred":[
         "Marah Rabah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d0\u05d7 \u05e8\u05d1\u05d0\u05d7"
     ],
     "name:nno_x_preferred":[
         "Marah Rabah"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":101922557,
-    "wof:lastmodified":1549929825,
+    "wof:lastmodified":1563247539,
     "wof:name":"Marah Rabah",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

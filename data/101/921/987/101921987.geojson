@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0648\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062f\u064a\u0648\u0643 \u0627\u0644\u0641\u0648\u0642\u0627"
+    ],
     "name:cat_x_preferred":[
         "Ein ad-Duyuk al-Foqa"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101921987,
-    "wof:lastmodified":1561827633,
+    "wof:lastmodified":1563247965,
     "wof:name":"'Ein ad Duyuk al Foqa",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

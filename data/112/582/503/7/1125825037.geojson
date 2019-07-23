@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u0642\u0637\u0646\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0637\u0646\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Qatanna"
+    ],
+    "name:ceb_x_preferred":[
+        "Qa\u0163anah"
+    ],
     "name:eng_x_preferred":[
         "Qatanna"
     ],
@@ -31,8 +40,14 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d8\u05d0\u05e0\u05d0"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d8\u05e0\u05d4"
+    ],
     "name:nno_x_preferred":[
         "Qatanna"
+    ],
+    "name:pol_x_preferred":[
+        "Katanna"
     ],
     "name:unk_x_variant":[
         "Katanneh"
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":1125825037,
-    "wof:lastmodified":1561827640,
+    "wof:lastmodified":1563248061,
     "wof:name":"Qatanne",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

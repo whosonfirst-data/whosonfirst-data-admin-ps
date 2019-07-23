@@ -22,11 +22,20 @@
     "name:eng_x_preferred":[
         "Shu'fat camp"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u062f\u0648\u06af\u0627\u0647 \u0634\u0639\u0641\u0627\u0637"
+    ],
     "name:fra_x_preferred":[
         "Shu'fat"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05e0\u05d4 \u05d4\u05e4\u05dc\u05d9\u05d8\u05d9\u05dd \u05e9\u05d5\u05e2\u05e4\u05d0\u05d8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0578\u0582\u0561\u0586\u0561\u057f \u0583\u0561\u056d\u057d\u057f\u0561\u056f\u0561\u0576\u0576\u0565\u0580\u056b \u0573\u0561\u0574\u0562\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0433\u0435\u0440\u044c \u0431\u0435\u0436\u0435\u043d\u0446\u0435\u0432 \u0428\u0443\u0430\u0444\u0430\u0442"
     ],
     "name:spa_x_preferred":[
         "Campamento de Shufat"
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1376891693,
-    "wof:lastmodified":1561827634,
+    "wof:lastmodified":1563247982,
     "wof:name":"Shu'fat Camp",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

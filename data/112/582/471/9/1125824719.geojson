@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0637\u0648\u0631\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u0629 \u0637\u0648\u0631\u0647 \u0627\u0644\u063a\u0631\u0628\u064a\u0647"
+    ],
     "name:cat_x_preferred":[
         "Tura al-Gharbiya"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0162\u016brah al Gharb\u012byah"
     ],
     "name:eng_x_preferred":[
         "Tura al-Gharbiya"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125824719,
-    "wof:lastmodified":1561827640,
+    "wof:lastmodified":1563248062,
     "wof:name":"\u0162\u016brah al Gharb\u012byah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

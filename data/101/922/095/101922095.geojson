@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0646\u0648\u0628\u0627"
     ],
+    "name:eng_x_preferred":[
+        "Bayt Nuba"
+    ],
+    "name:fra_x_preferred":[
+        "Beit Nouba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e0\u05d5\u05d1\u05d0"
+    ],
     "name:unk_x_variant":[
         "Beit N\u016bb\u0101"
     ],
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":101922095,
-    "wof:lastmodified":1549929787,
+    "wof:lastmodified":1563247593,
     "wof:name":"Beit Nuba",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Bayt Qad"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e7\u05d0\u05d3"
+    ],
     "name:nld_x_preferred":[
         "Bayt Qad"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125839181,
-    "wof:lastmodified":1561827646,
+    "wof:lastmodified":1563248120,
     "wof:name":"Bayt Q\u0101d",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

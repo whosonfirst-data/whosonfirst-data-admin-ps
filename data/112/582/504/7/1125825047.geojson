@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Qaryut"
     ],
+    "name:ceb_x_preferred":[
+        "Qary\u016bt"
+    ],
     "name:eng_x_preferred":[
         "Qaryut"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125825047,
-    "wof:lastmodified":1561827639,
+    "wof:lastmodified":1563248061,
     "wof:name":"Qary\u016bt",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

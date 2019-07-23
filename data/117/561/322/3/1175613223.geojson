@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0628\u064a \u0635\u0646\u0648\u0626\u064a\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0628\u064a \u0635\u0645\u0648\u0626\u064a\u0644\u200e\u200e"
+    ],
     "name:cat_x_preferred":[
         "Nabi Samwil"
+    ],
+    "name:ceb_x_preferred":[
+        "An Nab\u012b \u015eam\u016b'\u012bl"
     ],
     "name:eng_x_preferred":[
         "Nabi Samwil"
@@ -35,6 +41,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d1\u05d9 \u05e1\u05de\u05d5\u05d0\u05dc"
     ],
+    "name:heb_x_variant":[
+        "\u05db\u05e4\u05e8 \u05e0\u05d1\u05d9 \u05e1\u05de\u05d5\u05d0\u05dc"
+    ],
     "name:nld_x_preferred":[
         "Nabi Samwil"
     ],
@@ -43,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Nabi Samw\u012bl"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0628\u06cc \u0633\u0645\u0648\u0626\u06cc\u0644"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1175613223,
-    "wof:lastmodified":1561827598,
+    "wof:lastmodified":1563247484,
     "wof:name":"An Nabi Samwil",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

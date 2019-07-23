@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062d\u062c\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Hajjah"
+    ],
     "name:eng_x_preferred":[
         "Hajjah"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101921437,
-    "wof:lastmodified":1561827628,
+    "wof:lastmodified":1563247900,
     "wof:name":"Hajja",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

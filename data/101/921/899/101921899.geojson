@@ -23,6 +23,15 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0637\u064a\u0628\u0629"
     ],
+    "name:cat_x_preferred":[
+        "At-Tayba"
+    ],
+    "name:eng_x_preferred":[
+        "At-Tayba"
+    ],
+    "name:nld_x_preferred":[
+        "At-Tayba"
+    ],
     "name:nno_x_preferred":[
         "At-Tayba"
     ],
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":101921899,
-    "wof:lastmodified":1549929880,
+    "wof:lastmodified":1563247959,
     "wof:name":"At Tayba",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

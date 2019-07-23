@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Fahma"
     ],
+    "name:ceb_x_preferred":[
+        "Fa\u1e29mah"
+    ],
     "name:eng_x_preferred":[
         "Fahma"
     ],
@@ -33,6 +36,9 @@
         "Famah"
     ],
     "name:nno_x_preferred":[
+        "Fahma"
+    ],
+    "name:pol_x_preferred":[
         "Fahma"
     ],
     "name:unk_x_variant":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101921071,
-    "wof:lastmodified":1561827627,
+    "wof:lastmodified":1563247894,
     "wof:name":"Fahma",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

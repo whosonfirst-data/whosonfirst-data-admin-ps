@@ -20,8 +20,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0645\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0643\u0631\u0645\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Karmil"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Karmil"
+    ],
     "name:eng_x_preferred":[
         "Al-Karmil"
+    ],
+    "name:eng_x_variant":[
+        "al-Karmil"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05db\u05e8\u05de\u05dc"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":101922963,
-    "wof:lastmodified":1561827602,
+    "wof:lastmodified":1563247539,
     "wof:name":"Al Karmil",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

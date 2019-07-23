@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0625\u0643\u0633\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Beit Iksa"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt Iks\u0101"
+    ],
     "name:eng_x_preferred":[
         "Beit Iksa"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:unk_x_variant":[
         "Bayt Iks\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0627\u06a9\u0633\u0627"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1175613185,
-    "wof:lastmodified":1561827599,
+    "wof:lastmodified":1563247493,
     "wof:name":"Beit Iksa",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

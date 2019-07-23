@@ -53,6 +53,9 @@
     "name:lit_x_preferred":[
         "Jata"
     ],
+    "name:msa_x_preferred":[
+        "Yaththa"
+    ],
     "name:nld_x_preferred":[
         "Yattah"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u062a\u0627\u060c \u062d\u0628\u0631\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u062a\u0627"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":101922847,
-    "wof:lastmodified":1561827608,
+    "wof:lastmodified":1563247588,
     "wof:name":"Yatta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

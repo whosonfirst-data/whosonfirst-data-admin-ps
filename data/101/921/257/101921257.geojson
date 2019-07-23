@@ -16,7 +16,13 @@
     "mps:longitude":35.331908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0633 \u0627\u0644\u0641\u0627\u0631\u0639\u0629"
+    ],
     "name:cat_x_preferred":[
+        "Ras al-Far'a"
+    ],
+    "name:ceb_x_preferred":[
         "Ras al-Far'a"
     ],
     "name:eng_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":101921257,
-    "wof:lastmodified":1561827628,
+    "wof:lastmodified":1563247898,
     "wof:name":"Ras al Far'a",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

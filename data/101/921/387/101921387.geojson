@@ -24,14 +24,38 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0628\u0644\u0633"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0431\u043b\u0443\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09ac\u09b2\u09c1\u09b8"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0431\u043b\u0443\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Nablus"
+    ],
+    "name:ceb_x_preferred":[
+        "Nablus"
     ],
     "name:ces_x_preferred":[
         "N\u00e1blus"
     ],
+    "name:ces_x_variant":[
+        "N\u00e1bulus"
+    ],
+    "name:cym_x_preferred":[
+        "Nablus"
+    ],
+    "name:dan_x_preferred":[
+        "Nablus"
+    ],
     "name:deu_x_preferred":[
         "Sichem"
+    ],
+    "name:deu_x_variant":[
+        "Nablus"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03bc\u03c0\u03bb\u03bf\u03cd\u03c2"
@@ -46,11 +70,32 @@
         "N\u00e5blus",
         "Shechem"
     ],
+    "name:epo_x_preferred":[
+        "Nablus"
+    ],
+    "name:est_x_preferred":[
+        "Nablus"
+    ],
+    "name:eus_x_preferred":[
+        "Nablus"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0628\u0644\u0648\u0633"
     ],
+    "name:fin_x_preferred":[
+        "Nablus"
+    ],
     "name:fra_x_preferred":[
         "Naplouse"
+    ],
+    "name:glg_x_preferred":[
+        "Nablus"
+    ],
+    "name:gsw_x_preferred":[
+        "Nablus"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0ac7\u0aac\u0ab2\u0acd\u0ab8"
     ],
     "name:hbs_x_preferred":[
         "Naplusa"
@@ -58,26 +103,71 @@
     "name:heb_x_preferred":[
         "\u05e9\u05db\u05dd"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u092c\u0932\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Nablus"
+    ],
     "name:hun_x_preferred":[
         "N\u00e1blusz"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0562\u056c\u0578\u0582\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Nablus"
     ],
     "name:ita_x_preferred":[
         "Sichem"
     ],
+    "name:ita_x_variant":[
+        "Nablus"
+    ],
+    "name:jav_x_preferred":[
+        "Nablus"
+    ],
     "name:jpn_x_preferred":[
         "\u30ca\u30fc\u30d6\u30eb\u30b9"
+    ],
+    "name:kal_x_preferred":[
+        "Nablus"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cac\u0ccd\u0cb2\u0cc1\u0cb8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ub098\ube14\ub8e8\uc2a4"
     ],
+    "name:lad_x_preferred":[
+        "Nablus"
+    ],
     "name:lat_x_preferred":[
         "Flavia Neapolis"
+    ],
+    "name:lav_x_preferred":[
+        "Nablusa"
     ],
     "name:lit_x_preferred":[
         "Nablusas"
     ],
+    "name:mar_x_preferred":[
+        "\u0928\u0945\u092c\u0932\u0942\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Nablus"
+    ],
     "name:nld_x_preferred":[
         "Sichem"
+    ],
+    "name:nld_x_variant":[
+        "Nablus"
+    ],
+    "name:nno_x_preferred":[
+        "Nablus"
+    ],
+    "name:nob_x_preferred":[
+        "Nablus"
     ],
     "name:nor_x_preferred":[
         "Nablus"
@@ -91,8 +181,23 @@
     "name:pol_x_preferred":[
         "Sychem"
     ],
+    "name:pol_x_variant":[
+        "Nablus"
+    ],
+    "name:por_x_preferred":[
+        "Nablus"
+    ],
+    "name:ron_x_preferred":[
+        "Nablus"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0431\u043b\u0443\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Nablus"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0db6\u0dca\u0dbd\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
         "N\u00e1blus"
@@ -100,11 +205,38 @@
     "name:spa_x_preferred":[
         "Siquem"
     ],
+    "name:spa_x_variant":[
+        "Nablus"
+    ],
+    "name:swe_x_preferred":[
+        "Nablus"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0baa\u0bcd\u0bb2\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c2c\u0c4d\u0c32\u0c41\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e32\u0e1a\u0e25\u0e38\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Nablus"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0431\u043b\u0443\u0441"
     ],
     "name:unk_x_variant":[
         "N\u0101blus"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0628\u0644\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Nablus"
+    ],
+    "name:war_x_preferred":[
+        "Nablus"
     ],
     "name:yid_x_preferred":[
         "\u05e9\u05db\u05dd"
@@ -270,7 +402,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549929806,
+    "wof:lastmodified":1563247971,
     "wof:name":"Nablus",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

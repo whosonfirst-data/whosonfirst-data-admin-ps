@@ -16,8 +16,14 @@
     "mps:longitude":35.407479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062d\u0633\u0646"
+    ],
     "name:cat_x_preferred":[
         "Beit Hasan"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt \u1e28asan"
     ],
     "name:eng_x_preferred":[
         "Beit Hasan"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101921371,
-    "wof:lastmodified":1561827629,
+    "wof:lastmodified":1563247920,
     "wof:name":"Beit Hasan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

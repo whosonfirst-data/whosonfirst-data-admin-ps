@@ -24,6 +24,12 @@
         "\u062c\u0646\u0635\u0627\u0641\u0648\u0637",
         "\u062c\u064a\u0646\u0635\u0627\u0641\u0648\u0637"
     ],
+    "name:cat_x_preferred":[
+        "Jinsafut"
+    ],
+    "name:ceb_x_preferred":[
+        "Jin\u015f\u0101f\u016b\u0163"
+    ],
     "name:eng_x_preferred":[
         "Jinsafut"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":101921503,
-    "wof:lastmodified":1561827626,
+    "wof:lastmodified":1563247881,
     "wof:name":"Jinsafut",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

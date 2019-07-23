@@ -26,10 +26,16 @@
     "name:eng_x_preferred":[
         "Umm ar-Rihan"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dd \u05d0-\u05e8\u05d9\u05d7\u05df"
+    ],
     "name:nld_x_preferred":[
         "Umm ar-Rihan"
     ],
     "name:nno_x_preferred":[
+        "Umm ar-Rihan"
+    ],
+    "name:pol_x_preferred":[
         "Umm ar-Rihan"
     ],
     "name:unk_x_variant":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1175613271,
-    "wof:lastmodified":1561827599,
+    "wof:lastmodified":1563247494,
     "wof:name":"Umm ar Rihan",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

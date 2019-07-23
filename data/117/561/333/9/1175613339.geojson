@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0642\u0628\u064a\u0647"
     ],
+    "name:cat_x_preferred":[
+        "Qibya"
+    ],
+    "name:ceb_x_preferred":[
+        "Qibyah"
+    ],
     "name:deu_x_preferred":[
         "Qibya"
     ],
@@ -39,6 +45,12 @@
         "Qibya"
     ],
     "name:nno_x_preferred":[
+        "Qibya"
+    ],
+    "name:pol_x_preferred":[
+        "Kibja"
+    ],
+    "name:spa_x_preferred":[
         "Qibya"
     ],
     "name:unk_x_variant":[
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1175613339,
-    "wof:lastmodified":1561827599,
+    "wof:lastmodified":1563247490,
     "wof:name":"Qibya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

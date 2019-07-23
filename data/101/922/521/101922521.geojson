@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0642\u0648\u0639"
     ],
+    "name:cat_x_preferred":[
+        "Tuqu'"
+    ],
     "name:eng_x_preferred":[
         "Tuqu'"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101922521,
-    "wof:lastmodified":1561827605,
+    "wof:lastmodified":1563247566,
     "wof:name":"Tuqu'",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

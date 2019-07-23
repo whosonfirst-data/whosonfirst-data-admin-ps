@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u0628\u0646 \u0627\u0644\u063a\u0631\u0628\u064a"
     ],
+    "name:cat_x_preferred":[
+        "Al-Lubban al-Gharbi"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Lubban al Gharb\u012b"
+    ],
     "name:eng_x_preferred":[
         "Al-Lubban al-Gharbi"
     ],
@@ -35,6 +41,9 @@
         "Al-Lubban al-Gharbi"
     ],
     "name:nno_x_preferred":[
+        "Al-Lubban al-Gharbi"
+    ],
+    "name:pol_x_preferred":[
         "Al-Lubban al-Gharbi"
     ],
     "name:unk_x_variant":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1126043827,
-    "wof:lastmodified":1561827636,
+    "wof:lastmodified":1563248017,
     "wof:name":"Al Lubban al Gharb\u012b",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

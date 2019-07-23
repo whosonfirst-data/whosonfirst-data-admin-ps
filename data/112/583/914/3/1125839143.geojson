@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Beit Wazan"
     ],
+    "name:ceb_x_preferred":[
+        "Bayt Wazan"
+    ],
     "name:eng_x_preferred":[
         "Beit Wazan"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125839143,
-    "wof:lastmodified":1561827646,
+    "wof:lastmodified":1563248113,
     "wof:name":"Bayt Wazan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

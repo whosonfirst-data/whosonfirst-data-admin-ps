@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Ijnisinya"
     ],
+    "name:ceb_x_preferred":[
+        "Ijnisiny\u0101"
+    ],
     "name:eng_x_preferred":[
         "Ijnisinya"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:nno_x_preferred":[
         "Ijnisinya"
+    ],
+    "name:pol_x_preferred":[
+        "Id\u017cnisinja"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125839019,
-    "wof:lastmodified":1561827645,
+    "wof:lastmodified":1563248105,
     "wof:name":"Ijnisiny\u0101",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Bardala"
     ],
+    "name:ceb_x_preferred":[
+        "Bardalah"
+    ],
     "name:eng_x_preferred":[
         "Bardala"
     ],
@@ -36,6 +39,9 @@
         "Bardala"
     ],
     "name:nno_x_preferred":[
+        "Bardala"
+    ],
+    "name:pol_x_preferred":[
         "Bardala"
     ],
     "name:srp_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1175613181,
-    "wof:lastmodified":1561827599,
+    "wof:lastmodified":1563247493,
     "wof:name":"Bardala",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0641\u062c\u0627\u0631"
     ],
+    "name:cat_x_preferred":[
+        "Beit Fajjar"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt Fajj\u0101r"
+    ],
     "name:eng_x_preferred":[
         "Beit Fajjar"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1175613371,
-    "wof:lastmodified":1561827598,
+    "wof:lastmodified":1563247476,
     "wof:name":"Beit Fajjar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

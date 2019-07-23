@@ -22,14 +22,26 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0633\u0644\u0645\u0648\u0646\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Umm Salamuna"
+    ],
+    "name:ceb_x_preferred":[
+        "Umm Salm\u016bnah"
+    ],
     "name:eng_x_preferred":[
         "Umm Salamuna"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dd \u05e1\u05dc\u05de\u05d5\u05e0\u05d4"
     ],
     "name:nld_x_preferred":[
         "Umm Salamuna"
     ],
     "name:nno_x_preferred":[
         "Umm Salamuna"
+    ],
+    "name:pol_x_preferred":[
+        "Umm Salmuna"
     ],
     "name:unk_x_variant":[
         "Khirbat Umm Salamuna"
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":1126043387,
-    "wof:lastmodified":1561827636,
+    "wof:lastmodified":1563248006,
     "wof:name":"Umm Salm\u016bnah",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Salfit"
     ],
+    "name:ceb_x_preferred":[
+        "Salf\u012bt"
+    ],
     "name:ces_x_preferred":[
         "Salf\u00edt"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:por_x_preferred":[
         "Salfit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0444\u0438\u0442"
     ],
     "name:spa_x_preferred":[
         "Salfit"
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1125824847,
-    "wof:lastmodified":1561827640,
+    "wof:lastmodified":1563248065,
     "wof:name":"Salf\u012bt",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

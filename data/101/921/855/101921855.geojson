@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0633\u064a\u0646\u064a\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Ein Siniya"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018Ayn S\u012bny\u0101"
+    ],
     "name:eng_x_preferred":[
         "Ein Siniya"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:nno_x_preferred":[
         "Ein Siniya"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Sinja"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":101921855,
-    "wof:lastmodified":1561827633,
+    "wof:lastmodified":1563247958,
     "wof:name":"'Ein Siniya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0639\u0648\u0631 \u0627\u0644\u0641\u0648\u0642\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Beit Ur al-Fauqa"
+    ],
     "name:eng_x_preferred":[
         "Beit Ur al-Fauqa"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:nno_x_preferred":[
         "Beit Ur al-Fauqa"
+    ],
+    "name:pol_x_preferred":[
+        "Bajt Ur al-Fauka"
     ],
     "name:unk_x_variant":[
         "Beit \u2018\u016ar el F\u014dqa"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":101921991,
-    "wof:lastmodified":1561827626,
+    "wof:lastmodified":1563247874,
     "wof:name":"Beit 'Ur al Fauqa",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

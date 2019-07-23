@@ -40,6 +40,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e7\u05d5\u05e2\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u2018Ayn Yabr\u016bd"
+    ],
     "name:ita_x_preferred":[
         "Faqqua"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1125839083,
-    "wof:lastmodified":1561827645,
+    "wof:lastmodified":1563248107,
     "wof:name":"Faqq\u016b\u2018ah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

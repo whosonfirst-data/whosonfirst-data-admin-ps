@@ -25,7 +25,16 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a4\u09cd\u09a4\u09bf\u09b0"
     ],
+    "name:cat_x_preferred":[
+        "Battir"
+    ],
+    "name:ceb_x_preferred":[
+        "Batt\u012br"
+    ],
     "name:ces_x_preferred":[
+        "Battir"
+    ],
+    "name:deu_x_preferred":[
         "Battir"
     ],
     "name:eng_x_preferred":[
@@ -43,6 +52,9 @@
     "name:hrv_x_preferred":[
         "Battir"
     ],
+    "name:ind_x_preferred":[
+        "Battir"
+    ],
     "name:ita_x_preferred":[
         "Battir"
     ],
@@ -51,6 +63,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e2\u10d8\u10e0\u10d8"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f\u0d7c"
     ],
     "name:nld_x_preferred":[
         "Battir"
@@ -68,6 +83,9 @@
         "\u0411\u0430\u0442\u0442\u0438\u0440"
     ],
     "name:spa_x_preferred":[
+        "Battir"
+    ],
+    "name:tur_x_preferred":[
         "Battir"
     ],
     "name:unk_x_variant":[
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125841855,
-    "wof:lastmodified":1561827644,
+    "wof:lastmodified":1563248098,
     "wof:name":"Batt\u012br",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

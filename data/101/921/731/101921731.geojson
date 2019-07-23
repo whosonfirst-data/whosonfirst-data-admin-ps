@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Deir Ballut"
     ],
+    "name:ceb_x_preferred":[
+        "Dayr Ball\u016b\u0163"
+    ],
     "name:eng_x_preferred":[
         "Deir Ballut"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101921731,
-    "wof:lastmodified":1561827626,
+    "wof:lastmodified":1563247881,
     "wof:name":"Deir Ballut",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

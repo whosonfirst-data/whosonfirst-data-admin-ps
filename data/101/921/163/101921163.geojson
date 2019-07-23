@@ -31,6 +31,9 @@
     "name:nno_x_preferred":[
         "Bal'a"
     ],
+    "name:pol_x_preferred":[
+        "Bala"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101921163,
-    "wof:lastmodified":1549929803,
+    "wof:lastmodified":1563247930,
     "wof:name":"Bal'a",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

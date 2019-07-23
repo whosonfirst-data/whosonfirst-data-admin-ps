@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0648\u0633"
     ],
+    "name:cat_x_preferred":[
+        "Jayyous"
+    ],
     "name:eng_x_preferred":[
         "Jayyous"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101921435,
-    "wof:lastmodified":1561827633,
+    "wof:lastmodified":1563247959,
     "wof:name":"Jayyus",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

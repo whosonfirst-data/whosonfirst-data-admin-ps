@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Kalandia"
     ],
+    "name:deu_x_preferred":[
+        "Kalandia"
+    ],
     "name:eng_x_preferred":[
         "Kalandia"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05dc\u05e0\u05d3\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "Saff\u0101r\u012bn"
+    ],
+    "name:ita_x_preferred":[
+        "Kalandia"
     ],
     "name:nld_x_preferred":[
         "Kalandia"
@@ -54,6 +63,9 @@
     ],
     "name:unk_x_variant":[
         "Kalendieh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u862d\u8482\u96c5"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1125838883,
-    "wof:lastmodified":1561827645,
+    "wof:lastmodified":1563248109,
     "wof:name":"Qalandiy\u0101",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

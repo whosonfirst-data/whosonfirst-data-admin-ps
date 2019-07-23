@@ -20,7 +20,16 @@
     "name:ara_x_preferred":[
         "\u0639\u0646\u0628\u062a\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Anabta"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018Anabt\u0101"
+    ],
     "name:ces_x_preferred":[
+        "Anabta"
+    ],
+    "name:eng_x_preferred":[
         "Anabta"
     ],
     "name:fas_x_preferred":[
@@ -35,7 +44,16 @@
     "name:ita_x_preferred":[
         "Anabta"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ca\u30d6\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Anabta"
+    ],
     "name:nno_x_preferred":[
+        "Anabta"
+    ],
+    "name:pol_x_preferred":[
         "Anabta"
     ],
     "name:spa_x_preferred":[
@@ -43,6 +61,9 @@
     ],
     "name:unk_x_variant":[
         "\u2018Anabtah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0646\u0628\u062a\u0627"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":1175613433,
-    "wof:lastmodified":1549929653,
+    "wof:lastmodified":1563247505,
     "wof:name":"'Anabta",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

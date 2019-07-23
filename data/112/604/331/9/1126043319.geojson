@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Zeita Jamma'in"
     ],
+    "name:pol_x_preferred":[
+        "Zajta D\u017camma\u2019in"
+    ],
     "name:unk_x_variant":[
         "Zeita"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1126043319,
-    "wof:lastmodified":1561827636,
+    "wof:lastmodified":1563248007,
     "wof:name":"Zayt\u0101 Jamm\u0101\u2018\u012bn",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

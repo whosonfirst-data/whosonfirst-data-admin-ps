@@ -64,6 +64,9 @@
     "name:nob_x_preferred":[
         "Aida"
     ],
+    "name:pol_x_preferred":[
+        "Muchajjam Ajida"
+    ],
     "name:spa_x_preferred":[
         "Campamento de Aida"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1175613359,
-    "wof:lastmodified":1561827599,
+    "wof:lastmodified":1563247486,
     "wof:name":"'Ayda Camp",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

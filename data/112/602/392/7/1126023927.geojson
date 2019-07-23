@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0634\u0642\u0628\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Shuqba"
+    ],
+    "name:ceb_x_preferred":[
+        "Shuqb\u0101"
+    ],
     "name:eng_x_preferred":[
         "Shuqba"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:nno_x_preferred":[
         "Shuqba"
+    ],
+    "name:pol_x_preferred":[
+        "Szukba"
     ],
     "name:unk_x_variant":[
         "Shuqbah"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1126023927,
-    "wof:lastmodified":1561827635,
+    "wof:lastmodified":1563248003,
     "wof:name":"Shuqb\u0101",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

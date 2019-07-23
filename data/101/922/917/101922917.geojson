@@ -23,8 +23,26 @@
     "name:ara_x_variant":[
         "R\u0101b\u016bd"
     ],
+    "name:cat_x_preferred":[
+        "Rabud"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u0101b\u016bd"
+    ],
+    "name:eng_x_preferred":[
+        "Rabud"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d1\u05d9\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d1\u05d5\u05d3"
+    ],
+    "name:nld_x_preferred":[
+        "Rabud"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0628\u0648\u062f"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -82,7 +100,7 @@
         }
     ],
     "wof:id":101922917,
-    "wof:lastmodified":1549929859,
+    "wof:lastmodified":1563247609,
     "wof:name":"Rabud",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

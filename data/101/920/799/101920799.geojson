@@ -47,6 +47,9 @@
     "name:nno_x_preferred":[
         "Faqqua"
     ],
+    "name:nno_x_variant":[
+        "Kufeirit"
+    ],
     "name:pol_x_preferred":[
         "Fakua"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101920799,
-    "wof:lastmodified":1561827611,
+    "wof:lastmodified":1563247615,
     "wof:name":"Faqqu'a",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

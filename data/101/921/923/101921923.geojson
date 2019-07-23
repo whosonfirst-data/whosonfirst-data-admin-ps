@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u064a\u0628\u0631\u0648\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Ein Yabrud"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018Ayn Yabr\u016bd"
+    ],
     "name:eng_x_preferred":[
         "Ein Yabrud"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:nno_x_preferred":[
         "Ein Yabrud"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Jabrud"
     ],
     "name:unk_x_variant":[
         "Yabr\u016bd"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":101921923,
-    "wof:lastmodified":1561827629,
+    "wof:lastmodified":1563247919,
     "wof:name":"'Ein Yabrud",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

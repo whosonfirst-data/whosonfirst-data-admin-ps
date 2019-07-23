@@ -23,6 +23,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0434\u0440\u0443\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Budrus"
+    ],
+    "name:ceb_x_preferred":[
+        "Budrus"
+    ],
     "name:eng_x_preferred":[
         "Budrus"
     ],
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":101921857,
-    "wof:lastmodified":1561827628,
+    "wof:lastmodified":1563247900,
     "wof:name":"Budrus",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

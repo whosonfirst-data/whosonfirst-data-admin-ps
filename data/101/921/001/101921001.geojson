@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0632\u0644\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
+    "name:cat_x_preferred":[
+        "An-Nazla ash-Sharqiya"
+    ],
+    "name:ceb_x_preferred":[
+        "An Nazlah ash Sharq\u012byah"
+    ],
     "name:eng_x_preferred":[
         "An-Nazla ash-Sharqiya"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101921001,
-    "wof:lastmodified":1561827629,
+    "wof:lastmodified":1563247911,
     "wof:name":"An Nazla ash Sharqiya",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -20,16 +20,31 @@
     "name:ara_x_preferred":[
         "\u0631\u0646\u062a\u064a\u0633"
     ],
+    "name:cat_x_preferred":[
+        "Rantis"
+    ],
+    "name:ceb_x_preferred":[
+        "Rant\u012bs"
+    ],
     "name:eng_x_preferred":[
         "Rantis"
     ],
     "name:fra_x_preferred":[
         "Rantis"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e0\u05ea\u05d9\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Rantis"
+    ],
     "name:nld_x_preferred":[
         "Rantis"
     ],
     "name:nno_x_preferred":[
+        "Rantis"
+    ],
+    "name:pol_x_preferred":[
         "Rantis"
     ],
     "name:unk_x_variant":[
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":101921779,
-    "wof:lastmodified":1561827630,
+    "wof:lastmodified":1563247924,
     "wof:name":"Rantis",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -19,14 +19,23 @@
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0627\u0644\u0633\u0644\u0637\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062e\u064a\u0645 \u062a\u0644 \u0627\u0644\u0633\u0644\u0637\u0627\u0646"
+    ],
     "name:cat_x_preferred":[
         "Tel al-Sultan"
     ],
     "name:eng_x_preferred":[
         "Tall as-Sultan"
     ],
+    "name:eng_x_variant":[
+        "Tall as-Sultan camp"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05dc \u05d0\u05e1 \u05e1\u05d5\u05dc\u05d8\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05dc \u05d0-\u05e1\u05d5\u05dc\u05d8\u05d0\u05df"
     ],
     "name:ind_x_preferred":[
         "Tel al-Sultan"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1175613303,
-    "wof:lastmodified":1561827598,
+    "wof:lastmodified":1563247475,
     "wof:name":"Tall as Sultan",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:nno_x_preferred":[
         "Sanur i Jenin"
     ],
+    "name:pol_x_preferred":[
+        "Sanur"
+    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125824813,
-    "wof:lastmodified":1561827641,
+    "wof:lastmodified":1563248076,
     "wof:name":"\u015e\u0101n\u016br",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

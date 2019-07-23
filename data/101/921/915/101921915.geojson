@@ -41,6 +41,9 @@
     "name:nno_x_preferred":[
         "Al-Auja i Jeriko"
     ],
+    "name:pol_x_preferred":[
+        "Al-Aud\u017ca"
+    ],
     "name:unk_x_variant":[
         "\u2018Auj\u0101 el Fauq\u0101"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101921915,
-    "wof:lastmodified":1561827629,
+    "wof:lastmodified":1563247916,
     "wof:name":"Al 'Auja",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

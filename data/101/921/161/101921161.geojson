@@ -31,6 +31,9 @@
     "name:nno_x_preferred":[
         "Bal'a"
     ],
+    "name:pol_x_preferred":[
+        "Bala"
+    ],
     "name:unk_x_variant":[
         "Bal\u2018ah"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101921161,
-    "wof:lastmodified":1549929796,
+    "wof:lastmodified":1563247875,
     "wof:name":"Bal'a",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

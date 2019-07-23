@@ -23,8 +23,17 @@
     "name:cat_x_preferred":[
         "As-Samu"
     ],
+    "name:ceb_x_preferred":[
+        "As Sam\u016b\u2018"
+    ],
+    "name:deu_x_preferred":[
+        "As-Samu"
+    ],
     "name:eng_x_preferred":[
         "As-Samu"
+    ],
+    "name:eng_x_variant":[
+        "as-Samu"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0648\u0639"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":101923095,
-    "wof:lastmodified":1561827601,
+    "wof:lastmodified":1563247529,
     "wof:name":"As Samu'",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

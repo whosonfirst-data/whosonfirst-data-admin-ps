@@ -19,7 +19,13 @@
     "name:ara_x_preferred":[
         "\u0646\u0639\u0644\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Ni'lin"
+    ],
     "name:dan_x_preferred":[
+        "Ni'lin"
+    ],
+    "name:deu_x_preferred":[
         "Ni'lin"
     ],
     "name:eng_x_preferred":[
@@ -30,6 +36,9 @@
     ],
     "name:nno_x_preferred":[
         "Ni'lin"
+    ],
+    "name:pol_x_preferred":[
+        "Nilin"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0430\u043b\u0438\u043d"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1175613221,
-    "wof:lastmodified":1549929597,
+    "wof:lastmodified":1563247484,
     "wof:name":"Ni'lin",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

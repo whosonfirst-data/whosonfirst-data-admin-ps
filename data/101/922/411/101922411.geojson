@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "W\u0101d\u012b F\u016bk\u012bn"
     ],
+    "name:cat_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "name:ceb_x_preferred":[
+        "W\u0101d\u012b F\u016bk\u012bn"
+    ],
     "name:eng_x_preferred":[
         "Wadi Fukin"
     ],
@@ -33,6 +39,9 @@
         "Wadi Fukin"
     ],
     "name:nno_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "name:pol_x_preferred":[
         "Wadi Fukin"
     ],
     "qs:a0":"Palestine",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":101922411,
-    "wof:lastmodified":1561827608,
+    "wof:lastmodified":1563247587,
     "wof:name":"Wadi Fukin",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05d1\u05d0\u05d9\u05d5\u05e7"
     ],
+    "name:heb_x_variant":[
+        "B\u016br\u012bn"
+    ],
     "name:ind_x_preferred":[
         "Al-Bayuk"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125852949,
-    "wof:lastmodified":1561827643,
+    "wof:lastmodified":1563248086,
     "wof:name":"An Na\u015fr",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

@@ -19,11 +19,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0639\u0645\u0631\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Beit 'Amra"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt \u2018Amrah"
+    ],
     "name:deu_x_preferred":[
         "Beit 'Amra"
     ],
     "name:eng_x_preferred":[
         "Beit 'Amra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e2\u05de\u05e8\u05d4"
     ],
     "name:nld_x_preferred":[
         "Beit 'Amra"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":101922883,
-    "wof:lastmodified":1561827607,
+    "wof:lastmodified":1563247584,
     "wof:name":"Beit 'Amra",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

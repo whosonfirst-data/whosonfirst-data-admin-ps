@@ -23,14 +23,26 @@
     "name:ara_x_variant":[
         "\u2018Ayn Q\u012bniy\u0101"
     ],
+    "name:cat_x_preferred":[
+        "Ein Qiniya"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018Ayn Q\u012bniy\u0101"
+    ],
     "name:eng_x_preferred":[
         "Ein Qiniya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05e7\u05d9\u05e0\u05d9\u05d0"
     ],
     "name:nld_x_preferred":[
         "Ein Qiniya"
     ],
     "name:nno_x_preferred":[
         "Ein Qiniya"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Kinija"
     ],
     "name:unk_x_variant":[
         "\u2018Ayn Q\u012bn\u012byah"
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":101921941,
-    "wof:lastmodified":1561827629,
+    "wof:lastmodified":1563247915,
     "wof:name":"'Ein Qiniya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -23,8 +23,14 @@
     "name:cat_x_preferred":[
         "Mas-ha"
     ],
+    "name:ceb_x_preferred":[
+        "Mas\u1e29ah"
+    ],
     "name:eng_x_preferred":[
         "Mas-ha"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e1\u05d7\u05d4"
     ],
     "name:nld_x_preferred":[
         "Mas-ha"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101921649,
-    "wof:lastmodified":1561827631,
+    "wof:lastmodified":1563247939,
     "wof:name":"Mas-ha",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Kafr Qallil"
     ],
+    "name:ceb_x_preferred":[
+        "Kafr Qall\u012bl"
+    ],
     "name:eng_x_preferred":[
         "Kafr Qallil"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125854049,
-    "wof:lastmodified":1561827643,
+    "wof:lastmodified":1563248091,
     "wof:name":"Kafr Qall\u012bl",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -23,11 +23,17 @@
     "name:cat_x_preferred":[
         "Wadi as-Salqa"
     ],
+    "name:ceb_x_preferred":[
+        "W\u0101d\u012b as Salq\u0101"
+    ],
     "name:deu_x_preferred":[
         "Wadi as-Salqa"
     ],
     "name:eng_x_preferred":[
         "Wadi as-Salqa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0627\u0644\u0633\u0644\u0642\u0627"
     ],
     "name:ind_x_preferred":[
         "Wadi as-Salqa"
@@ -37,6 +43,9 @@
     ],
     "name:nno_x_preferred":[
         "Wadi as-Salqa"
+    ],
+    "name:pol_x_preferred":[
+        "Wadi as-Salka"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":101920251,
-    "wof:lastmodified":1561827614,
+    "wof:lastmodified":1563247664,
     "wof:name":"Wadi as Salqa",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

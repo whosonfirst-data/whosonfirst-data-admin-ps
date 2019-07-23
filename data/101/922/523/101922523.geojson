@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u062f\u064a\u0631"
     ],
+    "name:cat_x_preferred":[
+        "Khirbet al-Deir"
+    ],
     "name:eng_x_preferred":[
         "Khirbet al-Deir"
     ],
     "name:fra_x_preferred":[
         "Khirbet al-Deir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05e8\u05d1\u05ea \u05d0\u05dc-\u05d3\u05d9\u05e8"
     ],
     "name:nld_x_preferred":[
         "Khirbet al-Deir"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":101922523,
-    "wof:lastmodified":1561827610,
+    "wof:lastmodified":1563247611,
     "wof:name":"Khirbet ad Deir",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

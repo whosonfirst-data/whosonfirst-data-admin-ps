@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0642\u0634"
     ],
+    "name:cat_x_preferred":[
+        "Abu Qash"
+    ],
+    "name:ceb_x_preferred":[
+        "Ab\u016b Qashsh"
+    ],
     "name:eng_x_preferred":[
         "Abu Qash"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:nno_x_preferred":[
         "Abu Qash"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Kaszsz"
     ],
     "name:unk_x_variant":[
         "Ab\u016b Qash"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1175613429,
-    "wof:lastmodified":1561827599,
+    "wof:lastmodified":1563247496,
     "wof:name":"Abu Qash",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

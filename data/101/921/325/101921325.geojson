@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Al-Badhan"
     ],
+    "name:eng_x_variant":[
+        "al-Badhan"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0630\u0627\u0646"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:nno_x_preferred":[
         "Al-Badhan"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Bazan"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101921325,
-    "wof:lastmodified":1561827630,
+    "wof:lastmodified":1563247924,
     "wof:name":"Al Badhan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0627\u0644\u0644\u0628\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Kafr al-Labad"
+    ],
+    "name:ceb_x_preferred":[
+        "Kafr al Labad"
+    ],
     "name:eng_x_preferred":[
         "Kafr al-Labad"
     ],
@@ -27,6 +33,9 @@
         "\u05db\u05e4\u05e8 \u05d0-\u05dc\u05d1\u05d3"
     ],
     "name:nno_x_preferred":[
+        "Kafr al-Labad"
+    ],
+    "name:pol_x_preferred":[
         "Kafr al-Labad"
     ],
     "name:unk_x_variant":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1175613269,
-    "wof:lastmodified":1549929611,
+    "wof:lastmodified":1563247502,
     "wof:name":"Kafr al Labad",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Kafr Dan"
     ],
+    "name:ceb_x_preferred":[
+        "Kafr D\u0101n"
+    ],
     "name:eng_x_preferred":[
         "Kafr Dan"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1175613257,
-    "wof:lastmodified":1561827598,
+    "wof:lastmodified":1563247485,
     "wof:name":"Kafr Dan",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

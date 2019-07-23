@@ -27,8 +27,14 @@
     "name:cat_x_preferred":[
         "Iskaka"
     ],
+    "name:ceb_x_preferred":[
+        "Isk\u0101k\u0101"
+    ],
     "name:eng_x_preferred":[
         "Iskaka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e1\u05db\u05d0\u05db\u05d0"
     ],
     "name:nld_x_preferred":[
         "Iskaka"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":101921657,
-    "wof:lastmodified":1561827629,
+    "wof:lastmodified":1563247912,
     "wof:name":"Iskaka",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

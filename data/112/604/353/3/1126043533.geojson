@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0648\u062e \u0627\u0644\u0639\u0631\u0648\u0628"
     ],
+    "name:cat_x_preferred":[
+        "Shuyukh al-Arrub"
+    ],
+    "name:ceb_x_preferred":[
+        "Shuy\u016bkh al \u2018Arr\u016bb"
+    ],
     "name:eng_x_preferred":[
         "Shuyukh al-Arrub"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05d5\u05d7' \u05d0\u05dc-\u05e2\u05e8\u05d5\u05d1"
     ],
     "name:nld_x_preferred":[
         "Shuyukh al-Arrub"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1126043533,
-    "wof:lastmodified":1561827636,
+    "wof:lastmodified":1563248009,
     "wof:name":"Shuy\u016bkh al \u2018Arr\u016bb",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

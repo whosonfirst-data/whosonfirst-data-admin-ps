@@ -22,7 +22,25 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0628\u064a \u0635\u0627\u0644\u062d"
     ],
+    "name:cat_x_preferred":[
+        "Nabi Salih"
+    ],
+    "name:ceb_x_preferred":[
+        "An Nab\u012b \u015e\u0101li\u1e29"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ac\u03bc\u03c0\u03b9 \u03a3\u03b1\u03bb\u03af\u03c7"
+    ],
     "name:eng_x_preferred":[
+        "Nabi Salih"
+    ],
+    "name:epo_x_preferred":[
+        "Nabi Salih"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u06cc \u0635\u0627\u0644\u062d"
+    ],
+    "name:fra_x_preferred":[
         "Nabi Salih"
     ],
     "name:heb_x_preferred":[
@@ -34,8 +52,17 @@
     "name:nno_x_preferred":[
         "Nabi Salih"
     ],
+    "name:pol_x_preferred":[
+        "An-Nabi Salih"
+    ],
+    "name:spa_x_preferred":[
+        "Nabi Salih"
+    ],
     "name:unk_x_variant":[
         "Nabi S\u0101lih"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0628\u06cc \u0635\u0627\u0644\u062d"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -90,7 +117,7 @@
         }
     ],
     "wof:id":1126043777,
-    "wof:lastmodified":1561827636,
+    "wof:lastmodified":1563248014,
     "wof:name":"An Nab\u012b \u015e\u0101li\u1e29",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

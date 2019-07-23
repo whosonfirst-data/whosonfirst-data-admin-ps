@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0648\u0627\u062f\u064a \u0641\u0648\u0643\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "name:ceb_x_preferred":[
+        "W\u0101d\u012b F\u016bk\u012bn"
+    ],
     "name:eng_x_preferred":[
         "Wadi Fukin"
     ],
@@ -35,6 +41,9 @@
         "Wadi Fukin"
     ],
     "name:nno_x_preferred":[
+        "Wadi Fukin"
+    ],
+    "name:pol_x_preferred":[
         "Wadi Fukin"
     ],
     "qs_pg:aaroncc":"PS",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125824659,
-    "wof:lastmodified":1561827641,
+    "wof:lastmodified":1563248070,
     "wof:name":"W\u0101d\u012b F\u016bk\u012bn",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

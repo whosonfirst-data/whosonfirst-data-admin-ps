@@ -44,6 +44,9 @@
     "name:spa_x_preferred":[
         "Al-Bayuk"
     ],
+    "name:urd_x_preferred":[
+        "Khirbet Mas'ud"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101920629,
-    "wof:lastmodified":1561827613,
+    "wof:lastmodified":1563247651,
     "wof:name":"Al Bayuk",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

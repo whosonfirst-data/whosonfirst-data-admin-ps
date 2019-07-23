@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Beitunia"
     ],
+    "name:ceb_x_preferred":[
+        "Bayt\u016bny\u0101"
+    ],
     "name:deu_x_preferred":[
         "Baituniya"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101921997,
-    "wof:lastmodified":1561827626,
+    "wof:lastmodified":1563247881,
     "wof:name":"Beituniya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

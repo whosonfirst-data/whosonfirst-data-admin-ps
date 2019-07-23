@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0631\u0642\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u0631\u0642\u0629"
+    ],
     "name:cat_x_preferred":[
         "Araqah"
+    ],
+    "name:ceb_x_preferred":[
+        "Al \u2018Araqa"
     ],
     "name:eng_x_preferred":[
         "Araqah"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125825035,
-    "wof:lastmodified":1561827640,
+    "wof:lastmodified":1563248062,
     "wof:name":"Al \u2018Araqa",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

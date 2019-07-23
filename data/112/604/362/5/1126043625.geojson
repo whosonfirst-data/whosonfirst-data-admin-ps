@@ -37,6 +37,9 @@
     "name:nob_x_preferred":[
         "Jammain"
     ],
+    "name:pol_x_preferred":[
+        "D\u017cammain"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0430\u043c\u043c\u0430\u0438\u043d"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1126043625,
-    "wof:lastmodified":1549929898,
+    "wof:lastmodified":1563248009,
     "wof:name":"Jamm\u0101\u2018\u012bn",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

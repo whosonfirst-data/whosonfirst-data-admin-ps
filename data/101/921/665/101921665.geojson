@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Qabalan"
     ],
+    "name:ceb_x_preferred":[
+        "Qabal\u0101n"
+    ],
     "name:eng_x_preferred":[
         "Qabalan"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:nno_x_preferred":[
         "Qabalan"
+    ],
+    "name:pol_x_preferred":[
+        "Kabalan"
     ],
     "name:unk_x_variant":[
         "Kubalan"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":101921665,
-    "wof:lastmodified":1549929842,
+    "wof:lastmodified":1563247955,
     "wof:name":"Qabalan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

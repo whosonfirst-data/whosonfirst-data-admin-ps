@@ -23,6 +23,15 @@
     "name:ara_x_variant":[
         "Silw\u0101d"
     ],
+    "name:cat_x_preferred":[
+        "Silwad"
+    ],
+    "name:ceb_x_preferred":[
+        "Silw\u0101d"
+    ],
+    "name:deu_x_preferred":[
+        "Silwad"
+    ],
     "name:eng_x_preferred":[
         "Silwad"
     ],
@@ -42,6 +51,9 @@
         "Silwad"
     ],
     "name:nno_x_preferred":[
+        "Silwad"
+    ],
+    "name:pol_x_preferred":[
         "Silwad"
     ],
     "qs:a0":"Palestine",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101921867,
-    "wof:lastmodified":1561827628,
+    "wof:lastmodified":1563247909,
     "wof:name":"Silwad",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -22,7 +22,13 @@
     "name:ara_x_variant":[
         "\u0646\u0639\u0644\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Ni'lin"
+    ],
     "name:dan_x_preferred":[
+        "Ni'lin"
+    ],
+    "name:deu_x_preferred":[
         "Ni'lin"
     ],
     "name:eng_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:nno_x_preferred":[
         "Ni'lin"
+    ],
+    "name:pol_x_preferred":[
+        "Nilin"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0430\u043b\u0438\u043d"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":101921425,
-    "wof:lastmodified":1549929822,
+    "wof:lastmodified":1563247887,
     "wof:name":"Balata Camp",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a"
     ],
+    "name:cat_x_preferred":[
+        "Jit"
+    ],
     "name:eng_x_preferred":[
         "Jit"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101921419,
-    "wof:lastmodified":1561827631,
+    "wof:lastmodified":1563247936,
     "wof:name":"Jit",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

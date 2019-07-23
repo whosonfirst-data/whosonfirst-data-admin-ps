@@ -28,8 +28,14 @@
     "name:cat_x_preferred":[
         "Kifl Haris"
     ],
+    "name:ceb_x_preferred":[
+        "Kifil \u1e28\u0101ris"
+    ],
     "name:eng_x_preferred":[
         "Kifl Haris"
+    ],
+    "name:eng_x_variant":[
+        "Kefl Hares"
     ],
     "name:fra_x_preferred":[
         "Kifl Hares"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125861463,
-    "wof:lastmodified":1561827638,
+    "wof:lastmodified":1563248042,
     "wof:name":"Kifil \u1e28\u0101ris",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

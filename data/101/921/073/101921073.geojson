@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u062a\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Zeita"
+    ],
     "name:eng_x_preferred":[
         "Zeita"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101921073,
-    "wof:lastmodified":1549929785,
+    "wof:lastmodified":1563247938,
     "wof:name":"Zeita",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

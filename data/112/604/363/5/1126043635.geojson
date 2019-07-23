@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Jalqamus"
     ],
+    "name:ceb_x_preferred":[
+        "Jalqam\u016bs"
+    ],
     "name:eng_x_preferred":[
         "Jalqamus"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126043635,
-    "wof:lastmodified":1561827636,
+    "wof:lastmodified":1563248012,
     "wof:name":"Jalqam\u016bs",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

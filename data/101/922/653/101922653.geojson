@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Halhul"
     ],
+    "name:ceb_x_preferred":[
+        "\u1e28al\u1e29\u016bl"
+    ],
     "name:ces_x_preferred":[
         "Halh\u00fal"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101922653,
-    "wof:lastmodified":1561827609,
+    "wof:lastmodified":1563247598,
     "wof:name":"Halhul",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

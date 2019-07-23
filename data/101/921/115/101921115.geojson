@@ -41,6 +41,9 @@
     "name:nno_x_preferred":[
         "Sanur i Jenin"
     ],
+    "name:pol_x_preferred":[
+        "Sanur"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101921115,
-    "wof:lastmodified":1561827633,
+    "wof:lastmodified":1563247963,
     "wof:name":"Sanur",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
