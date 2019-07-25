@@ -35,6 +35,15 @@
     "name:eng_x_variant":[
         "Gaza"
     ],
+    "name:eus_x_preferred":[
+        "Gaza"
+    ],
+    "name:nld_x_preferred":[
+        "Gaza"
+    ],
+    "name:vie_x_preferred":[
+        "Gaza"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1091913297,
-    "wof:lastmodified":1553717978,
+    "wof:lastmodified":1564087885,
     "wof:name":"Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

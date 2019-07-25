@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Charbata al-Misbah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1243488009,
-    "wof:lastmodified":1549929916,
+    "wof:lastmodified":1564087989,
     "wof:name":"Kharbatha al-Misbah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

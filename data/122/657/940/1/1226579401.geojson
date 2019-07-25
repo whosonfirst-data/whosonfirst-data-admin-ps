@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Rotem"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1226579401,
-    "wof:lastmodified":1549929917,
+    "wof:lastmodified":1564087998,
     "wof:name":"Rotem",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

@@ -35,6 +35,15 @@
     "name:eng_x_variant":[
         "Tulkarm"
     ],
+    "name:fin_x_preferred":[
+        "Tulkarm"
+    ],
+    "name:pol_x_preferred":[
+        "Tulkarm"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u0648\u0644\u06a9\u0631\u0645"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1091913233,
-    "wof:lastmodified":1553717980,
+    "wof:lastmodified":1564087881,
     "wof:name":"Tulkarm",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

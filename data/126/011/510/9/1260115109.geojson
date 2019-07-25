@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Arab ar-Raszajda"
+    ],
     "name:und_x_variant":[
         "'Arab al-Rashayida"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1260115109,
-    "wof:lastmodified":1549929665,
+    "wof:lastmodified":1564087859,
     "wof:name":"al Rashaydeh",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

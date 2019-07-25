@@ -35,6 +35,15 @@
     "name:eng_x_variant":[
         "Jenin"
     ],
+    "name:eus_x_preferred":[
+        "Jenin"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eeninas"
+    ],
+    "name:sco_x_preferred":[
+        "Jenin"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1091912973,
-    "wof:lastmodified":1553717981,
+    "wof:lastmodified":1564087885,
     "wof:name":"Jenin",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

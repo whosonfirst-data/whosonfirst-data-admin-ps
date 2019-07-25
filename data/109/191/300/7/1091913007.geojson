@@ -29,11 +29,35 @@
     "mps:longitude":35.481498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Jerihon"
+    ],
     "name:eng_x_preferred":[
         "Jericho"
     ],
     "name:eng_x_variant":[
         "Jericho"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05e8\u05d9\u05d7\u05d5"
+    ],
+    "name:lat_x_preferred":[
+        "Hiericus"
+    ],
+    "name:pol_x_preferred":[
+        "Jerycho"
+    ],
+    "name:spa_x_preferred":[
+        "Jeric\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Jeriko"
+    ],
+    "name:zea_x_preferred":[
+        "Jericho"
+    ],
+    "name:zho_x_preferred":[
+        "\u6770\u91cc\u79d1"
     ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
@@ -88,7 +112,7 @@
         }
     ],
     "wof:id":1091913007,
-    "wof:lastmodified":1553717982,
+    "wof:lastmodified":1564087875,
     "wof:name":"Jericho",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

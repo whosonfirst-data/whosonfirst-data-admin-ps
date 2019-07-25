@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Imwas"
+    ],
     "name:und_x_variant":[
         "\u2018Amw\u0101s",
         "\u2018Amm\u0101\u014ds",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1343697895,
-    "wof:lastmodified":1549929886,
+    "wof:lastmodified":1564087833,
     "wof:name":"`Imwas",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

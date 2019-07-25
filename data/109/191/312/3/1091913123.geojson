@@ -35,6 +35,15 @@
     "name:eng_x_variant":[
         "Qalqilya"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05e7\u05d9\u05dc\u05d9\u05d4"
+    ],
+    "name:pol_x_preferred":[
+        "Kalkilja"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0644\u0642\u06cc\u0644\u06cc\u06c1"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1091913123,
-    "wof:lastmodified":1553717978,
+    "wof:lastmodified":1564087882,
     "wof:name":"Qalqilya",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

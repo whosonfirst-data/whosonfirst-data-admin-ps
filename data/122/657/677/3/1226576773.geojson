@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043a\u043e\u0430"
+    ],
     "name:und_x_variant":[
         "Tequa",
         "Taqu'",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226576773,
-    "wof:lastmodified":1549929916,
+    "wof:lastmodified":1564087998,
     "wof:name":"Tekoa",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

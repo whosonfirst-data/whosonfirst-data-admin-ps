@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Dajr Ajjub"
+    ],
     "name:und_x_variant":[
         "Dayr Ayy\u016bb",
         "Deir Aiy\u016bb"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226173953,
-    "wof:lastmodified":1549929889,
+    "wof:lastmodified":1564087995,
     "wof:name":"Dayr Ayyub",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

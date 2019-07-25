@@ -35,6 +35,12 @@
     "name:eng_x_variant":[
         "Tubas"
     ],
+    "name:ita_x_preferred":[
+        "Tubas"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fe\u5df4\u65af"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1091913213,
-    "wof:lastmodified":1553717979,
+    "wof:lastmodified":1564087886,
     "wof:name":"Tubas",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

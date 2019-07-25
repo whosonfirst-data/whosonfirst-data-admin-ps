@@ -25,6 +25,30 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0434\u0430\u043c"
+    ],
+    "name:deu_x_preferred":[
+        "Adam"
+    ],
+    "name:fra_x_preferred":[
+        "Adam"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d3\u10d0\u10db\u10d8"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u0434\u0430\u043c"
+    ],
+    "name:scn_x_preferred":[
+        "Addamu"
+    ],
+    "name:tgl_x_preferred":[
+        "Adan"
+    ],
+    "name:wol_x_preferred":[
+        "Aadama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1209250911,
-    "wof:lastmodified":1549929770,
+    "wof:lastmodified":1564087852,
     "wof:name":"Adam",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

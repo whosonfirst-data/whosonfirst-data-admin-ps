@@ -29,11 +29,26 @@
     "mps:longitude":34.281228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Rafah"
+    ],
     "name:eng_x_preferred":[
         "Rafah"
     ],
     "name:eng_x_variant":[
         "Rafah"
+    ],
+    "name:glg_x_preferred":[
+        "Rafa"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0444\u0430\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6cd5\u5e02"
     ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1091913365,
-    "wof:lastmodified":1553717979,
+    "wof:lastmodified":1564087876,
     "wof:name":"Rafah",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

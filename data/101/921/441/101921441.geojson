@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0635\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0635\u064a\u0631"
+    ],
     "name:unk_x_variant":[
         "Khirbat \u015e\u012br"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101921441,
-    "wof:lastmodified":1549929816,
+    "wof:lastmodified":1564087941,
     "wof:name":"Khirbet Sir",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

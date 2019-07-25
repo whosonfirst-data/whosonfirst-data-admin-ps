@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:yid_x_preferred":[
+        "\u05d9\u05d9\u05d8\"\u05d1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1260321523,
-    "wof:lastmodified":1549929751,
+    "wof:lastmodified":1564087860,
     "wof:name":"Yitav",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

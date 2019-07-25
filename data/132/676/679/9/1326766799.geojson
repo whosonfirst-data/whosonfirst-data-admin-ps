@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0414\u0430\u0440\u043e\u043c"
+    ],
     "name:und_x_variant":[
         "Kear Darom",
         "Kefar Darom"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1326766799,
-    "wof:lastmodified":1549928936,
+    "wof:lastmodified":1564087828,
     "wof:name":"Kefar Darom",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

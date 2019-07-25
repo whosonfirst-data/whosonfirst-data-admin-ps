@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u0434-\u0419\u0435\u0440\u0438\u0445\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1277013445,
-    "wof:lastmodified":1549929914,
+    "wof:lastmodified":1564087844,
     "wof:name":"Vered Yeriho",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

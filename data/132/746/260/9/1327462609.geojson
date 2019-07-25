@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0633 \u0639\u0637\u064a\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Ras Atiya"
+    ],
     "name:und_x_variant":[
         "Khirbat Ras \u2018Atiya",
         "Khirbat Ra\u2019s \u2018A\u0163\u012byah",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1327462609,
-    "wof:lastmodified":1549929923,
+    "wof:lastmodified":1564087827,
     "wof:name":"Ras `Atiyah",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Mechola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1260016483,
-    "wof:lastmodified":1549929669,
+    "wof:lastmodified":1564087859,
     "wof:name":"Mehola",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

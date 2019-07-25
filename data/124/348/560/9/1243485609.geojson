@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Chemdat"
+    ],
     "name:und_x_variant":[
         "Hemdat",
         "Na\u1e96al H\u0331emdat"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1243485609,
-    "wof:lastmodified":1549929916,
+    "wof:lastmodified":1564087989,
     "wof:name":"Nahal Hemdat",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

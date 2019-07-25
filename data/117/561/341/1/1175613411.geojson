@@ -50,6 +50,9 @@
     "name:spa_x_preferred":[
         "Raba"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0431\u0430"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1175613411,
-    "wof:lastmodified":1549929647,
+    "wof:lastmodified":1564087862,
     "wof:name":"Raba",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

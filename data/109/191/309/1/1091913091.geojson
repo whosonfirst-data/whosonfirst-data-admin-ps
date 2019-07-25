@@ -29,11 +29,29 @@
     "mps:longitude":35.295005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Nablus"
+    ],
     "name:eng_x_preferred":[
         "Nablus"
     ],
     "name:eng_x_variant":[
         "Nablus"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05db\u05dd"
+    ],
+    "name:lad_x_preferred":[
+        "Nablus"
+    ],
+    "name:ron_x_preferred":[
+        "Nablus"
+    ],
+    "name:vie_x_preferred":[
+        "Nablus"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5e03\u76e7\u65af"
     ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
@@ -88,7 +106,7 @@
         }
     ],
     "wof:id":1091913091,
-    "wof:lastmodified":1553717978,
+    "wof:lastmodified":1564087877,
     "wof:name":"Nablus",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

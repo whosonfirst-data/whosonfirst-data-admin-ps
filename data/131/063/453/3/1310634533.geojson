@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Netafim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310634533,
-    "wof:lastmodified":1549929893,
+    "wof:lastmodified":1564087870,
     "wof:name":"Netafim",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

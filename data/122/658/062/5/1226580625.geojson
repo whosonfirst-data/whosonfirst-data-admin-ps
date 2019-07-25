@@ -25,6 +25,18 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30be\u30fc\u30cf\u30eb"
+    ],
+    "name:ron_x_preferred":[
+        "Zohar"
+    ],
+    "name:spa_x_preferred":[
+        "Zohar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5149\u660e\u7bc7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1226580625,
-    "wof:lastmodified":1549929917,
+    "wof:lastmodified":1564087997,
     "wof:name":"Zohar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

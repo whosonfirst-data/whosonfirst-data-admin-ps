@@ -29,11 +29,35 @@
     "mps:longitude":35.08754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Hebron"
+    ],
     "name:eng_x_preferred":[
         "Hebron"
     ],
     "name:eng_x_variant":[
         "Hebron"
+    ],
+    "name:est_x_preferred":[
+        "Hebron"
+    ],
+    "name:ind_x_preferred":[
+        "Hebron"
+    ],
+    "name:lad_x_preferred":[
+        "Hevron"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u06cc\u0644"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0435\u0431\u0440\u043e\u043d"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d7\u05d1\u05e8\u05d5\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u4f2f\u4ed1"
     ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
@@ -88,7 +112,7 @@
         }
     ],
     "wof:id":1091912955,
-    "wof:lastmodified":1553717978,
+    "wof:lastmodified":1564087879,
     "wof:name":"Hebron",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Argaman"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243001967,
-    "wof:lastmodified":1549929907,
+    "wof:lastmodified":1564087986,
     "wof:name":"Argaman",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

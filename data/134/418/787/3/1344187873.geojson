@@ -30,6 +30,9 @@
         "Sa'eer",
         "Sa'ir"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0639\u06cc\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1344187873,
-    "wof:lastmodified":1549929923,
+    "wof:lastmodified":1564087834,
     "wof:name":"Si'ir",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

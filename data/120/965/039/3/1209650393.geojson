@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Nili"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209650393,
-    "wof:lastmodified":1549929920,
+    "wof:lastmodified":1564087848,
     "wof:name":"Nili",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

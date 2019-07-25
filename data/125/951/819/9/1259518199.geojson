@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d3\u05d5\u05dc\u05d7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681213,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259518199,
-    "wof:lastmodified":1549928882,
+    "wof:lastmodified":1564087993,
     "wof:name":"Bedolah",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

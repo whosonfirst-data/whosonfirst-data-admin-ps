@@ -25,6 +25,12 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Al-Ittihad"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u8482\u54c8\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1242910283,
-    "wof:lastmodified":1549929893,
+    "wof:lastmodified":1564087990,
     "wof:name":"Al-Ittihad",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

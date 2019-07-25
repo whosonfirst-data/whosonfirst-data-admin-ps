@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0623\u0628\u0648 \u062f\u064a\u0633"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5 \u05d3\u05d9\u05e1"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648 \u062f\u06cc\u0633"
+    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -49,13 +55,13 @@
     "woe:name_adm1":"West Bank",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85681427,
         1159339487,
         102191569,
         85633739,
         101922245,
         136253049,
         421200701,
+        85681427,
         85632315
     ],
     "wof:breaches":[],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1126079735,
-    "wof:lastmodified":1549929929,
+    "wof:lastmodified":1564087973,
     "wof:name":"Abu Dis",
     "wof:parent_id":101922245,
     "wof:placetype":"neighbourhood",

@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0444\u0438\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1292939511,
-    "wof:lastmodified":1549929699,
+    "wof:lastmodified":1564087839,
     "wof:name":"Yafit",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

@@ -29,11 +29,47 @@
     "mps:longitude":35.316999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bcl_x_preferred":[
+        "Bethlehem"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06d5\u06cc\u062a \u0644\u06d5\u062d\u0645"
+    ],
     "name:eng_x_preferred":[
         "Bethlehem"
     ],
     "name:eng_x_variant":[
         "Bethlehem"
+    ],
+    "name:est_x_preferred":[
+        "Petlemm"
+    ],
+    "name:grn_x_preferred":[
+        "Vel\u1ebd"
+    ],
+    "name:ind_x_preferred":[
+        "Betlehem"
+    ],
+    "name:lat_x_preferred":[
+        "Bethleem"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d46\u0d24\u0d4d\u200c\u0d32\u0d39\u0d47\u0d02"
+    ],
+    "name:nor_x_preferred":[
+        "Betlehem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0444\u043b\u0435\u0435\u043c"
+    ],
+    "name:swa_x_preferred":[
+        "Bethlehemu"
+    ],
+    "name:uzb_x_preferred":[
+        "Bifleem"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u5229\u6046"
     ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
@@ -88,7 +124,7 @@
         }
     ],
     "wof:id":1091912933,
-    "wof:lastmodified":1553717978,
+    "wof:lastmodified":1564087881,
     "wof:name":"Bethlehem",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u044f"
+    ],
     "name:und_x_variant":[
         "Nahal Kallia",
         "Kalya",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1243009987,
-    "wof:lastmodified":1549929909,
+    "wof:lastmodified":1564087985,
     "wof:name":"Nahal Kalya",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

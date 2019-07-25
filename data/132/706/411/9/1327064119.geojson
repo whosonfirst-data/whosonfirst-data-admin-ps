@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "\u2018Enav"
     ],
+    "name:yid_x_preferred":[
+        "\u05e2\u05d9\u05e0\u05d1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1327064119,
-    "wof:lastmodified":1549929912,
+    "wof:lastmodified":1564087823,
     "wof:name":"`Enav",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

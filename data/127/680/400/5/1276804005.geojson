@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Allon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1276804005,
-    "wof:lastmodified":1549929915,
+    "wof:lastmodified":1564087844,
     "wof:name":"Allon",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

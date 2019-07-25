@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Rechan"
+    ],
     "name:und_x_variant":[
         "Na\u1e96al Reyhan",
         "Rehan"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1343298589,
-    "wof:lastmodified":1549929676,
+    "wof:lastmodified":1564087834,
     "wof:name":"Rehan",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

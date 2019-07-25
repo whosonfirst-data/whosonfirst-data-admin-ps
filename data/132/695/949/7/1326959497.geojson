@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Az-Zajtuna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1326959497,
-    "wof:lastmodified":1549929912,
+    "wof:lastmodified":1564087826,
     "wof:name":"Al-Zaitounah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

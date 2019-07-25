@@ -25,6 +25,18 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Al-Qatif"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d24\u0d40\u0d2b\u0d4d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0442\u0438\u0444"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u63d0\u592b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681213,
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1292942857,
-    "wof:lastmodified":1549928882,
+    "wof:lastmodified":1564087839,
     "wof:name":"Qatif",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

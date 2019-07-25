@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Tomer"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1309835507,
-    "wof:lastmodified":1549929663,
+    "wof:lastmodified":1564087957,
     "wof:name":"Tomer",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

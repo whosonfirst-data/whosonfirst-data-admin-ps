@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Mattitjahu"
+    ],
     "name:und_x_variant":[
         "Mattiyahu",
         "Mattityahu"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226082365,
-    "wof:lastmodified":1549930447,
+    "wof:lastmodified":1564088001,
     "wof:name":"Mattityahu",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

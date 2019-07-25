@@ -25,6 +25,12 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Kfar Etzion"
+    ],
+    "name:swe_x_preferred":[
+        "Kfar Etzion"
+    ],
     "name:und_x_variant":[
         "Kfar-Etsion",
         "Kefar Etzion",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1293129353,
-    "wof:lastmodified":1549929756,
+    "wof:lastmodified":1564087840,
     "wof:name":"Kefar `Ezyon",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

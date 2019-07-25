@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0410\u0434\u0443\u043c\u0438\u043c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209350499,
-    "wof:lastmodified":1549929884,
+    "wof:lastmodified":1564087853,
     "wof:name":"Kefar Adummim",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

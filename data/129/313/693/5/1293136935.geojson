@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Mevo horon"
+    ],
     "name:und_x_variant":[
         "Modi\u2019in",
         "Mevo Horan",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293136935,
-    "wof:lastmodified":1549930515,
+    "wof:lastmodified":1564087841,
     "wof:name":"Mevo Horon",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

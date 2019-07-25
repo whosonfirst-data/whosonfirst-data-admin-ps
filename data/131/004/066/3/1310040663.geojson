@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0446\u043f\u0435-\u0428\u0430\u043b\u0435\u043c"
+    ],
     "name:und_x_variant":[
         "Mitzpe-Shalom",
         "Mitspe-Chalem",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1310040663,
-    "wof:lastmodified":1549929570,
+    "wof:lastmodified":1564087871,
     "wof:name":"Mizpe Shalem",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

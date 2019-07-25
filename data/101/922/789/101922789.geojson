@@ -25,6 +25,9 @@
     "name:pol_x_preferred":[
         "Birajn"
     ],
+    "name:vie_x_preferred":[
+        "Birin"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101922789,
-    "wof:lastmodified":1549929852,
+    "wof:lastmodified":1564087914,
     "wof:name":"Birin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

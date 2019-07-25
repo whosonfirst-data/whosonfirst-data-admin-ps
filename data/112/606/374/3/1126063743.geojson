@@ -67,6 +67,9 @@
     "name:fra_x_preferred":[
         "J\u00e9rusalem-Est"
     ],
+    "name:grn_x_preferred":[
+        "Kuarahyres\u1ebd Herusal\u1ebd"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d6\u05e8\u05d7 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
     ],
@@ -175,11 +178,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":1126063743,
-    "wof:lastmodified":1549930551,
+    "wof:lastmodified":1564087972,
     "wof:name":"East Jerusalem",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

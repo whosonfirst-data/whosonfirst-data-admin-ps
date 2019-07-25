@@ -29,11 +29,38 @@
     "mps:longitude":35.206866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u043b\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Ramallah"
+    ],
     "name:eng_x_preferred":[
         "Ramallah and Al-Bireh"
     ],
     "name:eng_x_variant":[
         "Ramallah and Al-Bireh"
+    ],
+    "name:glg_x_preferred":[
+        "Ramala"
+    ],
+    "name:isl_x_preferred":[
+        "Ramallah"
+    ],
+    "name:ltz_x_preferred":[
+        "Ramallah"
+    ],
+    "name:oci_x_preferred":[
+        "Ramallah"
+    ],
+    "name:sco_x_preferred":[
+        "Ramallah"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e2d\u0e21\u0e31\u0e25\u0e25\u0e2d\u0e2e\u0e4c"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u59c6\u5b89\u62c9"
     ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
@@ -88,7 +115,7 @@
         }
     ],
     "wof:id":1091913137,
-    "wof:lastmodified":1553717982,
+    "wof:lastmodified":1564087884,
     "wof:name":"Ramallah",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quzah"
+    ],
     "name:und_x_variant":[
         "K\u016bza",
         "Khirbet Q\u016bza",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1260014073,
-    "wof:lastmodified":1549929657,
+    "wof:lastmodified":1564087858,
     "wof:name":"Quzah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

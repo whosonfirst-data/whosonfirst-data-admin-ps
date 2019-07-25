@@ -35,6 +35,12 @@
     "name:eng_x_variant":[
         "Salfit"
     ],
+    "name:kor_x_preferred":[
+        "\uc0b4\ud53c\ud2b8"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u0641\u06cc\u062a"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1091913173,
-    "wof:lastmodified":1553717979,
+    "wof:lastmodified":1564087886,
     "wof:name":"Salfit",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

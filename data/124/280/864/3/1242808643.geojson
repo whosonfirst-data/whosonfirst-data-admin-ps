@@ -25,6 +25,9 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Beracha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1242808643,
-    "wof:lastmodified":1549929883,
+    "wof:lastmodified":1564087988,
     "wof:name":"Berakha",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

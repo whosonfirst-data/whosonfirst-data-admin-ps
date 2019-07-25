@@ -29,6 +29,9 @@
     "name:und_x_variant":[
         "Yi\u1e95har"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u062a\u0638\u06c1\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1293323957,
-    "wof:lastmodified":1549929905,
+    "wof:lastmodified":1564087842,
     "wof:name":"Yizhar",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",
