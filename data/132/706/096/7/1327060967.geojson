@@ -26,6 +26,18 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "E\u0161kolot"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e9\u05db\u05d5\u05dc\u05d5\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Eshkolot"
+    ],
+    "name:pol_x_preferred":[
+        "Eszkolot"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0448\u043a\u043e\u043b\u043e\u0442"
     ],
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1327060967,
-    "wof:lastmodified":1564087822,
+    "wof:lastmodified":1564099545,
     "wof:name":"Eshkolot",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

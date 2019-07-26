@@ -23,8 +23,14 @@
         "\u015e\u0101f\u0101",
         "\u0635\u0627\u0641\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Safa"
+    ],
     "name:deu_x_preferred":[
         "Safa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0641\u0627"
     ],
     "name:msa_x_preferred":[
         "Safa"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":101922575,
-    "wof:lastmodified":1564087902,
+    "wof:lastmodified":1564099628,
     "wof:name":"Safa",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

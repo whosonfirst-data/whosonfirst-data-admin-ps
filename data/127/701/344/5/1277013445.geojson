@@ -25,8 +25,29 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vered Yeriho"
+    ],
+    "name:ces_x_preferred":[
+        "Vered Jericho"
+    ],
+    "name:fra_x_preferred":[
+        "Vered Yeriho"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05d3 \u05d9\u05e8\u05d9\u05d7\u05d5"
+    ],
+    "name:nno_x_preferred":[
+        "Vered Yeriho"
+    ],
+    "name:pol_x_preferred":[
+        "Wered Jericho"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0435\u0434-\u0419\u0435\u0440\u0438\u0445\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Vered Yeriho"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1277013445,
-    "wof:lastmodified":1564087844,
+    "wof:lastmodified":1564099566,
     "wof:name":"Vered Yeriho",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

@@ -25,8 +25,26 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mitzpe Shalem"
+    ],
+    "name:ces_x_preferred":[
+        "Micpe \u0160alem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e6\u05e4\u05d4 \u05e9\u05dc\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Mitzpe Shalem"
+    ],
+    "name:pol_x_preferred":[
+        "Micpe Szalem"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0446\u043f\u0435-\u0428\u0430\u043b\u0435\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Mitzpe Shalem"
     ],
     "name:und_x_variant":[
         "Mitzpe-Shalom",
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":1310040663,
-    "wof:lastmodified":1564087871,
+    "wof:lastmodified":1564099596,
     "wof:name":"Mizpe Shalem",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -25,8 +25,32 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Halamish"
+    ],
+    "name:ces_x_preferred":[
+        "Chalami\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Chalamisch"
+    ],
+    "name:fra_x_preferred":[
+        "Halamish"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d5\u05d4 \u05e6\u05d5\u05e3"
+    ],
+    "name:nno_x_preferred":[
+        "Halamish"
+    ],
+    "name:pol_x_preferred":[
+        "Challamisz"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043b\u0430\u043c\u0438\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Halamish"
     ],
     "name:und_x_variant":[
         "H\u0331allamish"
@@ -69,7 +93,7 @@
         }
     ],
     "wof:id":1209652091,
-    "wof:lastmodified":1564087848,
+    "wof:lastmodified":1564099571,
     "wof:name":"Hallamish",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

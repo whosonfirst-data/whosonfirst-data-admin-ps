@@ -25,6 +25,12 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Rotem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05ea\u05dd"
+    ],
     "name:pol_x_preferred":[
         "Rotem"
     ],
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1226579401,
-    "wof:lastmodified":1564087998,
+    "wof:lastmodified":1564099737,
     "wof:name":"Rotem",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

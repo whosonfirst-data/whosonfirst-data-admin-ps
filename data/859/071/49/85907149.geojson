@@ -30,6 +30,9 @@
     "name:ces_x_preferred":[
         "Sur Bahir"
     ],
+    "name:ces_x_variant":[
+        "S\u00far B\u00e1hir"
+    ],
     "name:eng_x_preferred":[
         "Sur Baher"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:pol_x_preferred":[
         "Sur Baher"
+    ],
+    "name:pol_x_variant":[
+        "Sur Bahir"
     ],
     "name:unk_x_variant":[
         "Sur Baher"
@@ -103,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564087836,
+    "wof:lastmodified":1564099558,
     "wof:name":"Sur Baher",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

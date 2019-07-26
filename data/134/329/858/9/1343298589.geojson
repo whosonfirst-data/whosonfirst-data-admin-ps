@@ -26,6 +26,15 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Rejchan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d7\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Reihan"
+    ],
     "name:pol_x_preferred":[
         "Rechan"
     ],
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1343298589,
-    "wof:lastmodified":1564087834,
+    "wof:lastmodified":1564099556,
     "wof:name":"Rehan",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

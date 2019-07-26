@@ -25,6 +25,12 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Telem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc\u05dd"
+    ],
     "name:pol_x_preferred":[
         "Telem"
     ],
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1344192059,
-    "wof:lastmodified":1564087834,
+    "wof:lastmodified":1564099556,
     "wof:name":"Telem",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

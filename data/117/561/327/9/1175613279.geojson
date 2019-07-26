@@ -31,6 +31,9 @@
     "name:fin_x_preferred":[
         "Suba"
     ],
+    "name:hun_x_preferred":[
+        "Suba"
+    ],
     "name:ita_x_preferred":[
         "Suba"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Suba"
     ],
     "name:swe_x_preferred":[
         "Suba"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1175613279,
-    "wof:lastmodified":1549929612,
+    "wof:lastmodified":1564099589,
     "wof:name":"Suba",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

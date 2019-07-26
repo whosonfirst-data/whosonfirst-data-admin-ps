@@ -26,6 +26,18 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u0631\u0634\u0627\u064a\u062f\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "'Arab al-Rashayida"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e8\u05d1 \u05d0\u05dc \u05e8\u05d0\u05e9\u05d9\u05d3\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "'Arab al-Rashayida"
+    ],
     "name:pol_x_preferred":[
         "Arab ar-Raszajda"
     ],
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":1260115109,
-    "wof:lastmodified":1564087859,
+    "wof:lastmodified":1564099583,
     "wof:name":"al Rashaydeh",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Netafim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d8\u05e4\u05d9\u05dd"
+    ],
+    "name:lat_x_preferred":[
+        "Netafim"
+    ],
+    "name:nor_x_preferred":[
+        "Netafim"
+    ],
+    "name:ukr_x_preferred":[
+        "Netafim"
+    ],
     "name:vie_x_preferred":[
         "Netafim"
     ],
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1310634533,
-    "wof:lastmodified":1564087870,
+    "wof:lastmodified":1564099594,
     "wof:name":"Netafim",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

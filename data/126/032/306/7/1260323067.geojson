@@ -25,6 +25,24 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nahliel"
+    ],
+    "name:ces_x_preferred":[
+        "Nachali'el"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Nahliel"
+    ],
+    "name:pol_x_preferred":[
+        "Nachali\u2019el"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0445\u043b\u0438\u044d\u043b\u044c"
+    ],
     "name:swe_x_preferred":[
         "Nahliel"
     ],
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":1260323067,
-    "wof:lastmodified":1564087860,
+    "wof:lastmodified":1564099584,
     "wof:name":"Nahali'el",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

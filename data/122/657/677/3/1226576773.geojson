@@ -25,8 +25,29 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tekoa"
+    ],
+    "name:ces_x_preferred":[
+        "Tekoa"
+    ],
+    "name:deu_x_preferred":[
+        "Tekoa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05e7\u05d5\u05e2"
+    ],
+    "name:ind_x_preferred":[
+        "Tekoa"
+    ],
+    "name:pol_x_preferred":[
+        "Tekoa"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043a\u043e\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tekoa"
     ],
     "name:und_x_variant":[
         "Tequa",
@@ -71,7 +92,7 @@
         }
     ],
     "wof:id":1226576773,
-    "wof:lastmodified":1564087998,
+    "wof:lastmodified":1564099737,
     "wof:name":"Tekoa",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

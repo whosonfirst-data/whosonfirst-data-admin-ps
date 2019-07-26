@@ -25,6 +25,24 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shilat"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160ilat"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05dc\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Shilat"
+    ],
+    "name:pol_x_preferred":[
+        "Szilat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043b\u0430\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1326964079,
-    "wof:lastmodified":1549930471,
+    "wof:lastmodified":1564099551,
     "wof:name":"Shilat",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",
