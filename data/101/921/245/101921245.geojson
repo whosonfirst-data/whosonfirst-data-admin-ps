@@ -17,6 +17,18 @@
     "mps:longitude":35.051852,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kafa"
+    ],
+    "name:ceb_x_preferred":[
+        "Kafa"
+    ],
+    "name:swe_x_preferred":[
+        "Kafa"
+    ],
+    "name:tur_x_preferred":[
+        "Kafa"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":101921245,
-    "wof:lastmodified":1549929803,
+    "wof:lastmodified":1564099670,
     "wof:name":"Kafa",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

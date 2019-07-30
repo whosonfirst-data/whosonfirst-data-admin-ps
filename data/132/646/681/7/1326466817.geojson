@@ -26,6 +26,18 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Tomer"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d5\u05de\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Tomer"
+    ],
+    "name:pol_x_preferred":[
+        "Tomer"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1326466817,
-    "wof:lastmodified":1549929694,
+    "wof:lastmodified":1564099550,
     "wof:name":"Tomer",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

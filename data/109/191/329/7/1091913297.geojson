@@ -29,10 +29,94 @@
     "mps:longitude":34.444478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:als_x_preferred":[
+        "Gaza"
+    ],
+    "name:bos_x_preferred":[
+        "Gaza"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0437\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Gaza"
+    ],
+    "name:ceb_x_preferred":[
+        "Gaza"
+    ],
+    "name:dan_x_preferred":[
+        "Gaza"
+    ],
+    "name:deu_x_preferred":[
+        "Gaza"
+    ],
     "name:eng_x_preferred":[
         "Gaza"
     ],
     "name:eng_x_variant":[
+        "Gaza"
+    ],
+    "name:epo_x_preferred":[
+        "Gazao"
+    ],
+    "name:eus_x_preferred":[
+        "Gaza"
+    ],
+    "name:fin_x_preferred":[
+        "Gaza"
+    ],
+    "name:fra_x_preferred":[
+        "Gaza"
+    ],
+    "name:frr_x_preferred":[
+        "Gaza"
+    ],
+    "name:gla_x_preferred":[
+        "Gaza"
+    ],
+    "name:glg_x_preferred":[
+        "Gaza"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d6\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Gaza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30b6"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\uc790"
+    ],
+    "name:nld_x_preferred":[
+        "Gaza"
+    ],
+    "name:nor_x_preferred":[
+        "Gaza"
+    ],
+    "name:pol_x_preferred":[
+        "Gaza"
+    ],
+    "name:por_x_preferred":[
+        "Gaza"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0437\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Gaza"
+    ],
+    "name:spa_x_preferred":[
+        "Gaza"
+    ],
+    "name:swe_x_preferred":[
+        "Gaza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0437\u0430"
+    ],
+    "name:vie_x_preferred":[
         "Gaza"
     ],
     "src:geom":"whosonfirst",
@@ -88,7 +172,7 @@
         }
     ],
     "wof:id":1091913297,
-    "wof:lastmodified":1553717978,
+    "wof:lastmodified":1564099610,
     "wof:name":"Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

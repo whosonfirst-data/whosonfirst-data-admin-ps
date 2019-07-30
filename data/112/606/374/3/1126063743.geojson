@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Xerusal\u00e9n Este"
+    ],
     "name:aze_x_preferred":[
         "\u015e\u0259rqi Q\u00fcds"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:cat_x_preferred":[
         "Jerusalem Est"
+    ],
+    "name:ceb_x_preferred":[
+        "East Jerusalem"
     ],
     "name:ces_x_preferred":[
         "V\u00fdchodn\u00ed Jeruzal\u00e9m"
@@ -64,14 +70,26 @@
     "name:fas_x_preferred":[
         "\u0642\u062f\u0633 \u0634\u0631\u0642\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u062a\u200c\u0627\u0644\u0645\u0642\u062f\u0633 \u0634\u0631\u0642\u06cc"
+    ],
     "name:fra_x_preferred":[
         "J\u00e9rusalem-Est"
+    ],
+    "name:grn_x_preferred":[
+        "Kuarahyres\u1ebd Herusal\u1ebd"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d6\u05e8\u05d7 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u0942\u0930\u094d\u0935 \u092f\u0930\u0941\u0936\u0932\u092e"
+    ],
     "name:hrv_x_preferred":[
         "Isto\u010dni Jeruzalem"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0587\u0565\u056c\u0575\u0561\u0576 \u0535\u0580\u0578\u0582\u057d\u0561\u0572\u0565\u0574"
     ],
     "name:ind_x_preferred":[
         "Yerusalem Timur"
@@ -127,6 +145,9 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
     ],
+    "name:sco_x_preferred":[
+        "East Jerusalem"
+    ],
     "name:spa_x_preferred":[
         "Jerusal\u00e9n Este"
     ],
@@ -157,6 +178,9 @@
     "name:vie_x_preferred":[
         "\u0110\u00f4ng Jerusalem"
     ],
+    "name:yid_x_preferred":[
+        "\u05de\u05d6\u05e8\u05d7 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
+    ],
     "name:zho_x_preferred":[
         "\u4e1c\u8036\u8def\u6492\u51b7"
     ],
@@ -175,11 +199,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -200,7 +224,7 @@
         }
     ],
     "wof:id":1126063743,
-    "wof:lastmodified":1549930551,
+    "wof:lastmodified":1564099707,
     "wof:name":"East Jerusalem",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

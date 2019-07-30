@@ -20,6 +20,18 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Kafa"
+    ],
+    "name:ceb_x_preferred":[
+        "Kafa"
+    ],
+    "name:swe_x_preferred":[
+        "Kafa"
+    ],
+    "name:tur_x_preferred":[
+        "Kafa"
+    ],
     "name:unk_x_variant":[
         "Kaf\u0101"
     ],
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":101921255,
-    "wof:lastmodified":1549929803,
+    "wof:lastmodified":1564099681,
     "wof:name":"Kafa",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "\u0160admot Mechola"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05de\u05d5\u05ea \u05de\u05d7\u05d5\u05dc\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Shadmot Mehola"
+    ],
+    "name:pol_x_preferred":[
+        "Szadmot Mechola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1343992573,
-    "wof:lastmodified":1549929911,
+    "wof:lastmodified":1564099552,
     "wof:name":"Shadmot Mehola",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

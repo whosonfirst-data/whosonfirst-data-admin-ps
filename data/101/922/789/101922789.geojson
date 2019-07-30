@@ -22,8 +22,14 @@
     "name:ara_x_variant":[
         "B\u012br\u012bn"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0646"
+    ],
     "name:pol_x_preferred":[
         "Birajn"
+    ],
+    "name:vie_x_preferred":[
+        "Birin"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":101922789,
-    "wof:lastmodified":1549929852,
+    "wof:lastmodified":1564099640,
     "wof:name":"Birin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

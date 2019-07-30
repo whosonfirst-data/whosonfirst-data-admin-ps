@@ -25,6 +25,33 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0648\u062d"
+    ],
+    "name:deu_x_preferred":[
+        "Manoach"
+    ],
+    "name:fra_x_preferred":[
+        "Manoach"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d5\u05d7"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1n\u00f3ah"
+    ],
+    "name:ind_x_preferred":[
+        "Manoah"
+    ],
+    "name:pol_x_preferred":[
+        "Manoach"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u043e\u0430\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Manoa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1276266071,
-    "wof:lastmodified":1549929774,
+    "wof:lastmodified":1564099566,
     "wof:name":"Manoah",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

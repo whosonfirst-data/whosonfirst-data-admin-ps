@@ -25,6 +25,12 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Menora"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d5\u05e8\u05d4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243298353,
-    "wof:lastmodified":1549930521,
+    "wof:lastmodified":1564099729,
     "wof:name":"Menora",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

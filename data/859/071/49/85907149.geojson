@@ -30,6 +30,9 @@
     "name:ces_x_preferred":[
         "Sur Bahir"
     ],
+    "name:ces_x_variant":[
+        "S\u00far B\u00e1hir"
+    ],
     "name:eng_x_preferred":[
         "Sur Baher"
     ],
@@ -42,8 +45,14 @@
     "name:pol_x_preferred":[
         "Sur Baher"
     ],
+    "name:pol_x_variant":[
+        "Sur Bahir"
+    ],
     "name:unk_x_variant":[
         "Sur Baher"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0631 \u0628\u0627\u06c1\u0631"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -72,11 +81,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930547,
+    "wof:lastmodified":1564099558,
     "wof:name":"Sur Baher",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

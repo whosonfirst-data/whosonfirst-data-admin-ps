@@ -25,11 +25,35 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Abasan al-Saghira"
+    ],
+    "name:deu_x_preferred":[
+        "Abasan as-Saghira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u0635\u063a\u06cc\u0631\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Abasan al-Saghira"
+    ],
+    "name:nor_x_preferred":[
+        "Abasan al-Saghira"
+    ],
+    "name:pol_x_preferred":[
+        "Abasan as-Saghira"
+    ],
     "name:und_x_variant":[
         "'Abasan al-Saghir",
         "Abasan al-Sa'ir",
         "Abasan Jadeda",
         "Abasan al-Jadida"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u0635\u063a\u06cc\u0631\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +93,7 @@
         }
     ],
     "wof:id":1226273621,
-    "wof:lastmodified":1549928935,
+    "wof:lastmodified":1564099734,
     "wof:name":"Abasan al-Saghira",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

@@ -25,6 +25,108 @@
     "iso:country":"PS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u064a\u0641"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u064a\u0641"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0637\u06cc\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "Qatif"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Qatif"
+    ],
+    "name:epo_x_preferred":[
+        "Katif"
+    ],
+    "name:eus_x_preferred":[
+        "Al-Qatif"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0637\u06cc\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Al-Qatif"
+    ],
+    "name:fra_x_preferred":[
+        "Qatif"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d8\u05d9\u05e3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0915\u093c\u0924\u0940\u092b\u093c"
+    ],
+    "name:hrv_x_preferred":[
+        "Katif"
+    ],
+    "name:ind_x_preferred":[
+        "Qatif"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c6\u30a3\u30fc\u30d5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e5\u10d0\u10e2\u10d8\u10e4\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u04d8\u043b-\u049a\u0430\u0442\u0438\u0444"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ud2f0\ud504"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d24\u0d40\u0d2b\u0d4d"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0642\u0637\u06cc\u0641"
+    ],
+    "name:nno_x_preferred":[
+        "Qatif"
+    ],
+    "name:nor_x_preferred":[
+        "Qatif"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Katif"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u0442\u0438\u0444"
+    ],
+    "name:sco_x_preferred":[
+        "Qatif"
+    ],
+    "name:slv_x_preferred":[
+        "Katif"
+    ],
+    "name:spa_x_preferred":[
+        "Qatif"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0442\u0438\u0444"
+    ],
+    "name:tgl_x_preferred":[
+        "Qatif"
+    ],
+    "name:tur_x_preferred":[
+        "Katif"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0430\u0442\u0456\u0444"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0637\u06cc\u0641"
+    ],
+    "name:vie_x_preferred":[
+        "Qatif"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u63d0\u592b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681213,
@@ -62,7 +164,7 @@
         }
     ],
     "wof:id":1292942857,
-    "wof:lastmodified":1549928882,
+    "wof:lastmodified":1564099561,
     "wof:name":"Qatif",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

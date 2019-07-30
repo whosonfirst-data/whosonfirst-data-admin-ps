@@ -23,14 +23,23 @@
         "\u015e\u0101f\u0101",
         "\u0635\u0627\u0641\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Safa"
+    ],
     "name:deu_x_preferred":[
         "Safa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0641\u0627"
     ],
     "name:msa_x_preferred":[
         "Safa"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0444\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Safa"
     ],
     "name:unk_x_variant":[
         "Khirbat \u015e\u0101fah"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":101922575,
-    "wof:lastmodified":1549929826,
+    "wof:lastmodified":1564099628,
     "wof:name":"Safa",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
