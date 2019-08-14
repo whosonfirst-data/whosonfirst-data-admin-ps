@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "West Bank District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WE"
+    ],
     "lbl:latitude":32.137497,
     "lbl:longitude":35.264298,
     "meso:name_local":"West Bank",
@@ -496,7 +499,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563247447,
+    "wof:lastmodified":1565733650,
     "wof:name":"West Bank",
     "wof:parent_id":1159339487,
     "wof:placetype":"region",

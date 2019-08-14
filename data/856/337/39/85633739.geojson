@@ -14,6 +14,9 @@
     "itu:country_code":[
         "970"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PS"
+    ],
     "lbl:latitude":32.132392,
     "lbl:longitude":35.262925,
     "mps:latitude":32.132392,
@@ -806,7 +809,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563247443,
+    "wof:lastmodified":1565733649,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
