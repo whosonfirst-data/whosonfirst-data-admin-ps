@@ -9,20 +9,23 @@
     "geom:bbox":"35.13678,31.83886,35.13678,31.83886",
     "geom:latitude":31.83886,
     "geom:longitude":35.13678,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2008,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":2008,
     "iso:country":"PS",
+    "lbl:bbox":"35.11678,31.81886,35.15678,31.85886",
     "lbl:latitude":31.83886,
     "lbl:longitude":35.13678,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0628\u064a\u0628\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qubeiba"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":124007,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125825149,
-    "wof:lastmodified":1549929744,
+    "wof:lastmodified":1566600646,
     "wof:name":"Al Qubaybah",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

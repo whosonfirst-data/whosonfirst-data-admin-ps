@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.560391,
     "lbl:longitude":34.473648,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":31.560391,
     "mps:longitude":34.473648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u0627\u0647\u064a\u0627"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":31.5539,
     "wd:longitude":34.501381,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101919481,
-    "wof:lastmodified":1563247840,
+    "wof:lastmodified":1566600573,
     "wof:name":"Beit Lahiya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

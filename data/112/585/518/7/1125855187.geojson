@@ -9,15 +9,18 @@
     "geom:bbox":"35.0654,31.86958,35.0654,31.86958",
     "geom:latitude":31.86958,
     "geom:longitude":35.0654,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7795,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":7795,
     "iso:country":"PS",
+    "lbl:bbox":"35.0454,31.84958,35.0854,31.88958",
     "lbl:latitude":31.86958,
     "lbl:longitude":35.0654,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u0642\u064a\u0627"
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Bajt Likja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Likia"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":123980,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125855187,
-    "wof:lastmodified":1563248088,
+    "wof:lastmodified":1566600648,
     "wof:name":"Bayt Liqy\u0101",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

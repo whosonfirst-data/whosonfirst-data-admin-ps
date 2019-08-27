@@ -11,8 +11,10 @@
     "geom:longitude":35.233208,
     "gn:id":"",
     "iso:country":"PS",
+    "lbl:bbox":"35.228208,31.78147,35.238208,31.79147",
     "lbl:latitude":31.78647,
     "lbl:longitude":35.233208,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.786198,
     "mps:longitude":35.233429,
     "mz:hierarchy_label":0,
@@ -102,9 +104,6 @@
     "name:tam_x_preferred":[
         "\u0b87\u0b9a\u0bc1\u0bb2\u0bbe\u0bae\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
-    "name:unk_x_variant":[
-        "Moslem Quarter"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0633\u0644\u0645 \u0645\u062d\u0644\u06c1"
     ],
@@ -136,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":31.780833,
     "wd:longitude":35.2325,
     "wd:wordcount":344,
@@ -150,7 +149,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724639,
-        "qs:id":237760,
         "qs_pg:id":237760,
         "wd:id":"Q1781931"
     },
@@ -170,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563247438,
+    "wof:lastmodified":1566600426,
     "wof:name":"Moslem Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

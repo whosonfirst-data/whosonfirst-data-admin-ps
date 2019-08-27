@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.11819,
     "lbl:longitude":35.172247,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.11819,
     "mps:longitude":35.172247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u064a\u0631\u0629"
     ],
@@ -38,7 +41,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0438\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qire"
     ],
     "qs:a0":"Palestine",
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":17,
     "wof:belongsto":[
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":282342,
         "gp:id":1937300,
-        "qs:id":79615,
+        "qs_pg:id":79615,
         "wd:id":"Q7267910"
     },
     "wof:country":"PS",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101921623,
-    "wof:lastmodified":1563247941,
+    "wof:lastmodified":1566600607,
     "wof:name":"Qira",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

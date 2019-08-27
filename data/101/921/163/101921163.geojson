@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.328438,
     "lbl:longitude":35.101732,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.328438,
     "mps:longitude":35.101732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0639\u0627"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":32.333167,
     "wd:longitude":35.108653,
     "wd:wordcount":980,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101921163,
-    "wof:lastmodified":1563247930,
+    "wof:lastmodified":1566600603,
     "wof:name":"Bal'a",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

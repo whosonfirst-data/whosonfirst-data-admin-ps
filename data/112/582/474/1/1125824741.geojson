@@ -9,20 +9,23 @@
     "geom:bbox":"35.19102,32.46248,35.19102,32.46248",
     "geom:latitude":32.46248,
     "geom:longitude":35.19102,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":365,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":365,
     "iso:country":"PS",
+    "lbl:bbox":"35.17102,32.44248,35.21102,32.48248",
     "lbl:latitude":32.46248,
     "lbl:longitude":35.19102,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0631\u0645"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat e\u1e6d \u1e6caram"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":79876,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125824741,
-    "wof:lastmodified":1549929724,
+    "wof:lastmodified":1566600645,
     "wof:name":"A\u0163 \u0162arm",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.244554,
     "lbl:longitude":35.065354,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.244554,
     "mps:longitude":35.065354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0635\u0648\u0631"
     ],
@@ -44,9 +47,6 @@
     "name:pol_x_preferred":[
         "Kafr Sur"
     ],
-    "name:unk_x_variant":[
-        "Kafr \u015e\u016br"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -61,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -76,7 +76,7 @@
     "wof:concordances":{
         "gn:id":283353,
         "gp:id":1937300,
-        "qs:id":547065,
+        "qs_pg:id":547065,
         "wd:id":"Q6346216",
         "wk:page":"Kafr Sur"
     },
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1175613343,
-    "wof:lastmodified":1563247489,
+    "wof:lastmodified":1566600456,
     "wof:name":"Kafr Sur",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

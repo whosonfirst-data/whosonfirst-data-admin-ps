@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.857878,
     "lbl:longitude":35.132387,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":31.857878,
     "mps:longitude":35.132387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062f\u0642\u0648"
     ],
@@ -41,9 +44,6 @@
     "name:nno_x_preferred":[
         "Beit Duqqu"
     ],
-    "name:unk_x_variant":[
-        "Bayt Duqq\u016b"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -58,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.859167,
     "wd:longitude":35.128611,
@@ -76,7 +76,7 @@
     "wof:concordances":{
         "gn:id":284342,
         "gp:id":1937180,
-        "qs:id":79944,
+        "qs_pg:id":79944,
         "wd:id":"Q4881426",
         "wk:page":"Beit Duqqu"
     },
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":101922053,
-    "wof:lastmodified":1563247556,
+    "wof:lastmodified":1566600487,
     "wof:name":"Beit Duqqu",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

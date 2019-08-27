@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.429692,
     "lbl:longitude":35.271039,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.429692,
     "mps:longitude":35.271039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u062b\u0644\u062b \u0627\u0644\u0634\u0647\u062f\u0627\u0621"
     ],
@@ -35,7 +38,7 @@
     "name:nno_x_preferred":[
         "Ash-Shuhada"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Esh Shuhad\u0101"
     ],
     "qs:a0":"Palestine",
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":284598,
         "gp:id":1937299,
-        "qs:id":79955,
+        "qs_pg:id":79955,
         "wd:id":"Q4804344"
     },
     "wof:country":"PS",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101920955,
-    "wof:lastmodified":1561827612,
+    "wof:lastmodified":1566600521,
     "wof:name":"Ash Shuhada",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

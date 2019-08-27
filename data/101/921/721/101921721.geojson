@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.068426,
     "lbl:longitude":35.295552,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.068426,
     "mps:longitude":35.295552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0648\u062a"
     ],
@@ -35,7 +38,7 @@
     "name:nld_x_preferred":[
         "Qaryut"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuriyut"
     ],
     "qs:a0":"Palestine",
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.070928,
     "wd:longitude":35.294011,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":282423,
         "gp:id":1937300,
-        "qs:id":123934,
+        "qs_pg:id":123934,
         "wd:id":"Q7266899",
         "wk:page":"Qaryut"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101921721,
-    "wof:lastmodified":1563247968,
+    "wof:lastmodified":1566600615,
     "wof:name":"Qaryut",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":35.18552,
     "gn:id":"",
     "iso:country":"PS",
+    "lbl:bbox":"35.18052,31.726283,35.19052,31.736283",
     "lbl:latitude":31.731283,
     "lbl:longitude":35.18552,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.719638,
     "mps:longitude":35.186309,
     "mz:hierarchy_label":0,
@@ -93,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":31.731389,
     "wd:longitude":35.186389,
     "wd:wordcount":1745,
@@ -107,7 +109,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724706,
-        "qs:id":1087570,
+        "qs_pg:id":1087570,
         "wd:id":"Q1524664"
     },
     "wof:country":"PS",
@@ -126,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563247442,
+    "wof:lastmodified":1566600428,
     "wof:name":"Gilo",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

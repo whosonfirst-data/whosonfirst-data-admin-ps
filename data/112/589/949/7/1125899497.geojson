@@ -9,20 +9,23 @@
     "geom:bbox":"35.13235,31.40984,35.13235,31.40984",
     "geom:latitude":31.40984,
     "geom:longitude":35.13235,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":452,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":452,
     "iso:country":"PS",
+    "lbl:bbox":"35.11235,31.38984,35.15235,31.42984",
     "lbl:latitude":31.40984,
     "lbl:longitude":35.13235,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0639\u064a\u0646"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat M\u0101\u2018\u012bn"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":1155590,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125899497,
-    "wof:lastmodified":1549929771,
+    "wof:lastmodified":1566600637,
     "wof:name":"Ma\u2018\u012bn",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

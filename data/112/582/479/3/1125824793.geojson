@@ -9,15 +9,18 @@
     "geom:bbox":"35.18418,32.31934,35.18418,32.31934",
     "geom:latitude":32.31934,
     "geom:longitude":35.18418,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6079,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":6079,
     "iso:country":"PS",
+    "lbl:bbox":"35.16418,32.29934,35.20418,32.33934",
     "lbl:latitude":32.31934,
     "lbl:longitude":35.18418,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0629 \u0627\u0644\u0638\u0647\u0631"
@@ -43,7 +46,7 @@
     "name:pol_x_preferred":[
         "Silat az-Zahr"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saylat a\u1e11 \u1e10ahr"
     ],
     "qs_pg:aaroncc":"PS",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":123913,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125824793,
-    "wof:lastmodified":1563248065,
+    "wof:lastmodified":1566600642,
     "wof:name":"S\u012blat az\u0327 Z\u0327ahr",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

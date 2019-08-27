@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.458871,
     "lbl:longitude":35.091988,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":31.458871,
     "mps:longitude":35.091988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u064a\u0637\u0627"
     ],
@@ -97,7 +100,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101922853,
-    "wof:lastmodified":1563247595,
+    "wof:lastmodified":1566600506,
     "wof:name":"Yatta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.278716,
     "lbl:longitude":34.321773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.278716,
     "mps:longitude":34.321773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u062e\u0627\u0631\u064a"
     ],
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Al-Fukhari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Fukhare"
     ],
     "name:urd_x_preferred":[
@@ -60,7 +63,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":31.291111,
     "wd:longitude":34.330278,
     "wd:wordcount":320,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101920683,
-    "wof:lastmodified":1563247730,
+    "wof:lastmodified":1566600544,
     "wof:name":"Al Fukhari",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

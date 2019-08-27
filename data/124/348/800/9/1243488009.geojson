@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.05187,31.92465,35.09187,31.96465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u062b\u0627 \u0627\u0644\u0645\u0635\u0628\u0627\u062d"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1243488009,
-    "wof:lastmodified":1564099727,
+    "wof:lastmodified":1566600659,
     "wof:name":"Kharbatha al-Misbah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

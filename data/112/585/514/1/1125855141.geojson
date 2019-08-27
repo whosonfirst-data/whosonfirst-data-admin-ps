@@ -9,15 +9,18 @@
     "geom:bbox":"35.41516,32.45957,35.41516,32.45957",
     "geom:latitude":32.45957,
     "geom:longitude":35.41516,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2421,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":2421,
     "iso:country":"PS",
+    "lbl:bbox":"35.39516,32.43957,35.43516,32.47957",
     "lbl:latitude":32.45957,
     "lbl:longitude":35.41516,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062c\u0644\u0628\u0648\u0646"
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "D\u017calbun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gilbo\u2018a"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":123956,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125855141,
-    "wof:lastmodified":1563248092,
+    "wof:lastmodified":1566600649,
     "wof:name":"Jalb\u016bn",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"35.12348,31.66322,35.12348,31.66322",
     "geom:latitude":31.66322,
     "geom:longitude":35.12348,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":183,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":183,
     "iso:country":"PS",
+    "lbl:bbox":"35.10348,31.64322,35.14348,31.68322",
     "lbl:latitude":31.66322,
     "lbl:longitude":35.12348,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062e\u0644\u0629 \u0633\u0643\u0627\u0631\u064a\u0627"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat Bayt Zakar\u012by\u0101"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":547047,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125826643,
-    "wof:lastmodified":1549929745,
+    "wof:lastmodified":1566600646,
     "wof:name":"Khallat Sak\u0101ry\u0101",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

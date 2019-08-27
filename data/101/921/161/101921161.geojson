@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.331138,
     "lbl:longitude":35.114098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.331138,
     "mps:longitude":35.114098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0639\u0627"
     ],
@@ -34,7 +37,7 @@
     "name:pol_x_preferred":[
         "Bala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bal\u2018ah"
     ],
     "qs:a0":"Palestine",
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":32.333167,
     "wd:longitude":35.108653,
     "wd:wordcount":980,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101921161,
-    "wof:lastmodified":1563247875,
+    "wof:lastmodified":1566600584,
     "wof:name":"Bal'a",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

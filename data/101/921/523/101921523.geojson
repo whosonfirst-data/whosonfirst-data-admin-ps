@@ -13,14 +13,17 @@
     "iso:country":"PS",
     "lbl:latitude":32.161092,
     "lbl:longitude":35.01057,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":32.161092,
     "mps:longitude":35.01057,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0633 \u0627\u0644\u0637\u064a\u0631\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat Ras at Tira"
     ],
     "qs:a0":"Palestine",
@@ -37,7 +40,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":283091,
         "gp:id":1937157,
-        "qs:id":547036
+        "qs_pg:id":547036
     },
     "wof:country":"PS",
     "wof:geomhash":"ddd23540103218c87960cdf2baa67ccd",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101921523,
-    "wof:lastmodified":1549929823,
+    "wof:lastmodified":1566600617,
     "wof:name":"Ras at Tira",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

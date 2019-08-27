@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.341434,
     "lbl:longitude":35.304259,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.341434,
     "mps:longitude":35.304259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u062f\u064a\u062f\u0629"
     ],
@@ -138,7 +141,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":33.233333,
     "wd:longitude":-8.5,
     "wd:wordcount":930,
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1175613191,
-    "wof:lastmodified":1549929590,
+    "wof:lastmodified":1566600461,
     "wof:name":"Al Jadida",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

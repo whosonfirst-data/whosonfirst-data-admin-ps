@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.04965,31.63764,35.08965,31.67764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khirbat Deir an Nil",
         "Khirbat Deir en N\u012bl",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343994141,
-    "wof:lastmodified":1549929911,
+    "wof:lastmodified":1566600423,
     "wof:name":"Khirbat Dayr an Nil",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"35.44351,32.02509,35.44351,32.02509",
     "geom:latitude":32.02509,
     "geom:longitude":35.44351,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1064,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":1064,
     "iso:country":"PS",
+    "lbl:bbox":"35.42351,32.00509,35.46351,32.04509",
     "lbl:latitude":32.02509,
     "lbl:longitude":35.44351,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0635\u0627\u064a\u0644"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paza\u2019el"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":547121,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126043853,
-    "wof:lastmodified":1549929900,
+    "wof:lastmodified":1566600629,
     "wof:name":"Al Fa\u015f\u0101yil",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

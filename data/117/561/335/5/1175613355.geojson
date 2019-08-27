@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.963454,
     "lbl:longitude":35.212472,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":31.963454,
     "mps:longitude":35.212472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0641\u0646\u0627"
     ],
@@ -41,9 +44,6 @@
     "name:pol_x_preferred":[
         "D\u017cifna"
     ],
-    "name:unk_x_variant":[
-        "Jifn\u0101"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -58,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -73,7 +73,7 @@
     "wof:concordances":{
         "gn:id":283464,
         "gp:id":56123353,
-        "qs:id":203651,
+        "qs_pg:id":203651,
         "wd:id":"Q6192257",
         "wk:page":"Jifna"
     },
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1175613355,
-    "wof:lastmodified":1563247488,
+    "wof:lastmodified":1566600455,
     "wof:name":"Jifna",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

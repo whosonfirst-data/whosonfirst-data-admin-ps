@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.112287,
     "lbl:longitude":35.076432,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.112287,
     "mps:longitude":35.076432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u062f\u064a\u0627"
     ],
@@ -47,7 +50,7 @@
     "name:pol_x_preferred":[
         "Bidja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Biryah"
     ],
     "qs:a0":"Palestine",
@@ -64,7 +67,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.114167,
     "wd:longitude":35.0775,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":284271,
         "gp:id":56122487,
-        "qs:id":79043,
+        "qs_pg:id":79043,
         "wd:id":"Q2533232",
         "wk:page":"Biddya"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101921641,
-    "wof:lastmodified":1563247945,
+    "wof:lastmodified":1566600608,
     "wof:name":"Biddya",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

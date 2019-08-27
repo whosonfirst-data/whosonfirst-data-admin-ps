@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.915546,
     "lbl:longitude":35.161714,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":31.915546,
     "mps:longitude":35.161714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Ramallah"
     ],
@@ -322,7 +325,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -363,7 +366,7 @@
         }
     ],
     "wof:id":101921953,
-    "wof:lastmodified":1563247874,
+    "wof:lastmodified":1566600583,
     "wof:megacity":0,
     "wof:name":"Ramallah",
     "wof:parent_id":1091913137,

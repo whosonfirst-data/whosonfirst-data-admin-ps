@@ -9,20 +9,23 @@
     "geom:bbox":"35.03551,32.17326,35.03551,32.17326",
     "geom:latitude":32.17326,
     "geom:longitude":35.03551,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":845,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":845,
     "iso:country":"PS",
+    "lbl:bbox":"35.01551,32.15326,35.05551,32.19326",
     "lbl:latitude":32.17326,
     "lbl:longitude":35.03551,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0639\u0633\u0644\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Isla"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":79910,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125838983,
-    "wof:lastmodified":1549929753,
+    "wof:lastmodified":1566600656,
     "wof:name":"\u2018Aslah",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.546713,
     "lbl:longitude":34.509698,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gaza",
     "meso:gadm_admin":"Gaza ash Shamaliyah",
     "meso:gadm_hasc2":"PS.GZ.GS",
@@ -29,6 +31,7 @@
     "mps:longitude":34.509698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Gaza ash Shamaliyah"
     ],
@@ -40,10 +43,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-01",
+    "src:population_date":"2007-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-12-01",
     "statoids:capital":"Jabaliyah",
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":1091913267,
-    "wof:lastmodified":1553717978,
+    "wof:lastmodified":1566600470,
     "wof:name":"North Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

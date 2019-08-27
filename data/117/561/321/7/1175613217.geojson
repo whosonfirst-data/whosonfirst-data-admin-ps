@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.176092,
     "lbl:longitude":35.21803,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.176092,
     "mps:longitude":35.21803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0635\u064a\u0631\u0629 \u0627\u0644\u0642\u0628\u0644\u064a\u0629"
     ],
@@ -44,7 +47,7 @@
     "name:pol_x_preferred":[
         "Asira al-Kiblijja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kiblie"
     ],
     "qs:a0":"Palestine",
@@ -61,7 +64,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":284594,
         "gp:id":1937300,
-        "qs:id":79954,
+        "qs_pg:id":79954,
         "wd:id":"Q2896973",
         "wk:page":"Asira al-Qibliya"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1175613217,
-    "wof:lastmodified":1563247503,
+    "wof:lastmodified":1566600462,
     "wof:name":"'Asira al Qibliya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

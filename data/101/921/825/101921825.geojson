@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.987735,
     "lbl:longitude":35.040795,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.987735,
     "mps:longitude":35.040795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0634\u0642\u0628\u0627"
     ],
@@ -41,7 +44,7 @@
     "name:pol_x_preferred":[
         "Szukba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shuqbah"
     ],
     "qs:a0":"Palestine",
@@ -58,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.986944,
     "wd:longitude":35.038333,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":281808,
         "gp:id":1937300,
-        "qs:id":123915,
+        "qs_pg:id":123915,
         "wd:id":"Q2898432",
         "wk:page":"Shuqba"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101921825,
-    "wof:lastmodified":1563247946,
+    "wof:lastmodified":1566600608,
     "wof:name":"Shuqba",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

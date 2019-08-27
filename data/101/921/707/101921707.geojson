@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.072786,
     "lbl:longitude":35.181804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.072786,
     "mps:longitude":35.181804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0641\u064a\u062a"
     ],
@@ -74,9 +77,6 @@
     "name:tur_x_preferred":[
         "Salfit"
     ],
-    "name:unk_x_variant":[
-        "Salf\u012bt"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u0641\u06cc\u062a"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.081944,
     "wd:longitude":35.182222,
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":101921707,
-    "wof:lastmodified":1563247883,
+    "wof:lastmodified":1566600586,
     "wof:name":"Salfit",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

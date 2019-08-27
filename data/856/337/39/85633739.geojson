@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":32.132392,
     "lbl:longitude":35.262925,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":32.132392,
     "mps:longitude":35.262925,
     "mz:hierarchy_label":1,
@@ -755,7 +757,6 @@
         "meso",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"970",
@@ -790,7 +791,7 @@
         "ioc:id":"PLE",
         "m49:code":"275",
         "ne:adm0_a3":"PSX",
-        "qs:id":616321,
+        "qs_pg:id":616321,
         "wd:id":"Q219060"
     },
     "wof:country":"PS",
@@ -809,7 +810,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565733649,
+    "wof:lastmodified":1566600429,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

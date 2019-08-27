@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.610374,
     "lbl:longitude":35.223652,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":31.610374,
     "mps:longitude":35.223652,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "K\u012bs\u0101n"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -54,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7890392,
-        "qs:id":743887
+        "qs_pg:id":743887
     },
     "wof:country":"PS",
     "wof:geomhash":"abe3e74c663b36d89e5dd756575c0caa",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101922635,
-    "wof:lastmodified":1564087900,
+    "wof:lastmodified":1566600490,
     "wof:name":"Kisan",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

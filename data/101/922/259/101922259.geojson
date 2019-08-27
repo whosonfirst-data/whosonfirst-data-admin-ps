@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.757486,
     "lbl:longitude":35.283646,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":31.757486,
     "mps:longitude":35.283646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0628 \u0627\u0644\u062c\u0647\u0627\u0644\u064a\u0646"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":581,
     "wof:belongsto":[
@@ -79,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7890120,
-        "qs:id":743870,
+        "qs_pg:id":743870,
         "wd:id":"Q4540439"
     },
     "wof:country":"PS",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101922259,
-    "wof:lastmodified":1563247554,
+    "wof:lastmodified":1566600487,
     "wof:name":"'Arab al Jahalin",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

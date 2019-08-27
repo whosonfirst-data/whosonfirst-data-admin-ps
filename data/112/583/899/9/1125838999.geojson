@@ -9,15 +9,18 @@
     "geom:bbox":"35.22472,32.10361,35.22472,32.10361",
     "geom:latitude":32.10361,
     "geom:longitude":35.22472,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":902,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":902,
     "iso:country":"PS",
+    "lbl:bbox":"35.20472,32.08361,35.24472,32.12361",
     "lbl:latitude":32.10361,
     "lbl:longitude":35.22472,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Isk\u0101k\u0101"
@@ -44,7 +47,7 @@
     "name:nno_x_preferred":[
         "Iskaka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Isk\u0101kah"
     ],
     "qs_pg:aaroncc":"PS",
@@ -59,7 +62,7 @@
     "qs_pg:qs_id":79911,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125838999,
-    "wof:lastmodified":1563248118,
+    "wof:lastmodified":1566600656,
     "wof:name":"Isk\u0101k\u0101",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

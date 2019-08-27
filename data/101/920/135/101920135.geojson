@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.412644,
     "lbl:longitude":34.936737,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":31.412644,
     "mps:longitude":34.936737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0638\u0627\u0647\u0631\u064a\u0629"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":986,
     "wof:belongsto":[
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":284486,
         "gp:id":1937307,
-        "qs:id":1026704,
+        "qs_pg:id":1026704,
         "wd:id":"Q600680",
         "wk:page":"Ad-Dhahiriya"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101920135,
-    "wof:lastmodified":1563247613,
+    "wof:lastmodified":1566600516,
     "wof:name":"Adh Dhahiriya",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

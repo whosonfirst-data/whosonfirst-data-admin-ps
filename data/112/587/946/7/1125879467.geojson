@@ -9,20 +9,23 @@
     "geom:bbox":"34.38053,31.43954,34.38053,31.43954",
     "geom:latitude":31.43954,
     "geom:longitude":34.38053,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16688,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":16688,
     "iso:country":"PS",
+    "lbl:bbox":"34.36053,31.41954,34.40053,31.45954",
     "lbl:latitude":31.43954,
     "lbl:longitude":34.38053,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0648\u0627\u064a\u062f\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Az Zuwaydah"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":653299,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681213,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125879467,
-    "wof:lastmodified":1549928884,
+    "wof:lastmodified":1566600638,
     "wof:name":"Az Zuw\u0101ydah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

@@ -11,16 +11,19 @@
     "geom:longitude":35.241252,
     "gn:population":1397,
     "iso:country":"PS",
+    "lbl:bbox":"35.236252,31.712139,35.246252,31.722139",
     "lbl:latitude":31.718351,
     "lbl:longitude":35.240715,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.718351,
     "mps:longitude":35.240715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062e\u0644\u0629 \u0627\u0644\u0646\u0639\u0645\u0627\u0646"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khallat an Nu\u2018m\u0101n"
     ],
     "qs:a0":"Palestine",
@@ -37,19 +40,19 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7890353,
-        "qs:id":743872
+        "qs_pg:id":743872
     },
     "wof:country":"PS",
     "wof:geomhash":"08ee9dd8de59c6c9752829d54aa49fd9",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1376891725,
-    "wof:lastmodified":1549931467,
+    "wof:lastmodified":1566600620,
     "wof:name":"khallet an Nu'man",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

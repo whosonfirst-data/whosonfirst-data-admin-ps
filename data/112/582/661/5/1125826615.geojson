@@ -9,20 +9,23 @@
     "geom:bbox":"35.05206,32.29531,35.05206,32.29531",
     "geom:latitude":32.29531,
     "geom:longitude":35.05206,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":400,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":400,
     "iso:country":"PS",
+    "lbl:bbox":"35.03206,32.27531,35.07206,32.31531",
     "lbl:latitude":32.29531,
     "lbl:longitude":35.05206,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0627"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat Kaf\u0101"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":547043,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125826615,
-    "wof:lastmodified":1549929745,
+    "wof:lastmodified":1566600643,
     "wof:name":"Kaf\u0101",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

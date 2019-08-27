@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.850324,
     "lbl:longitude":35.183241,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.850324,
     "mps:longitude":35.183241,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u064a\u0628"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2120,
     "wof:belongsto":[
@@ -70,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":285070,
-        "qs:id":124010,
+        "qs_pg:id":124010,
         "wd:id":"Q6191988"
     },
     "wof:country":"PS",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101922067,
-    "wof:lastmodified":1563247600,
+    "wof:lastmodified":1566600509,
     "wof:name":"Al Jib",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

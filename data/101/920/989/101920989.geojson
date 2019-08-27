@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.417191,
     "lbl:longitude":35.23621,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.417191,
     "mps:longitude":35.23621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0627\u0644\u0628\u0627\u0634\u0627"
     ],
@@ -38,9 +41,6 @@
     "name:pol_x_preferred":[
         "Bir al-Basza"
     ],
-    "name:unk_x_variant":[
-        "B\u012br al B\u0101sh\u0101"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -55,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":101920989,
-    "wof:lastmodified":1563247761,
+    "wof:lastmodified":1566600551,
     "wof:name":"Bir al Basha",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

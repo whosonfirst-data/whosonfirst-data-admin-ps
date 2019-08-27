@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.068699,
     "lbl:longitude":35.149248,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.068699,
     "mps:longitude":35.149248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u062e\u0629"
     ],
@@ -41,9 +44,6 @@
     "name:nno_x_preferred":[
         "Farkha"
     ],
-    "name:unk_x_variant":[
-        "Farkhah"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -58,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.069703,
     "wd:longitude":35.148911,
@@ -76,7 +76,7 @@
     "wof:concordances":{
         "gn:id":283955,
         "gp:id":1937300,
-        "qs:id":79920,
+        "qs_pg:id":79920,
         "wd:id":"Q5435373",
         "wk:page":"Farkha"
     },
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":101921717,
-    "wof:lastmodified":1563247969,
+    "wof:lastmodified":1566600616,
     "wof:name":"Farkha",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

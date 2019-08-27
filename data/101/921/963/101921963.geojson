@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.905143,
     "lbl:longitude":35.060749,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.905143,
     "mps:longitude":35.060749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0635\u0641\u0627"
     ],
@@ -38,7 +41,7 @@
     "name:pol_x_preferred":[
         "Saffa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u015eaff\u0101"
     ],
     "qs:a0":"Palestine",
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":282069,
         "gp:id":1937180,
-        "qs:id":123923,
+        "qs_pg:id":123923,
         "wd:id":"Q7398691"
     },
     "wof:country":"PS",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101921963,
-    "wof:lastmodified":1563247880,
+    "wof:lastmodified":1566600586,
     "wof:name":"Saffa",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

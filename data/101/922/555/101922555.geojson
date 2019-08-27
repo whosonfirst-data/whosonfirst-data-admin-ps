@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.642013,
     "lbl:longitude":35.168263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.642013,
     "mps:longitude":35.168263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0633\u0644\u0645\u0648\u0646\u0629"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":31.643192,
     "wd:longitude":35.1679,
     "wd:wordcount":174,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101922555,
-    "wof:lastmodified":1563247574,
+    "wof:lastmodified":1566600496,
     "wof:name":"Umm Salamuna",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

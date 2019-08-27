@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.203721,
     "lbl:longitude":35.448003,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.203721,
     "mps:longitude":35.448003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0648\u0634 \u0628\u064a\u062a \u062f\u062c\u0646"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":179,
     "wof:belongsto":[
         85681427,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1175613249,
-    "wof:lastmodified":1563247479,
+    "wof:lastmodified":1566600452,
     "wof:name":"Furush Beit Dajan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

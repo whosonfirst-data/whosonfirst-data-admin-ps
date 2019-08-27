@@ -9,20 +9,23 @@
     "geom:bbox":"35.11693,32.30792,35.11693,32.30792",
     "geom:latitude":32.30792,
     "geom:longitude":35.11693,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7106,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":7106,
     "iso:country":"PS",
+    "lbl:bbox":"35.09693,32.28792,35.13693,32.32792",
     "lbl:latitude":32.30792,
     "lbl:longitude":35.11693,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0639\u0646\u0628\u062a\u0627"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Anabtah"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":124005,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126023981,
-    "wof:lastmodified":1549929888,
+    "wof:lastmodified":1566600625,
     "wof:name":"\u2018Anabt\u0101",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

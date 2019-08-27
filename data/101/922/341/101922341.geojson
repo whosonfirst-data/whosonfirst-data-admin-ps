@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.705875,
     "lbl:longitude":35.204367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.705875,
     "mps:longitude":35.204367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bethlehem"
     ],
@@ -364,7 +367,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0438\u0444\u043b\u0435\u0454\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayt La\u1e29m"
     ],
     "name:urd_x_preferred":[
@@ -424,7 +427,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -464,7 +467,7 @@
         }
     ],
     "wof:id":101922341,
-    "wof:lastmodified":1563247564,
+    "wof:lastmodified":1566600492,
     "wof:name":"Bethlehem (Beit Lahm)",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

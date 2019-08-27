@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.179332,
     "lbl:longitude":35.127226,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.179332,
     "mps:longitude":35.127226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Jin\u015f\u0101f\u016b\u0163"
     ],
@@ -56,7 +59,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":7889501,
         "gp:id":1937157,
-        "qs:id":743858,
+        "qs_pg:id":743858,
         "wd:id":"Q6202746",
         "wk:page":"Jinsafut"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101921503,
-    "wof:lastmodified":1563247881,
+    "wof:lastmodified":1566600586,
     "wof:name":"Jinsafut",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

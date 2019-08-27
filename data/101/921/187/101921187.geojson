@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.326247,
     "lbl:longitude":35.289604,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.326247,
     "mps:longitude":35.289604,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "S\u012br\u012bs"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":281764,
         "gp:id":1937300,
-        "qs:id":123911
+        "qs_pg:id":123911
     },
     "wof:country":"PS",
     "wof:geomhash":"8c26ec0965bb5264c78aebd6bdb4760c",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101921187,
-    "wof:lastmodified":1564099673,
+    "wof:lastmodified":1566600596,
     "wof:name":"Siris",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

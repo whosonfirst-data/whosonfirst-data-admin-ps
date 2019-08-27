@@ -9,15 +9,18 @@
     "geom:bbox":"35.11437,32.00282,35.11437,32.00282",
     "geom:latitude":32.00282,
     "geom:longitude":35.11437,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":867,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":867,
     "iso:country":"PS",
+    "lbl:bbox":"35.09437,31.98282,35.13437,32.02282",
     "lbl:latitude":32.00282,
     "lbl:longitude":35.11437,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0646\u0638\u0627\u0645"
@@ -43,7 +46,7 @@
     "name:pol_x_preferred":[
         "Dajr Nizam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deir Nidh\u0101m"
     ],
     "qs_pg:aaroncc":"PS",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":79927,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1126035237,
-    "wof:lastmodified":1563248035,
+    "wof:lastmodified":1566600634,
     "wof:name":"Dayr Niz\u0327\u0101m",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

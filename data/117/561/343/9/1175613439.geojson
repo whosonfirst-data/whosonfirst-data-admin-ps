@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.486538,
     "lbl:longitude":35.230624,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":32.486538,
     "mps:longitude":35.230624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u064a\u0627\u0645\u0648\u0646"
     ],
@@ -50,7 +53,7 @@
     "name:spa_x_preferred":[
         "Al-Yamun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Y\u0101m\u016bn"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +73,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.486486,
     "wd:longitude":35.235272,
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gn:id":284999,
         "gp:id":56123305,
-        "qs:id":124006,
+        "qs_pg:id":124006,
         "wd:id":"Q4703350",
         "wk:page":"Al-Yamun"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1175613439,
-    "wof:lastmodified":1563247504,
+    "wof:lastmodified":1566600462,
     "wof:name":"Al Yamun",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

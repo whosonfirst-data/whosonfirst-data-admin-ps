@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.16723,32.2975,35.20723,32.3375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Silat al-Dhahr",
         "Silat Al Daher"
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1326761341,
-    "wof:lastmodified":1549929908,
+    "wof:lastmodified":1566600421,
     "wof:name":"Silat al-Dahr",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.348753,
     "lbl:longitude":35.271911,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.348753,
     "mps:longitude":35.271911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062b\u0644\u0648\u0646"
     ],
@@ -41,7 +44,7 @@
     "name:pol_x_preferred":[
         "Majsalun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maysal\u016bn"
     ],
     "qs:a0":"Palestine",
@@ -58,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.349167,
     "wd:longitude":35.273333,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":282793,
         "gp:id":56123309,
-        "qs:id":123940,
+        "qs_pg:id":123940,
         "wd:id":"Q2898712",
         "wk:page":"Meithalun"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101921133,
-    "wof:lastmodified":1563247878,
+    "wof:lastmodified":1566600585,
     "wof:name":"Meithalun",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

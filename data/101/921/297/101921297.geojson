@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.273777,
     "lbl:longitude":35.088724,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.273777,
     "mps:longitude":35.088724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u0641\u0629"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101921297,
-    "wof:lastmodified":1563247959,
+    "wof:lastmodified":1566600612,
     "wof:name":"Shufa",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

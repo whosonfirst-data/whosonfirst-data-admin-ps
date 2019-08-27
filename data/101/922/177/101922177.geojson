@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.811034,
     "lbl:longitude":35.261467,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":31.811034,
     "mps:longitude":35.261467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0639\u0646\u0627\u062a\u0627"
     ],
@@ -56,7 +59,7 @@
     "name:pol_x_preferred":[
         "Anata"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018An\u0101t\u014dt"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.812778,
     "wd:longitude":35.261944,
@@ -96,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":284973,
-        "qs:id":547109,
+        "qs_pg:id":547109,
         "wd:id":"Q2061100",
         "wk:page":"'Anata"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101922177,
-    "wof:lastmodified":1563247605,
+    "wof:lastmodified":1566600511,
     "wof:name":"'Anata",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

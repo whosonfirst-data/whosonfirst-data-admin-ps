@@ -9,15 +9,18 @@
     "geom:bbox":"35.29332,32.19061,35.29332,32.19061",
     "geom:latitude":32.19061,
     "geom:longitude":35.29332,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3805,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":3805,
     "iso:country":"PS",
+    "lbl:bbox":"35.27332,32.17061,35.31332,32.21061",
     "lbl:latitude":32.19061,
     "lbl:longitude":35.29332,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0648\u062c\u064a\u0628"
@@ -40,9 +43,6 @@
     "name:pol_x_preferred":[
         "Rud\u017cajb"
     ],
-    "name:unk_x_variant":[
-        "Rujeib"
-    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -55,7 +55,7 @@
     "qs_pg:qs_id":123926,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125824889,
-    "wof:lastmodified":1563248076,
+    "wof:lastmodified":1566600644,
     "wof:name":"R\u016bjayb",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

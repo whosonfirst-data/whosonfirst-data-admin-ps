@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.706603,
     "lbl:longitude":35.102842,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":31.706603,
     "mps:longitude":35.102842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f\u064a \u0641\u0648\u0643\u064a\u0646"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.706667,
     "wd:longitude":35.103889,
@@ -75,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":281356,
-        "qs:id":79865,
+        "qs_pg:id":79865,
         "wd:id":"Q2896954",
         "wk:page":"Wadi Fukin"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101922411,
-    "wof:lastmodified":1563247587,
+    "wof:lastmodified":1566600502,
     "wof:name":"Wadi Fukin",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

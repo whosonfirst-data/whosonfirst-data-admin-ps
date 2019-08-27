@@ -9,17 +9,20 @@
     "geom:bbox":"35.04144,32.31341,35.04144,32.31341",
     "geom:latitude":32.31341,
     "geom:longitude":35.04144,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8193,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":8193,
     "iso:country":"PS",
+    "lbl:bbox":"35.02144,32.29341,35.06144,32.33341",
     "lbl:latitude":32.31341,
     "lbl:longitude":35.04144,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dann\u0101ba"
     ],
     "qs_pg:aaroncc":"PS",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":123967,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125825099,
-    "wof:lastmodified":1549929741,
+    "wof:lastmodified":1566600644,
     "wof:name":"Dhann\u0101bah",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"35.15719,32.11827,35.15719,32.11827",
     "geom:latitude":32.11827,
     "geom:longitude":35.15719,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3132,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":3132,
     "iso:country":"PS",
+    "lbl:bbox":"35.13719,32.09827,35.17719,32.13827",
     "lbl:latitude":32.11827,
     "lbl:longitude":35.15719,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Kifil \u1e28\u0101ris"
@@ -49,7 +52,7 @@
     "name:nno_x_preferred":[
         "Kifl Hares"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kafr \u1e28aris"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":123944,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125861463,
-    "wof:lastmodified":1563248042,
+    "wof:lastmodified":1566600636,
     "wof:name":"Kifil \u1e28\u0101ris",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

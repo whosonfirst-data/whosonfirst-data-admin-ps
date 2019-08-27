@@ -9,20 +9,23 @@
     "geom:bbox":"35.05689,32.3356,35.05689,32.3356",
     "geom:latitude":32.3356,
     "geom:longitude":35.05689,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":258,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":258,
     "iso:country":"PS",
+    "lbl:bbox":"35.03689,32.3156,35.07689,32.3556",
     "lbl:latitude":32.3356,
     "lbl:longitude":35.05689,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0633\u0641\u0648\u0642\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat el Masq\u016bfa"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":743853,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125776707,
-    "wof:lastmodified":1549929670,
+    "wof:lastmodified":1566600651,
     "wof:name":"Al Masq\u016bfah",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

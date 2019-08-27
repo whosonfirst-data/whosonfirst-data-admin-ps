@@ -9,15 +9,18 @@
     "geom:bbox":"34.94938,31.50911,34.94938,31.50911",
     "geom:latitude":31.50911,
     "geom:longitude":34.94938,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7943,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":7943,
     "iso:country":"PS",
+    "lbl:bbox":"34.92938,31.48911,34.96938,31.52911",
     "lbl:latitude":31.50911,
     "lbl:longitude":34.94938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0639\u0648\u0627"
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Bajt Awwa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat Beit \u2018Awwa"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":547050,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126043489,
-    "wof:lastmodified":1563248014,
+    "wof:lastmodified":1566600628,
     "wof:name":"Bayt \u2018Aww\u0101",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

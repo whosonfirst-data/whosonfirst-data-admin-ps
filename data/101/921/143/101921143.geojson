@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.338992,
     "lbl:longitude":35.369477,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":32.338992,
     "mps:longitude":35.369477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u0628\u0627\u0633"
     ],
@@ -160,7 +163,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.322222,
     "wd:longitude":35.368611,
@@ -179,7 +182,7 @@
         "fct:id":"0263f106-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":281581,
         "gp:id":1937304,
-        "qs:id":433140,
+        "qs_pg:id":433140,
         "wd:id":"Q275919",
         "wk:page":"Tubas"
     },
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":101921143,
-    "wof:lastmodified":1563247920,
+    "wof:lastmodified":1566600598,
     "wof:name":"Tubas",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

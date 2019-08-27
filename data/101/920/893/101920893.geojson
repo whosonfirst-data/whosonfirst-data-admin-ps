@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.456258,
     "lbl:longitude":35.348334,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.456258,
     "mps:longitude":35.348334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0623\u0628\u0648 \u0636\u0639\u064a\u0641"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.455917,
     "wd:longitude":35.365736,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":284105,
         "gp:id":56123307,
-        "qs:id":79932,
+        "qs_pg:id":79932,
         "wd:id":"Q3380916"
     },
     "wof:country":"PS",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101920893,
-    "wof:lastmodified":1561827614,
+    "wof:lastmodified":1566600530,
     "wof:name":"Deir Abu Da'if",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

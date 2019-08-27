@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.388208,
     "lbl:longitude":35.292599,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.388208,
     "mps:longitude":35.292599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0633\u0644\u064a\u0629"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":282740,
         "gp:id":56123304,
-        "qs:id":123939,
+        "qs_pg:id":123939,
         "wd:id":"Q3136423",
         "wk:page":"Misilyah"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101921043,
-    "wof:lastmodified":1563247943,
+    "wof:lastmodified":1566600608,
     "wof:name":"Misliya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

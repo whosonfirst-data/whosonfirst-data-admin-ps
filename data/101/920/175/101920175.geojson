@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.401985,
     "lbl:longitude":34.369812,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":31.401985,
     "mps:longitude":34.369812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0628\u0644\u062d"
     ],
@@ -102,7 +105,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":31.418994,
     "wd:longitude":34.351603,
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101920175,
-    "wof:lastmodified":1563247682,
+    "wof:lastmodified":1566600534,
     "wof:name":"Deir al Balah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

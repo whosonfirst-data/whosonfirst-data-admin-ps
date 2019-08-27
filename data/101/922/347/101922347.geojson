@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.713574,
     "lbl:longitude":35.1865,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":31.713574,
     "mps:longitude":35.1865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062c\u0627\u0644\u0627"
     ],
@@ -80,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439\u0442-\u0414\u0436\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beit J\u0101l\u0101"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.716667,
     "wd:longitude":35.183333,
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gn:id":284324,
         "gp:id":1936766,
-        "qs:id":980550,
+        "qs_pg:id":980550,
         "wd:id":"Q803984",
         "wk:page":"Beit Jala"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101922347,
-    "wof:lastmodified":1563247570,
+    "wof:lastmodified":1566600495,
     "wof:name":"Beit Jala",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.495197,
     "lbl:longitude":35.350347,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":32.495197,
     "mps:longitude":35.350347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u063a\u0632\u0627\u0644\u0629"
     ],
@@ -35,7 +38,7 @@
     "name:pol_x_preferred":[
         "Dajr Ghazala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dayr Ghaz\u0101lah"
     ],
     "qs:a0":"Palestine",
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":403,
     "wof:belongsto":[
@@ -67,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":284076,
-        "qs:id":79929,
+        "qs_pg:id":79929,
         "wd:id":"Q5252510"
     },
     "wof:country":"PS",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101920789,
-    "wof:lastmodified":1561827619,
+    "wof:lastmodified":1566600553,
     "wof:name":"Deir Ghazala",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

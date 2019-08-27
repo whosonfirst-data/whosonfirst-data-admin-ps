@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.485782,
     "lbl:longitude":34.4841,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":31.485782,
     "mps:longitude":34.4841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Gaza"
     ],
@@ -339,7 +342,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681213,
@@ -380,7 +383,7 @@
         }
     ],
     "wof:id":101919783,
-    "wof:lastmodified":1563247820,
+    "wof:lastmodified":1566600568,
     "wof:name":"Gaza",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",

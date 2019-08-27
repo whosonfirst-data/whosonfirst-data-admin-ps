@@ -11,8 +11,10 @@
     "geom:longitude":35.236448,
     "gn:id":"",
     "iso:country":"PS",
+    "lbl:bbox":"35.231448,31.847972,35.241448,31.857972",
     "lbl:latitude":31.852972,
     "lbl:longitude":35.236448,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.857136,
     "mps:longitude":35.234568,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:rus_x_variant":[
         "\u041f\u0438\u0441\u0433\u0430\u0442-\u0417\u0435\u0435\u0432"
     ],
-    "name:unk_x_variant":[
-        "Pisgat Ze'ev"
-    ],
     "name:yid_x_preferred":[
         "\u05e4\u05e1\u05d2\u05ea \u05d6\u05d0\u05d1"
     ],
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1492,
     "wof:belongsto":[
         1159339487,
@@ -94,7 +93,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724710,
-        "qs:id":14510,
         "qs_pg:id":14510,
         "wd:id":"Q1028231"
     },
@@ -126,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563247442,
+    "wof:lastmodified":1566600428,
     "wof:name":"Pisgat Ze'ev",
     "wof:parent_id":101922113,
     "wof:placetype":"neighbourhood",

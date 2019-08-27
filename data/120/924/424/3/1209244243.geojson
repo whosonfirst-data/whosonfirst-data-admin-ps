@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.08002,31.32959,35.12002,31.36959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209244243,
-    "wof:lastmodified":1549930424,
+    "wof:lastmodified":1566600443,
     "wof:name":"Bet Yattir",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

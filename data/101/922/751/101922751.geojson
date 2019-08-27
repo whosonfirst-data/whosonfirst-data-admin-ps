@@ -12,14 +12,17 @@
     "iso:country":"PS",
     "lbl:latitude":31.54364,
     "lbl:longitude":35.18572,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.54364,
     "mps:longitude":35.18572,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0646\u0627\u0646 \u0627\u0644\u0646\u0645\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qin\u0101n an Nimir"
     ],
     "qs:a0":"Palestine",
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101922751,
-    "wof:lastmodified":1549929848,
+    "wof:lastmodified":1566600497,
     "wof:name":"Qinan an Namir",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

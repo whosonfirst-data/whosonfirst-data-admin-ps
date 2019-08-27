@@ -9,15 +9,18 @@
     "geom:bbox":"35.36378,32.08357,35.36378,32.08357",
     "geom:latitude":32.08357,
     "geom:longitude":35.36378,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2122,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":2122,
     "iso:country":"PS",
+    "lbl:bbox":"35.34378,32.06357,35.38378,32.10357",
     "lbl:latitude":32.08357,
     "lbl:longitude":35.36378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u062c\u062f\u0644 \u0628\u0646\u064a \u0641\u0627\u0636\u0644"
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Mad\u017cdal Bani Fadil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Majdal Bani Fadl"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":123942,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125861443,
-    "wof:lastmodified":1563248039,
+    "wof:lastmodified":1566600635,
     "wof:name":"Majdal Ban\u012b F\u0101\u1e11il",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.466023,
     "lbl:longitude":35.219478,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.466023,
     "mps:longitude":35.219478,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629"
     ],
@@ -50,7 +53,7 @@
     "name:sqi_x_preferred":[
         "Al Hashimiyya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El H\u0101shimiya"
     ],
     "qs:a0":"Palestine",
@@ -67,7 +70,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.364167,
     "wd:longitude":35.659722,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":285091,
         "gp:id":1937299,
-        "qs:id":547118,
+        "qs_pg:id":547118,
         "wd:id":"Q4116291"
     },
     "wof:country":"PS",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1175613369,
-    "wof:lastmodified":1563247472,
+    "wof:lastmodified":1566600449,
     "wof:name":"Al Hashimiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

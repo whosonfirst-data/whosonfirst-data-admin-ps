@@ -12,14 +12,17 @@
     "iso:country":"PS",
     "lbl:latitude":31.295383,
     "lbl:longitude":34.303031,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.295383,
     "mps:longitude":34.303031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u064f\u0645 \u0643\u0645\u064a\u0644"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mukheimil"
     ],
     "qs:a0":"Palestine",
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681213,
         1159339485,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101920603,
-    "wof:lastmodified":1549928917,
+    "wof:lastmodified":1566600529,
     "wof:name":"Umm Kameil",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

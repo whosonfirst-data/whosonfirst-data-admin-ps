@@ -9,20 +9,23 @@
     "geom:bbox":"35.02022,32.14072,35.02022,32.14072",
     "geom:latitude":32.14072,
     "geom:longitude":35.02022,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":311,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":311,
     "iso:country":"PS",
+    "lbl:bbox":"35.00022,32.12072,35.04022,32.16072",
     "lbl:latitude":32.14072,
     "lbl:longitude":35.02022,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u0623\u0634\u0642\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat el Ashgar"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":547057,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126043527,
-    "wof:lastmodified":1549929897,
+    "wof:lastmodified":1566600628,
     "wof:name":"Khirbat al Ashqar",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

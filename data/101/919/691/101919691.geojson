@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.531385,
     "lbl:longitude":34.961677,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.531385,
     "mps:longitude":34.961677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al K\u016bm"
     ],
@@ -47,7 +50,7 @@
     "name:nno_x_preferred":[
         "Al-Kum"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat al Kaum"
     ],
     "qs:a0":"Palestine",
@@ -64,7 +67,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101919691,
-    "wof:lastmodified":1563247851,
+    "wof:lastmodified":1566600576,
     "wof:name":"Al Kum",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

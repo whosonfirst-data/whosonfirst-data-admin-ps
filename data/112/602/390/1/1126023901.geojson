@@ -9,15 +9,18 @@
     "geom:bbox":"35.21293,32.20068,35.21293,32.20068",
     "geom:latitude":32.20068,
     "geom:longitude":35.21293,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4605,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":4605,
     "iso:country":"PS",
+    "lbl:bbox":"35.19293,32.18068,35.23293,32.22068",
     "lbl:latitude":32.20068,
     "lbl:longitude":35.21293,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u0644"
@@ -37,7 +40,7 @@
     "name:spa_x_preferred":[
         "Tell"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u012bl"
     ],
     "qs_pg:aaroncc":"PS",
@@ -52,7 +55,7 @@
     "qs_pg:qs_id":123907,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126023901,
-    "wof:lastmodified":1563248002,
+    "wof:lastmodified":1566600625,
     "wof:name":"Till",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

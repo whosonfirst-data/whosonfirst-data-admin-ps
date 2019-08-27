@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.237287,
     "lbl:longitude":35.403757,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.237287,
     "mps:longitude":35.403757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0635\u0627\u0631\u064a\u0629"
     ],
@@ -32,7 +35,7 @@
     "name:nld_x_preferred":[
         "An-Nassariya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat el Murassas"
     ],
     "qs:a0":"Palestine",
@@ -49,7 +52,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":283155,
         "gp:id":1937300,
-        "qs:id":79905,
+        "qs_pg:id":79905,
         "wd:id":"Q4749678"
     },
     "wof:country":"PS",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1175613341,
-    "wof:lastmodified":1563247489,
+    "wof:lastmodified":1566600456,
     "wof:name":"An Nassariya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

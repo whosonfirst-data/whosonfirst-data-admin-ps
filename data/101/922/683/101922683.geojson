@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.583207,
     "lbl:longitude":35.058719,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":31.583207,
     "mps:longitude":35.058719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0643\u0627\u062d\u0644"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":284320,
         "gp:id":1937307,
-        "qs:id":123982,
+        "qs_pg:id":123982,
         "wd:id":"Q2898790",
         "wk:page":"Beit Kahil"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101922683,
-    "wof:lastmodified":1563247590,
+    "wof:lastmodified":1566600504,
     "wof:name":"Beit Kahil",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

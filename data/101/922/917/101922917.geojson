@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.43178,
     "lbl:longitude":35.016027,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.43178,
     "mps:longitude":35.016027,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0628\u0648\u062f"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":438,
     "wof:belongsto":[
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101922917,
-    "wof:lastmodified":1563247609,
+    "wof:lastmodified":1566600514,
     "wof:name":"Rabud",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

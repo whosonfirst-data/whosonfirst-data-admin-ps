@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.042211,
     "lbl:longitude":35.173344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.042211,
     "mps:longitude":35.173344,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bani Zeid al-Sharqiya"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":32.0333,
     "wd:longitude":35.1667,
     "wd:wordcount":1586,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101921749,
-    "wof:lastmodified":1563247918,
+    "wof:lastmodified":1566600598,
     "wof:name":"'Arura (Bani Zeid ash Sharqiya)",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

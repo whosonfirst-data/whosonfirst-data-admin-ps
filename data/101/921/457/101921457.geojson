@@ -12,14 +12,17 @@
     "iso:country":"PS",
     "lbl:latitude":32.191392,
     "lbl:longitude":35.007293,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.191392,
     "mps:longitude":35.007293,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0628 \u0627\u0644\u0631\u0645\u0636\u064a\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Arab ar Rama\u1e11\u012bn ash Sham\u0101l\u012b"
     ],
     "qs:a0":"Palestine",
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101921457,
-    "wof:lastmodified":1549929818,
+    "wof:lastmodified":1566600612,
     "wof:name":"'Arab ar Ramadin ash Shamali",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

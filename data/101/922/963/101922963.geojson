@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.42257,
     "lbl:longitude":35.134263,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.42257,
     "mps:longitude":35.134263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0645\u0644"
     ],
@@ -44,7 +47,7 @@
     "name:nno_x_preferred":[
         "Al-Karmil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirbat al Karmil"
     ],
     "qs:a0":"Palestine",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.423664,
     "wd:longitude":35.133158,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":7891511,
         "gp:id":1937307,
-        "qs:id":744091,
         "qs_pg:id":744091,
         "wd:id":"Q4702667",
         "wk:page":"Al-Karmil"
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101922963,
-    "wof:lastmodified":1563247539,
+    "wof:lastmodified":1566600479,
     "wof:name":"Al Karmil",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

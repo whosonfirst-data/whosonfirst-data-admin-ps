@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.111611,
     "lbl:longitude":35.161231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.111611,
     "mps:longitude":35.161231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Kifil \u1e28\u0101ris"
     ],
@@ -47,7 +50,7 @@
     "name:nno_x_preferred":[
         "Kifl Hares"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kafr \u1e28aris"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":283055,
         "gp:id":1937300,
-        "qs:id":123944,
+        "qs_pg:id":123944,
         "wd:id":"Q12060997",
         "wk:page":"Kifl Haris"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1175613197,
-    "wof:lastmodified":1563247501,
+    "wof:lastmodified":1566600461,
     "wof:name":"Kifl Haris",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

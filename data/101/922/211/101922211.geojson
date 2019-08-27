@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.779811,
     "lbl:longitude":35.248543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.779811,
     "mps:longitude":35.248543,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "A\u0163 \u0162\u016br"
     ],
@@ -43,7 +46,7 @@
     "name:spa_x_preferred":[
         "At-Tur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u1e6cur"
     ],
     "qs:a0":"Palestine",
@@ -63,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632315,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101922211,
-    "wof:lastmodified":1563247542,
+    "wof:lastmodified":1566600481,
     "wof:name":"At Tur",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

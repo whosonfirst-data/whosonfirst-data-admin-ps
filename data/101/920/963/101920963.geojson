@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.423546,
     "lbl:longitude":35.239032,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.423546,
     "mps:longitude":35.239032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0627\u0644\u0628\u0627\u0634\u0627"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":7895292,
         "gp:id":1937299,
-        "qs:id":744192,
+        "qs_pg:id":744192,
         "wd:id":"Q12200560",
         "wk:page":"Bir al-Basha"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101920963,
-    "wof:lastmodified":1563247630,
+    "wof:lastmodified":1566600519,
     "wof:name":"Bir al Basha",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

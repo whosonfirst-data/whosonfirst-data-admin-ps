@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.201725,
     "lbl:longitude":35.131581,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.201725,
     "mps:longitude":35.131581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062d\u062c\u0629"
     ],
@@ -38,7 +41,7 @@
     "name:nno_x_preferred":[
         "Hajjah i Qalqilya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u1e24ajja"
     ],
     "qs:a0":"Palestine",
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":283812,
         "gp:id":1937300,
-        "qs:id":123962,
+        "qs_pg:id":123962,
         "wd:id":"Q2903557"
     },
     "wof:country":"PS",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101921437,
-    "wof:lastmodified":1563247900,
+    "wof:lastmodified":1566600592,
     "wof:name":"Hajja",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

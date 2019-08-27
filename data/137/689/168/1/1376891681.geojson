@@ -10,12 +10,15 @@
     "geom:latitude":31.728512,
     "geom:longitude":35.242193,
     "iso:country":"PS",
+    "lbl:bbox":"35.237193,31.723512,35.247193,31.733512",
     "lbl:latitude":31.728676,
     "lbl:longitude":35.24237,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.728676,
     "mps:longitude":35.24237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0637\u0648\u0628\u0627"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1156,
     "wof:belongsto":[
         85672551,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1376891681,
-    "wof:lastmodified":1561827634,
+    "wof:lastmodified":1566600618,
     "wof:name":"Umm Tuba",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

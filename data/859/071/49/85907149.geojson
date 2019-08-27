@@ -11,8 +11,10 @@
     "geom:longitude":35.237221,
     "gn:id":"",
     "iso:country":"PS",
+    "lbl:bbox":"35.232221,31.725279,35.242221,31.735279",
     "lbl:latitude":31.730279,
     "lbl:longitude":35.237221,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.720481,
     "mps:longitude":35.232452,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     "name:pol_x_variant":[
         "Sur Bahir"
     ],
-    "name:unk_x_variant":[
-        "Sur Baher"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0631 \u0628\u0627\u06c1\u0631"
     ],
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672551,
         102191569,
@@ -90,7 +89,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724634,
-        "qs:id":1187523,
         "qs_pg:id":1187523
     },
     "wof:country":"PS",
@@ -109,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564099558,
+    "wof:lastmodified":1566600427,
     "wof:name":"Sur Baher",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

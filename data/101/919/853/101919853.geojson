@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.456798,
     "lbl:longitude":34.913883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.456798,
     "mps:longitude":34.913883,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tell Beit Mirsim"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":203,
     "wof:belongsto":[
         102191569,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101919853,
-    "wof:lastmodified":1563247849,
+    "wof:lastmodified":1566600575,
     "wof:name":"Beit Mirsim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.412013,
     "lbl:longitude":35.280782,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":32.412013,
     "mps:longitude":35.280782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0642\u0628\u0627\u0637\u064a\u0629"
     ],
@@ -68,7 +71,7 @@
     "name:spa_x_preferred":[
         "Qabatiya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kubatie"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":50.547,
     "wd:latitude":32.409553,
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":282476,
         "gp:id":56123304,
-        "qs:id":79084,
         "qs_pg:id":79084,
         "wd:id":"Q1899332",
         "wk:page":"Qabatiya"
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101921019,
-    "wof:lastmodified":1563247947,
+    "wof:lastmodified":1566600608,
     "wof:name":"Qabatiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

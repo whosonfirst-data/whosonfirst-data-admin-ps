@@ -11,8 +11,10 @@
     "geom:longitude":35.239113,
     "gn:id":"",
     "iso:country":"PS",
+    "lbl:bbox":"35.234113,31.786089,35.244113,31.796089",
     "lbl:latitude":31.791089,
     "lbl:longitude":35.239113,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.791464,
     "mps:longitude":35.237487,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:pol_x_preferred":[
         "Wadi al-Joz"
     ],
-    "name:unk_x_variant":[
-        "Wadi Al-joz"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":3093,
@@ -73,18 +72,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724644,
-        "qs:id":1087565,
         "qs_pg:id":1087565
     },
     "wof:country":"PS",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930547,
+    "wof:lastmodified":1566600427,
     "wof:name":"Wadi Al-joz",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,18 @@
     "geom:bbox":"35.29822,31.93342,35.29822,31.93342",
     "geom:latitude":31.93342,
     "geom:longitude":35.29822,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3101,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":3101,
     "iso:country":"PS",
+    "lbl:bbox":"35.27822,31.91342,35.31822,31.95342",
     "lbl:latitude":31.93342,
     "lbl:longitude":35.29822,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0645\u0648\u0646"
@@ -43,7 +46,7 @@
     "name:pol_x_preferred":[
         "Rammun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rimmon"
     ],
     "qs_pg:aaroncc":"PS",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":123928,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125824905,
-    "wof:lastmodified":1563248067,
+    "wof:lastmodified":1566600642,
     "wof:name":"Ramm\u016bn",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

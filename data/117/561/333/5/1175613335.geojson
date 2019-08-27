@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.469089,
     "lbl:longitude":34.938125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.469089,
     "mps:longitude":34.938125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0639\u0633\u0644 \u0627\u0644\u0641\u0648\u0642\u0627"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1175613335,
-    "wof:lastmodified":1563247490,
+    "wof:lastmodified":1566600456,
     "wof:name":"Deir al 'Asal al Fauqa",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

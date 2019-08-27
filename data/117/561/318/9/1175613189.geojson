@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.161482,
     "lbl:longitude":35.285249,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.161482,
     "mps:longitude":35.285249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0648\u0631\u062a\u0627"
     ],
@@ -38,9 +41,6 @@
     "name:pol_x_preferred":[
         "Awarta"
     ],
-    "name:unk_x_variant":[
-        "\u2018Awart\u0101"
-    ],
     "name:urd_x_preferred":[
         "\u0639\u0648\u0631\u062a\u0627"
     ],
@@ -58,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.161444,
     "wd:longitude":35.286392,
@@ -76,7 +76,7 @@
     "wof:concordances":{
         "gn:id":284547,
         "gp:id":56123321,
-        "qs:id":547090,
+        "qs_pg:id":547090,
         "wd:id":"Q2905293",
         "wk:page":"Awarta"
     },
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1175613189,
-    "wof:lastmodified":1563247492,
+    "wof:lastmodified":1566600457,
     "wof:name":"'Awarta",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

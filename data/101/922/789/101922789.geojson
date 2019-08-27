@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.48715,
     "lbl:longitude":35.148505,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.48715,
     "mps:longitude":35.148505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0646"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":35.0094,
     "wd:longitude":36.6694,
     "wd:wordcount":43,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101922789,
-    "wof:lastmodified":1564099640,
+    "wof:lastmodified":1566600513,
     "wof:name":"Birin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

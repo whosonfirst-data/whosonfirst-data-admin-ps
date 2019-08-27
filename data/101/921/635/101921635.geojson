@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.110153,
     "lbl:longitude":35.28754,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.110153,
     "mps:longitude":35.28754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0628\u0644\u0627\u0646"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.101944,
     "wd:longitude":35.288056,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":282477,
         "gp:id":56123322,
-        "qs:id":542405,
+        "qs_pg:id":542405,
         "wd:id":"Q7265686",
         "wk:page":"Qabalan"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101921635,
-    "wof:lastmodified":1563247907,
+    "wof:lastmodified":1566600593,
     "wof:name":"Qabalan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

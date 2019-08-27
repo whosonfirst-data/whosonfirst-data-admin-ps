@@ -13,14 +13,17 @@
     "iso:country":"PS",
     "lbl:latitude":31.386571,
     "lbl:longitude":35.208204,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":31.386571,
     "mps:longitude":35.208204,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0637\u0648\u064a\u0644 \u0627\u0644\u0634\u064a\u062d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat \u0162aw\u012bl ash Sh\u012b\u1e29"
     ],
     "qs:a0":"Palestine",
@@ -37,7 +40,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101923087,
-    "wof:lastmodified":1549929785,
+    "wof:lastmodified":1566600474,
     "wof:name":"Khirbet Tawil ash Shih",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

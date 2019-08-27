@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.358535,
     "lbl:longitude":35.21973,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.358535,
     "mps:longitude":35.21973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0646\u0632\u0629"
     ],
@@ -32,7 +35,7 @@
     "name:nno_x_preferred":[
         "Anzah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Anza"
     ],
     "qs:a0":"Palestine",
@@ -49,7 +52,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":284933,
         "gp:id":56123344,
-        "qs:id":79963,
+        "qs_pg:id":79963,
         "wd:id":"Q4778426"
     },
     "wof:country":"PS",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101921113,
-    "wof:lastmodified":1561827634,
+    "wof:lastmodified":1566600617,
     "wof:name":"'Anza",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.542461,
     "lbl:longitude":34.530953,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":31.542461,
     "mps:longitude":34.530953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062d\u0627\u0646\u0648\u0646"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.541453,
     "wd:longitude":34.536278,
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101919599,
-    "wof:lastmodified":1563247827,
+    "wof:lastmodified":1566600570,
     "wof:name":"Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

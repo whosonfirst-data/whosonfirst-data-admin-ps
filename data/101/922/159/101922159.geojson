@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.834199,
     "lbl:longitude":35.118391,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":31.834199,
     "mps:longitude":35.118391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0637\u0646\u0629"
     ],
@@ -47,7 +50,7 @@
     "name:pol_x_preferred":[
         "Katanna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Katanneh"
     ],
     "qs:a0":"Palestine",
@@ -64,7 +67,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.831522,
     "wd:longitude":35.108822,
@@ -81,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":282376,
-        "qs:id":123933,
+        "qs_pg:id":123933,
         "wd:id":"Q7267085",
         "wk:page":"Qatanna"
     },
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101922159,
-    "wof:lastmodified":1563247536,
+    "wof:lastmodified":1566600477,
     "wof:name":"Qatanna",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

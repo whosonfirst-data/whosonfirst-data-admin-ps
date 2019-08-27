@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.351413,
     "lbl:longitude":34.328788,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":31.351413,
     "mps:longitude":34.328788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u0647\u064a\u0644\u0627"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.342778,
     "wd:longitude":34.325344,
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gn:id":281148,
         "gp:id":1979600,
-        "qs:id":547015,
+        "qs_pg:id":547015,
         "wd:id":"Q1983186",
         "wk:page":"Bani Suheila"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101920379,
-    "wof:lastmodified":1563247671,
+    "wof:lastmodified":1566600530,
     "wof:name":"Bani Suheila",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

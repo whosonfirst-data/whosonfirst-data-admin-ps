@@ -9,15 +9,18 @@
     "geom:bbox":"34.33061,31.29278,34.33061,31.29278",
     "geom:latitude":31.29278,
     "geom:longitude":34.33061,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5464,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":5464,
     "iso:country":"PS",
+    "lbl:bbox":"34.31061,31.27278,34.35061,31.31278",
     "lbl:latitude":31.29278,
     "lbl:longitude":34.33061,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u062e\u0627\u0631\u064a"
@@ -25,7 +28,7 @@
     "name:ara_x_variant":[
         "Al Fukhkh\u0101r\u012b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Fukhkhari"
     ],
     "qs_pg:aaroncc":"PS",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":547016,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681213,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126043311,
-    "wof:lastmodified":1549928935,
+    "wof:lastmodified":1566600627,
     "wof:name":"Al Fukhkh\u0101r\u012b",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

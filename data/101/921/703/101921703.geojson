@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.078521,
     "lbl:longitude":35.042415,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.078521,
     "mps:longitude":35.042415,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Rafat"
     ],
@@ -226,7 +229,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":27,
     "wof:belongsto":[
@@ -242,7 +245,7 @@
     "wof:concordances":{
         "gn:id":282264,
         "gp:id":1937157,
-        "qs:id":123930,
+        "qs_pg:id":123930,
         "wd:id":"Q2127055"
     },
     "wof:country":"PS",
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":101921703,
-    "wof:lastmodified":1563247931,
+    "wof:lastmodified":1566600603,
     "wof:name":"Rafat",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

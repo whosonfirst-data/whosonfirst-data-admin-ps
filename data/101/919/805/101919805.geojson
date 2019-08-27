@@ -13,14 +13,17 @@
     "iso:country":"PS",
     "lbl:latitude":31.46911,
     "lbl:longitude":34.975995,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":31.46911,
     "mps:longitude":34.975995,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u062d \u0627\u0644\u0628\u0642\u0627\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mar\u0101\u1e29 al Baqq\u0101r"
     ],
     "qs:a0":"Palestine",
@@ -37,7 +40,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101919805,
-    "wof:lastmodified":1549929830,
+    "wof:lastmodified":1566600566,
     "wof:name":"Marah al Baqqar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

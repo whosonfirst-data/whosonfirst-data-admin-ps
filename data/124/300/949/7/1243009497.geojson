@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.16333,31.93,35.20333,31.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khirbat al Hafna",
         "Khirbat \u1e28afnah",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1243009497,
-    "wof:lastmodified":1549929909,
+    "wof:lastmodified":1566600657,
     "wof:name":"Khirbat al Hafnah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

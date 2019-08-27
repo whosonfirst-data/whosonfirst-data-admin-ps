@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.13,32.19667,35.17,32.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qedumim Zefon",
         "Qedumim \u2018Illit"
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1327364545,
-    "wof:lastmodified":1549929919,
+    "wof:lastmodified":1566600419,
     "wof:name":"Qedumim `Illit",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

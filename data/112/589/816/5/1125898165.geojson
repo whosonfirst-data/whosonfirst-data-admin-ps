@@ -9,15 +9,18 @@
     "geom:bbox":"34.97329,31.40967,34.97329,31.40967",
     "geom:latitude":31.40967,
     "geom:longitude":34.97329,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":27616,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":27616,
     "iso:country":"PS",
+    "lbl:bbox":"34.95329,31.38967,34.99329,31.42967",
     "lbl:latitude":31.40967,
     "lbl:longitude":34.97329,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0638\u0627\u0647\u0631\u064a\u0629"
@@ -70,7 +73,7 @@
     "name:spa_x_preferred":[
         "Ad-Dhahiriya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ed Dhaherie"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":1026704,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125898165,
-    "wof:lastmodified":1563248045,
+    "wof:lastmodified":1566600636,
     "wof:name":"Az\u0327 Z\u0327\u0101hir\u012byah",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

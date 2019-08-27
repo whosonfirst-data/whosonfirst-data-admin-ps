@@ -9,15 +9,18 @@
     "geom:bbox":"35.14471,32.22162,35.14471,32.22162",
     "geom:latitude":32.22162,
     "geom:longitude":35.14471,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3376,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":3376,
     "iso:country":"PS",
+    "lbl:bbox":"35.12471,32.20162,35.16471,32.24162",
     "lbl:latitude":32.22162,
     "lbl:longitude":35.14471,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0642\u062f\u0648\u0645"
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Kafr Kaddum"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Allen More"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":872488,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125804583,
-    "wof:lastmodified":1563248050,
+    "wof:lastmodified":1566600638,
     "wof:name":"Kafr Qadd\u016bm",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

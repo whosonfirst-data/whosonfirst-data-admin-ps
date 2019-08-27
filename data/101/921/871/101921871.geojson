@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.965651,
     "lbl:longitude":35.291714,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.965651,
     "mps:longitude":35.291714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u062c\u0631\u064a\u0631"
     ],
@@ -41,9 +44,6 @@
     "name:pol_x_preferred":[
         "Dajr D\u017carir"
     ],
-    "name:unk_x_variant":[
-        "Dayr Jar\u012br"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -58,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.964444,
     "wd:longitude":35.295833,
@@ -76,7 +76,7 @@
     "wof:concordances":{
         "gn:id":284069,
         "gp:id":1937300,
-        "qs:id":274797,
+        "qs_pg:id":274797,
         "wd:id":"Q5252515",
         "wk:page":"Deir Jarir"
     },
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":101921871,
-    "wof:lastmodified":1563247942,
+    "wof:lastmodified":1566600607,
     "wof:name":"Deir Jarir",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

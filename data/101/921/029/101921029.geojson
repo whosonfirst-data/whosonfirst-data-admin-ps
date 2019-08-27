@@ -13,17 +13,20 @@
     "iso:country":"PS",
     "lbl:latitude":32.404992,
     "lbl:longitude":35.205419,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.404992,
     "mps:longitude":35.205419,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0627\u0628\u0629"
     ],
     "name:eng_x_preferred":[
         "Arraba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Ar\u0101v\u0101"
     ],
     "qs:a0":"Palestine",
@@ -40,7 +43,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13,
     "wof:belongsto":[
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":284893,
         "gp:id":56123308,
-        "qs:id":124003,
+        "qs_pg:id":124003,
         "wd:id":"Q4795802"
     },
     "wof:country":"PS",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101921029,
-    "wof:lastmodified":1563247940,
+    "wof:lastmodified":1566600607,
     "wof:name":"Arraba",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

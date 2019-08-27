@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.640124,
     "lbl:longitude":35.103767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.640124,
     "mps:longitude":35.103767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0641\u0627\u0621"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Safa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat \u015e\u0101fah"
     ],
     "qs:a0":"Palestine",
@@ -58,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":251,
     "wof:belongsto":[
         85681427,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101922575,
-    "wof:lastmodified":1564099628,
+    "wof:lastmodified":1566600493,
     "wof:name":"Safa",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

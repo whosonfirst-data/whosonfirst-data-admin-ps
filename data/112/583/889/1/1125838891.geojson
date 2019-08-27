@@ -9,15 +9,18 @@
     "geom:bbox":"35.21801,32.28359,35.21801,32.28359",
     "geom:latitude":32.28359,
     "geom:longitude":35.21801,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":390,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":390,
     "iso:country":"PS",
+    "lbl:bbox":"35.19801,32.26359,35.23801,32.30359",
     "lbl:latitude":32.28359,
     "lbl:longitude":35.21801,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u0635\u0641 \u062c\u0628\u064a\u0644"
@@ -34,7 +37,7 @@
     "name:nld_x_preferred":[
         "Nisf Jubeil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ni\u1e63f Jubeil"
     ],
     "qs_pg:aaroncc":"PS",
@@ -49,7 +52,7 @@
     "qs_pg:qs_id":79891,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125838891,
-    "wof:lastmodified":1563248108,
+    "wof:lastmodified":1566600653,
     "wof:name":"Ni\u015ff Jubayl",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

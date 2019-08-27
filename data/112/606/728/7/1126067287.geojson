@@ -9,19 +9,22 @@
     "geom:bbox":"35.23166,31.79287,35.23166,31.79287",
     "geom:latitude":31.79287,
     "geom:longitude":35.23166,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PS",
+    "lbl:bbox":"35.22666,31.78787,35.23666,31.79787",
     "lbl:latitude":31.79287,
     "lbl:longitude":35.23166,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u064a\u062e \u0627\u0644\u062c\u0631\u0627\u062d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shaykh Jarr\u0101\u1e29"
     ],
     "qs_pg:aaroncc":"PS",
@@ -45,17 +48,17 @@
     "qs_pg:woe_adm0":28289408,
     "qs_pg:woe_id":1936844,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":28289408,
     "woe:name_adm0":"Palestine",
     "woe:name_adm1":"West Bank",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126067287,
-    "wof:lastmodified":1549930551,
+    "wof:lastmodified":1566600639,
     "wof:name":"Shaykh Jarrah",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

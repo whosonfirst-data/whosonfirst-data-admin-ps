@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.47202,32.35967,35.51202,32.39967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u062f\u0644\u0629"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1310719961,
-    "wof:lastmodified":1549929912,
+    "wof:lastmodified":1566600463,
     "wof:name":"Kardalah",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

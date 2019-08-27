@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.518784,
     "lbl:longitude":35.184042,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.518784,
     "mps:longitude":35.184042,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u064a\u0628\u0629"
     ],
@@ -35,7 +38,7 @@
     "name:nno_x_preferred":[
         "At-Tayba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat a\u0163 \u0162ayyibah"
     ],
     "qs:a0":"Palestine",
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":221,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":284558,
         "gp:id":1968215,
-        "qs:id":547092,
+        "qs_pg:id":547092,
         "wd:id":"Q4812269"
     },
     "wof:country":"PS",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101920751,
-    "wof:lastmodified":1563247701,
+    "wof:lastmodified":1566600537,
     "wof:name":"At Tayba",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

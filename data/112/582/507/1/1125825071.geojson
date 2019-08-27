@@ -9,15 +9,18 @@
     "geom:bbox":"34.97748,32.16523,34.97748,32.16523",
     "geom:latitude":32.16523,
     "geom:longitude":34.97748,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5945,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":5945,
     "iso:country":"PS",
+    "lbl:bbox":"34.95748,32.14523,34.99748,32.18523",
     "lbl:latitude":32.16523,
     "lbl:longitude":34.97748,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062d\u0628\u0644\u0629"
@@ -43,9 +46,6 @@
     "name:pol_x_preferred":[
         "Habla"
     ],
-    "name:unk_x_variant":[
-        "Habla"
-    ],
     "name:urd_x_preferred":[
         "\u06c1\u0628\u0644\u06d2"
     ],
@@ -61,7 +61,7 @@
     "qs_pg:qs_id":123963,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1125825071,
-    "wof:lastmodified":1563248075,
+    "wof:lastmodified":1566600644,
     "wof:name":"\u1e28ablah",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.608798,
     "lbl:longitude":34.999876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.608798,
     "mps:longitude":34.999876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u064a\u0644\u0629"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":179,
     "wof:belongsto":[
         85681427,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101919461,
-    "wof:lastmodified":1563247853,
+    "wof:lastmodified":1566600576,
     "wof:name":"Qila",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

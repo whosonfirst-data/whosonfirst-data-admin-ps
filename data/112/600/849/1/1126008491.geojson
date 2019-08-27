@@ -9,15 +9,18 @@
     "geom:bbox":"35.30108,32.33541,35.30108,32.33541",
     "geom:latitude":32.33541,
     "geom:longitude":35.30108,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4681,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":4681,
     "iso:country":"PS",
+    "lbl:bbox":"35.28108,32.31541,35.32108,32.35541",
     "lbl:latitude":32.33541,
     "lbl:longitude":35.30108,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u062f\u064a\u062f\u0629"
@@ -37,9 +40,6 @@
     "name:nld_x_preferred":[
         "Judeida"
     ],
-    "name:unk_x_variant":[
-        "Judeida"
-    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -52,7 +52,7 @@
     "qs_pg:qs_id":547072,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1126008491,
-    "wof:lastmodified":1563248059,
+    "wof:lastmodified":1566600640,
     "wof:name":"Al Judayyidah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

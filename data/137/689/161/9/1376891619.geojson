@@ -10,12 +10,15 @@
     "geom:latitude":31.841582,
     "geom:longitude":35.221629,
     "iso:country":"PS",
+    "lbl:bbox":"35.216629,31.836582,35.226629,31.846582",
     "lbl:latitude":31.841585,
     "lbl:longitude":35.221635,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.841585,
     "mps:longitude":35.221635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062d\u0646\u064a\u0646\u0627"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85672551,
         102191569,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1376891619,
-    "wof:lastmodified":1563247981,
+    "wof:lastmodified":1566600619,
     "wof:name":"Beit Hanina",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",
