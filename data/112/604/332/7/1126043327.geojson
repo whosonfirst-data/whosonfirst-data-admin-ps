@@ -9,15 +9,18 @@
     "geom:bbox":"35.23166,32.37596,35.23166,32.37596",
     "geom:latitude":32.37596,
     "geom:longitude":35.23166,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":761,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":761,
     "iso:country":"PS",
+    "lbl:bbox":"35.21166,32.35596,35.25166,32.39596",
     "lbl:latitude":32.37596,
     "lbl:longitude":35.23166,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0627\u0648\u064a\u0629"
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Az-Zawija"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Z\u0101wiya"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":547022,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126043327,
-    "wof:lastmodified":1563248022,
+    "wof:lastmodified":1566600630,
     "wof:name":"Az Z\u0101wiyah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

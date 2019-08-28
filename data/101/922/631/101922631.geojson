@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.615798,
     "lbl:longitude":35.036946,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":31.615798,
     "mps:longitude":35.036946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u0631\u0627\u0633"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.614106,
     "wd:longitude":35.043133,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":283246,
         "gp:id":56123330,
-        "qs:id":547097,
+        "qs_pg:id":547097,
         "wd:id":"Q6400582",
         "wk:page":"Kharas"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101922631,
-    "wof:lastmodified":1563247601,
+    "wof:lastmodified":1566600509,
     "wof:name":"Kharas",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

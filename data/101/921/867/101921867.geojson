@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.980134,
     "lbl:longitude":35.260595,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":31.980134,
     "mps:longitude":35.260595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0648\u0627\u062f"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.986111,
     "wd:longitude":35.259167,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":281789,
         "gp:id":56123348,
-        "qs:id":542445,
         "qs_pg:id":542445,
         "wd:id":"Q684632",
         "wk:page":"Silwad"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101921867,
-    "wof:lastmodified":1563247909,
+    "wof:lastmodified":1566600594,
     "wof:name":"Silwad",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

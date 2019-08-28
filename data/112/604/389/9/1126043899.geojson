@@ -9,15 +9,18 @@
     "geom:bbox":"35.18426,31.94883,35.18426,31.94883",
     "geom:latitude":31.94883,
     "geom:longitude":35.18426,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1385,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":1385,
     "iso:country":"PS",
+    "lbl:bbox":"35.16426,31.92883,35.20426,31.96883",
     "lbl:latitude":31.94883,
     "lbl:longitude":35.18426,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0642\u0634"
@@ -43,7 +46,7 @@
     "name:pol_x_preferred":[
         "Abu Kaszsz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ab\u016b Qash"
     ],
     "qs_pg:aaroncc":"PS",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":547129,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1126043899,
-    "wof:lastmodified":1563248027,
+    "wof:lastmodified":1566600632,
     "wof:name":"Ab\u016b Qashsh",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

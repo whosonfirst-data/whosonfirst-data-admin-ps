@@ -9,15 +9,18 @@
     "geom:bbox":"35.23011,32.48563,35.23011,32.48563",
     "geom:latitude":32.48563,
     "geom:longitude":35.23011,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16164,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":16164,
     "iso:country":"PS",
+    "lbl:bbox":"35.21011,32.46563,35.25011,32.50563",
     "lbl:latitude":32.48563,
     "lbl:longitude":35.23011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u064a\u0627\u0645\u0648\u0646"
@@ -49,7 +52,7 @@
     "name:spa_x_preferred":[
         "Al-Yamun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Y\u0101m\u016bn"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":124006,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125825135,
-    "wof:lastmodified":1563248083,
+    "wof:lastmodified":1566600646,
     "wof:name":"Al Y\u0101m\u016bn",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

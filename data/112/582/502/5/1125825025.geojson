@@ -9,15 +9,18 @@
     "geom:bbox":"35.33005,32.08543,35.33005,32.08543",
     "geom:latitude":32.08543,
     "geom:longitude":35.33005,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4316,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":4316,
     "iso:country":"PS",
+    "lbl:bbox":"35.31005,32.06543,35.35005,32.10543",
     "lbl:latitude":32.08543,
     "lbl:longitude":35.33005,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0642\u0635\u0631\u0629"
@@ -46,7 +49,7 @@
     "name:pol_x_preferred":[
         "Kusra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kusrah"
     ],
     "qs_pg:aaroncc":"PS",
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":123932,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125825025,
-    "wof:lastmodified":1563248060,
+    "wof:lastmodified":1566600641,
     "wof:name":"Qu\u015frah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

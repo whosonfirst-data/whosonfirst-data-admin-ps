@@ -9,15 +9,18 @@
     "geom:bbox":"35.18893,32.25326,35.18893,32.25326",
     "geom:latitude":32.25326,
     "geom:longitude":35.18893,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2681,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":2681,
     "iso:country":"PS",
+    "lbl:bbox":"35.16893,32.23326,35.20893,32.27326",
     "lbl:latitude":32.25326,
     "lbl:longitude":35.18893,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0634\u0631\u0641"
@@ -40,9 +43,6 @@
     "name:nno_x_preferred":[
         "Deir Sharaf"
     ],
-    "name:unk_x_variant":[
-        "Deir Sharaf"
-    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -55,7 +55,7 @@
     "qs_pg:qs_id":274796,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125984027,
-    "wof:lastmodified":1563248054,
+    "wof:lastmodified":1566600639,
     "wof:name":"Dayr Sharaf",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

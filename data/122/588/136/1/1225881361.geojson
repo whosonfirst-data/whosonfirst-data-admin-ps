@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"34.99667,32.09667,35.03667,32.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1225881361,
-    "wof:lastmodified":1549929706,
+    "wof:lastmodified":1566600663,
     "wof:name":"Benot Orot Yisra'el",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

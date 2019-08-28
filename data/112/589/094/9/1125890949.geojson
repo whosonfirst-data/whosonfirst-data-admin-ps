@@ -9,15 +9,18 @@
     "geom:bbox":"35.02689,31.45182,35.02689,31.45182",
     "geom:latitude":31.45182,
     "geom:longitude":35.02689,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1365,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":1365,
     "iso:country":"PS",
+    "lbl:bbox":"35.00689,31.43182,35.04689,31.47182",
     "lbl:latitude":31.45182,
     "lbl:longitude":35.02689,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0631\u0645\u0629"
@@ -40,7 +43,7 @@
     "name:nno_x_preferred":[
         "Karma i Hebron"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat el Karma"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":79908,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125890949,
-    "wof:lastmodified":1563248049,
+    "wof:lastmodified":1566600637,
     "wof:name":"Karmah",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

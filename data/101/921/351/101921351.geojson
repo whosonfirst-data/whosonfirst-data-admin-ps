@@ -12,14 +12,17 @@
     "iso:country":"PS",
     "lbl:latitude":32.243511,
     "lbl:longitude":35.499743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.243511,
     "mps:longitude":35.499743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u062f\u064a\u062f\u064a\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat al Hadidiya"
     ],
     "qs:a0":"Palestine",
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101921351,
-    "wof:lastmodified":1549929810,
+    "wof:lastmodified":1566600603,
     "wof:name":"Al Hadidiya",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

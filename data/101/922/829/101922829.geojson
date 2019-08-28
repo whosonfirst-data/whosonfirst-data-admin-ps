@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.464338,
     "lbl:longitude":35.023364,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.464338,
     "mps:longitude":35.023364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Abda"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":113,
     "wof:belongsto":[
         85681427,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101922829,
-    "wof:lastmodified":1549929857,
+    "wof:lastmodified":1566600481,
     "wof:name":"'Abda",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

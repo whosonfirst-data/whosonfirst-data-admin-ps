@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.359283,
     "lbl:longitude":34.342438,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":31.359283,
     "mps:longitude":34.342438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0627\u0631\u0629"
     ],
@@ -53,9 +56,6 @@
     "name:pol_x_preferred":[
         "Al-Karara"
     ],
-    "name:unk_x_variant":[
-        "Al Qar\u0101rah"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0627\u0631\u06c1"
     ],
@@ -73,7 +73,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":31.373125,
     "wd:longitude":34.333111,
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":101920349,
-    "wof:lastmodified":1563247680,
+    "wof:lastmodified":1566600533,
     "wof:name":"Al Qarara",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

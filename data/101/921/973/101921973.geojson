@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.898811,
     "lbl:longitude":35.195414,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":31.898811,
     "mps:longitude":35.195414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Ramallah"
     ],
@@ -305,7 +308,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u0430\u043b\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rahm Alla"
     ],
     "name:urd_x_preferred":[
@@ -349,7 +352,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -391,7 +394,7 @@
         }
     ],
     "wof:id":101921973,
-    "wof:lastmodified":1563247967,
+    "wof:lastmodified":1566600615,
     "wof:name":"Ramallah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

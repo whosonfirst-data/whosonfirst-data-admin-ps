@@ -9,15 +9,18 @@
     "geom:bbox":"35.18451,31.85203,35.18451,31.85203",
     "geom:latitude":31.85203,
     "geom:longitude":35.18451,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4505,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":4505,
     "iso:country":"PS",
+    "lbl:bbox":"35.16451,31.83203,35.20451,31.87203",
     "lbl:latitude":31.85203,
     "lbl:longitude":35.18451,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u064a\u0628"
@@ -49,7 +52,7 @@
     "name:pol_x_preferred":[
         "Al-D\u017cib"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El J\u012bb"
     ],
     "qs_pg:aaroncc":"PS",
@@ -64,7 +67,7 @@
     "qs_pg:qs_id":124010,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125825161,
-    "wof:lastmodified":1563248072,
+    "wof:lastmodified":1566600644,
     "wof:name":"Al J\u012bb",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

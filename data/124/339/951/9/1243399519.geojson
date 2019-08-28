@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.03,32.21333,35.07,32.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681427,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1243399519,
-    "wof:lastmodified":1549929913,
+    "wof:lastmodified":1566600658,
     "wof:name":"Sal`it",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

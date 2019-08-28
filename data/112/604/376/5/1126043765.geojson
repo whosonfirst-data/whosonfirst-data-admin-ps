@@ -9,15 +9,18 @@
     "geom:bbox":"35.20135,32.26506,35.20135,32.26506",
     "geom:latitude":32.26506,
     "geom:longitude":35.20135,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1528,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":1528,
     "iso:country":"PS",
+    "lbl:bbox":"35.18135,32.24506,35.22135,32.28506",
     "lbl:latitude":32.26506,
     "lbl:longitude":35.20135,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0627\u0642\u0648\u0631\u0629"
@@ -40,7 +43,7 @@
     "name:nld_x_preferred":[
         "An-Naqura"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naq\u016bra"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":547104,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126043765,
-    "wof:lastmodified":1563248016,
+    "wof:lastmodified":1566600629,
     "wof:name":"An N\u0101q\u016brah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.48,31.74667,35.52,31.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "K\u00e0lia"
     ],
@@ -49,8 +53,6 @@
     ],
     "name:und_x_variant":[
         "Nahal Kallia",
-        "Kalya",
-        "Kalia",
         "Na\u1e96al Kalya"
     ],
     "src:geom":"geonames",
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":1243009987,
-    "wof:lastmodified":1564099721,
+    "wof:lastmodified":1566600657,
     "wof:name":"Nahal Kalya",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"34.34085,31.37389,34.34085,31.37389",
     "geom:latitude":31.37389,
     "geom:longitude":34.34085,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":19500,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":19500,
     "iso:country":"PS",
+    "lbl:bbox":"34.32085,31.35389,34.36085,31.39389",
     "lbl:latitude":31.37389,
     "lbl:longitude":34.34085,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0627\u0631\u0629"
@@ -55,9 +58,6 @@
     "name:pol_x_preferred":[
         "Al-Karara"
     ],
-    "name:unk_x_variant":[
-        "Al Qarara"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0627\u0631\u06c1"
     ],
@@ -73,7 +73,7 @@
     "qs_pg:qs_id":653295,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681213,
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125879407,
-    "wof:lastmodified":1563248050,
+    "wof:lastmodified":1566600638,
     "wof:name":"Al Qar\u0101rah",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

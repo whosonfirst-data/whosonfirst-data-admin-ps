@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.224416,
     "lbl:longitude":35.043316,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.224416,
     "mps:longitude":35.043316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u062c\u0645\u0627\u0644"
     ],
@@ -41,9 +44,6 @@
     "name:pol_x_preferred":[
         "Kafr D\u017cammal"
     ],
-    "name:unk_x_variant":[
-        "Kafr Jamm\u0101l"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -58,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -73,7 +73,7 @@
     "wof:concordances":{
         "gn:id":283373,
         "gp:id":1937300,
-        "qs:id":123950,
+        "qs_pg:id":123950,
         "wd:id":"Q3799117",
         "wk:page":"Kafr Jammal"
     },
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":101921401,
-    "wof:lastmodified":1563247898,
+    "wof:lastmodified":1566600591,
     "wof:name":"Kafr Jammal",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

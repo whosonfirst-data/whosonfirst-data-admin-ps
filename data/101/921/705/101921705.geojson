@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.076603,
     "lbl:longitude":35.102562,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.076603,
     "mps:longitude":35.102562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0642\u064a\u0646"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101921705,
-    "wof:lastmodified":1563247925,
+    "wof:lastmodified":1566600601,
     "wof:name":"Bruqin",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

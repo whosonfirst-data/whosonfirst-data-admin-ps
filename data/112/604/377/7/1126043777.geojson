@@ -9,15 +9,18 @@
     "geom:bbox":"35.12403,32.01638,35.12403,32.01638",
     "geom:latitude":32.01638,
     "geom:longitude":35.12403,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":527,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":527,
     "iso:country":"PS",
+    "lbl:bbox":"35.10403,31.99638,35.14403,32.03638",
     "lbl:latitude":32.01638,
     "lbl:longitude":35.12403,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0628\u064a \u0635\u0627\u0644\u062d"
@@ -58,7 +61,7 @@
     "name:spa_x_preferred":[
         "Nabi Salih"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nabi S\u0101lih"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":547106,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1126043777,
-    "wof:lastmodified":1563248014,
+    "wof:lastmodified":1566600628,
     "wof:name":"An Nab\u012b \u015e\u0101li\u1e29",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

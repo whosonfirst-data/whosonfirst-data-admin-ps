@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.11354,
     "lbl:longitude":35.141115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.11354,
     "mps:longitude":35.141115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u1e28\u0101ris"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":283735,
         "gp:id":1937300,
-        "qs:id":123961,
+        "qs_pg:id":123961,
         "wd:id":"Q4119467",
         "wk:page":"Haris, Salfit"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101921629,
-    "wof:lastmodified":1563247896,
+    "wof:lastmodified":1566600591,
     "wof:name":"Haris",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

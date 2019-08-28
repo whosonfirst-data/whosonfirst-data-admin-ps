@@ -9,15 +9,18 @@
     "geom:bbox":"35.07179,32.22584,35.07179,32.22584",
     "geom:latitude":32.22584,
     "geom:longitude":35.07179,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1068,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":1068,
     "iso:country":"PS",
+    "lbl:bbox":"35.05179,32.20584,35.09179,32.24584",
     "lbl:latitude":32.22584,
     "lbl:longitude":35.07179,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0632\u064a\u0628\u0627\u062f"
@@ -43,7 +46,7 @@
     "name:pol_x_preferred":[
         "Kafr Zibad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat Zib\u0101d"
     ],
     "qs_pg:aaroncc":"PS",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":547064,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1126043571,
-    "wof:lastmodified":1563248021,
+    "wof:lastmodified":1566600630,
     "wof:name":"Kafr Z\u012bb\u0101d",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

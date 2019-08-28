@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"PS",
+    "lbl:bbox":"35.09897,31.50838,35.13897,31.54838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0627\u062a \u0623\u0631\u0628\u0639"
     ],
@@ -64,7 +68,6 @@
         "Kiryat Arba"
     ],
     "name:und_x_variant":[
-        "Kiryat Arba",
         "Qiryat Arba\u2018"
     ],
     "src:geom":"geonames",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1293326773,
-    "wof:lastmodified":1564099564,
+    "wof:lastmodified":1566600438,
     "wof:name":"Qiryat Arba'",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"35.02929,31.50777,35.02929,31.50777",
     "geom:latitude":31.50777,
     "geom:longitude":35.02929,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":20835,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":20835,
     "iso:country":"PS",
+    "lbl:bbox":"35.00929,31.48777,35.04929,31.52777",
     "lbl:latitude":31.50777,
     "lbl:longitude":35.02929,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u0627"
@@ -76,7 +79,7 @@
     "name:spa_x_preferred":[
         "Dura"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u016brah"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +100,7 @@
     "qs_pg:qs_id":123965,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1125825087,
-    "wof:lastmodified":1563248073,
+    "wof:lastmodified":1566600644,
     "wof:name":"D\u016br\u0101",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

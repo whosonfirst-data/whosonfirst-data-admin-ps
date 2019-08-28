@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.450134,
     "lbl:longitude":35.048073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.450134,
     "mps:longitude":35.048073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0639\u0645\u0631\u0629"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":31.44815,
     "wd:longitude":35.053689,
     "wd:wordcount":383,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101922883,
-    "wof:lastmodified":1563247584,
+    "wof:lastmodified":1566600500,
     "wof:name":"Beit 'Amra",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

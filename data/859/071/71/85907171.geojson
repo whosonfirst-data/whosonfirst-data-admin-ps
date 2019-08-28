@@ -11,8 +11,10 @@
     "geom:longitude":35.235201,
     "gn:id":"",
     "iso:country":"PS",
+    "lbl:bbox":"35.230201,31.794461,35.240201,31.804461",
     "lbl:latitude":31.799461,
     "lbl:longitude":35.235201,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.79952,
     "mps:longitude":35.235844,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:por_x_preferred":[
         "Kiryat HaMemshala"
     ],
-    "name:unk_x_variant":[
-        "Kiryat Ha-memshala"
-    ],
     "name:yid_x_preferred":[
         "\u05e7\u05e8\u05d9\u05ea \u05d4\u05de\u05de\u05e9\u05dc\u05d4"
     ],
@@ -84,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":169,
     "wof:belongsto":[
         85672551,
@@ -96,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724647,
-        "qs:id":14501,
+        "qs_pg:id":14501,
         "wd:id":"Q2916125"
     },
     "wof:country":"PS",
@@ -115,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563247441,
+    "wof:lastmodified":1566600427,
     "wof:name":"Kiryat Ha-memshala",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

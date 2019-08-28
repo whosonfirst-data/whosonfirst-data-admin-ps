@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.408309,
     "lbl:longitude":35.09494,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":32.408309,
     "mps:longitude":35.09494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0632\u0644\u0629 \u0627\u0644\u0648\u0633\u0637\u0649"
     ],
@@ -38,7 +41,7 @@
     "name:pol_x_preferred":[
         "An-Nazla al-Wusta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "An Nazlat al Wus\u0163\u00e1"
     ],
     "qs:a0":"Palestine",
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":284937,
         "gp:id":1937300,
-        "qs:id":547102,
+        "qs_pg:id":547102,
         "wd:id":"Q4749681",
         "wk:page":"An-Nazla al-Wusta"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1175613275,
-    "wof:lastmodified":1563247494,
+    "wof:lastmodified":1566600457,
     "wof:name":"An Nazla al Wusta",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

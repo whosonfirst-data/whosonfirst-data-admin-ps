@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.371562,
     "lbl:longitude":35.077696,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":31.371562,
     "mps:longitude":35.077696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0648\u0639"
     ],
@@ -65,7 +68,7 @@
     "name:pol_x_preferred":[
         "As-Samu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eshtemoa\u2018"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +88,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.400792,
     "wd:longitude":35.067075,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101923107,
-    "wof:lastmodified":1563247526,
+    "wof:lastmodified":1566600473,
     "wof:name":"As Samu'",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

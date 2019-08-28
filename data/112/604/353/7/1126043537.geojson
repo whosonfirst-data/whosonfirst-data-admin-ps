@@ -9,20 +9,23 @@
     "geom:bbox":"35.37836,32.25231,35.37836,32.25231",
     "geom:latitude":32.25231,
     "geom:longitude":35.37836,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":990,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":990,
     "iso:country":"PS",
+    "lbl:bbox":"35.35836,32.23231,35.39836,32.27231",
     "lbl:latitude":32.25231,
     "lbl:longitude":35.37836,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0642\u0631\u0628\u0627\u0646\u064a\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat al \u2018Aqrabaiya"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":547059,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126043537,
-    "wof:lastmodified":1549929899,
+    "wof:lastmodified":1566600627,
     "wof:name":"Al \u2018Aqrab\u0101n\u012byah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

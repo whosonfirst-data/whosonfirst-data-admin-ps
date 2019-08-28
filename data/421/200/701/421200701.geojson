@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.788046,
     "lbl:longitude":35.317215,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"West Bank",
     "meso:gadm_admin":"Jerusalem",
     "meso:gadm_hasc2":"PS.WE.JS",
@@ -29,6 +31,7 @@
     "mps:longitude":35.317215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Jerusalem distrik"
@@ -222,10 +225,9 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-01",
+    "src:population_date":"2007-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-12-01",
     "statoids:capital":"al-Quds",
@@ -248,7 +250,7 @@
     "wof:concordances":{
         "gp:id":24549736,
         "hasc:id":"PS.WE.JS",
-        "qs:id":891888,
+        "qs_pg:id":891888,
         "wd:id":"Q192232"
     },
     "wof:country":"PS",
@@ -273,7 +275,7 @@
         }
     ],
     "wof:id":421200701,
-    "wof:lastmodified":1563247993,
+    "wof:lastmodified":1566600622,
     "wof:name":"Jerusalem",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

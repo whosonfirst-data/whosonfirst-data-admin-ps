@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.324102,
     "lbl:longitude":35.181997,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.324102,
     "mps:longitude":35.181997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0629 \u0627\u0644\u0638\u0647\u0631"
     ],
@@ -41,7 +44,7 @@
     "name:pol_x_preferred":[
         "Silat az-Zahr"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saylat a\u1e11 \u1e10ahr"
     ],
     "qs:a0":"Palestine",
@@ -58,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":281790,
         "gp:id":1937300,
-        "qs:id":123913,
+        "qs_pg:id":123913,
         "wd:id":"Q2898957",
         "wk:page":"Silat ad-Dhahr"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1175613415,
-    "wof:lastmodified":1563247479,
+    "wof:lastmodified":1566600452,
     "wof:name":"Silat adh Dhahr",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

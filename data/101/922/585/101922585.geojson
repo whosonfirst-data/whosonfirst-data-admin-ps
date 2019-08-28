@@ -12,14 +12,17 @@
     "iso:country":"PS",
     "lbl:latitude":31.627121,
     "lbl:longitude":35.038435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.627121,
     "mps:longitude":35.038435,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u062c\u0645\u0631\u0648\u0631\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat Jamrura"
     ],
     "qs:a0":"Palestine",
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101922585,
-    "wof:lastmodified":1549929827,
+    "wof:lastmodified":1566600510,
     "wof:name":"Khirbet Jamrura",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

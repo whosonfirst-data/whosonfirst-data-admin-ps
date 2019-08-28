@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.419546,
     "lbl:longitude":35.360375,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.419546,
     "mps:longitude":35.360375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0644\u0642\u0645\u0648\u0633"
     ],
@@ -38,9 +41,6 @@
     "name:pol_x_preferred":[
         "D\u017calkamus"
     ],
-    "name:unk_x_variant":[
-        "Jalqam\u016bs"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -55,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101920979,
-    "wof:lastmodified":1563247672,
+    "wof:lastmodified":1566600531,
     "wof:name":"Jalqamus",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

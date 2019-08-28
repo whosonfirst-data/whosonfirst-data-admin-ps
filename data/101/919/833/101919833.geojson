@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.462504,
     "lbl:longitude":34.934815,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":31.462504,
     "mps:longitude":34.934815,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -31,7 +34,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -46,7 +49,7 @@
     "wof:concordances":{
         "gn:id":283145,
         "gp:id":1937307,
-        "qs:id":79900
+        "qs_pg:id":79900
     },
     "wof:country":"PS",
     "wof:geomhash":"8c537abbeabc9fd366565c245354ddd6",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101919833,
-    "wof:lastmodified":1549929849,
+    "wof:lastmodified":1566600565,
     "wof:name":"Beit ar Rush at Tahta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

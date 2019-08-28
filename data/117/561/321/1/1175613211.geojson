@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.508459,
     "lbl:longitude":35.226746,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.508459,
     "mps:longitude":35.226746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0629 \u0627\u0644\u062d\u0627\u0631\u062b\u064a\u0629"
     ],
@@ -44,7 +47,7 @@
     "name:pol_x_preferred":[
         "Silat al-Harisijja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u012blat el \u1e24\u0101rith\u012bya"
     ],
     "qs:a0":"Palestine",
@@ -61,7 +64,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.508125,
     "wd:longitude":35.227656,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":281791,
         "gp:id":56123314,
-        "qs:id":123914,
+        "qs_pg:id":123914,
         "wd:id":"Q2898808",
         "wk:page":"Silat al-Harithiya"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1175613211,
-    "wof:lastmodified":1563247503,
+    "wof:lastmodified":1566600462,
     "wof:name":"Silat al Harithiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.437601,
     "lbl:longitude":34.931811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.437601,
     "mps:longitude":34.931811,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0631\u0629"
     ],
@@ -97,7 +100,7 @@
     "name:tur_x_preferred":[
         "El Bireh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al B\u012brah"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +120,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":31.905142,
     "wd:longitude":35.214958,
     "wd:wordcount":2273,
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1175613389,
-    "wof:lastmodified":1563247470,
+    "wof:lastmodified":1566600449,
     "wof:name":"Al Bira",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

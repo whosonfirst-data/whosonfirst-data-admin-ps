@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.274687,
     "lbl:longitude":35.083208,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.274687,
     "mps:longitude":35.083208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u0641\u0629"
     ],
@@ -38,7 +41,7 @@
     "name:pol_x_preferred":[
         "Szufa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shawfah"
     ],
     "qs:a0":"Palestine",
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101921299,
-    "wof:lastmodified":1563247962,
+    "wof:lastmodified":1566600613,
     "wof:name":"Shufa",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

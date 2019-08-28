@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":31.323666,
     "lbl:longitude":34.306795,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Gaza Strip",
     "mps:latitude":31.323666,
     "mps:longitude":34.306795,
@@ -372,7 +373,7 @@
     "name:ukr_x_variant":[
         "\u043c\u0443\u0433\u0430\u0444\u0430\u0437\u0430 \u0490\u0430\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qi\u0163\u0101` Ghazzah"
     ],
     "name:urd_x_preferred":[
@@ -481,10 +482,9 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-01",
+    "src:population_date":"2007-12-01",
     "statoids:area_km":"363",
     "statoids:area_mi":"140",
     "statoids:as_of_date":"2007-12-01",
@@ -519,7 +519,7 @@
         "iso:id":"PS-GZZ",
         "marc:id":"gz",
         "nyt:id":"N49255557356717107211",
-        "qs:id":58921,
+        "qs_pg:id":58921,
         "wd:id":"Q762573",
         "wk:page":"Gaza Strip"
     },
@@ -548,7 +548,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565733650,
+    "wof:lastmodified":1566600434,
     "wof:name":"Gaza Strip",
     "wof:parent_id":1159339485,
     "wof:placetype":"region",

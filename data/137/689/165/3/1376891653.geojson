@@ -10,12 +10,15 @@
     "geom:latitude":31.744702,
     "geom:longitude":35.197335,
     "iso:country":"PS",
+    "lbl:bbox":"35.192335,31.739702,35.202335,31.749702",
     "lbl:latitude":31.744976,
     "lbl:longitude":35.197599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.744976,
     "mps:longitude":35.197599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0635\u0641\u0627\u0641\u0627"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1615,
     "wof:belongsto":[
         85672551,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":284305,
         "gp:id":22724703,
-        "qs:id":989429,
+        "qs_pg:id":989429,
         "wd:id":"Q814904",
         "wk:page":"Beit Safafa"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1376891653,
-    "wof:lastmodified":1563247985,
+    "wof:lastmodified":1566600620,
     "wof:name":"Beit Safafa",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

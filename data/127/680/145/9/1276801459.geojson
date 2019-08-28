@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.14667,31.48,35.18667,31.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yaqin",
         "Na\u1e96al Yaqin"
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1276801459,
-    "wof:lastmodified":1549929914,
+    "wof:lastmodified":1566600440,
     "wof:name":"Nahal Yaqin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

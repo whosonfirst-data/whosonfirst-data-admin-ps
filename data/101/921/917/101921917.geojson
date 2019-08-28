@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.942389,
     "lbl:longitude":35.106049,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":31.942389,
     "mps:longitude":35.106049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0623\u0633 \u0643\u0631\u0643\u0631"
     ],
@@ -44,9 +47,6 @@
     "name:pol_x_preferred":[
         "Ras Karkar"
     ],
-    "name:unk_x_variant":[
-        "R\u0101s Karkar"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -61,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1019,
     "wof:belongsto":[
@@ -77,7 +77,7 @@
     "wof:concordances":{
         "gn:id":282185,
         "gp:id":1937180,
-        "qs:id":79883,
+        "qs_pg:id":79883,
         "wd:id":"Q2903530",
         "wk:page":"Ras Karkar"
     },
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101921917,
-    "wof:lastmodified":1563247974,
+    "wof:lastmodified":1566600617,
     "wof:name":"Ras Karkar",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

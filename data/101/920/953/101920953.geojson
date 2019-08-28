@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.432289,
     "lbl:longitude":35.343834,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":32.432289,
     "mps:longitude":35.343834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u062a\u0648\u062a"
     ],
@@ -35,7 +38,7 @@
     "name:pol_x_preferred":[
         "Umm at-Tut"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Umm et T\u016bt"
     ],
     "qs:a0":"Palestine",
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":207,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":281486,
         "gp:id":1937299,
-        "qs:id":79868,
+        "qs_pg:id":79868,
         "wd:id":"Q7881675"
     },
     "wof:country":"PS",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101920953,
-    "wof:lastmodified":1561827611,
+    "wof:lastmodified":1566600518,
     "wof:name":"Umm at Tut",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

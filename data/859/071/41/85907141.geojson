@@ -11,8 +11,10 @@
     "geom:longitude":35.256719,
     "gn:id":"",
     "iso:country":"PS",
+    "lbl:bbox":"35.251719,31.757529,35.261719,31.767529",
     "lbl:latitude":31.762529,
     "lbl:longitude":35.256719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.758293,
     "mps:longitude":35.2707,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Khirbet Beit Sakhur"
-    ],
-    "name:unk_x_variant":[
         "Khirbet Beit Sakhur"
     ],
     "qs:gn_id":0,
@@ -55,21 +54,20 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681427,
         1159339487,
         102191569,
         85633739,
         101922245,
         136253049,
         421200701,
+        85681427,
         85632315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724629,
-        "qs:id":1085677,
         "qs_pg:id":1085677
     },
     "wof:country":"PS",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549929928,
+    "wof:lastmodified":1566600427,
     "wof:name":"Khirbet Beit Sakhur",
     "wof:parent_id":101922245,
     "wof:placetype":"neighbourhood",

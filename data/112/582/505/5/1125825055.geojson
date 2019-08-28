@@ -9,15 +9,18 @@
     "geom:bbox":"35.12908,32.0547,35.12908,32.0547",
     "geom:latitude":32.0547,
     "geom:longitude":35.12908,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2673,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":2673,
     "iso:country":"PS",
+    "lbl:bbox":"35.10908,32.0347,35.14908,32.0747",
     "lbl:latitude":32.0547,
     "lbl:longitude":35.12908,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0642\u0631\u0627\u0648\u0629 \u0628\u0646\u064a \u0632\u064a\u062f"
@@ -43,9 +46,6 @@
     "name:pol_x_preferred":[
         "Karawat Bani Zajd"
     ],
-    "name:unk_x_variant":[
-        "Qarawat Bani Zeid"
-    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -58,7 +58,7 @@
     "qs_pg:qs_id":123935,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125825055,
-    "wof:lastmodified":1563248060,
+    "wof:lastmodified":1566600641,
     "wof:name":"Qar\u0101wat Ban\u012b Zayd",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

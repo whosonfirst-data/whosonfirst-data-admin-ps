@@ -9,15 +9,18 @@
     "geom:bbox":"35.2048,32.52451,35.2048,32.52451",
     "geom:latitude":32.52451,
     "geom:longitude":35.2048,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3275,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":3275,
     "iso:country":"PS",
+    "lbl:bbox":"35.1848,32.50451,35.2248,32.54451",
     "lbl:latitude":32.52451,
     "lbl:longitude":35.2048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0645\u0646\u0629"
@@ -43,7 +46,7 @@
     "name:nno_x_preferred":[
         "Rummanah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rumm\u0101na"
     ],
     "qs_pg:aaroncc":"PS",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":123925,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125824881,
-    "wof:lastmodified":1563248076,
+    "wof:lastmodified":1566600645,
     "wof:name":"Rummanah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"35.238664,31.769824,35.238664,31.769824",
     "geom:latitude":31.769824,
     "geom:longitude":35.238664,
-    "geonames:id":"281788,7890168",
+    "gn:id":"281788,7890168",
     "iso:country":"PS",
+    "lbl:bbox":"35.233664,31.764824,35.243664,31.774824",
     "lbl:latitude":31.770424,
     "lbl:longitude":35.237505,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.770424,
     "mps:longitude":35.237505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0648\u0627\u0646"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5649,
     "wof:belongsto":[
         85672551,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1376891599,
-    "wof:lastmodified":1561827634,
+    "wof:lastmodified":1566600618,
     "wof:name":"Silwan",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.409394,
     "lbl:longitude":35.111036,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.409394,
     "mps:longitude":35.111036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0632\u0644\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
@@ -35,7 +38,7 @@
     "name:nno_x_preferred":[
         "An-Nazla ash-Sharqiya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "En Nazla ash Sharqiya"
     ],
     "qs:a0":"Palestine",
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":274,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":284936,
         "gp:id":1937300,
-        "qs:id":547101,
+        "qs_pg:id":547101,
         "wd:id":"Q4749682",
         "wk:page":"An-Nazla ash-Sharqiya"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101921001,
-    "wof:lastmodified":1563247911,
+    "wof:lastmodified":1566600595,
     "wof:name":"An Nazla ash Sharqiya",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.817098,
     "lbl:longitude":35.179206,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":31.817098,
     "mps:longitude":35.179206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0625\u0643\u0633\u0627"
     ],
@@ -44,9 +47,6 @@
     "name:pol_x_preferred":[
         "Bajt Iksa"
     ],
-    "name:unk_x_variant":[
-        "Bayt Iks\u0101"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062a \u0627\u06a9\u0633\u0627"
     ],
@@ -64,7 +64,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -79,7 +79,7 @@
     "wof:concordances":{
         "gn:id":284331,
         "gp:id":1937180,
-        "qs:id":79942,
+        "qs_pg:id":79942,
         "wd:id":"Q4881448",
         "wk:page":"Beit Iksa"
     },
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1175613185,
-    "wof:lastmodified":1563247493,
+    "wof:lastmodified":1566600457,
     "wof:name":"Beit Iksa",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

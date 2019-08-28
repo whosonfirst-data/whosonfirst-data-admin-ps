@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.774118,
     "lbl:longitude":35.259764,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":31.774118,
     "mps:longitude":35.259764,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Betani\u00eb"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0444\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al \u2018Eizariya"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +133,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -144,7 +147,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":285111,
-        "qs:id":547122,
+        "qs_pg:id":547122,
         "wd:id":"Q831190",
         "wk:page":"Bethany (biblical village)"
     },
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101922239,
-    "wof:lastmodified":1563247596,
+    "wof:lastmodified":1566600507,
     "wof:name":"Al 'Eizariya",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

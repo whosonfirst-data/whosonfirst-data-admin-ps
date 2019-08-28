@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.394704,
     "lbl:longitude":35.237369,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.394704,
     "mps:longitude":35.237369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0643\u0629"
     ],
@@ -35,9 +38,6 @@
     "name:pol_x_preferred":[
         "Mirka"
     ],
-    "name:unk_x_variant":[
-        "Mirkah"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -52,7 +52,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":248,
     "wof:belongsto":[
@@ -68,7 +68,7 @@
     "wof:concordances":{
         "gn:id":282746,
         "gp:id":1937299,
-        "qs:id":79894,
+        "qs_pg:id":79894,
         "wd:id":"Q6873626",
         "wk:page":"Mirka"
     },
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101921037,
-    "wof:lastmodified":1563247910,
+    "wof:lastmodified":1566600594,
     "wof:name":"Mirka",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

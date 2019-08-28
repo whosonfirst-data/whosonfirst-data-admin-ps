@@ -9,15 +9,18 @@
     "geom:bbox":"35.30999,32.12499,35.30999,32.12499",
     "geom:latitude":32.12499,
     "geom:longitude":35.30999,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1595,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":1595,
     "iso:country":"PS",
+    "lbl:bbox":"35.28999,32.10499,35.32999,32.14499",
     "lbl:latitude":32.12499,
     "lbl:longitude":35.30999,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0635\u0631\u064a\u0646"
@@ -40,7 +43,7 @@
     "name:nld_x_preferred":[
         "Osarin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Au\u1e63ar\u012bn"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":547089,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126043665,
-    "wof:lastmodified":1563248020,
+    "wof:lastmodified":1566600630,
     "wof:name":"Usarin",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

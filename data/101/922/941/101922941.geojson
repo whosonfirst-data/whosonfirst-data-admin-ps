@@ -9,14 +9,17 @@
     "geom:bbox":"35.0656471252,31.4251785278,35.084941864,31.4432430267",
     "geom:latitude":31.435263,
     "geom:longitude":35.076008,
-    "geonames:id":"283106,7915400",
+    "gn:id":"283106,7915400",
     "iso:country":"PS",
     "lbl:latitude":31.435588,
     "lbl:longitude":35.075368,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.435588,
     "mps:longitude":35.075368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0632\u0647"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101922941,
-    "wof:lastmodified":1563247566,
+    "wof:lastmodified":1566600492,
     "wof:name":"Khurisa",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

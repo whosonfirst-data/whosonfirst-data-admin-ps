@@ -9,20 +9,23 @@
     "geom:bbox":"35.2543,31.89682,35.2543,31.89682",
     "geom:latitude":31.89682,
     "geom:longitude":35.2543,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2238,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":2238,
     "iso:country":"PS",
+    "lbl:bbox":"35.2343,31.87682,35.2743,31.91682",
     "lbl:latitude":31.89682,
     "lbl:longitude":35.2543,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0631\u0642\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burq\u0101"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":123976,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125854843,
-    "wof:lastmodified":1549929763,
+    "wof:lastmodified":1566600647,
     "wof:name":"Burqah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

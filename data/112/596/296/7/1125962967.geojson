@@ -9,15 +9,18 @@
     "geom:bbox":"35.19555,31.90256,35.19555,31.90256",
     "geom:latitude":31.90256,
     "geom:longitude":35.19555,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24599,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":24599,
     "iso:country":"PS",
+    "lbl:bbox":"35.17555,31.88256,35.21555,31.92256",
     "lbl:latitude":31.90256,
     "lbl:longitude":35.19555,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Ramallah"
@@ -304,7 +307,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u0430\u043b\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rahm Alla"
     ],
     "name:urd_x_preferred":[
@@ -352,7 +355,7 @@
     "qs_pg:woe_adm0":28289408,
     "qs_pg:woe_id":1937180,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":28289408,
     "woe:name_adm0":"Palestine",
@@ -398,7 +401,7 @@
         }
     ],
     "wof:id":1125962967,
-    "wof:lastmodified":1563248052,
+    "wof:lastmodified":1566600638,
     "wof:name":"Ram Allah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

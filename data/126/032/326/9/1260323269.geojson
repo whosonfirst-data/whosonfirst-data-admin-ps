@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.53859,32.26822,35.57859,32.30822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sheikh Falih",
         "Esh Sheikh Falih",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1260323269,
-    "wof:lastmodified":1549929757,
+    "wof:lastmodified":1566600448,
     "wof:name":"Ash Shaykh Falih",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

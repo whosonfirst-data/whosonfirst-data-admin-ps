@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.191395,
     "lbl:longitude":35.292278,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.191395,
     "mps:longitude":35.292278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062c\u064a\u0628"
     ],
@@ -38,9 +41,6 @@
     "name:pol_x_preferred":[
         "Rud\u017cajb"
     ],
-    "name:unk_x_variant":[
-        "R\u016bjayb"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -55,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.190761,
     "wd:longitude":35.292753,
@@ -73,7 +73,7 @@
     "wof:concordances":{
         "gn:id":282140,
         "gp:id":1936742,
-        "qs:id":123926,
+        "qs_pg:id":123926,
         "wd:id":"Q7378828",
         "wk:page":"Rujeib"
     },
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":101921475,
-    "wof:lastmodified":1563247940,
+    "wof:lastmodified":1566600607,
     "wof:name":"Rujeib",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

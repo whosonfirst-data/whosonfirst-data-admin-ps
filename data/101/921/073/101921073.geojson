@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.386756,
     "lbl:longitude":35.068961,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.386756,
     "mps:longitude":35.068961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u062a\u0627"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101921073,
-    "wof:lastmodified":1563247938,
+    "wof:lastmodified":1566600606,
     "wof:name":"Zeita",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

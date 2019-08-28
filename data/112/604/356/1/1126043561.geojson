@@ -9,15 +9,18 @@
     "geom:bbox":"35.07194,31.94508,35.07194,31.94508",
     "geom:latitude":31.94508,
     "geom:longitude":35.07194,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2808,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":2808,
     "iso:country":"PS",
+    "lbl:bbox":"35.05194,31.92508,35.09194,31.96508",
     "lbl:latitude":31.94508,
     "lbl:longitude":35.07194,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u062b\u0627 \u0628\u0646\u064a \u062d\u0627\u0631\u062b"
@@ -37,7 +40,7 @@
     "name:pol_x_preferred":[
         "Charbata Bani Harit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat\u0101"
     ],
     "qs_pg:aaroncc":"PS",
@@ -52,7 +55,7 @@
     "qs_pg:qs_id":547062,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126043561,
-    "wof:lastmodified":1563248023,
+    "wof:lastmodified":1566600631,
     "wof:name":"Kharbath\u0101 Ban\u012b \u1e28\u0101rith",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

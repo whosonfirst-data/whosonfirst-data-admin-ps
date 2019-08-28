@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.95118,
     "lbl:longitude":35.298765,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":31.95118,
     "mps:longitude":35.298765,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0637\u064a\u0628\u0629"
     ],
@@ -35,7 +38,7 @@
     "name:nno_x_preferred":[
         "At-Tayba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u1e6caiyiba"
     ],
     "qs:a0":"Palestine",
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":221,
     "wof:belongsto":[
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":284559,
         "gp:id":1937300,
-        "qs:id":547093,
+        "qs_pg:id":547093,
         "wd:id":"Q4812269"
     },
     "wof:country":"PS",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101921899,
-    "wof:lastmodified":1563247959,
+    "wof:lastmodified":1566600612,
     "wof:name":"At Tayba",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"35.16605,32.19072,35.16605,32.19072",
     "geom:latitude":32.19072,
     "geom:longitude":35.16605,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":634,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":634,
     "iso:country":"PS",
+    "lbl:bbox":"35.14605,32.17072,35.18605,32.21072",
     "lbl:latitude":32.19072,
     "lbl:longitude":35.16605,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u0631\u0639\u062a\u0627"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kafr \u2018At\u0101"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":79922,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125839069,
-    "wof:lastmodified":1549929754,
+    "wof:lastmodified":1566600652,
     "wof:name":"Far\u2018at\u0101",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

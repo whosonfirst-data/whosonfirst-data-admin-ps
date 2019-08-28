@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.497028,
     "lbl:longitude":35.321328,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.497028,
     "mps:longitude":35.321328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0627\u0646\u0629"
     ],
@@ -38,7 +41,7 @@
     "name:pol_x_preferred":[
         "Arrana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Arr\u0101na"
     ],
     "qs:a0":"Palestine",
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.497086,
     "wd:longitude":35.322289,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":284888,
         "gp:id":1967620,
-        "qs:id":79958,
+        "qs_pg:id":79958,
         "wd:id":"Q4795841",
         "wk:page":"Arranah"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101920785,
-    "wof:lastmodified":1563247676,
+    "wof:lastmodified":1566600532,
     "wof:name":"'Arrana",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"35.01036,32.16169,35.01036,32.16169",
     "geom:latitude":32.16169,
     "geom:longitude":35.01036,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":389,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":389,
     "iso:country":"PS",
+    "lbl:bbox":"34.99036,32.14169,35.03036,32.18169",
     "lbl:latitude":32.16169,
     "lbl:longitude":35.01036,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0627\u0633 \u0627\u0644\u0637\u064a\u0631\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat Ras at Tira"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":547036,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126043461,
-    "wof:lastmodified":1549929895,
+    "wof:lastmodified":1566600628,
     "wof:name":"R\u0101s a\u0163 \u0162\u012brah",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

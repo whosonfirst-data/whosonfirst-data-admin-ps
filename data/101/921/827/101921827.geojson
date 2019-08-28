@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.985433,
     "lbl:longitude":35.314567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.985433,
     "mps:longitude":35.314567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0645\u0627\u0644\u0643"
     ],
@@ -41,9 +44,6 @@
     "name:pol_x_preferred":[
         "Kafr Malik"
     ],
-    "name:unk_x_variant":[
-        "Kafr M\u0101lik"
-    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -58,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.989722,
     "wd:longitude":35.308889,
@@ -76,7 +76,7 @@
     "wof:concordances":{
         "gn:id":283370,
         "gp:id":1937300,
-        "qs:id":123949,
+        "qs_pg:id":123949,
         "wd:id":"Q6346188",
         "wk:page":"Kafr Malik"
     },
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":101921827,
-    "wof:lastmodified":1563247883,
+    "wof:lastmodified":1566600587,
     "wof:name":"Kafr Malik",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

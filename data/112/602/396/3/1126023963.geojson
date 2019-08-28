@@ -9,20 +9,23 @@
     "geom:bbox":"35.2342,31.84945,35.2342,31.84945",
     "geom:latitude":31.84945,
     "geom:longitude":35.2342,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24838,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":24838,
     "iso:country":"PS",
+    "lbl:bbox":"35.2142,31.82945,35.2542,31.86945",
     "lbl:latitude":31.84945,
     "lbl:longitude":35.2342,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0627\u0645 \u0648\u0636\u0627\u062d\u064a\u0629 \u0627\u0644\u0628\u0631\u064a\u062f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u0101m"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":124002,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126023963,
-    "wof:lastmodified":1549929887,
+    "wof:lastmodified":1566600625,
     "wof:name":"Ar R\u0101m wa \u1e10\u0101\u1e29iyat al Bar\u012bd",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

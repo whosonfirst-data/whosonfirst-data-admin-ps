@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.895346,
     "lbl:longitude":35.252545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.895346,
     "mps:longitude":35.252545,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Boerka"
     ],
@@ -228,7 +231,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0443\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burqah"
     ],
     "name:urd_x_preferred":[
@@ -266,7 +269,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3071,
     "wof:belongsto":[
@@ -282,7 +285,7 @@
     "wof:concordances":{
         "gn:id":284197,
         "gp:id":1937292,
-        "qs:id":123976,
+        "qs_pg:id":123976,
         "wd:id":"Q167884"
     },
     "wof:country":"PS",
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":101921969,
-    "wof:lastmodified":1563247932,
+    "wof:lastmodified":1566600604,
     "wof:name":"Burqa",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

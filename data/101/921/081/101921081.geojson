@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.383026,
     "lbl:longitude":35.050374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.383026,
     "mps:longitude":35.050374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u062a\u0627"
     ],
@@ -29,7 +32,7 @@
     "name:nno_x_preferred":[
         "Zeita i Tulkarm"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zeit\u0101"
     ],
     "qs:a0":"Palestine",
@@ -46,7 +49,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101921081,
-    "wof:lastmodified":1563247941,
+    "wof:lastmodified":1566600607,
     "wof:name":"Zeita",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

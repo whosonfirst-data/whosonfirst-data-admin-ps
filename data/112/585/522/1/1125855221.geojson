@@ -9,15 +9,18 @@
     "geom:bbox":"35.10446,31.62329,35.10446,31.62329",
     "geom:latitude":31.62329,
     "geom:longitude":35.10446,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12238,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":12238,
     "iso:country":"PS",
+    "lbl:bbox":"35.08446,31.60329,35.12446,31.64329",
     "lbl:latitude":31.62329,
     "lbl:longitude":35.10446,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0623\u0648\u0645\u0631"
@@ -55,7 +58,7 @@
     "name:spa_x_preferred":[
         "Beit Ommar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayt \u2018Umar"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":123984,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125855221,
-    "wof:lastmodified":1563248092,
+    "wof:lastmodified":1566600649,
     "wof:name":"Bayt \u016ammar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

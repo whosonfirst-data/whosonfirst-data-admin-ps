@@ -9,15 +9,18 @@
     "geom:bbox":"35.00984,31.97734,35.00984,31.97734",
     "geom:latitude":31.97734,
     "geom:longitude":35.00984,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4761,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":4761,
     "iso:country":"PS",
+    "lbl:bbox":"34.98984,31.95734,35.02984,31.99734",
     "lbl:latitude":31.97734,
     "lbl:longitude":35.00984,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0642\u0628\u064a\u0647"
@@ -55,7 +58,7 @@
     "name:spa_x_preferred":[
         "Qibya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kibbia"
     ],
     "qs_pg:aaroncc":"PS",
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":545042,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125884607,
-    "wof:lastmodified":1563248045,
+    "wof:lastmodified":1566600636,
     "wof:name":"Qibye",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

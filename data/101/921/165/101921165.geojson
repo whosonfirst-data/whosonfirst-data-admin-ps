@@ -13,19 +13,19 @@
     "iso:country":"PS",
     "lbl:latitude":32.327988,
     "lbl:longitude":35.474931,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":32.327988,
     "mps:longitude":35.474931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0627\u0644\u062d\u0629"
     ],
     "name:ara_x_variant":[
         "Al M\u0101li\u1e29",
         "\u0627\u0644\u0645\u0627\u0644\u062d"
-    ],
-    "name:unk_x_variant":[
-        "Al M\u0101li\u1e29"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -41,7 +41,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.6167,
     "wd:longitude":37.2167,
@@ -59,7 +59,7 @@
     "wof:concordances":{
         "gn:id":282916,
         "gp:id":1937304,
-        "qs:id":547025
+        "qs_pg:id":547025
     },
     "wof:country":"PS",
     "wof:geomhash":"c3984043bb7ca53702a8c347a0f967c0",
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101921165,
-    "wof:lastmodified":1549929796,
+    "wof:lastmodified":1566600601,
     "wof:name":"Al Malih",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

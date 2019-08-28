@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.927576,
     "lbl:longitude":35.070219,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":31.927576,
     "mps:longitude":35.070219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0639\u064a\u0646"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3250,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":284269,
         "gp:id":1937180,
-        "qs:id":547085,
+        "qs_pg:id":547085,
         "wd:id":"Q860197"
     },
     "wof:country":"PS",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101921939,
-    "wof:lastmodified":1563247877,
+    "wof:lastmodified":1566600585,
     "wof:name":"Bil'in",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

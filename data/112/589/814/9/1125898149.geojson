@@ -9,20 +9,23 @@
     "geom:bbox":"35.25673,32.15224,35.25673,32.15224",
     "geom:latitude":32.15224,
     "geom:longitude":35.25673,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5633,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":5633,
     "iso:country":"PS",
+    "lbl:bbox":"35.23673,32.13224,35.27673,32.17224",
     "lbl:latitude":32.15224,
     "lbl:longitude":35.25673,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062d\u0648\u0627\u0631\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huww\u0101ra"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":1026702,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125898149,
-    "wof:lastmodified":1549929769,
+    "wof:lastmodified":1566600637,
     "wof:name":"\u1e28uww\u0101rah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

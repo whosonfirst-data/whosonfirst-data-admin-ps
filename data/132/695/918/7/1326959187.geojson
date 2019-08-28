@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.14667,31.63,35.18667,31.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062c\u062f\u0627\u0644 \u0639\u0648\u0632"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1326959187,
-    "wof:lastmodified":1564099548,
+    "wof:lastmodified":1566600420,
     "wof:name":"Migdal Oz",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

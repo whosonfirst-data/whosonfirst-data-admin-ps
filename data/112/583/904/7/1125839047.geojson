@@ -9,20 +9,23 @@
     "geom:bbox":"35.16619,31.37662,35.16619,31.37662",
     "geom:latitude":31.37662,
     "geom:longitude":35.16619,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":228,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":228,
     "iso:country":"PS",
+    "lbl:bbox":"35.14619,31.35662,35.18619,31.39662",
     "lbl:latitude":31.37662,
     "lbl:longitude":35.16619,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u0641\u062e\u064a\u062a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat al Fukheit"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":79917,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125839047,
-    "wof:lastmodified":1549929753,
+    "wof:lastmodified":1566600655,
     "wof:name":"Khirbat al Fakh\u012bt",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

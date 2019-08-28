@@ -9,15 +9,18 @@
     "geom:bbox":"35.37127,32.19303,35.37127,32.19303",
     "geom:latitude":32.19303,
     "geom:longitude":35.37127,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3487,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":3487,
     "iso:country":"PS",
+    "lbl:bbox":"35.35127,32.17303,35.39127,32.21303",
     "lbl:latitude":32.19303,
     "lbl:longitude":35.37127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062f\u062c\u0646"
@@ -40,9 +43,6 @@
     "name:pol_x_preferred":[
         "Bajt Dad\u017can"
     ],
-    "name:unk_x_variant":[
-        "Beit Dajan"
-    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -55,7 +55,7 @@
     "qs_pg:qs_id":123989,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125855291,
-    "wof:lastmodified":1563248089,
+    "wof:lastmodified":1566600648,
     "wof:name":"Bayt Dajan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.552977,
     "lbl:longitude":35.048129,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":31.552977,
     "mps:longitude":35.048129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0641\u0648\u062d"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.539189,
     "wd:longitude":35.053083,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":281690,
         "gp:id":1937307,
-        "qs:id":123909,
+        "qs_pg:id":123909,
         "wd:id":"Q7674962",
         "wk:page":"Taffuh"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101922715,
-    "wof:lastmodified":1563247569,
+    "wof:lastmodified":1566600494,
     "wof:name":"Taffuh",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

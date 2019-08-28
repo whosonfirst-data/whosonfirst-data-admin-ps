@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.634333,
     "lbl:longitude":35.185828,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":31.634333,
     "mps:longitude":35.185828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u062d \u0631\u0628\u0627\u062d"
     ],
@@ -32,7 +35,7 @@
     "name:nno_x_preferred":[
         "Marah Rabah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mar\u0101\u1e29 Rabb\u0101\u1e29"
     ],
     "qs:a0":"Palestine",
@@ -49,7 +52,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.635072,
     "wd:longitude":35.1887,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101922567,
-    "wof:lastmodified":1563247533,
+    "wof:lastmodified":1566600477,
     "wof:name":"Marah Rabah",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

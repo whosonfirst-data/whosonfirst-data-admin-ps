@@ -9,20 +9,23 @@
     "geom:bbox":"34.93595,31.46338,34.93595,31.46338",
     "geom:latitude":31.46338,
     "geom:longitude":34.93595,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":367,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":367,
     "iso:country":"PS",
+    "lbl:bbox":"34.91595,31.44338,34.95595,31.48338",
     "lbl:latitude":31.46338,
     "lbl:longitude":34.93595,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0631\u0648\u0634 \u0627\u0644\u062a\u062d\u062a\u0627"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat ar Rawsh at Ta\u1e29t\u0101"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":79900,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125838961,
-    "wof:lastmodified":1549929752,
+    "wof:lastmodified":1566600655,
     "wof:name":"Bayt ar R\u016bsh at Ta\u1e29t\u0101",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

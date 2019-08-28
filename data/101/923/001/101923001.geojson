@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.4046,
     "lbl:longitude":35.07974,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":31.4046,
     "mps:longitude":35.07974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0648\u0639"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":31.400792,
     "wd:longitude":35.067075,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":284583,
         "gp:id":1937296,
-        "qs:id":547095,
+        "qs_pg:id":547095,
         "wd:id":"Q1768653",
         "wk:page":"As-Samu"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101923001,
-    "wof:lastmodified":1563247526,
+    "wof:lastmodified":1566600473,
     "wof:name":"As Samu'",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

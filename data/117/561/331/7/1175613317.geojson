@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.869868,
     "lbl:longitude":35.196757,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.869868,
     "mps:longitude":35.196757,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "R\u0101f\u0101t"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":282265,
         "gp:id":1937178,
-        "qs:id":1301018,
+        "qs_pg:id":1301018,
         "wd:id":"Q7282411",
         "wk:page":"Rafat, Jerusalem"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1175613317,
-    "wof:lastmodified":1563247473,
+    "wof:lastmodified":1566600450,
     "wof:name":"Rafat",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

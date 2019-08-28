@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.613662,
     "lbl:longitude":35.143109,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":31.613662,
     "mps:longitude":35.143109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0648\u062e \u0627\u0644\u0639\u0631\u0648\u0628"
     ],
@@ -38,7 +41,7 @@
     "name:nno_x_preferred":[
         "Shuyukh al-Arrub"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat \u2018Arr\u016bb"
     ],
     "qs:a0":"Palestine",
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":191,
     "wof:belongsto":[
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":283180,
         "gp:id":56123336,
-        "qs:id":547058,
+        "qs_pg:id":547058,
         "wd:id":"Q7505793"
     },
     "wof:country":"PS",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101922619,
-    "wof:lastmodified":1563247547,
+    "wof:lastmodified":1566600482,
     "wof:name":"Shuyukh al 'Arrub",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.672635,
     "lbl:longitude":35.242875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.672635,
     "mps:longitude":35.242875,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al \u2018Iq\u0101b"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101922461,
-    "wof:lastmodified":1549929808,
+    "wof:lastmodified":1566600508,
     "wof:name":"Al 'Iqab",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

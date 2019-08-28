@@ -9,15 +9,18 @@
     "geom:bbox":"35.1957,31.42544,35.1957,31.42544",
     "geom:latitude":31.42544,
     "geom:longitude":35.1957,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":508,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":508,
     "iso:country":"PS",
+    "lbl:bbox":"35.1757,31.40544,35.2157,31.44544",
     "lbl:latitude":31.42544,
     "lbl:longitude":35.1957,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u062e\u064a\u0631"
@@ -25,7 +28,7 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0641\u0642\u064a\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Faq\u012br"
     ],
     "qs_pg:aaroncc":"PS",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":744090,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125822491,
-    "wof:lastmodified":1549929719,
+    "wof:lastmodified":1566600645,
     "wof:name":"Umm al Khayr",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

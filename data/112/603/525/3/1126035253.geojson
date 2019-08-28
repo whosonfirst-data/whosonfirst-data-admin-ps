@@ -9,15 +9,18 @@
     "geom:bbox":"35.35104,32.49586,35.35104,32.49586",
     "geom:latitude":32.49586,
     "geom:longitude":35.35104,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":884,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":884,
     "iso:country":"PS",
+    "lbl:bbox":"35.33104,32.47586,35.37104,32.51586",
     "lbl:latitude":32.49586,
     "lbl:longitude":35.35104,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u063a\u0632\u0627\u0644\u0629"
@@ -37,7 +40,7 @@
     "name:pol_x_preferred":[
         "Dajr Ghazala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deir Ghaz\u0101la"
     ],
     "qs_pg:aaroncc":"PS",
@@ -52,7 +55,7 @@
     "qs_pg:qs_id":79929,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126035253,
-    "wof:lastmodified":1561827638,
+    "wof:lastmodified":1566600634,
     "wof:name":"Dayr Ghaz\u0101lah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

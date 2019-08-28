@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.480225,
     "lbl:longitude":35.121926,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":31.480225,
     "mps:longitude":35.121926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "Z\u012bf"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":7891145,
         "gp:id":1937307,
-        "qs:id":109019,
+        "qs_pg:id":109019,
         "wd:id":"Q8071732"
     },
     "wof:country":"PS",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101922803,
-    "wof:lastmodified":1563247556,
+    "wof:lastmodified":1566600488,
     "wof:name":"Zif",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

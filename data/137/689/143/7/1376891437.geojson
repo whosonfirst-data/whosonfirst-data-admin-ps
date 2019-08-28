@@ -25,19 +25,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.245,31.745,35.255,31.755",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "\u1e0chahrat Zein ed D\u012bn",
         "Z\u0327ahrat Zayn ad D\u012bn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1376891437,
-    "wof:lastmodified":1549930805,
+    "wof:lastmodified":1566600620,
     "wof:name":"Zahrat Zayn ad Din",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

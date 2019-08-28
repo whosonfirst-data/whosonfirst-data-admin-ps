@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.654186,
     "lbl:longitude":35.025121,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":31.654186,
     "mps:longitude":35.025121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u062f\u064a\u0631"
     ],
@@ -38,7 +41,7 @@
     "name:nno_x_preferred":[
         "Khirbet al-Deir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat ad Deir"
     ],
     "qs:a0":"Palestine",
@@ -55,7 +58,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -69,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":283184,
-        "qs:id":547060,
+        "qs_pg:id":547060,
         "wd:id":"Q6401768"
     },
     "wof:country":"PS",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101922515,
-    "wof:lastmodified":1563247612,
+    "wof:lastmodified":1566600515,
     "wof:name":"Khirbet ad Deir",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

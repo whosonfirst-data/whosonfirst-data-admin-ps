@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.51718,
     "lbl:longitude":35.156364,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":31.51718,
     "mps:longitude":35.156364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0646\u0639\u064a\u0645"
     ],
@@ -52,9 +55,6 @@
     "name:pol_x_preferred":[
         "Bani Naim"
     ],
-    "name:unk_x_variant":[
-        "Bani Naim"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0646\u06cc \u0646\u0639\u06cc\u0645"
     ],
@@ -75,7 +75,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":31.516111,
     "wd:longitude":35.164167,
     "wd:wordcount":3734,
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":101922775,
-    "wof:lastmodified":1563247604,
+    "wof:lastmodified":1566600511,
     "wof:name":"Bani Na'im",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

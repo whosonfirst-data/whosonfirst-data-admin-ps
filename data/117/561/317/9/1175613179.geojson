@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.142922,
     "lbl:longitude":35.285834,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.142922,
     "mps:longitude":35.285834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0627"
     ],
@@ -43,7 +46,7 @@
     "name:pol_x_preferred":[
         "Bajta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beit\u0101"
     ],
     "qs:a0":"Palestine",
@@ -60,7 +63,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85681427,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1175613179,
-    "wof:lastmodified":1561827600,
+    "wof:lastmodified":1566600460,
     "wof:name":"Beita",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

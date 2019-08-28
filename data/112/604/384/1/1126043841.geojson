@@ -9,20 +9,23 @@
     "geom:bbox":"35.21938,32.46392,35.21938,32.46392",
     "geom:latitude":32.46392,
     "geom:longitude":35.21938,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1038,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":1038,
     "iso:country":"PS",
+    "lbl:bbox":"35.19938,32.44392,35.23938,32.48392",
     "lbl:latitude":32.46392,
     "lbl:longitude":35.21938,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El H\u0101shimiya"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":547118,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126043841,
-    "wof:lastmodified":1549929898,
+    "wof:lastmodified":1566600629,
     "wof:name":"Al H\u0101shim\u012byah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

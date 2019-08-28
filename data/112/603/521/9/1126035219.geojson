@@ -9,20 +9,23 @@
     "geom:bbox":"35.40763,32.4205,35.40763,32.4205",
     "geom:latitude":32.4205,
     "geom:longitude":35.40763,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":291,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":291,
     "iso:country":"PS",
+    "lbl:bbox":"35.38763,32.4005,35.42763,32.4405",
     "lbl:latitude":32.4205,
     "lbl:longitude":35.40763,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0637\u0644\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat al Mutilla"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":79904,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126035219,
-    "wof:lastmodified":1549929891,
+    "wof:lastmodified":1566600633,
     "wof:name":"Al Mu\u0163illah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

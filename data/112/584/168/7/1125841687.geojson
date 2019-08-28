@@ -9,15 +9,18 @@
     "geom:bbox":"34.25952,31.287,34.25952,31.287",
     "geom:latitude":31.287,
     "geom:longitude":34.25952,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":126305,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":126305,
     "iso:country":"PS",
+    "lbl:bbox":"34.23952,31.267,34.27952,31.307",
     "lbl:latitude":31.287,
     "lbl:longitude":34.25952,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0641\u062d"
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Rafah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rafaa"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":203611,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681213,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125841687,
-    "wof:lastmodified":1549928883,
+    "wof:lastmodified":1566600649,
     "wof:name":"Rafa\u1e29",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

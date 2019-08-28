@@ -9,15 +9,18 @@
     "geom:bbox":"35.22752,32.50847,35.22752,32.50847",
     "geom:latitude":32.50847,
     "geom:longitude":35.22752,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9557,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":9557,
     "iso:country":"PS",
+    "lbl:bbox":"35.20752,32.48847,35.24752,32.52847",
     "lbl:latitude":32.50847,
     "lbl:longitude":35.22752,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0629 \u0627\u0644\u062d\u0627\u0631\u062b\u064a\u0629"
@@ -46,7 +49,7 @@
     "name:pol_x_preferred":[
         "Silat al-Harisijja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Silat al Harithiya"
     ],
     "qs_pg:aaroncc":"PS",
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":123914,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1126023919,
-    "wof:lastmodified":1563248000,
+    "wof:lastmodified":1566600625,
     "wof:name":"S\u012blat al \u1e28\u0101rith\u012byah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

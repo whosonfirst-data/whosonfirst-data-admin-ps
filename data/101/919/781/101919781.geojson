@@ -13,14 +13,17 @@
     "iso:country":"PS",
     "lbl:latitude":31.485886,
     "lbl:longitude":34.994745,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":31.485886,
     "mps:longitude":34.994745,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0627\u0644\u0633\u0644\u0627\u0645\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat as Sal\u0101mah"
     ],
     "qs:a0":"Palestine",
@@ -37,7 +40,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":7891138,
         "gp:id":1937307,
-        "qs:id":744070
+        "qs_pg:id":744070
     },
     "wof:country":"PS",
     "wof:geomhash":"dcd79c920f73f4915c5de98dd46c78d5",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101919781,
-    "wof:lastmodified":1549929843,
+    "wof:lastmodified":1566600578,
     "wof:name":"Khirbet Salama",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

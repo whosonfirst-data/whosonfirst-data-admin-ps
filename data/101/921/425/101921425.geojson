@@ -12,10 +12,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.200695,
     "lbl:longitude":35.284228,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.200695,
     "mps:longitude":35.284228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ni\u2018l\u012bn"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
         1159339487,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101921425,
-    "wof:lastmodified":1563247887,
+    "wof:lastmodified":1566600589,
     "wof:name":"Balata Camp",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

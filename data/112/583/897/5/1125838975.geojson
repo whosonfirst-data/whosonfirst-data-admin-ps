@@ -9,20 +9,23 @@
     "geom:bbox":"35.03458,32.18157,35.03458,32.18157",
     "geom:latitude":32.18157,
     "geom:longitude":35.03458,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":228,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":228,
     "iso:country":"PS",
+    "lbl:bbox":"35.01458,32.16157,35.05458,32.20157",
     "lbl:latitude":32.18157,
     "lbl:longitude":35.03458,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0627\u0644\u0637\u0628\u064a\u0628"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Izbate\u1e6d e\u1e6d \u1e6cab\u012bb"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":79909,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125838975,
-    "wof:lastmodified":1549929751,
+    "wof:lastmodified":1566600656,
     "wof:name":"\u2018Izbat a\u0163 \u0162ab\u012bb",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

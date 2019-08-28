@@ -9,15 +9,18 @@
     "geom:bbox":"35.28561,32.21207,35.28561,32.21207",
     "geom:latitude":32.21207,
     "geom:longitude":35.28561,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":17146,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":17146,
     "iso:country":"PS",
+    "lbl:bbox":"35.26561,32.19207,35.30561,32.23207",
     "lbl:latitude":32.21207,
     "lbl:longitude":35.28561,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u062e\u064a\u0645 \u0628\u0644\u0627\u0637\u0629"
@@ -58,7 +61,7 @@
     "name:spa_x_preferred":[
         "Campamento de Balata"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bal\u0101ta"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +86,7 @@
     "qs_pg:woe_adm0":28289408,
     "qs_pg:woe_id":1936742,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":28289408,
     "woe:name_adm0":"Palestine",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125861469,
-    "wof:lastmodified":1563248041,
+    "wof:lastmodified":1566600635,
     "wof:name":"Balatah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

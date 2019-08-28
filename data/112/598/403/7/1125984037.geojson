@@ -9,15 +9,18 @@
     "geom:bbox":"35.29261,31.96636,35.29261,31.96636",
     "geom:latitude":31.96636,
     "geom:longitude":35.29261,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4156,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":4156,
     "iso:country":"PS",
+    "lbl:bbox":"35.27261,31.94636,35.31261,31.98636",
     "lbl:latitude":31.96636,
     "lbl:longitude":35.29261,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u062c\u0631\u064a\u0631"
@@ -43,7 +46,7 @@
     "name:pol_x_preferred":[
         "Dajr D\u017carir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deir Jar\u012br"
     ],
     "qs_pg:aaroncc":"PS",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":274797,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125984037,
-    "wof:lastmodified":1563248054,
+    "wof:lastmodified":1566600639,
     "wof:name":"Dayr Jar\u012br",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

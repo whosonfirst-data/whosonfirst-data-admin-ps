@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.1191,
     "lbl:longitude":35.339379,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.1191,
     "mps:longitude":35.339379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0642\u0631\u0628\u0627"
     ],
@@ -44,7 +47,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043a\u0440\u0430\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Aqraba"
     ],
     "qs:a0":"Palestine",
@@ -61,7 +64,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.126436,
     "wd:longitude":35.343561,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1175613353,
-    "wof:lastmodified":1563247488,
+    "wof:lastmodified":1566600455,
     "wof:name":"Aqraba",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

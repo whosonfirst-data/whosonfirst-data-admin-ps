@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":31.44304,
     "lbl:longitude":34.914232,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":31.44304,
     "mps:longitude":34.914232,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0631\u062c"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":163,
     "wof:belongsto":[
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101919909,
-    "wof:lastmodified":1563247774,
+    "wof:lastmodified":1566600555,
     "wof:name":"Al Burj",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

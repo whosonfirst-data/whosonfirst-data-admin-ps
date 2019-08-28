@@ -9,15 +9,18 @@
     "geom:bbox":"35.08135,32.27551,35.08135,32.27551",
     "geom:latitude":32.27551,
     "geom:longitude":35.08135,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2174,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":2174,
     "iso:country":"PS",
+    "lbl:bbox":"35.06135,32.25551,35.10135,32.29551",
     "lbl:latitude":32.27551,
     "lbl:longitude":35.08135,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u0648\u0641\u0629"
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Szufa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shawfah"
     ],
     "qs_pg:aaroncc":"PS",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":79879,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125885611,
-    "wof:lastmodified":1563248044,
+    "wof:lastmodified":1566600636,
     "wof:name":"Sh\u016bfah",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

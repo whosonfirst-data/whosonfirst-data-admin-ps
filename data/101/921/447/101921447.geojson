@@ -13,10 +13,13 @@
     "iso:country":"PS",
     "lbl:latitude":32.199671,
     "lbl:longitude":35.212911,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.199671,
     "mps:longitude":35.212911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Tel"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u012bl"
     ],
     "name:uzb_x_preferred":[
@@ -127,7 +130,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":243,
     "wof:belongsto":[
@@ -143,7 +146,7 @@
     "wof:concordances":{
         "gn:id":281674,
         "gp:id":1937300,
-        "qs:id":123907,
+        "qs_pg:id":123907,
         "wd:id":"Q7697359"
     },
     "wof:country":"PS",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101921447,
-    "wof:lastmodified":1563247884,
+    "wof:lastmodified":1566600587,
     "wof:name":"Tell",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

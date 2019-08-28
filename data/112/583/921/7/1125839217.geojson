@@ -9,15 +9,18 @@
     "geom:bbox":"35.15173,31.84675,35.15173,31.84675",
     "geom:latitude":31.84675,
     "geom:longitude":35.15173,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":692,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":692,
     "iso:country":"PS",
+    "lbl:bbox":"35.13173,31.82675,35.17173,31.86675",
     "lbl:latitude":31.84675,
     "lbl:longitude":35.15173,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0625\u062c\u0632\u0627"
@@ -40,9 +43,6 @@
     "name:nld_x_preferred":[
         "Beit Ijza"
     ],
-    "name:unk_x_variant":[
-        "Beit Ijza"
-    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -55,7 +55,7 @@
     "qs_pg:qs_id":79943,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125839217,
-    "wof:lastmodified":1563248121,
+    "wof:lastmodified":1566600657,
     "wof:name":"Bayt Ijz\u0101",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

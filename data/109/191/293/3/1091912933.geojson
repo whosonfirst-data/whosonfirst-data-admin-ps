@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.630641,
     "lbl:longitude":35.316999,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"West Bank",
     "meso:gadm_admin":"Bethlehem",
     "meso:gadm_hasc2":"PS.WE.BL",
@@ -29,6 +31,7 @@
     "mps:longitude":35.316999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Betlehem"
     ],
@@ -385,10 +388,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-01",
+    "src:population_date":"2007-12-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-12-01",
     "statoids:capital":"Bayt Lahm",
@@ -433,7 +435,7 @@
         }
     ],
     "wof:id":1091912933,
-    "wof:lastmodified":1564099606,
+    "wof:lastmodified":1566600468,
     "wof:name":"Bethlehem",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

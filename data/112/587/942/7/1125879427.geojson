@@ -9,15 +9,18 @@
     "geom:bbox":"34.51863,31.56084,34.51863,31.56084",
     "geom:latitude":31.56084,
     "geom:longitude":34.51863,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2763,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":2763,
     "iso:country":"PS",
+    "lbl:bbox":"34.49863,31.54084,34.53863,31.58084",
     "lbl:latitude":31.56084,
     "lbl:longitude":34.51863,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u0629 \u0627\u0644\u0628\u062f\u0648\u064a\u0629 \u0627\u0644\u0645\u0633\u0644\u062e"
@@ -25,7 +28,7 @@
     "name:ara_x_variant":[
         "\u0623\u0645 \u0627\u0644\u0646\u0635\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Qaryah al Badawiyah al Maslakh"
     ],
     "qs_pg:aaroncc":"PS",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":653296,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681213,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125879427,
-    "wof:lastmodified":1549928884,
+    "wof:lastmodified":1566600638,
     "wof:name":"Umm an Na\u015fr",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"34.98054,31.4764,34.98054,31.4764",
     "geom:latitude":31.4764,
     "geom:longitude":34.98054,
-    "gn:gn_country":"PS",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":212,
+    "gn:country":"PS",
+    "gn:fcode":"PPL",
     "gn:population":212,
     "iso:country":"PS",
+    "lbl:bbox":"34.96054,31.4564,35.00054,31.4964",
     "lbl:latitude":31.4764,
     "lbl:longitude":34.98054,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u062d \u0627\u0644\u0628\u0642\u0627\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbat Mar\u0101\u1e29 al Baqq\u0101r"
     ],
     "qs_pg:aaroncc":"PS",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":744073,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681427,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125885459,
-    "wof:lastmodified":1549929767,
+    "wof:lastmodified":1566600636,
     "wof:name":"Mar\u0101\u1e29 al Baqq\u0101r",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
