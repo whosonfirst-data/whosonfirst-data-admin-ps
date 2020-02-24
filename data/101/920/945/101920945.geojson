@@ -102,6 +102,9 @@
         "wk:page":"Ya'bad"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63b21eb57dfe8ea0f78b87ad831dfa45",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101920945,
-    "wof:lastmodified":1566600551,
+    "wof:lastmodified":1582314141,
     "wof:name":"Ya'bad",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

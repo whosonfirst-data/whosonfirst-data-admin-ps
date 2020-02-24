@@ -80,6 +80,9 @@
         "wk:page":"At-Tur (Mount of Olives)"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db09bb694fcd86f43d15a0d917dbf34f",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101922211,
-    "wof:lastmodified":1566600481,
+    "wof:lastmodified":1582314139,
     "wof:name":"At Tur",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

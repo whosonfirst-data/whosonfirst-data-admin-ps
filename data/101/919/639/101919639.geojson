@@ -459,6 +459,9 @@
         "wd:id":"Q47492"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70f4928fd12089fc3f0e52202a6d4a2c",
     "wof:hierarchy":[
         {
@@ -481,7 +484,7 @@
         }
     ],
     "wof:id":101919639,
-    "wof:lastmodified":1566600575,
+    "wof:lastmodified":1582314141,
     "wof:name":"Gaza",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",

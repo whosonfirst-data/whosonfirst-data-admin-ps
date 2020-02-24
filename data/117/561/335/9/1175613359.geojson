@@ -110,6 +110,9 @@
         "wd:id":"Q4696624"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ee664c920434bb35f1c389338036e35",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1175613359,
-    "wof:lastmodified":1566600455,
+    "wof:lastmodified":1582314136,
     "wof:name":"'Ayda Camp",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

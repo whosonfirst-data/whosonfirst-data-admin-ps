@@ -80,6 +80,9 @@
         "wk:page":"Qalqas"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69bb9e2e1e356b1ba3ee5c5ec337a66a",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101922793,
-    "wof:lastmodified":1566600496,
+    "wof:lastmodified":1582314140,
     "wof:name":"Qalqas",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

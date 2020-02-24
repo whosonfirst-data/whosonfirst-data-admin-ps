@@ -83,6 +83,9 @@
         "wk:page":"Kafr Thulth"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b91cb8b83ce8b747249b40e3c8b5de63",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101921551,
-    "wof:lastmodified":1566600582,
+    "wof:lastmodified":1582314142,
     "wof:name":"Kafr Thulth",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

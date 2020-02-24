@@ -305,6 +305,9 @@
         "wd:id":"Q5687"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b9b322d1a259e9cbf95e3c89bc70400",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
         }
     ],
     "wof:id":101922085,
-    "wof:lastmodified":1566600484,
+    "wof:lastmodified":1582314140,
     "wof:name":"Jericho (Ariha)",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

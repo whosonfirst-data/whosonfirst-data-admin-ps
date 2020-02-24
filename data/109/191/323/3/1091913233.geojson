@@ -154,6 +154,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892703,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"8a54dbcd9c0853cd7bf0a9ef84bafd03",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1091913233,
-    "wof:lastmodified":1566600469,
+    "wof:lastmodified":1582314137,
     "wof:name":"Tulkarm",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

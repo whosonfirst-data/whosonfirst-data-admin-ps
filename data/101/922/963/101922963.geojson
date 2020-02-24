@@ -89,6 +89,9 @@
         "wk:page":"Al-Karmil"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f357d7abd18fba7272c2630c6bce17e",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101922963,
-    "wof:lastmodified":1566600479,
+    "wof:lastmodified":1582314139,
     "wof:name":"Al Karmil",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

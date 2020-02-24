@@ -77,6 +77,9 @@
         "wd:id":"Q4702309"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"81599a3f8db970c7a57c75ba5e8571d7",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101920009,
-    "wof:lastmodified":1566600528,
+    "wof:lastmodified":1582314141,
     "wof:name":"Al Burj",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

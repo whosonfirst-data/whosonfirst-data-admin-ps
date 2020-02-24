@@ -70,6 +70,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892708,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"7cbcd57d277f860422265da55bada44c",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091913317,
-    "wof:lastmodified":1566600468,
+    "wof:lastmodified":1582314137,
     "wof:name":"Deir Al-Balah",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

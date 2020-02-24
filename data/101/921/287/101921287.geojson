@@ -103,6 +103,9 @@
         "qs_pg:id":1297782
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"380a33f4cbe7b9445de6594e83a02af5",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101921287,
-    "wof:lastmodified":1566600589,
+    "wof:lastmodified":1582314142,
     "wof:name":"Sabastiya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

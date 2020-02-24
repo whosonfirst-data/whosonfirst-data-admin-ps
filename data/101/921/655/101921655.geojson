@@ -84,6 +84,9 @@
         "wd:id":"Q7424625"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"112976366824afbe90aa891d9b022094",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101921655,
-    "wof:lastmodified":1566600609,
+    "wof:lastmodified":1582314142,
     "wof:name":"Sarta",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

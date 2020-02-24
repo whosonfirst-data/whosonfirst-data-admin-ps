@@ -152,6 +152,9 @@
         "wk:page":"Bethany (biblical village)"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5cad454f57cfa9cfe75ad24322223c64",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101922239,
-    "wof:lastmodified":1566600507,
+    "wof:lastmodified":1582314140,
     "wof:name":"Al 'Eizariya",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

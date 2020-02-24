@@ -68,6 +68,10 @@
         "qs_pg:id":1085675
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aab06685a63a38aa674e31ba7b24408f",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600427,
+    "wof:lastmodified":1582314133,
     "wof:name":"A-tur",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

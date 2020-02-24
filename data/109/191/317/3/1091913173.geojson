@@ -124,6 +124,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892700,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"50e87411116690c1c81e029678a6dc33",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1091913173,
-    "wof:lastmodified":1566600470,
+    "wof:lastmodified":1582314138,
     "wof:name":"Salfit",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

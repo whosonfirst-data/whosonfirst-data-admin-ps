@@ -78,6 +78,9 @@
         "wk:page":"Bal'a"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65f2536582f2c985383ae4c39c52266a",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101921161,
-    "wof:lastmodified":1566600584,
+    "wof:lastmodified":1582314142,
     "wof:name":"Bal'a",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

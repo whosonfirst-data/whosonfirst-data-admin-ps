@@ -73,6 +73,9 @@
         "wd:id":"Q4831960"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c4f623e4c4b6d8e925302bf35eb0cc3d",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1175613241,
-    "wof:lastmodified":1566600452,
+    "wof:lastmodified":1582314135,
     "wof:name":"Az Za'ayyem",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

@@ -85,6 +85,9 @@
         "wk:page":"Hizma"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2fa92b20cdc31e8502b8677d1e7dcc02",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101922153,
-    "wof:lastmodified":1566600495,
+    "wof:lastmodified":1582314140,
     "wof:name":"Hizma",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

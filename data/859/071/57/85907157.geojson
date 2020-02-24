@@ -153,6 +153,10 @@
         "wd:id":"Q1781931"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3735524862fd76249cf4eb3abd032cc2",
     "wof:hierarchy":[
         {
@@ -168,7 +172,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600426,
+    "wof:lastmodified":1582314133,
     "wof:name":"Moslem Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

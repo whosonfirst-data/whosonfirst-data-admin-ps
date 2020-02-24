@@ -223,6 +223,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892692,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"9b7b3f9194cf5878498b4fef5c94af44",
     "wof:hierarchy":[
         {
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":1091913091,
-    "wof:lastmodified":1566600467,
+    "wof:lastmodified":1582314137,
     "wof:name":"Nablus",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

@@ -60,6 +60,9 @@
         "qs_pg:id":547120
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f657a45f4b6eb38b1720eb4dda60a613",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101921471,
-    "wof:lastmodified":1566600588,
+    "wof:lastmodified":1582314142,
     "wof:name":"Al Funduq",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

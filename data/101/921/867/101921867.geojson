@@ -98,6 +98,9 @@
         "wk:page":"Silwad"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ceb0b2d685bec24e19da20ca4da94bc6",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101921867,
-    "wof:lastmodified":1566600594,
+    "wof:lastmodified":1582314142,
     "wof:name":"Silwad",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -86,6 +86,9 @@
         "wd:id":"Q2916530"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e32fddbcb71f3d3f9d5d7f6ebbd0c398",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600426,
+    "wof:lastmodified":1582314133,
     "wof:name":"Giv'at Shapira",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

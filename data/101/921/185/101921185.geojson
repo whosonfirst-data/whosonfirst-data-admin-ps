@@ -58,6 +58,9 @@
         "wd:id":"Q357840"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d6994384fd77b24d7cda36c02b8cc6d",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101921185,
-    "wof:lastmodified":1534985973,
+    "wof:lastmodified":1582314143,
     "wof:name":"Jaba'",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

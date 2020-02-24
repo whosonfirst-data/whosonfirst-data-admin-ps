@@ -83,6 +83,9 @@
         "wd:id":"Q2918718"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5090b1068977c8ff18080b4faca964e8",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101921425,
-    "wof:lastmodified":1566600589,
+    "wof:lastmodified":1582314142,
     "wof:name":"Balata Camp",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

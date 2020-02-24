@@ -49,6 +49,9 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"caab7955120ff303e34a738609a333f9",
     "wof:hierarchy":[
         {
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101922027,
-    "wof:lastmodified":1566600501,
+    "wof:lastmodified":1582314140,
     "wof:name":"Qalandiya Camp",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

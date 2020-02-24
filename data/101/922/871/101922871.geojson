@@ -131,6 +131,9 @@
         "wk:page":"Yatta, Hebron"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0fe1bb1c9670a7ff1a7073466764c5a",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101922871,
-    "wof:lastmodified":1566600502,
+    "wof:lastmodified":1582314140,
     "wof:name":"Yatta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

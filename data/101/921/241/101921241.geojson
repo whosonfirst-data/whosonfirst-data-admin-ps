@@ -71,6 +71,9 @@
         "wk:page":"Kafr al-Labad"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7c3c4d87d62932f6848e14ac9dad5e7",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101921241,
-    "wof:lastmodified":1534985969,
+    "wof:lastmodified":1582314142,
     "wof:name":"Kafr al Labad",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -71,6 +71,9 @@
         "wk:page":"Sinjil"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a83b2957d5181bca0b5d624789f18a18",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101921771,
-    "wof:lastmodified":1534985971,
+    "wof:lastmodified":1582314142,
     "wof:name":"Sinjil",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",
