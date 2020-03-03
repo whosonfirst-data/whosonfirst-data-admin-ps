@@ -755,7 +755,6 @@
     "src:geom_alt":[
         "naturalearth",
         "quattroshapes",
-        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -817,7 +816,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582314134,
+    "wof:lastmodified":1583200804,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
