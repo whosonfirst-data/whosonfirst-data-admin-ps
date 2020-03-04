@@ -86,6 +86,9 @@
         "wk:page":"Beit Hanina"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29a856dd83c83754548910eafada6b53",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101922107,
-    "wof:lastmodified":1566600497,
+    "wof:lastmodified":1582314140,
     "wof:name":"Beit Hanina",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

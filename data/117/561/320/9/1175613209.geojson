@@ -70,6 +70,9 @@
         "wd:id":"Q4804341"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6701afe52ca47e6e8fe5a87429f6d026",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1175613209,
-    "wof:lastmodified":1566600456,
+    "wof:lastmodified":1582314136,
     "wof:name":"Ash Sheikh Sa'd",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

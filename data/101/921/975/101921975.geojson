@@ -140,6 +140,9 @@
         "wd:id":"Q311326"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac07426f11b44029f799f72174f6707d",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101921975,
-    "wof:lastmodified":1566600618,
+    "wof:lastmodified":1582314143,
     "wof:name":"Al Bira",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

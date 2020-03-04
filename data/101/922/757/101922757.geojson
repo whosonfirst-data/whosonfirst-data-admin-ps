@@ -257,6 +257,7 @@
     "qs:type":"Built-Up Area",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl:centroid":"mapshaper",
@@ -274,6 +275,10 @@
         "qs_pg:id":203676
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e1fb2cd8043a89690f19fc7c23633e3",
     "wof:hierarchy":[
         {
@@ -286,7 +291,7 @@
         }
     ],
     "wof:id":101922757,
-    "wof:lastmodified":1534985967,
+    "wof:lastmodified":1582314140,
     "wof:name":"Hebron (Al Khalil)",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

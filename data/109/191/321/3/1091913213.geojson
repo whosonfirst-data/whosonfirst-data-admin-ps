@@ -124,6 +124,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892701,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"2851ba5650aec76e6bcca3cd2a63f2ec",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1091913213,
-    "wof:lastmodified":1566600470,
+    "wof:lastmodified":1582314138,
     "wof:name":"Tubas",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

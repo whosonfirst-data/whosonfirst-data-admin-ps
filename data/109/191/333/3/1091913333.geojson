@@ -70,6 +70,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892709,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"53d8fbdfd67c6666abc0787e986525dc",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091913333,
-    "wof:lastmodified":1566600469,
+    "wof:lastmodified":1582314138,
     "wof:name":"Khan Younis",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

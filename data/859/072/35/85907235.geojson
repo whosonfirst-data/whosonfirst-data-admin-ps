@@ -97,6 +97,10 @@
         "wd:id":"Q1028231"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7341754b394f57c1bf658ccca1a5330d",
     "wof:hierarchy":[
         {
@@ -124,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600428,
+    "wof:lastmodified":1582314133,
     "wof:name":"Pisgat Ze'ev",
     "wof:parent_id":101922113,
     "wof:placetype":"neighbourhood",

@@ -169,6 +169,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892687,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"9f68b30cea306e246405efa140752bfb",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1091912973,
-    "wof:lastmodified":1566600469,
+    "wof:lastmodified":1582314138,
     "wof:name":"Jenin",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

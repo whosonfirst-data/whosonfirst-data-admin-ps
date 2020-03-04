@@ -89,6 +89,9 @@
         "wk:page":"Budrus"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55245d1031b7125ee6d696c69caefcdd",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101919457,
-    "wof:lastmodified":1566600576,
+    "wof:lastmodified":1582314142,
     "wof:name":"Budrus",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

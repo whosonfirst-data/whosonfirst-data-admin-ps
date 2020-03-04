@@ -104,6 +104,9 @@
         "wk:page":"'Anata"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82b8c1efe84cff8cac56c9da15b0dc48",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101922177,
-    "wof:lastmodified":1566600511,
+    "wof:lastmodified":1582314141,
     "wof:name":"'Anata",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

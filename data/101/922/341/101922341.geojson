@@ -445,6 +445,10 @@
         "wd:id":"Q5776"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"59c2791e67cdceef74152e619aac5889",
     "wof:hierarchy":[
         {
@@ -467,7 +471,7 @@
         }
     ],
     "wof:id":101922341,
-    "wof:lastmodified":1566600492,
+    "wof:lastmodified":1582314140,
     "wof:name":"Bethlehem (Beit Lahm)",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

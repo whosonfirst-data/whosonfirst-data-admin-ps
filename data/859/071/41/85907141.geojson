@@ -71,6 +71,10 @@
         "qs_pg:id":1085677
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec7484e45c24b1f395b39df5e44d3e3a",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600427,
+    "wof:lastmodified":1582314133,
     "wof:name":"Khirbet Beit Sakhur",
     "wof:parent_id":101922245,
     "wof:placetype":"neighbourhood",

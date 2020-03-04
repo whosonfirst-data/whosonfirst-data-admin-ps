@@ -524,6 +524,9 @@
         "wk:page":"Gaza Strip"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"413dea374240819cdd3bc08324b431f9",
     "wof:hierarchy":[
         {
@@ -548,7 +551,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566600434,
+    "wof:lastmodified":1582314134,
     "wof:name":"Gaza Strip",
     "wof:parent_id":1159339485,
     "wof:placetype":"region",

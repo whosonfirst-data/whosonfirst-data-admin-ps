@@ -148,6 +148,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892696,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"ce07eb2894722821f0984478ab779e47",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1091913123,
-    "wof:lastmodified":1566600469,
+    "wof:lastmodified":1582314137,
     "wof:name":"Qalqilya",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

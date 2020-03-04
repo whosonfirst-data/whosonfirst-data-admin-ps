@@ -754,8 +754,8 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
-        "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -796,6 +796,12 @@
     },
     "wof:country":"PS",
     "wof:country_alpha3":"PSE",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"87d770b20e3be2d4fd0f412c118d6260",
     "wof:hierarchy":[
         {
@@ -810,7 +816,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566600429,
+    "wof:lastmodified":1583200804,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

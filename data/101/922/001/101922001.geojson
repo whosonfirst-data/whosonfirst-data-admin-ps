@@ -80,6 +80,9 @@
         "wk:page":"Kafr 'Aqab"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac6deb569fc32d46b21df6f951787081",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101922001,
-    "wof:lastmodified":1566600491,
+    "wof:lastmodified":1582314140,
     "wof:name":"Kafr 'Aqab",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

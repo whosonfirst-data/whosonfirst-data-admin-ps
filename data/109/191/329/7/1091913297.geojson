@@ -154,6 +154,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892706,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"ddfe2affc281a8b0b357910cc47e6096",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1091913297,
-    "wof:lastmodified":1566600470,
+    "wof:lastmodified":1582314138,
     "wof:name":"Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

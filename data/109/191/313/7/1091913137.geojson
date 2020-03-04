@@ -325,6 +325,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892698,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"043c9ce54081be8931bea08c0ee35360",
     "wof:hierarchy":[
         {
@@ -345,7 +348,7 @@
         }
     ],
     "wof:id":1091913137,
-    "wof:lastmodified":1566600469,
+    "wof:lastmodified":1582314137,
     "wof:name":"Ramallah",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

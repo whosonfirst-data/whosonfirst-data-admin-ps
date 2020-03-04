@@ -88,6 +88,9 @@
         "wd:id":"Q7395443"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96e598902c263bd9792ac3c3d78404d1",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101922677,
-    "wof:lastmodified":1566600504,
+    "wof:lastmodified":1582314140,
     "wof:name":"Sa'ir",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

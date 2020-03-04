@@ -475,6 +475,9 @@
         "wk:page":"West Bank"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aad5c9dbc9d709392653160bb01db03c",
     "wof:hierarchy":[
         {
@@ -499,7 +502,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566600435,
+    "wof:lastmodified":1582314135,
     "wof:name":"West Bank",
     "wof:parent_id":1159339487,
     "wof:placetype":"region",

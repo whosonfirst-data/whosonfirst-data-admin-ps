@@ -68,6 +68,10 @@
         "qs_pg:id":1085676
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8712046819261564aff6ff2fd12b6b4",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600427,
+    "wof:lastmodified":1582314133,
     "wof:name":"Silwan Kfar Ha-shilo'akh",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

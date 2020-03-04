@@ -280,6 +280,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892685,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"9afe3982fec02cfc1f61323c4e456cfa",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":1091912955,
-    "wof:lastmodified":1566600468,
+    "wof:lastmodified":1582314137,
     "wof:name":"Hebron",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

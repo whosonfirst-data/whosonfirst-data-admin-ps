@@ -67,6 +67,9 @@
         "qs_pg:id":1187531
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"85ae6cba9a60926f1e01a1e73d2ebc43",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600428,
+    "wof:lastmodified":1582314133,
     "wof:name":"Mizrakh Talpiyot",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -129,6 +129,9 @@
         "wk:page":"Beit Jala"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f2b501c3515bf13d3395d1ba7abe6ef",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101922347,
-    "wof:lastmodified":1566600495,
+    "wof:lastmodified":1582314140,
     "wof:name":"Beit Jala",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

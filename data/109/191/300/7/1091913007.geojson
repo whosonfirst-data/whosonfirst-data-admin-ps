@@ -274,6 +274,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892690,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"5de39ed8dd6ba3aab6f80eff5df98215",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":1091913007,
-    "wof:lastmodified":1566600467,
+    "wof:lastmodified":1582314136,
     "wof:name":"Jericho",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

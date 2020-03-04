@@ -78,6 +78,9 @@
         "wk:page":"Psagot"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"2c63dd30c29de37e09d68dfca43e33c5",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1293129319,
-    "wof:lastmodified":1566600437,
+    "wof:lastmodified":1582314135,
     "wof:name":"Pesagot",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

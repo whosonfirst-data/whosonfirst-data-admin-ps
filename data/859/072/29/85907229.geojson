@@ -113,6 +113,9 @@
         "wd:id":"Q1524664"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"404de97965aba5e527295f3f6f3326a7",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600428,
+    "wof:lastmodified":1582314133,
     "wof:name":"Gilo",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

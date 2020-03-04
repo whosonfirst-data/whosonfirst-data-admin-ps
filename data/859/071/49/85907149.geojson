@@ -92,6 +92,10 @@
         "qs_pg:id":1187523
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c75ddc541d8cd5fc3daaadaec28efab",
     "wof:hierarchy":[
         {
@@ -107,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600427,
+    "wof:lastmodified":1582314133,
     "wof:name":"Sur Baher",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

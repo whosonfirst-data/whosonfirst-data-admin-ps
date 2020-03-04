@@ -120,6 +120,9 @@
         "wd:id":"Q8046389"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08d202e5323595bd881665eff3e0bc16",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101921839,
-    "wof:lastmodified":1566600612,
+    "wof:lastmodified":1582314142,
     "wof:name":"Yabrud",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -70,6 +70,9 @@
         "qs_pg:id":1087566
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fdbf4bad345de6f1d3b1f2683db64343",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566600426,
+    "wof:lastmodified":1582314133,
     "wof:name":"Ha-moshava Ha-amerika'it",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

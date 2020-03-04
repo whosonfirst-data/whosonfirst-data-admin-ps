@@ -118,6 +118,9 @@
         "wk:page":"Abu Dis"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c2609b98d2d7d23bcebbee3a6bc4a06b",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101922279,
-    "wof:lastmodified":1566600500,
+    "wof:lastmodified":1582314140,
     "wof:name":"Abu Dis",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

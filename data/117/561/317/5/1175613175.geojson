@@ -89,6 +89,9 @@
         "wd:id":"Q2293751"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eaeb61ba0b1e0728a86fe4c5d03036f9",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1175613175,
-    "wof:lastmodified":1566600460,
+    "wof:lastmodified":1582314136,
     "wof:name":"Al Walaja",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

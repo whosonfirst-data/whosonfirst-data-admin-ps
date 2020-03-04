@@ -190,6 +190,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892711,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"4763a6e295aeecfed70d95ff8f0d87f3",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":1091913365,
-    "wof:lastmodified":1566600467,
+    "wof:lastmodified":1582314137,
     "wof:name":"Rafah",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

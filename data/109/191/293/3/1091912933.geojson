@@ -415,6 +415,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892684,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"41380c754c9ff6f4f507792733e4fbe4",
     "wof:hierarchy":[
         {
@@ -435,7 +438,7 @@
         }
     ],
     "wof:id":1091912933,
-    "wof:lastmodified":1566600468,
+    "wof:lastmodified":1582314137,
     "wof:name":"Bethlehem",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

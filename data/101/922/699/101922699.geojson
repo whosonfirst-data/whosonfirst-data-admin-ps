@@ -113,6 +113,9 @@
         "wk:page":"Halhul"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"926620c5344ab4aa9a54318d47786edf",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101922699,
-    "wof:lastmodified":1566600505,
+    "wof:lastmodified":1582314140,
     "wof:name":"Halhul",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -70,6 +70,9 @@
     },
     "wof:country":"PS",
     "wof:created":1473892705,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"ed09be8c29bcab88a3434353dfdd1eb7",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091913267,
-    "wof:lastmodified":1566600470,
+    "wof:lastmodified":1582314138,
     "wof:name":"North Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",
