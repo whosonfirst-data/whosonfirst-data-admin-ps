@@ -783,9 +783,7 @@
         1376891411
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            275
-        ],
+        "digitalenvoy:country_code":275,
         "fifa:id":"PLE",
         "gn:id":6254930,
         "gp:id":28289408,
@@ -819,7 +817,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529253,
+    "wof:lastmodified":1583797463,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
