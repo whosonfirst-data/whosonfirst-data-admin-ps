@@ -4,14 +4,15 @@
   "properties": {
     "src:alt_label":"geonames",
     "src:geom":"geonames",
-    "wof:geomhash":"cb16fdca5f5815365d0af651d14ed184",
-    "wof:id":1293129319
+    "wof:geomhash":"cd1edd14265ed860f220a064c8f75a82",
+    "wof:id":1293129319,
+    "wof:repo":"whosonfirst-data-admin-ps"
 },
   "bbox": [
     35.22417,
-    31.89904000000001,
+    31.89904,
     35.22417,
-    31.89904000000001
+    31.89904
 ],
-  "geometry": {"coordinates":[35.22417,31.89904000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.22417,31.89904],"type":"Point"}
 }
