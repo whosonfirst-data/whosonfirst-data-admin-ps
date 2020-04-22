@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.582271,
-    "geom:area_square_m":6111573556.660624,
+    "geom:area_square_m":6111572785.36174,
     "geom:bbox":"34.218699,31.221104,35.574052,32.552088",
     "geom:latitude":31.912439,
     "geom:longitude":35.205008,
@@ -43,6 +43,9 @@
         "\u062f\u0648\u0644\u0629 \u0641\u0644\u0633\u0637\u064a\u0646",
         "\u0627\u0644\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0633\u0637\u064a\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u062f\u0648\u0644\u0629 \u0641\u0644\u0633\u0637\u064a\u0646"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430 \u0414\u04d9\u04af\u043b\u04d9\u0442\u0435"
+    ],
+    "name:bak_x_variant":[
+        "\u0424\u04d9\u043b\u04d9\u0441\u0442\u0438\u043d \u0414\u04d9\u04af\u043b\u04d9\u0442\u0435"
     ],
     "name:bam_x_preferred":[
         "Palesitini"
@@ -88,6 +94,9 @@
     "name:bre_x_preferred":[
         "Tiriado\u00f9 Palestina"
     ],
+    "name:bre_x_variant":[
+        "Palestina"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0441\u043a\u0438 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0438"
     ],
@@ -110,7 +119,8 @@
         "Palestinsk\u00e1 \u00fazem\u00ed"
     ],
     "name:ces_x_variant":[
-        "Palestinsk\u00fd st\u00e1t"
+        "Palestinsk\u00fd st\u00e1t",
+        "St\u00e1t Palestina"
     ],
     "name:che_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u04c0\u0438\u043d\u0430 \u041f\u0430\u0447\u0445\u044c\u0430\u043b\u043a\u0445"
@@ -226,6 +236,9 @@
     "name:gag_x_preferred":[
         "Palestina"
     ],
+    "name:gcr_x_preferred":[
+        "Palestin"
+    ],
     "name:gle_x_preferred":[
         "Na Cr\u00edocha Pailist\u00edneacha"
     ],
@@ -241,6 +254,9 @@
     "name:guj_x_variant":[
         "\u0aab\u0abf\u0ab2\u0ab8\u0acd\u0a9f\u0ac0\u0aa8"
     ],
+    "name:hak_x_preferred":[
+        "Palestine Koet"
+    ],
     "name:hau_x_preferred":[
         "Palas\u0257inu"
     ],
@@ -249,7 +265,8 @@
     ],
     "name:heb_x_variant":[
         "\u05d4\u05e9\u05d8\u05d7\u05d9\u05dd \u05d4\u05e4\u05dc\u05e1\u05d8\u05d9\u05e0\u05d9\u05d9\u05dd",
-        "\u05de\u05d3\u05d9\u05e0\u05ea \u05e4\u05dc\u05e1\u05d8\u05d9\u05df"
+        "\u05de\u05d3\u05d9\u05e0\u05ea \u05e4\u05dc\u05e1\u05d8\u05d9\u05df",
+        "\u05de\u05d3\u05d9\u05e0\u05d4 \u05e4\u05dc\u05e1\u05d8\u05d9\u05e0\u05d9\u05ea"
     ],
     "name:hin_x_preferred":[
         "\u092b\u093c\u093f\u0932\u093f\u0938\u094d\u0924\u0940\u0928"
@@ -394,6 +411,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u0945\u0932\u0947\u0938\u094d\u091f\u093f\u0928\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:min_x_preferred":[
+        "Nagara Palestina"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0441\u043a\u0438 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0438"
@@ -542,6 +562,9 @@
     "name:sna_x_preferred":[
         "Palestine"
     ],
+    "name:snd_x_preferred":[
+        "\u0641\u0644\u0633\u0637\u064a\u0646"
+    ],
     "name:som_x_preferred":[
         "Falastiin Daanka galbeed iyo Qasa"
     ],
@@ -668,6 +691,18 @@
     ],
     "name:yue_x_preferred":[
         "\u5df4\u52d2\u65af\u5766\u570b"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5df4\u52d2\u65af\u5766"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5df4\u52d2\u65af\u5766"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5df4\u52d2\u65af\u5766"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5df4\u52d2\u65af\u5766"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u52d2\u65af\u5766 (\u6d88\u6b67\u7fa9)"
@@ -817,7 +852,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583797463,
+    "wof:lastmodified":1587427340,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
