@@ -74,13 +74,16 @@
         }
     ],
     "wof:id":101923023,
-    "wof:lastmodified":1621640649,
+    "wof:lastmodified":1621641406,
     "wof:name":"Qawawis",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101923039,
+        101922999
+    ],
     "wof:tags":[]
 },
   "bbox": [

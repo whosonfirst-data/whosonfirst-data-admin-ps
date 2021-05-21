@@ -241,7 +241,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1621640638,
+    "wof:lastmodified":1621641338,
     "wof:name":"Jenin",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
@@ -249,7 +249,15 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1175613227,
+        101920791,
+        101920783,
+        101920777,
+        101920767,
+        101920813,
+        101920773
+    ],
     "wof:tags":[]
 },
   "bbox": [

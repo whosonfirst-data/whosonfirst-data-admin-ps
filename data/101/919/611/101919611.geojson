@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3830.252537,
-    "geom:bbox":"34.5253295898,31.541683197,34.5264091492,31.5424232483",
+    "geom:bbox":"34.52533,31.541683,34.526409,31.542423",
     "geom:latitude":31.542013,
     "geom:longitude":34.525843,
     "gn:population":37392,
@@ -18,7 +18,7 @@
     "mps:latitude":31.542074,
     "mps:longitude":34.525897,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062d\u0627\u0646\u0648\u0646"
@@ -137,7 +137,7 @@
         "wk:page":"Beit Hanoun"
     },
     "wof:country":"PS",
-    "wof:geomhash":"132ea67496c62106667f7273fc22038d",
+    "wof:geomhash":"a171823e6452545be1f9cb435a6ca995",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,22 +159,24 @@
         }
     ],
     "wof:id":101919611,
-    "wof:lastmodified":1566600562,
+    "wof:lastmodified":1621641348,
     "wof:name":"Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:population":37392,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.52532958984375,
-    31.54168319702148,
-    34.52640914916992,
-    31.54242324829102
+    34.52533,
+    31.541683,
+    34.526409,
+    31.542423
 ],
-  "geometry": {"coordinates":[[[34.52551651000977,31.54168319702148],[34.52532958984375,31.54189109802246],[34.52558898925781,31.54211044311523],[34.52591705322266,31.54242324829102],[34.52640914916992,31.54188537597656],[34.52590179443359,31.54184341430664],[34.52551651000977,31.54168319702148]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.525517,31.541683],[34.52533,31.541891],[34.525589,31.54211],[34.525917,31.542423],[34.526409,31.541885],[34.525902,31.541843],[34.525517,31.541683]]],"type":"Polygon"}
 }

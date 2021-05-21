@@ -76,13 +76,17 @@
         }
     ],
     "wof:id":101919875,
-    "wof:lastmodified":1621640649,
+    "wof:lastmodified":1621641405,
     "wof:name":"Beit Mirsim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101919887,
+        101919851,
+        101919853
+    ],
     "wof:tags":[]
 },
   "bbox": [

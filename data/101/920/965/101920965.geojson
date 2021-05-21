@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":29318.543984,
-    "geom:bbox":"35.3877754211,32.4222679138,35.3911094666,32.4239463806",
+    "geom:bbox":"35.387775,32.422268,35.391109,32.423946",
     "geom:latitude":32.423164,
     "geom:longitude":35.389541,
     "gn:population":2175,
@@ -18,7 +18,7 @@
     "mps:latitude":32.423172,
     "mps:longitude":35.389566,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u063a\u064a\u0631"
@@ -71,7 +71,7 @@
         "wd:id":"Q4702932"
     },
     "wof:country":"PS",
-    "wof:geomhash":"695a92eb6abcafd40dc374a128601aa4",
+    "wof:geomhash":"edbca9bd50189e8913e2807f5aee4042",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,22 +93,24 @@
         }
     ],
     "wof:id":101920965,
-    "wof:lastmodified":1566600518,
+    "wof:lastmodified":1621641335,
     "wof:name":"Al Mughayyir",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:population":2175,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.38777542114258,
-    32.42226791381836,
-    35.39110946655273,
-    32.42394638061523
+    35.387775,
+    32.422268,
+    35.391109,
+    32.423946
 ],
-  "geometry": {"coordinates":[[[35.38835144042969,32.4229736328125],[35.38777542114258,32.42324066162109],[35.38954925537109,32.42394638061523],[35.39110946655273,32.42332458496094],[35.38985824584961,32.42226791381836],[35.38835144042969,32.4229736328125]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.388351,32.422974],[35.387775,32.423241],[35.389549,32.423946],[35.391109,32.423325],[35.389858,32.422268],[35.388351,32.422974]]],"type":"Polygon"}
 }

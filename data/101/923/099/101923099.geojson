@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":9658.172573,
-    "geom:bbox":"35.1104316711,31.37474823,35.1124191284,31.3756008148",
+    "geom:bbox":"35.110432,31.374748,35.112419,31.375601",
     "geom:latitude":31.375223,
     "geom:longitude":35.111371,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.375179,
     "mps:longitude":35.111372,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u064a\u0628\u0629 \u0627\u0644\u0646\u0628\u064a"
@@ -55,7 +55,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"450e1e969e83819bb0af3cc39b6297f7",
+    "wof:geomhash":"73bcb42a0e7c1943cd5a1a46322eec30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +77,22 @@
         }
     ],
     "wof:id":101923099,
-    "wof:lastmodified":1566600472,
+    "wof:lastmodified":1621641423,
     "wof:name":"Haribat an Nabi",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923091
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.11043167114258,
-    31.37474822998047,
-    35.11241912841797,
-    31.37560081481934
+    35.110432,
+    31.374748,
+    35.112419,
+    31.375601
 ],
-  "geometry": {"coordinates":[[[35.11142349243164,31.37474822998047],[35.11043167114258,31.37522125244141],[35.11076354980469,31.3755054473877],[35.11131286621094,31.37560081481934],[35.11241912841797,31.37531852722168],[35.11142349243164,31.37474822998047]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.111423,31.374748],[35.110432,31.375221],[35.110764,31.375505],[35.111313,31.375601],[35.112419,31.375319],[35.111423,31.374748]]],"type":"Polygon"}
 }

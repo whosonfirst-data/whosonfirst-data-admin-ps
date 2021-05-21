@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":101922699,
-    "wof:lastmodified":1621640640,
+    "wof:lastmodified":1621641353,
     "wof:name":"Halhul",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -148,7 +148,11 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922671,
+        101922679,
+        101922653
+    ],
     "wof:tags":[]
 },
   "bbox": [

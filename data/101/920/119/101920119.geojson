@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":101920119,
-    "wof:lastmodified":1621640641,
+    "wof:lastmodified":1621641362,
     "wof:name":"Al Musaddar",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
@@ -107,7 +107,14 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920103,
+        101920129,
+        101920111,
+        101920101,
+        101920141,
+        101920125
+    ],
     "wof:tags":[]
 },
   "bbox": [

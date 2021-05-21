@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
     "geom:area_square_m":65588.247362,
-    "geom:bbox":"35.2745704651,32.1814613342,35.2784233093,32.184589386",
-    "geom:latitude":32.182877,
-    "geom:longitude":35.276666,
+    "geom:bbox":"35.27457,32.181461,35.278423,32.184589",
+    "geom:latitude":32.182876,
+    "geom:longitude":35.276665,
     "gn:population":2421,
     "iso:country":"PS",
     "lbl:latitude":32.182919,
@@ -18,7 +18,7 @@
     "mps:latitude":32.182919,
     "mps:longitude":35.276694,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0642\u0644\u064a\u0644"
@@ -77,7 +77,7 @@
         "wk:page":"Kafr Qallil"
     },
     "wof:country":"PS",
-    "wof:geomhash":"f6d6737db8a9668697b8fc8cc6c96637",
+    "wof:geomhash":"84c38043b1ea91c049e8edf01d61c5f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,22 +99,24 @@
         }
     ],
     "wof:id":101921491,
-    "wof:lastmodified":1566600596,
+    "wof:lastmodified":1621641353,
     "wof:name":"Kafr Qalil",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",
     "wof:population":2421,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921439
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.27457046508789,
-    32.18146133422852,
-    35.27842330932617,
-    32.18458938598633
+    35.27457,
+    32.181461,
+    35.278423,
+    32.184589
 ],
-  "geometry": {"coordinates":[[[35.27457046508789,32.18168640136719],[35.27535629272461,32.18250274658203],[35.27588272094727,32.18369674682617],[35.27737426757812,32.18458938598633],[35.27842330932617,32.18354415893555],[35.27745819091797,32.18212890625],[35.27667236328125,32.18146133422852],[35.27457046508789,32.18168640136719]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.27457,32.181686],[35.275356,32.182503],[35.275883,32.183697],[35.277374,32.184589],[35.278423,32.183544],[35.277458,32.182129],[35.276672,32.181461],[35.27457,32.181686]]],"type":"Polygon"}
 }

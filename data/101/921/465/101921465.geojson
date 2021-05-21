@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
     "geom:area_square_m":58998.189554,
-    "geom:bbox":"35.2741355896,32.1881637573,35.2768516541,32.1918144226",
+    "geom:bbox":"35.274136,32.188164,35.276852,32.191814",
     "geom:latitude":32.190087,
     "geom:longitude":35.275311,
     "gn:population":2421,
@@ -18,7 +18,7 @@
     "mps:latitude":32.189922,
     "mps:longitude":35.275064,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0642\u0644\u064a\u0644"
@@ -74,7 +74,7 @@
         "wk:page":"Kafr Qallil"
     },
     "wof:country":"PS",
-    "wof:geomhash":"9be3fc7d4c096062ebc4345bfd9eee82",
+    "wof:geomhash":"e520560d9ad6af017c191987ff9424b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,22 +96,24 @@
         }
     ],
     "wof:id":101921465,
-    "wof:lastmodified":1566600595,
+    "wof:lastmodified":1621641352,
     "wof:name":"Kafr Qalil",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",
     "wof:population":2421,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921439
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.27413558959961,
-    32.18816375732422,
-    35.27685165405273,
-    32.19181442260742
+    35.274136,
+    32.188164,
+    35.276852,
+    32.191814
 ],
-  "geometry": {"coordinates":[[[35.27474975585938,32.18816757202148],[35.27413558959961,32.18980407714844],[35.27492523193359,32.19166564941406],[35.27685165405273,32.19181442260742],[35.2758903503418,32.19010162353516],[35.27579879760742,32.18816375732422],[35.27474975585938,32.18816757202148]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.27475,32.188168],[35.274136,32.189804],[35.274925,32.191666],[35.276852,32.191814],[35.27589,32.190102],[35.275799,32.188164],[35.27475,32.188168]]],"type":"Polygon"}
 }

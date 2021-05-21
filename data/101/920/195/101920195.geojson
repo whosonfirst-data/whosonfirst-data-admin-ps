@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":5784.035333,
-    "geom:bbox":"34.379447937,31.3994693756,34.3809547424,31.4004230499",
+    "geom:bbox":"34.379448,31.399469,34.380955,31.400423",
     "geom:latitude":31.399945,
     "geom:longitude":34.380205,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.399935,
     "mps:longitude":34.380204,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0628\u0644\u062d"
@@ -125,7 +125,7 @@
         "wd:id":"Q557383"
     },
     "wof:country":"PS",
-    "wof:geomhash":"0a3c462e427e81d5d5000c3f67cd1962",
+    "wof:geomhash":"3617a782c8f473a0d440285141d61304",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,22 +147,24 @@
         }
     ],
     "wof:id":101920195,
-    "wof:lastmodified":1566600518,
+    "wof:lastmodified":1621641340,
     "wof:name":"Deir al Balah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:population":49751,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.37944793701172,
-    31.39946937561035,
-    34.38095474243164,
-    31.40042304992676
+    34.379448,
+    31.399469,
+    34.380955,
+    31.400423
 ],
-  "geometry": {"coordinates":[[[34.37973785400391,31.39946937561035],[34.37944793701172,31.39976501464844],[34.38068771362305,31.40042304992676],[34.38095474243164,31.40014839172363],[34.38004684448242,31.39961242675781],[34.37980270385742,31.39953994750977],[34.37973785400391,31.39946937561035]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.379738,31.399469],[34.379448,31.399765],[34.380688,31.400423],[34.380955,31.400148],[34.380047,31.399612],[34.379803,31.39954],[34.379738,31.399469]]],"type":"Polygon"}
 }

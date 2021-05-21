@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":101922527,
-    "wof:lastmodified":1621640642,
+    "wof:lastmodified":1621641369,
     "wof:name":"Khallet 'Afana",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922537
+    ],
     "wof:tags":[]
 },
   "bbox": [

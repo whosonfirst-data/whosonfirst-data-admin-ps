@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":101920279,
-    "wof:lastmodified":1621640654,
+    "wof:lastmodified":1621641435,
     "wof:name":"An Nuseirat Camp",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920277
+    ],
     "wof:tags":[]
 },
   "bbox": [

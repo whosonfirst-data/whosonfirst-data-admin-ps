@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":101920503,
-    "wof:lastmodified":1621640643,
+    "wof:lastmodified":1621641372,
     "wof:name":"'Abasan al Kabira",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
@@ -143,7 +143,18 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920505,
+        101920471,
+        101920449,
+        101920477,
+        101920463,
+        101920529,
+        101920539,
+        101920469,
+        101920461,
+        101920513
+    ],
     "wof:tags":[]
 },
   "bbox": [

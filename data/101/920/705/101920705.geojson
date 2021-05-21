@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":11193.19421,
-    "geom:bbox":"34.2816772461,31.2631549835,34.2831878662,31.2647895813",
+    "geom:bbox":"34.281677,31.263155,34.283188,31.26479",
     "geom:latitude":31.263981,
     "geom:longitude":34.282432,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.26399,
     "mps:longitude":34.282432,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u0643\u0629 \u0627\u0644\u0635\u0648\u0641\u064a"
@@ -78,7 +78,7 @@
         "wk:page":"Shokat as-Sufi"
     },
     "wof:country":"PS",
-    "wof:geomhash":"8fe499bd2817f45ec1d7e482a9e9937b",
+    "wof:geomhash":"40b6321c1542546ed7f136c32bb1d8d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,20 +100,22 @@
         }
     ],
     "wof:id":101920705,
-    "wof:lastmodified":1566600535,
+    "wof:lastmodified":1621641394,
     "wof:name":"Al Shoka",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920701
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.28167724609375,
-    31.26315498352051,
-    34.28318786621094,
-    31.26478958129883
+    34.281677,
+    31.263155,
+    34.283188,
+    31.26479
 ],
-  "geometry": {"coordinates":[[[34.28263473510742,31.26315498352051],[34.28204727172852,31.26395225524902],[34.28167724609375,31.2645378112793],[34.28226852416992,31.26478958129883],[34.28318786621094,31.2634449005127],[34.28263473510742,31.26315498352051]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.282635,31.263155],[34.282047,31.263952],[34.281677,31.264538],[34.282269,31.26479],[34.283188,31.263445],[34.282635,31.263155]]],"type":"Polygon"}
 }

@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":101922267,
-    "wof:lastmodified":1621640651,
+    "wof:lastmodified":1621641421,
     "wof:name":"'Arab al Jahalin",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",
@@ -118,7 +118,10 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922259,
+        101922263
+    ],
     "wof:tags":[]
 },
   "bbox": [

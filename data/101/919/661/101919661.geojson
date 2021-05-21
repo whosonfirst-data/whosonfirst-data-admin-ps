@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":16053.493374,
-    "geom:bbox":"34.4725761414,31.5345535278,34.4746551514,31.5364208221",
+    "geom:bbox":"34.472576,31.534554,34.474655,31.536421",
     "geom:latitude":31.535514,
-    "geom:longitude":34.473634,
+    "geom:longitude":34.473633,
     "gn:population":168568,
     "iso:country":"PS",
     "lbl:latitude":31.53553,
@@ -18,7 +18,7 @@
     "mps:latitude":31.53553,
     "mps:longitude":34.473633,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062c\u0628\u0627\u0644\u064a\u0627"
@@ -134,7 +134,7 @@
         "wk:page":"Jabalia"
     },
     "wof:country":"PS",
-    "wof:geomhash":"885a6ac116ca5ae457f8cc0cdd038b18",
+    "wof:geomhash":"1241366a11a2affe8bcb0f253ad07801",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,22 +156,24 @@
         }
     ],
     "wof:id":101919661,
-    "wof:lastmodified":1566600566,
+    "wof:lastmodified":1621641355,
     "wof:name":"Jabalya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:population":168568,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.47257614135742,
-    31.53455352783203,
-    34.47465515136719,
-    31.53642082214355
+    34.472576,
+    31.534554,
+    34.474655,
+    31.536421
 ],
-  "geometry": {"coordinates":[[[34.47412109375,31.53455352783203],[34.47330093383789,31.53530502319336],[34.47257614135742,31.53612327575684],[34.47330093383789,31.53642082214355],[34.47465515136719,31.53495025634766],[34.47412109375,31.53455352783203]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.474121,31.534554],[34.473301,31.535305],[34.472576,31.536123],[34.473301,31.536421],[34.474655,31.53495],[34.474121,31.534554]]],"type":"Polygon"}
 }

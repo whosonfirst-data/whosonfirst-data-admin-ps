@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1175613407,
-    "wof:lastmodified":1621640651,
+    "wof:lastmodified":1621641421,
     "wof:name":"Sur Bahir",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",
@@ -110,7 +110,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101922339,
-        101922333
+        101922333,
+        101922337
     ],
     "wof:tags":[]
 },

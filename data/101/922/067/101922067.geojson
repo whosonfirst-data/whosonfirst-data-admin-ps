@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":101922067,
-    "wof:lastmodified":1621640654,
+    "wof:lastmodified":1621641431,
     "wof:name":"Al Jib",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",
@@ -110,7 +110,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922087
+    ],
     "wof:tags":[]
 },
   "bbox": [

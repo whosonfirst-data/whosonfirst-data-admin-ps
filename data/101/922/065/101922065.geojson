@@ -98,13 +98,15 @@
         }
     ],
     "wof:id":101922065,
-    "wof:lastmodified":1621640644,
+    "wof:lastmodified":1621641379,
     "wof:name":"Bir Nabala",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1175613283
+    ],
     "wof:tags":[]
 },
   "bbox": [

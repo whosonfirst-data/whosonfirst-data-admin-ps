@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":101923095,
-    "wof:lastmodified":1621640642,
+    "wof:lastmodified":1621641368,
     "wof:name":"As Samu'",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -140,7 +140,13 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101923105,
+        101923001,
+        101923107,
+        101923019,
+        101922955
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":51028.729676,
-    "geom:bbox":"35.3271026611,32.402381897,35.3300132751,32.4047470093",
+    "geom:bbox":"35.327103,32.402382,35.330013,32.404747",
     "geom:latitude":32.403582,
     "geom:longitude":35.328483,
     "gn:population":235,
@@ -18,7 +18,7 @@
     "mps:latitude":32.40359,
     "mps:longitude":35.328455,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0644\u0641\u064a\u062a"
@@ -66,7 +66,7 @@
         "wd:id":"Q7697199"
     },
     "wof:country":"PS",
-    "wof:geomhash":"6442eed591593b38c18b2d9fc4626e7a",
+    "wof:geomhash":"415d5ef4dc3a0fd11b0afdec3e5540b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,22 +88,24 @@
         }
     ],
     "wof:id":101921015,
-    "wof:lastmodified":1566600588,
+    "wof:lastmodified":1621641421,
     "wof:name":"Telfit",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:population":235,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.32710266113281,
-    32.40238189697266,
-    35.33001327514648,
-    32.40474700927734
+    35.327103,
+    32.402382,
+    35.330013,
+    32.404747
 ],
-  "geometry": {"coordinates":[[[35.32868576049805,32.40474700927734],[35.32966232299805,32.40410614013672],[35.33001327514648,32.40290451049805],[35.32815933227539,32.40238189697266],[35.32710266113281,32.40321350097656],[35.32732772827148,32.40455627441406],[35.32868576049805,32.40474700927734]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.328686,32.404747],[35.329662,32.404106],[35.330013,32.402905],[35.328159,32.402382],[35.327103,32.403214],[35.327328,32.404556],[35.328686,32.404747]]],"type":"Polygon"}
 }

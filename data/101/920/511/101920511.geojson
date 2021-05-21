@@ -97,13 +97,20 @@
         }
     ],
     "wof:id":101920511,
-    "wof:lastmodified":1621640651,
+    "wof:lastmodified":1621641415,
     "wof:name":"Qizan an Najjar",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920501,
+        101920507,
+        101920487,
+        101920489,
+        101920493,
+        101920495
+    ],
     "wof:tags":[]
 },
   "bbox": [

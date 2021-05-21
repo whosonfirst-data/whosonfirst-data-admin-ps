@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":101921335,
-    "wof:lastmodified":1621640642,
+    "wof:lastmodified":1621641368,
     "wof:name":"Al 'Aqrabaniya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1175613161
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":8893.006537,
-    "geom:bbox":"35.1564445496,31.4021053314,35.1573905945,31.4033679962",
+    "geom:bbox":"35.156445,31.402105,35.157391,31.403368",
     "geom:latitude":31.402669,
     "geom:longitude":35.15689,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.402667,
     "mps:longitude":35.156884,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -49,7 +49,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"16f925cc09af841f0cf0b3db65dac721",
+    "wof:geomhash":"7bcb3d34551c06e4bb819732aa67710d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +71,22 @@
         }
     ],
     "wof:id":101923005,
-    "wof:lastmodified":1566600475,
+    "wof:lastmodified":1621641414,
     "wof:name":"Khirbet Sarura",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.15644454956055,
-    31.4021053314209,
-    35.15739059448242,
-    31.40336799621582
+    35.156445,
+    31.402105,
+    35.157391,
+    31.403368
 ],
-  "geometry": {"coordinates":[[[35.15718078613281,31.4021053314209],[35.15644836425781,31.40219497680664],[35.15644454956055,31.4028263092041],[35.15686798095703,31.40336799621582],[35.15739059448242,31.40291786193848],[35.15718078613281,31.4021053314209]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.157181,31.402105],[35.156448,31.402195],[35.156445,31.402826],[35.156868,31.403368],[35.157391,31.402918],[35.157181,31.402105]]],"type":"Polygon"}
 }

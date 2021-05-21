@@ -472,13 +472,18 @@
         }
     ],
     "wof:id":101922341,
-    "wof:lastmodified":1621640641,
+    "wof:lastmodified":1621641363,
     "wof:name":"Bethlehem (Beit Lahm)",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922477,
+        101922419,
+        101922433,
+        101922343
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":23318.23007,
-    "geom:bbox":"35.4078330994,32.3398704529,35.410068512,32.3417625427",
+    "geom:bbox":"35.407833,32.33987,35.410069,32.341763",
     "geom:latitude":32.340819,
     "geom:longitude":35.408985,
     "gn:population":2323,
@@ -18,7 +18,7 @@
     "mps:latitude":32.340823,
     "mps:longitude":35.408968,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0627\u0633\u064a\u0631"
@@ -78,7 +78,7 @@
         "wk:page":"Tayasir"
     },
     "wof:country":"PS",
-    "wof:geomhash":"d0a4ad79325e64d3cbdc7f1092452f3a",
+    "wof:geomhash":"08e59c0ec6e88cf932baea77a5c2f235",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,22 +100,24 @@
         }
     ],
     "wof:id":101921135,
-    "wof:lastmodified":1566600582,
+    "wof:lastmodified":1621641422,
     "wof:name":"Tayasir",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",
     "wof:population":2323,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.40783309936523,
-    32.33987045288086,
-    35.41006851196289,
-    32.34176254272461
+    35.407833,
+    32.33987,
+    35.410069,
+    32.341763
 ],
-  "geometry": {"coordinates":[[[35.40783309936523,32.34020233154297],[35.40880584716797,32.34159851074219],[35.41006851196289,32.34176254272461],[35.4091911315918,32.33987045288086],[35.40783309936523,32.34020233154297]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.407833,32.340202],[35.408806,32.341599],[35.410069,32.341763],[35.409191,32.33987],[35.407833,32.340202]]],"type":"Polygon"}
 }

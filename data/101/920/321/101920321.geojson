@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":101920321,
-    "wof:lastmodified":1621640645,
+    "wof:lastmodified":1621641389,
     "wof:name":"Al Qarara",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
@@ -129,7 +129,21 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920307,
+        101920331,
+        101920337,
+        101920301,
+        101920339,
+        101920273,
+        101920289,
+        101920269,
+        101920341,
+        101920323,
+        101920315,
+        101920349,
+        101920297
+    ],
     "wof:tags":[]
 },
   "bbox": [

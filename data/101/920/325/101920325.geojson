@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7117.556993,
-    "geom:bbox":"34.3222732544,31.3637161255,34.3235702515,31.3649158478",
+    "geom:bbox":"34.322273,31.363716,34.32357,31.364916",
     "geom:latitude":31.364308,
     "geom:longitude":34.322926,
     "gn:population":173183,
@@ -18,7 +18,7 @@
     "mps:latitude":31.364311,
     "mps:longitude":34.322926,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u0646 \u064a\u0648\u0646\u0633"
@@ -230,7 +230,7 @@
         "wk:page":"Khan Yunis"
     },
     "wof:country":"PS",
-    "wof:geomhash":"10110a830f40406232fec1c369f46ee1",
+    "wof:geomhash":"3254f99ab0bc36095ec4be44350cb973",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -252,22 +252,24 @@
         }
     ],
     "wof:id":101920325,
-    "wof:lastmodified":1566600535,
+    "wof:lastmodified":1621641385,
     "wof:name":"Khan Yunis",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:population":173183,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920355
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.32227325439453,
-    31.36371612548828,
-    34.32357025146484,
-    31.36491584777832
+    34.322273,
+    31.363716,
+    34.32357,
+    31.364916
 ],
-  "geometry": {"coordinates":[[[34.32273101806641,31.36371612548828],[34.32227325439453,31.36402320861816],[34.3231201171875,31.36491584777832],[34.32357025146484,31.36455726623535],[34.32273101806641,31.36371612548828]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.322731,31.363716],[34.322273,31.364023],[34.32312,31.364916],[34.32357,31.364557],[34.322731,31.363716]]],"type":"Polygon"}
 }

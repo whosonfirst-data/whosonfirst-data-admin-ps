@@ -103,13 +103,18 @@
         }
     ],
     "wof:id":101920701,
-    "wof:lastmodified":1621640647,
+    "wof:lastmodified":1621641394,
     "wof:name":"Al Shoka",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920713,
+        101920705,
+        101920703,
+        101920719
+    ],
     "wof:tags":[]
 },
   "bbox": [

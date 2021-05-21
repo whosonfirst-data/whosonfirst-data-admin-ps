@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":101919435,
-    "wof:lastmodified":1621640638,
+    "wof:lastmodified":1621641339,
     "wof:name":"Qalqiliya",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",
@@ -182,7 +182,11 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101919437,
+        101919431,
+        101919433
+    ],
     "wof:tags":[]
 },
   "bbox": [

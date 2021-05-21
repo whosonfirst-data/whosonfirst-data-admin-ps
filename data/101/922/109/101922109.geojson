@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":8899.245816,
-    "geom:bbox":"35.4695053101,31.8405189514,35.4707717896,31.8416900635",
+    "geom:bbox":"35.469505,31.840519,35.470772,31.84169",
     "geom:latitude":31.84107,
     "geom:longitude":35.470109,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.841071,
     "mps:longitude":35.4701,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +48,7 @@
         "gp:id":56122789
     },
     "wof:country":"PS",
-    "wof:geomhash":"1db184484c63a34498c2dde32640294b",
+    "wof:geomhash":"257f3b33cc50712d79e9d666fbd05060",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +70,22 @@
         }
     ],
     "wof:id":101922109,
-    "wof:lastmodified":1566600497,
+    "wof:lastmodified":1621641367,
     "wof:name":"Jericho (Ariha)",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.46950531005859,
-    31.84051895141602,
-    35.47077178955078,
-    31.84169006347656
+    35.469505,
+    31.840519,
+    35.470772,
+    31.84169
 ],
-  "geometry": {"coordinates":[[[35.47005462646484,31.8415412902832],[35.470458984375,31.84169006347656],[35.47077178955078,31.84123992919922],[35.47003173828125,31.84051895141602],[35.46950531005859,31.84052085876465],[35.46961212158203,31.84106063842773],[35.47005462646484,31.8415412902832]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.470055,31.841541],[35.470459,31.84169],[35.470772,31.84124],[35.470032,31.840519],[35.469505,31.840521],[35.469612,31.841061],[35.470055,31.841541]]],"type":"Polygon"}
 }

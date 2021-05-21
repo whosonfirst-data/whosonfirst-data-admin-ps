@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7106.160959,
-    "geom:bbox":"35.1293258667,31.3925304413,35.1306915283,31.3937931061",
+    "geom:bbox":"35.129326,31.39253,35.130692,31.393793",
     "geom:latitude":31.393075,
     "geom:longitude":35.130154,
     "gn:population":117,
@@ -18,7 +18,7 @@
     "mps:latitude":31.39296,
     "mps:longitude":35.130375,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -52,7 +52,7 @@
         "qs_pg:id":547084
     },
     "wof:country":"PS",
-    "wof:geomhash":"cbd39b8dcd7c3ff9f1dcc9984fc16057",
+    "wof:geomhash":"61b03e59cd3225afae479a5e03eff7ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,22 +74,24 @@
         }
     ],
     "wof:id":101923057,
-    "wof:lastmodified":1566600475,
+    "wof:lastmodified":1621641404,
     "wof:name":"Khirbet Bir al 'Idd",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":117,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923069
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.12932586669922,
-    31.39253044128418,
-    35.13069152832031,
-    31.3937931060791
+    35.129326,
+    31.39253,
+    35.130692,
+    31.393793
 ],
-  "geometry": {"coordinates":[[[35.1304817199707,31.39253044128418],[35.12964248657227,31.39298057556152],[35.12932586669922,31.3937931060791],[35.13006210327148,31.3930721282959],[35.13058853149414,31.39361381530762],[35.13069152832031,31.39280128479004],[35.1304817199707,31.39253044128418]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.130482,31.39253],[35.129642,31.392981],[35.129326,31.393793],[35.130062,31.393072],[35.130589,31.393614],[35.130692,31.392801],[35.130482,31.39253]]],"type":"Polygon"}
 }

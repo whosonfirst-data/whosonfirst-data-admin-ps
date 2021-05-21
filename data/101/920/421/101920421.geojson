@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":14133.140108,
-    "geom:bbox":"34.3363990784,31.3407726288,34.3390808105,31.3417434692",
+    "geom:bbox":"34.336399,31.340773,34.339081,31.341743",
     "geom:latitude":31.341216,
     "geom:longitude":34.337452,
     "gn:population":31272,
@@ -18,7 +18,7 @@
     "mps:latitude":31.341202,
     "mps:longitude":34.337137,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u0647\u064a\u0644\u0627"
@@ -119,7 +119,7 @@
         "wk:page":"Bani Suheila"
     },
     "wof:country":"PS",
-    "wof:geomhash":"920ca5006d25ace70ce404052577ff96",
+    "wof:geomhash":"9fff701e89e35063602c052ae33e5660",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,22 +141,24 @@
         }
     ],
     "wof:id":101920421,
-    "wof:lastmodified":1566600540,
+    "wof:lastmodified":1621641370,
     "wof:name":"Bani Suheila",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:population":31272,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920409
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.33639907836914,
-    31.34077262878418,
-    34.33908081054688,
-    31.34174346923828
+    34.336399,
+    31.340773,
+    34.339081,
+    31.341743
 ],
-  "geometry": {"coordinates":[[[34.33733367919922,31.34077262878418],[34.33669662475586,31.34091567993164],[34.33639907836914,31.34095001220703],[34.33644866943359,31.34174346923828],[34.33908081054688,31.34114837646484],[34.3388671875,31.34084892272949],[34.33754730224609,31.34112548828125],[34.33733367919922,31.34077262878418]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.337334,31.340773],[34.336697,31.340916],[34.336399,31.34095],[34.336449,31.341743],[34.339081,31.341148],[34.338867,31.340849],[34.337547,31.341125],[34.337334,31.340773]]],"type":"Polygon"}
 }

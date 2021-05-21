@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":1925.173171,
-    "geom:bbox":"34.3558006287,31.4270057678,34.3564338684,31.4275779724",
-    "geom:latitude":31.427295,
+    "geom:bbox":"34.355801,31.427006,34.356434,31.427578",
+    "geom:latitude":31.427296,
     "geom:longitude":34.35611,
     "iso:country":"PS",
     "lbl:latitude":31.4273,
@@ -17,7 +17,7 @@
     "mps:latitude":31.4273,
     "mps:longitude":34.356109,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0648\u0627\u064a\u062f\u0629"
@@ -94,7 +94,7 @@
         "wk:page":"Az-Zawayda"
     },
     "wof:country":"PS",
-    "wof:geomhash":"6d53c17ecde7d87e1b9aaa80c90b266d",
+    "wof:geomhash":"cc3e1689c1b0c1b5a661c7e265a8ffc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +116,22 @@
         }
     ],
     "wof:id":101920033,
-    "wof:lastmodified":1566600547,
+    "wof:lastmodified":1621641374,
     "wof:name":"Az Zawayda",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.35580062866211,
-    31.42700576782227,
-    34.3564338684082,
-    31.42757797241211
+    34.355801,
+    31.427006,
+    34.356434,
+    31.427578
 ],
-  "geometry": {"coordinates":[[[34.35610580444336,31.42700576782227],[34.35580062866211,31.42724227905273],[34.35608291625977,31.42757797241211],[34.3564338684082,31.42735481262207],[34.35610580444336,31.42700576782227]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.356106,31.427006],[34.355801,31.427242],[34.356083,31.427578],[34.356434,31.427355],[34.356106,31.427006]]],"type":"Polygon"}
 }

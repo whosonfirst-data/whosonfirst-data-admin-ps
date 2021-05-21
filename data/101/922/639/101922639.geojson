@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":101922639,
-    "wof:lastmodified":1621640652,
+    "wof:lastmodified":1621641422,
     "wof:name":"Beit Ummar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -131,7 +131,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922517
+    ],
     "wof:tags":[]
 },
   "bbox": [

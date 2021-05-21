@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":6026.547165,
-    "geom:bbox":"34.2813987732,31.3215179443,34.2824935913,31.3225688934",
+    "geom:bbox":"34.281399,31.321518,34.282494,31.322569",
     "geom:latitude":31.322077,
-    "geom:longitude":34.281913,
+    "geom:longitude":34.281914,
     "iso:country":"PS",
     "lbl:latitude":31.322095,
     "lbl:longitude":34.281903,
@@ -17,7 +17,7 @@
     "mps:latitude":31.322095,
     "mps:longitude":34.281903,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u064a\u0632\u0627\u0646 \u0627\u0644\u0646\u062c\u0627\u0631"
@@ -69,7 +69,7 @@
         "wd:id":"Q7267988"
     },
     "wof:country":"PS",
-    "wof:geomhash":"062860835f29272b86680007174f9792",
+    "wof:geomhash":"5a7c88193c3f8bbb65337dbb57efb228",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,20 +91,22 @@
         }
     ],
     "wof:id":101920501,
-    "wof:lastmodified":1566600536,
+    "wof:lastmodified":1621641414,
     "wof:name":"Qizan an Najjar",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920511
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.28139877319336,
-    31.32151794433594,
-    34.28249359130859,
-    31.32256889343262
+    34.281399,
+    31.321518,
+    34.282494,
+    31.322569
 ],
-  "geometry": {"coordinates":[[[34.28184509277344,31.32151794433594],[34.28159332275391,31.32181358337402],[34.28139877319336,31.32207298278809],[34.28188323974609,31.32256889343262],[34.28249359130859,31.32219314575195],[34.28206253051758,31.32176399230957],[34.28184509277344,31.32151794433594]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.281845,31.321518],[34.281593,31.321814],[34.281399,31.322073],[34.281883,31.322569],[34.282494,31.322193],[34.282063,31.321764],[34.281845,31.321518]]],"type":"Polygon"}
 }

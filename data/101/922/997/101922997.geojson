@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":4060.98066,
-    "geom:bbox":"35.2064971924,31.4041919708,35.2073364258,31.4053649902",
+    "geom:bbox":"35.206497,31.404192,35.207336,31.405365",
     "geom:latitude":31.404868,
-    "geom:longitude":35.206892,
+    "geom:longitude":35.206891,
     "iso:country":"PS",
     "lbl:latitude":31.404891,
     "lbl:longitude":35.20689,
@@ -17,7 +17,7 @@
     "mps:latitude":31.404891,
     "mps:longitude":35.20689,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0634\u0645 \u0627\u0644\u0643\u0631\u0645"
@@ -55,7 +55,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"3f2e50a0057f9c37f46ce14ce9b10d21",
+    "wof:geomhash":"ca43f380406aeb504e890f53eed0aef8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +77,22 @@
         }
     ],
     "wof:id":101922997,
-    "wof:lastmodified":1566600479,
+    "wof:lastmodified":1621641378,
     "wof:name":"Khashem al Karem",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.20649719238281,
-    31.4041919708252,
-    35.20733642578125,
-    31.40536499023438
+    35.206497,
+    31.404192,
+    35.207336,
+    31.405365
 ],
-  "geometry": {"coordinates":[[[35.20649719238281,31.4041919708252],[35.20670700073242,31.4049129486084],[35.20691680908203,31.40536499023438],[35.20733642578125,31.40536499023438],[35.20681381225586,31.40437126159668],[35.20649719238281,31.4041919708252]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.206497,31.404192],[35.206707,31.404913],[35.206917,31.405365],[35.207336,31.405365],[35.206814,31.404371],[35.206497,31.404192]]],"type":"Polygon"}
 }

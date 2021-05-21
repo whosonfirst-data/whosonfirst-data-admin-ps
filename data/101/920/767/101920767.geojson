@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
     "geom:area_square_m":43335.655389,
-    "geom:bbox":"35.2986030579,32.5032997131,35.3017692566,32.5053634644",
+    "geom:bbox":"35.298603,32.5033,35.301769,32.505363",
     "geom:latitude":32.504277,
     "geom:longitude":35.300124,
     "gn:population":34730,
@@ -18,7 +18,7 @@
     "mps:latitude":32.504321,
     "mps:longitude":35.300125,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062c\u0646\u064a\u0646"
@@ -214,7 +214,7 @@
         "wk:page":"Jenin"
     },
     "wof:country":"PS",
-    "wof:geomhash":"6aafb387cbd83d062c0e961886cf66de",
+    "wof:geomhash":"49441044754fef5fc36e7d288ee4c623",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -236,22 +236,24 @@
         }
     ],
     "wof:id":101920767,
-    "wof:lastmodified":1566600536,
+    "wof:lastmodified":1621641338,
     "wof:name":"Jenin",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:population":34730,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920881
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.29860305786133,
-    32.50329971313477,
-    35.3017692565918,
-    32.50536346435547
+    35.298603,
+    32.5033,
+    35.301769,
+    32.505363
 ],
-  "geometry": {"coordinates":[[[35.29860305786133,32.5037841796875],[35.29860687255859,32.50433349609375],[35.29949951171875,32.50536346435547],[35.30071640014648,32.50495147705078],[35.3017692565918,32.50453567504883],[35.30112075805664,32.50329971313477],[35.29860305786133,32.5037841796875]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.298603,32.503784],[35.298607,32.504333],[35.2995,32.505363],[35.300716,32.504951],[35.301769,32.504536],[35.301121,32.5033],[35.298603,32.503784]]],"type":"Polygon"}
 }

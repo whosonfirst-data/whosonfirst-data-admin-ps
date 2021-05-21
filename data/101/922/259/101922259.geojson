@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":11120.179269,
-    "geom:bbox":"35.2830314636,31.7568511963,35.2841949463,31.7581748962",
-    "geom:latitude":31.757498,
+    "geom:bbox":"35.283031,31.756851,35.284195,31.758175",
+    "geom:latitude":31.757497,
     "geom:longitude":35.283658,
     "gn:population":715,
     "iso:country":"PS",
@@ -18,7 +18,7 @@
     "mps:latitude":31.757486,
     "mps:longitude":35.283646,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0628 \u0627\u0644\u062c\u0647\u0627\u0644\u064a\u0646"
@@ -86,7 +86,7 @@
         "wd:id":"Q4540439"
     },
     "wof:country":"PS",
-    "wof:geomhash":"82b63937894cc7fff924da30df3a4731",
+    "wof:geomhash":"ee10dcf2b27c4493aba4bd4beb439317",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,22 +108,24 @@
         }
     ],
     "wof:id":101922259,
-    "wof:lastmodified":1566600487,
+    "wof:lastmodified":1621641421,
     "wof:name":"'Arab al Jahalin",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",
     "wof:population":715,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922267
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.28303146362305,
-    31.75685119628906,
-    35.28419494628906,
-    31.75817489624023
+    35.283031,
+    31.756851,
+    35.284195,
+    31.758175
 ],
-  "geometry": {"coordinates":[[[35.28332138061523,31.75685119628906],[35.28303146362305,31.75776100158691],[35.28390502929688,31.75817489624023],[35.28419494628906,31.75784301757812],[35.28409576416016,31.75701713562012],[35.28332138061523,31.75685119628906]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.283321,31.756851],[35.283031,31.757761],[35.283905,31.758175],[35.284195,31.757843],[35.284096,31.757017],[35.283321,31.756851]]],"type":"Polygon"}
 }

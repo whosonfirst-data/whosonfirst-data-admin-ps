@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1175613365,
-    "wof:lastmodified":1621640650,
+    "wof:lastmodified":1621641414,
     "wof:name":"Tura al Gharbiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
@@ -110,7 +110,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101920835,
-        101920847
+        101920847,
+        101920897
     ],
     "wof:tags":[]
 },

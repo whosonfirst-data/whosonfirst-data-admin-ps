@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":101921019,
-    "wof:lastmodified":1621640653,
+    "wof:lastmodified":1621641427,
     "wof:name":"Qabatiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
@@ -153,7 +153,10 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920967,
+        101920987
+    ],
     "wof:tags":[]
 },
   "bbox": [

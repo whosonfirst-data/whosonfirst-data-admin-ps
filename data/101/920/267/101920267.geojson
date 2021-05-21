@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3484.258619,
-    "geom:bbox":"34.3631744385,31.3826980591,34.3641471863,31.3833389282",
+    "geom:bbox":"34.363174,31.382698,34.364147,31.383339",
     "geom:latitude":31.383038,
     "geom:longitude":34.363667,
     "gn:population":4552,
@@ -18,7 +18,7 @@
     "mps:latitude":31.383029,
     "mps:longitude":34.363665,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f\u064a \u0627\u0644\u0633\u0644\u0642\u0627"
@@ -87,7 +87,7 @@
         "wk:page":"Wadi as-Salqa"
     },
     "wof:country":"PS",
-    "wof:geomhash":"d114b306e103c698b70404d0d8daff1b",
+    "wof:geomhash":"c37f82ff93a15667182e55b5687ab40c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,22 +109,24 @@
         }
     ],
     "wof:id":101920267,
-    "wof:lastmodified":1566600529,
+    "wof:lastmodified":1621641382,
     "wof:name":"Wadi as Salqa",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:population":4660,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920241
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.36317443847656,
-    31.38269805908203,
-    34.3641471862793,
-    31.38333892822266
+    34.363174,
+    31.382698,
+    34.364147,
+    31.383339
 ],
-  "geometry": {"coordinates":[[[34.36381530761719,31.38269805908203],[34.36344909667969,31.38287544250488],[34.36317443847656,31.38305854797363],[34.3635139465332,31.38333892822266],[34.3641471862793,31.38311958312988],[34.36381530761719,31.38269805908203]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.363815,31.382698],[34.363449,31.382875],[34.363174,31.383059],[34.363514,31.383339],[34.364147,31.38312],[34.363815,31.382698]]],"type":"Polygon"}
 }

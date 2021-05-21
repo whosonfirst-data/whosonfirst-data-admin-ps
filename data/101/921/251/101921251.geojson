@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
     "geom:area_square_m":95379.100906,
-    "geom:bbox":"35.3782691956,32.2901000977,35.3825302124,32.293888092",
+    "geom:bbox":"35.378269,32.2901,35.38253,32.293888",
     "geom:latitude":32.291874,
     "geom:longitude":35.380273,
     "gn:population":10119,
@@ -18,7 +18,7 @@
     "mps:latitude":32.291733,
     "mps:longitude":35.380241,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0637\u0645\u0648\u0646"
@@ -84,7 +84,7 @@
         "wk:page":"Tammun"
     },
     "wof:country":"PS",
-    "wof:geomhash":"ed4ebdf675031653ccb1ccd877c0450e",
+    "wof:geomhash":"81f9c35b8b0048eb8d09942a183b37f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,22 +106,24 @@
         }
     ],
     "wof:id":101921251,
-    "wof:lastmodified":1566600594,
+    "wof:lastmodified":1621641339,
     "wof:name":"Tammun",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",
     "wof:population":10119,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921295
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.37826919555664,
-    32.29010009765625,
-    35.38253021240234,
-    32.29388809204102
+    35.378269,
+    32.2901,
+    35.38253,
+    32.293888
 ],
-  "geometry": {"coordinates":[[[35.3823356628418,32.29108810424805],[35.38253021240234,32.29026412963867],[35.38039779663086,32.29010009765625],[35.3790397644043,32.29125595092773],[35.37826919555664,32.29380798339844],[35.37982177734375,32.29388809204102],[35.38146591186523,32.29207611083984],[35.3823356628418,32.29108810424805]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.382336,32.291088],[35.38253,32.290264],[35.380398,32.2901],[35.37904,32.291256],[35.378269,32.293808],[35.379822,32.293888],[35.381466,32.292076],[35.382336,32.291088]]],"type":"Polygon"}
 }

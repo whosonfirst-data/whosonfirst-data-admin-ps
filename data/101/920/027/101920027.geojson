@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":904.199457,
-    "geom:bbox":"34.3974456787,31.4274272919,34.3978881836,31.427816391",
+    "geom:bbox":"34.397446,31.427427,34.397888,31.427816",
     "geom:latitude":31.427612,
     "geom:longitude":34.397677,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.427616,
     "mps:longitude":34.397678,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +48,7 @@
         "gp:id":56125660
     },
     "wof:country":"PS",
-    "wof:geomhash":"e2e01d24417d53a7f09b190dde85ca58",
+    "wof:geomhash":"5c084499556a0db2656944d7bf3699aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +70,22 @@
         }
     ],
     "wof:id":101920027,
-    "wof:lastmodified":1566600541,
+    "wof:lastmodified":1621641396,
     "wof:name":"Al Bureij Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919981
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.39744567871094,
-    31.42742729187012,
-    34.39788818359375,
-    31.42781639099121
+    34.397446,
+    31.427427,
+    34.397888,
+    31.427816
 ],
-  "geometry": {"coordinates":[[[34.39772415161133,31.42742729187012],[34.39744567871094,31.42759895324707],[34.39767837524414,31.42781639099121],[34.39788818359375,31.42758178710938],[34.39772415161133,31.42742729187012]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.397724,31.427427],[34.397446,31.427599],[34.397678,31.427816],[34.397888,31.427582],[34.397724,31.427427]]],"type":"Polygon"}
 }

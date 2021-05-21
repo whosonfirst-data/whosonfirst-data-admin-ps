@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":5302.873176,
-    "geom:bbox":"34.3489494324,31.2982940674,34.3500404358,31.2992248535",
+    "geom:bbox":"34.348949,31.298294,34.35004,31.299225",
     "geom:latitude":31.298773,
     "geom:longitude":34.34952,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.298799,
     "mps:longitude":34.349511,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0632\u0627\u0639\u0629"
@@ -87,7 +87,7 @@
         "wd:id":"Q1814882"
     },
     "wof:country":"PS",
-    "wof:geomhash":"6b283011cc89f54a51e4c1ae66d18136",
+    "wof:geomhash":"01aad5b8fc19693a12fef21ca93b9c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,20 +109,22 @@
         }
     ],
     "wof:id":101920585,
-    "wof:lastmodified":1566600549,
+    "wof:lastmodified":1621641421,
     "wof:name":"Khuza'a",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920575
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.34894943237305,
-    31.29829406738281,
-    34.35004043579102,
-    31.29922485351562
+    34.348949,
+    31.298294,
+    34.35004,
+    31.299225
 ],
-  "geometry": {"coordinates":[[[34.34961318969727,31.29829406738281],[34.34894943237305,31.29885673522949],[34.34952163696289,31.29922485351562],[34.35004043579102,31.29872894287109],[34.34961318969727,31.29829406738281]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.349613,31.298294],[34.348949,31.298857],[34.349522,31.299225],[34.35004,31.298729],[34.349613,31.298294]]],"type":"Polygon"}
 }

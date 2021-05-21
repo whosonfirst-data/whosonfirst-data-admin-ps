@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":101922153,
-    "wof:lastmodified":1621640649,
+    "wof:lastmodified":1621641404,
     "wof:name":"Hizma",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",
@@ -119,7 +119,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922125
+    ],
     "wof:tags":[]
 },
   "bbox": [

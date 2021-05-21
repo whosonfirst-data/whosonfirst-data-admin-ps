@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":9458.203919,
-    "geom:bbox":"34.4399986267,31.5018825531,34.4421691895,31.5033435822",
+    "geom:bbox":"34.439999,31.501883,34.442169,31.503344",
     "geom:latitude":31.502588,
     "geom:longitude":34.441059,
     "gn:population":410000,
@@ -18,7 +18,7 @@
     "mps:latitude":31.502569,
     "mps:longitude":34.441059,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Gaza"
@@ -361,7 +361,7 @@
         "wd:id":"Q47492"
     },
     "wof:country":"PS",
-    "wof:geomhash":"fb6c9b985cf74efcfc78139f9ffb2e7d",
+    "wof:geomhash":"c2d44db86d842e04d9727e0086fd0d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -383,22 +383,24 @@
         }
     ],
     "wof:id":101919745,
-    "wof:lastmodified":1566600580,
+    "wof:lastmodified":1621641426,
     "wof:name":"Gaza",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",
     "wof:population":410000,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919639
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.43999862670898,
-    31.50188255310059,
-    34.44216918945312,
-    31.50334358215332
+    34.439999,
+    31.501883,
+    34.442169,
+    31.503344
 ],
-  "geometry": {"coordinates":[[[34.44174575805664,31.50190734863281],[34.43999862670898,31.50300788879395],[34.44028091430664,31.50334358215332],[34.44110870361328,31.50276184082031],[34.44216918945312,31.5021858215332],[34.4417839050293,31.50188255310059],[34.44174575805664,31.50190734863281]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.441746,31.501907],[34.439999,31.503008],[34.440281,31.503344],[34.441109,31.502762],[34.442169,31.502186],[34.441784,31.501883],[34.441746,31.501907]]],"type":"Polygon"}
 }

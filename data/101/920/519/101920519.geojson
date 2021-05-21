@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":4979.208329,
-    "geom:bbox":"34.3259429932,31.3131275177,34.3268165588,31.3141956329",
+    "geom:bbox":"34.325943,31.313128,34.326817,31.314196",
     "geom:latitude":31.31366,
     "geom:longitude":34.326394,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.313663,
     "mps:longitude":34.326386,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -49,7 +49,7 @@
         "gp:id":1979600
     },
     "wof:country":"PS",
-    "wof:geomhash":"94c53bfcb0408b0972bba51f200b25e6",
+    "wof:geomhash":"5b08bde6ee79e7d7bbc14ad4fe226d10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +71,22 @@
         }
     ],
     "wof:id":101920519,
-    "wof:lastmodified":1566600532,
+    "wof:lastmodified":1621641365,
     "wof:name":"Qa' al Qurein",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920523
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.32594299316406,
-    31.3131275177002,
-    34.32681655883789,
-    31.31419563293457
+    34.325943,
+    31.313128,
+    34.326817,
+    31.314196
 ],
-  "geometry": {"coordinates":[[[34.32659149169922,31.3131275177002],[34.32594299316406,31.31364440917969],[34.32625579833984,31.31419563293457],[34.32681655883789,31.31367301940918],[34.32659149169922,31.3131275177002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.326591,31.313128],[34.325943,31.313644],[34.326256,31.314196],[34.326817,31.313673],[34.326591,31.313128]]],"type":"Polygon"}
 }

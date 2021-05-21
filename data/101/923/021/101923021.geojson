@@ -80,13 +80,18 @@
         }
     ],
     "wof:id":101923021,
-    "wof:lastmodified":1621640644,
+    "wof:lastmodified":1621641380,
     "wof:name":"Khirbet Shuweika",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920205,
+        101920187,
+        101920181,
+        101920163
+    ],
     "wof:tags":[]
 },
   "bbox": [

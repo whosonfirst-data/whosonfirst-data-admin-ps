@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":32328.710469,
-    "geom:bbox":"34.3130378723,31.2918281555,34.3145446777,31.2948417664",
+    "geom:bbox":"34.313038,31.291828,34.314545,31.294842",
     "geom:latitude":31.293493,
     "geom:longitude":34.313733,
     "gn:population":6211,
@@ -18,7 +18,7 @@
     "mps:latitude":31.293519,
     "mps:longitude":34.313734,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0648\u0643"
@@ -83,7 +83,7 @@
         "wd:id":"Q59624"
     },
     "wof:country":"PS",
-    "wof:geomhash":"215bc45e5fd885d405e11af4d15d8cfa",
+    "wof:geomhash":"3a0e294994ea7f816ef632ec25e36b85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,22 +105,24 @@
         }
     ],
     "wof:id":101920625,
-    "wof:lastmodified":1566600540,
+    "wof:lastmodified":1621641413,
     "wof:name":"Al Bayuk",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",
     "wof:population":6211,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920673
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.31303787231445,
-    31.29182815551758,
-    34.31454467773438,
-    31.29484176635742
+    34.313038,
+    31.291828,
+    34.314545,
+    31.294842
 ],
-  "geometry": {"coordinates":[[[34.31394577026367,31.29200744628906],[34.31324768066406,31.29182815551758],[34.31319427490234,31.29333114624023],[34.31303787231445,31.29455184936523],[34.31410980224609,31.29484176635742],[34.31454467773438,31.29463386535645],[34.31412506103516,31.29263877868652],[34.31394577026367,31.29200744628906]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.313946,31.292007],[34.313248,31.291828],[34.313194,31.293331],[34.313038,31.294552],[34.31411,31.294842],[34.314545,31.294634],[34.314125,31.292639],[34.313946,31.292007]]],"type":"Polygon"}
 }

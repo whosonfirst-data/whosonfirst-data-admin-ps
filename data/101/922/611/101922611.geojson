@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":101922611,
-    "wof:lastmodified":1621640647,
+    "wof:lastmodified":1621641394,
     "wof:name":"Beit Fajjar",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",
@@ -116,7 +116,11 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1175613371,
+        101922569,
+        101922583
+    ],
     "wof:tags":[]
 },
   "bbox": [

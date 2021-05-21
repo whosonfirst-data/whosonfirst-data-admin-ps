@@ -71,13 +71,18 @@
         }
     ],
     "wof:id":101920361,
-    "wof:lastmodified":1621640640,
+    "wof:lastmodified":1621641354,
     "wof:name":"'Arab al Fureijat",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1175613295,
+        101920363,
+        101920385,
+        101920345
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":2248.475696,
-    "geom:bbox":"35.037361145,32.2965240479,35.0383110046,32.2975502014",
+    "geom:bbox":"35.037361,32.296524,35.038311,32.29755",
     "geom:latitude":32.297061,
     "geom:longitude":35.037847,
     "gn:population":44169,
@@ -18,7 +18,7 @@
     "mps:latitude":32.297082,
     "mps:longitude":35.037848,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u0644\u0643\u0631\u0645"
@@ -146,7 +146,7 @@
         "wk:page":"Tulkarm"
     },
     "wof:country":"PS",
-    "wof:geomhash":"c7df0ae4eb3853af9f71d66535e4047c",
+    "wof:geomhash":"562c0ad1a33c057ec64027974b813dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,22 +168,24 @@
         }
     ],
     "wof:id":101921225,
-    "wof:lastmodified":1566600608,
+    "wof:lastmodified":1621641384,
     "wof:name":"Tulkarm",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",
     "wof:population":44169,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921181
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.03736114501953,
-    32.29652404785156,
-    35.03831100463867,
-    32.29755020141602
+    35.037361,
+    32.296524,
+    35.038311,
+    32.29755
 ],
-  "geometry": {"coordinates":[[[35.03736114501953,32.2974853515625],[35.03759765625,32.29755020141602],[35.03831100463867,32.29658508300781],[35.03812789916992,32.29652404785156],[35.03781127929688,32.2970085144043],[35.03736114501953,32.2974853515625]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.037361,32.297485],[35.037598,32.29755],[35.038311,32.296585],[35.038128,32.296524],[35.037811,32.297009],[35.037361,32.297485]]],"type":"Polygon"}
 }

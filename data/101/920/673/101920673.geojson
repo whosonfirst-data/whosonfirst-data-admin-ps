@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":101920673,
-    "wof:lastmodified":1621640650,
+    "wof:lastmodified":1621641414,
     "wof:name":"Al Bayuk",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",
@@ -116,7 +116,20 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920681,
+        101920645,
+        101920629,
+        101920605,
+        101920669,
+        101920667,
+        101920659,
+        101920625,
+        101920649,
+        101920655,
+        101920663,
+        101920665
+    ],
     "wof:tags":[]
 },
   "bbox": [

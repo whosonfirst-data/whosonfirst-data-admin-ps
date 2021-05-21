@@ -74,13 +74,16 @@
         }
     ],
     "wof:id":101919601,
-    "wof:lastmodified":1621640643,
+    "wof:lastmodified":1621641378,
     "wof:name":"'Izbat Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101919593,
+        101919607
+    ],
     "wof:tags":[]
 },
   "bbox": [

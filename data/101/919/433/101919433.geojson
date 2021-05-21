@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":20929.097346,
-    "geom:bbox":"34.9847869873,32.1872825623,34.9869308472,32.1891860962",
+    "geom:bbox":"34.984787,32.187283,34.986931,32.189186",
     "geom:latitude":32.188143,
     "geom:longitude":34.985662,
     "gn:population":43212,
@@ -18,7 +18,7 @@
     "mps:latitude":32.188119,
     "mps:longitude":34.985589,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u0642\u064a\u0644\u064a\u0629"
@@ -149,7 +149,7 @@
         "wk:page":"Qalqilya"
     },
     "wof:country":"PS",
-    "wof:geomhash":"8ee4fd9f37e2f153715f3d8d8d5489c8",
+    "wof:geomhash":"ffdbded8331d855ba33e05442a1be543",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,22 +171,24 @@
         }
     ],
     "wof:id":101919433,
-    "wof:lastmodified":1566600576,
+    "wof:lastmodified":1621641339,
     "wof:name":"Qalqiliya",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",
     "wof:population":43212,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.98478698730469,
-    32.18728256225586,
-    34.98693084716797,
-    32.18918609619141
+    34.984787,
+    32.187283,
+    34.986931,
+    32.189186
 ],
-  "geometry": {"coordinates":[[[34.98537445068359,32.18728256225586],[34.98478698730469,32.18827438354492],[34.98517608642578,32.18918609619141],[34.98693084716797,32.1878662109375],[34.98537445068359,32.18728256225586]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.985374,32.187283],[34.984787,32.188274],[34.985176,32.189186],[34.986931,32.187866],[34.985374,32.187283]]],"type":"Polygon"}
 }

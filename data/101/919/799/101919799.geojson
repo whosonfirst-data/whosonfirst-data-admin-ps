@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101919799,
-    "wof:lastmodified":1621640642,
+    "wof:lastmodified":1621641364,
     "wof:name":"Marah al Baqqar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -84,7 +84,11 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101919805,
+        101919793,
+        101919801
+    ],
     "wof:tags":[]
 },
   "bbox": [

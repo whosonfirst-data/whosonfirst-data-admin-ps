@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
     "geom:area_square_m":90125.747216,
-    "geom:bbox":"35.2658691406,32.2645492554,35.2696723938,32.2677764893",
+    "geom:bbox":"35.265869,32.264549,35.269672,32.267776",
     "geom:latitude":32.266262,
     "geom:longitude":35.267652,
     "gn:population":7475,
@@ -18,7 +18,7 @@
     "mps:latitude":32.266267,
     "mps:longitude":35.267651,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u0635\u064a\u0631\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
@@ -80,7 +80,7 @@
         "wk:page":"Asira ash-Shamaliya"
     },
     "wof:country":"PS",
-    "wof:geomhash":"d417f9b0a332e63955d78c7033d53f16",
+    "wof:geomhash":"fdf01aa2118727583c3d3e4dea419787",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,22 +102,24 @@
         }
     ],
     "wof:id":101921317,
-    "wof:lastmodified":1566600616,
+    "wof:lastmodified":1621641378,
     "wof:name":"'Asira ash Shamaliya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",
     "wof:population":7475,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921357
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.265869140625,
-    32.26454925537109,
-    35.26967239379883,
-    32.26777648925781
+    35.265869,
+    32.264549,
+    35.269672,
+    32.267776
 ],
-  "geometry": {"coordinates":[[[35.265869140625,32.2655029296875],[35.26612854003906,32.26689910888672],[35.26699447631836,32.26777648925781],[35.2688102722168,32.26763153076172],[35.26967239379883,32.26704406738281],[35.26880645751953,32.26513671875],[35.2667350769043,32.26454925537109],[35.265869140625,32.2655029296875]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.265869,32.265503],[35.266129,32.266899],[35.266994,32.267776],[35.26881,32.267632],[35.269672,32.267044],[35.268806,32.265137],[35.266735,32.264549],[35.265869,32.265503]]],"type":"Polygon"}
 }

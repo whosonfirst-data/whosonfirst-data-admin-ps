@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1175613439,
-    "wof:lastmodified":1621640649,
+    "wof:lastmodified":1621641404,
     "wof:name":"Al Yamun",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
@@ -131,7 +131,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101920781,
-        101920817
+        101920817,
+        101920787
     ],
     "wof:tags":[]
 },

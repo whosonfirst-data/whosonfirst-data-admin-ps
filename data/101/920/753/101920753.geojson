@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
     "geom:area_square_m":36497.844642,
-    "geom:bbox":"35.3015289307,32.5071487427,35.3050231934,32.5090065002",
+    "geom:bbox":"35.301529,32.507149,35.305023,32.509007",
     "geom:latitude":32.507929,
     "geom:longitude":35.303298,
     "gn:population":2035,
@@ -18,7 +18,7 @@
     "mps:latitude":32.507868,
     "mps:longitude":35.303562,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0644\u0645\u0629\u060c \u062c\u0646\u064a\u0646"
@@ -81,7 +81,7 @@
         "wk:page":"Jalamah"
     },
     "wof:country":"PS",
-    "wof:geomhash":"0046c13fe396881e1cbc1ed505637b4b",
+    "wof:geomhash":"2fbca7e89df9b987864a51135a5ef2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,22 +103,24 @@
         }
     ],
     "wof:id":101920753,
-    "wof:lastmodified":1566600519,
+    "wof:lastmodified":1621641346,
     "wof:name":"Al Jalama",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:population":2035,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923087
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.30152893066406,
-    32.50714874267578,
-    35.30502319335938,
-    32.50900650024414
+    35.301529,
+    32.507149,
+    35.305023,
+    32.509007
 ],
-  "geometry": {"coordinates":[[[35.30161285400391,32.50790786743164],[35.30274963378906,32.50818252563477],[35.3037223815918,32.5088005065918],[35.30502319335938,32.50900650024414],[35.3039665222168,32.50721740722656],[35.3027458190918,32.50714874267578],[35.30152893066406,32.50728988647461],[35.30161285400391,32.50790786743164]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.301613,32.507908],[35.30275,32.508183],[35.303722,32.508801],[35.305023,32.509007],[35.303967,32.507217],[35.302746,32.507149],[35.301529,32.50729],[35.301613,32.507908]]],"type":"Polygon"}
 }

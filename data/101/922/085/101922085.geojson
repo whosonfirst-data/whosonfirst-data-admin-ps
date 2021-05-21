@@ -332,13 +332,29 @@
         }
     ],
     "wof:id":101922085,
-    "wof:lastmodified":1621640642,
+    "wof:lastmodified":1621641367,
     "wof:name":"Jericho (Ariha)",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922015,
+        101922079,
+        101922077,
+        101922071,
+        101922049,
+        101922047,
+        101922091,
+        101922007,
+        101922055,
+        101922097,
+        101922109,
+        101922101,
+        101922073,
+        101922043,
+        101922033
+    ],
     "wof:tags":[]
 },
   "bbox": [

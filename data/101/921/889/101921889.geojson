@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101921889,
-    "wof:lastmodified":1621640637,
+    "wof:lastmodified":1621641335,
     "wof:name":"Al Mazra'a al Qibliya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",
@@ -84,7 +84,11 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101921887,
+        101921885,
+        101921891
+    ],
     "wof:tags":[]
 },
   "bbox": [

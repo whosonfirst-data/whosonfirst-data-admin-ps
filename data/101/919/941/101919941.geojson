@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":71.693051,
-    "geom:bbox":"34.3806495667,31.4386920929,34.380897522,31.4396209717",
+    "geom:bbox":"34.38065,31.438692,34.380898,31.439621",
     "geom:latitude":31.439145,
     "geom:longitude":34.380772,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.43916,
     "mps:longitude":34.380766,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +48,7 @@
         "gp:id":1979608
     },
     "wof:country":"PS",
-    "wof:geomhash":"3bd87fc1fcd8ff416ed4ca33666ba089",
+    "wof:geomhash":"1c9708e7c7c33734050481612caaf92c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +70,22 @@
         }
     ],
     "wof:id":101919941,
-    "wof:lastmodified":1566600567,
+    "wof:lastmodified":1621641433,
     "wof:name":"An Nuseirat Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.38064956665039,
-    31.43869209289551,
-    34.38089752197266,
-    31.43962097167969
+    34.38065,
+    31.438692,
+    34.380898,
+    31.439621
 ],
-  "geometry": {"coordinates":[[[34.38064956665039,31.43962097167969],[34.38089752197266,31.43869209289551],[34.38076782226562,31.43912315368652],[34.38064956665039,31.43962097167969]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.38065,31.439621],[34.380898,31.438692],[34.380768,31.439123],[34.38065,31.439621]]],"type":"Polygon"}
 }

@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":101922761,
-    "wof:lastmodified":1621640647,
+    "wof:lastmodified":1621641399,
     "wof:name":"Taffuh",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -116,7 +116,13 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922737,
+        101922725,
+        101922715,
+        101922719,
+        101922717
+    ],
     "wof:tags":[]
 },
   "bbox": [

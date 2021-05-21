@@ -90,13 +90,15 @@
         }
     ],
     "wof:id":101922905,
-    "wof:lastmodified":1621640644,
+    "wof:lastmodified":1621641379,
     "wof:name":"Khallet al Maiyya",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922875
+    ],
     "wof:tags":[]
 },
   "bbox": [

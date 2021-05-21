@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":101919787,
-    "wof:lastmodified":1621640648,
+    "wof:lastmodified":1621641402,
     "wof:name":"Al Majd",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -108,7 +108,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101919791
+    ],
     "wof:tags":[]
 },
   "bbox": [

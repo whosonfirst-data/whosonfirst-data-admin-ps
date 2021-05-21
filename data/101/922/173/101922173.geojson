@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
     "geom:area_square_m":109853.068664,
-    "geom:bbox":"35.1567878723,31.8153896332,35.161277771,31.81889534",
-    "geom:latitude":31.817094,
+    "geom:bbox":"35.156788,31.81539,35.161278,31.818895",
+    "geom:latitude":31.817095,
     "geom:longitude":35.159263,
     "gn:population":3705,
     "iso:country":"PS",
@@ -18,7 +18,7 @@
     "mps:latitude":31.817136,
     "mps:longitude":35.159306,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0633\u0648\u0631\u064a\u0643"
@@ -83,7 +83,7 @@
         "wk:page":"Beit Surik"
     },
     "wof:country":"PS",
-    "wof:geomhash":"beea6fadf9677c749ab0f779b22cbf11",
+    "wof:geomhash":"8f05f4ec308430012d911b020d1bf8be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,22 +105,24 @@
         }
     ],
     "wof:id":101922173,
-    "wof:lastmodified":1566600492,
+    "wof:lastmodified":1621641347,
     "wof:name":"Beit Surik",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",
     "wof:population":3705,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922169
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.15678787231445,
-    31.81538963317871,
-    35.16127777099609,
-    31.81889533996582
+    35.156788,
+    31.81539,
+    35.161278,
+    31.818895
 ],
-  "geometry": {"coordinates":[[[35.15678787231445,31.81637573242188],[35.15755462646484,31.81747055053711],[35.15819549560547,31.81889533996582],[35.15973663330078,31.81867599487305],[35.16127395629883,31.81769180297852],[35.16127777099609,31.81615829467773],[35.15973663330078,31.81538963317871],[35.15678787231445,31.81637573242188]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.156788,31.816376],[35.157555,31.817471],[35.158195,31.818895],[35.159737,31.818676],[35.161274,31.817692],[35.161278,31.816158],[35.159737,31.81539],[35.156788,31.816376]]],"type":"Polygon"}
 }

@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1175613187,
-    "wof:lastmodified":1621640653,
+    "wof:lastmodified":1621641427,
     "wof:name":"Furush Beit Dajan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",
@@ -104,7 +104,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101921449,
-        101921459
+        101921459,
+        1175613249
     ],
     "wof:tags":[]
 },

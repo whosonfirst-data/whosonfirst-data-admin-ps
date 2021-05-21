@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":10149.407253,
-    "geom:bbox":"34.499710083,31.5244426727,34.5013465881,31.5253391266",
+    "geom:bbox":"34.49971,31.524443,34.501347,31.525339",
     "geom:latitude":31.524879,
     "geom:longitude":34.500389,
     "gn:population":168568,
@@ -18,7 +18,7 @@
     "mps:latitude":31.524929,
     "mps:longitude":34.500321,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062c\u0628\u0627\u0644\u064a\u0627"
@@ -134,7 +134,7 @@
         "wk:page":"Jabalia"
     },
     "wof:country":"PS",
-    "wof:geomhash":"7524e95bbade4c784860201148c0b4fe",
+    "wof:geomhash":"b0c0a7930f5293ac24a41a3111fd77b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,22 +156,24 @@
         }
     ],
     "wof:id":101919705,
-    "wof:lastmodified":1566600570,
+    "wof:lastmodified":1621641356,
     "wof:name":"Jabalya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:population":168568,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.49971008300781,
-    31.52444267272949,
-    34.50134658813477,
-    31.52533912658691
+    34.49971,
+    31.524443,
+    34.501347,
+    31.525339
 ],
-  "geometry": {"coordinates":[[[34.49971008300781,31.52444267272949],[34.49983215332031,31.52525901794434],[34.49987411499023,31.52533912658691],[34.50063323974609,31.52533531188965],[34.50075149536133,31.52494430541992],[34.50129318237305,31.52493286132812],[34.50134658813477,31.5246524810791],[34.49971008300781,31.52444267272949]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.49971,31.524443],[34.499832,31.525259],[34.499874,31.525339],[34.500633,31.525335],[34.500751,31.524944],[34.501293,31.524933],[34.501347,31.524652],[34.49971,31.524443]]],"type":"Polygon"}
 }

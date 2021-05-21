@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7030.782866,
-    "geom:bbox":"35.0384635925,32.3054695129,35.0432281494,32.3073616028",
-    "geom:latitude":32.306715,
-    "geom:longitude":35.040824,
+    "geom:bbox":"35.038464,32.30547,35.043228,32.307362",
+    "geom:latitude":32.306717,
+    "geom:longitude":35.040819,
     "gn:population":44169,
     "iso:country":"PS",
     "lbl:latitude":32.306802,
@@ -18,7 +18,7 @@
     "mps:latitude":32.306802,
     "mps:longitude":35.041055,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u0644\u0643\u0631\u0645"
@@ -148,7 +148,7 @@
         "wk:page":"Tulkarm"
     },
     "wof:country":"PS",
-    "wof:geomhash":"9864bd432f80e82025008860ac85121f",
+    "wof:geomhash":"7c45658049eae83adcbbb516f1976a78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,22 +170,24 @@
         }
     ],
     "wof:id":101921207,
-    "wof:lastmodified":1566600610,
+    "wof:lastmodified":1621641384,
     "wof:name":"Tulkarm",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",
     "wof:population":44169,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921181
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.0384635925293,
-    32.30546951293945,
-    35.04322814941406,
-    32.3073616027832
+    35.038464,
+    32.30547,
+    35.043228,
+    32.307362
 ],
-  "geometry": {"coordinates":[[[35.0384635925293,32.3073616027832],[35.04132461547852,32.30686187744141],[35.04322814941406,32.30551910400391],[35.04313659667969,32.30546951293945],[35.04156112670898,32.30657958984375],[35.03852844238281,32.3072624206543],[35.0384635925293,32.3073616027832]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.038464,32.307362],[35.041325,32.306862],[35.043228,32.305519],[35.043137,32.30547],[35.041561,32.30658],[35.038528,32.307262],[35.038464,32.307362]]],"type":"Polygon"}
 }

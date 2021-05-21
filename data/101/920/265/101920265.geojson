@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":4663.294053,
-    "geom:bbox":"34.3592300415,31.3839435577,34.3605308533,31.3848323822",
+    "geom:bbox":"34.35923,31.383944,34.360531,31.384832",
     "geom:latitude":31.384412,
-    "geom:longitude":34.359921,
+    "geom:longitude":34.359922,
     "gn:population":4552,
     "iso:country":"PS",
     "lbl:latitude":31.384333,
@@ -18,7 +18,7 @@
     "mps:latitude":31.384333,
     "mps:longitude":34.360023,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f\u064a \u0627\u0644\u0633\u0644\u0642\u0627"
@@ -87,7 +87,7 @@
         "wk:page":"Wadi as-Salqa"
     },
     "wof:country":"PS",
-    "wof:geomhash":"d0c71a7d5f73c670d412e037bb36a107",
+    "wof:geomhash":"4972dea9687901f7781e5fb8380ebb3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,22 +109,24 @@
         }
     ],
     "wof:id":101920265,
-    "wof:lastmodified":1566600546,
+    "wof:lastmodified":1621641383,
     "wof:name":"Wadi as Salqa",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:population":4660,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920241
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.35923004150391,
-    31.38394355773926,
-    34.36053085327148,
-    31.38483238220215
+    34.35923,
+    31.383944,
+    34.360531,
+    31.384832
 ],
-  "geometry": {"coordinates":[[[34.36010360717773,31.38394355773926],[34.35923004150391,31.38471603393555],[34.35930252075195,31.38483238220215],[34.35947799682617,31.38471984863281],[34.35987854003906,31.38461494445801],[34.36053085327148,31.38451194763184],[34.36010360717773,31.38394355773926]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.360104,31.383944],[34.35923,31.384716],[34.359303,31.384832],[34.359478,31.38472],[34.359879,31.384615],[34.360531,31.384512],[34.360104,31.383944]]],"type":"Polygon"}
 }

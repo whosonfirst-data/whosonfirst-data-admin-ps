@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
     "geom:area_square_m":63004.886426,
-    "geom:bbox":"35.1675796509,32.3524169922,35.1710586548,32.3555641174",
-    "geom:latitude":32.353929,
+    "geom:bbox":"35.16758,32.352417,35.171059,32.355564",
+    "geom:latitude":32.353928,
     "geom:longitude":35.169288,
     "gn:population":953,
     "iso:country":"PS",
@@ -18,7 +18,7 @@
     "mps:latitude":32.353919,
     "mps:longitude":35.16917,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0627\u0645\u0629"
@@ -57,7 +57,7 @@
         "gp:id":1937300
     },
     "wof:country":"PS",
-    "wof:geomhash":"4eba0bff1850cc6fe6f1d7ac8066a559",
+    "wof:geomhash":"fc85aba855b73c3a6bc4579760ba310b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,22 +79,24 @@
         }
     ],
     "wof:id":101921119,
-    "wof:lastmodified":1566600600,
+    "wof:lastmodified":1621641431,
     "wof:name":"Ar Rama",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:population":953,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.16757965087891,
-    32.3524169921875,
-    35.17105865478516,
-    32.35556411743164
+    35.16758,
+    32.352417,
+    35.171059,
+    32.355564
 ],
-  "geometry": {"coordinates":[[[35.17105865478516,32.35330200195312],[35.16873931884766,32.3524169921875],[35.16757965087891,32.35408782958984],[35.16885375976562,32.35516738891602],[35.17024612426758,32.35556411743164],[35.17012786865234,32.35457992553711],[35.17105865478516,32.35330200195312]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.171059,32.353302],[35.168739,32.352417],[35.16758,32.354088],[35.168854,32.355167],[35.170246,32.355564],[35.170128,32.35458],[35.171059,32.353302]]],"type":"Polygon"}
 }

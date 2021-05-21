@@ -73,13 +73,16 @@
         }
     ],
     "wof:id":101920947,
-    "wof:lastmodified":1621640644,
+    "wof:lastmodified":1621641381,
     "wof:name":"Masqufet al Hajj Mas'ud",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920939,
+        101920929
+    ],
     "wof:tags":[]
 },
   "bbox": [

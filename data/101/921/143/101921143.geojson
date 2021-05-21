@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
     "geom:area_square_m":60311.572235,
-    "geom:bbox":"35.3678817749,32.3362197876,35.3703994751,32.340007782",
+    "geom:bbox":"35.367882,32.33622,35.370399,32.340008",
     "geom:latitude":32.338467,
-    "geom:longitude":35.369328,
+    "geom:longitude":35.369327,
     "gn:population":15591,
     "iso:country":"PS",
     "lbl:latitude":32.338992,
@@ -18,7 +18,7 @@
     "mps:latitude":32.338992,
     "mps:longitude":35.369477,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u0628\u0627\u0633"
@@ -187,7 +187,7 @@
         "wk:page":"Tubas"
     },
     "wof:country":"PS",
-    "wof:geomhash":"3cd525c32609e4743e22e30bd14a6e7d",
+    "wof:geomhash":"3c162c34bad3b0e39f24b8eadb9a8d47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -209,22 +209,24 @@
         }
     ],
     "wof:id":101921143,
-    "wof:lastmodified":1566600598,
+    "wof:lastmodified":1621641336,
     "wof:name":"Tubas",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",
     "wof:population":15591,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921199
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.36788177490234,
-    32.33621978759766,
-    35.37039947509766,
-    32.34000778198242
+    35.367882,
+    32.33622,
+    35.370399,
+    32.340008
 ],
-  "geometry": {"coordinates":[[[35.36797714233398,32.33827972412109],[35.36788177490234,32.339599609375],[35.37011337280273,32.34000778198242],[35.37039947509766,32.33893585205078],[35.37030029296875,32.33720779418945],[35.36913681030273,32.33621978759766],[35.36894226074219,32.33721160888672],[35.36904144287109,32.33827972412109],[35.36797714233398,32.33827972412109]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.367977,32.33828],[35.367882,32.3396],[35.370113,32.340008],[35.370399,32.338936],[35.3703,32.337208],[35.369137,32.33622],[35.368942,32.337212],[35.369041,32.33828],[35.367977,32.33828]]],"type":"Polygon"}
 }

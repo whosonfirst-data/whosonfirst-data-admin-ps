@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1175613247,
-    "wof:lastmodified":1621640651,
+    "wof:lastmodified":1621641421,
     "wof:name":"Khirbet Jubara",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",
@@ -81,7 +81,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101921313,
-        101921309
+        101921309,
+        1175613329
     ],
     "wof:tags":[]
 },

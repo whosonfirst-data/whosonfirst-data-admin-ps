@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":101921061,
-    "wof:lastmodified":1621640651,
+    "wof:lastmodified":1621641422,
     "wof:name":"Misliya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
@@ -122,7 +122,10 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101921045,
+        101921043
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":20762.288037,
-    "geom:bbox":"35.057056427,31.457983017,35.0587882996,31.4596233368",
+    "geom:bbox":"35.057056,31.457983,35.058788,31.459623",
     "geom:latitude":31.458706,
-    "geom:longitude":35.057919,
+    "geom:longitude":35.057918,
     "iso:country":"PS",
     "lbl:latitude":31.458675,
     "lbl:longitude":35.057937,
@@ -17,7 +17,7 @@
     "mps:latitude":31.458675,
     "mps:longitude":35.057937,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -49,7 +49,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"3c7cbf7595c15117c3fe0a29abed802c",
+    "wof:geomhash":"71cb1370dbf56f946b2bd9b3683ac6b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +71,22 @@
         }
     ],
     "wof:id":101922851,
-    "wof:lastmodified":1566600489,
+    "wof:lastmodified":1621641391,
     "wof:name":"Qinan an Najma",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922863
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.05705642700195,
-    31.45798301696777,
-    35.05878829956055,
-    31.45962333679199
+    35.057056,
+    31.457983,
+    35.058788,
+    31.459623
 ],
-  "geometry": {"coordinates":[[[35.05705642700195,31.45802116394043],[35.05732727050781,31.45891952514648],[35.05755615234375,31.45962333679199],[35.05842208862305,31.45946884155273],[35.05855941772461,31.45884323120117],[35.05878829956055,31.4582576751709],[35.05819702148438,31.45798301696777],[35.05705642700195,31.45802116394043]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.057056,31.458021],[35.057327,31.45892],[35.057556,31.459623],[35.058422,31.459469],[35.058559,31.458843],[35.058788,31.458258],[35.058197,31.457983],[35.057056,31.458021]]],"type":"Polygon"}
 }

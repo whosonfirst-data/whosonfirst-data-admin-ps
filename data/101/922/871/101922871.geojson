@@ -158,7 +158,7 @@
         }
     ],
     "wof:id":101922871,
-    "wof:lastmodified":1621640648,
+    "wof:lastmodified":1621641402,
     "wof:name":"Yatta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -166,7 +166,12 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922847,
+        101922865,
+        101922853,
+        101922855
+    ],
     "wof:tags":[]
 },
   "bbox": [

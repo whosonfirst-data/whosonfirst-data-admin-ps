@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":2950.830385,
-    "geom:bbox":"34.373840332,31.4011745453,34.3750076294,31.4018497467",
+    "geom:bbox":"34.37384,31.401175,34.375008,31.40185",
     "geom:latitude":31.401581,
     "geom:longitude":34.3745,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.401623,
     "mps:longitude":34.374465,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0628\u0644\u062d"
@@ -125,7 +125,7 @@
         "wd:id":"Q557383"
     },
     "wof:country":"PS",
-    "wof:geomhash":"92cb9cff351978398fe74ccdd5fb0097",
+    "wof:geomhash":"7851ffcbae7139f00f0c70f182c82e14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,22 +147,24 @@
         }
     ],
     "wof:id":101920177,
-    "wof:lastmodified":1566600550,
+    "wof:lastmodified":1621641344,
     "wof:name":"Deir al Balah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:population":49751,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.37384033203125,
-    31.40117454528809,
-    34.37500762939453,
-    31.4018497467041
+    34.37384,
+    31.401175,
+    34.375008,
+    31.40185
 ],
-  "geometry": {"coordinates":[[[34.37490844726562,31.40117454528809],[34.374267578125,31.40155601501465],[34.37384033203125,31.4018497467041],[34.37445831298828,31.40180778503418],[34.37479782104492,31.4017505645752],[34.3746337890625,31.40155410766602],[34.37500762939453,31.40135955810547],[34.37490844726562,31.40117454528809]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.374908,31.401175],[34.374268,31.401556],[34.37384,31.40185],[34.374458,31.401808],[34.374798,31.401751],[34.374634,31.401554],[34.375008,31.40136],[34.374908,31.401175]]],"type":"Polygon"}
 }

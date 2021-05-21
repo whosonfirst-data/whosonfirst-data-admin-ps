@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":70029.603062,
-    "geom:bbox":"35.3929748535,32.3273773193,35.3964653015,32.3308372498",
+    "geom:bbox":"35.392975,32.327377,35.396465,32.330837",
     "geom:latitude":32.328981,
     "geom:longitude":35.394445,
     "gn:population":2323,
@@ -18,7 +18,7 @@
     "mps:latitude":32.328948,
     "mps:longitude":35.394273,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0627\u0633\u064a\u0631"
@@ -80,7 +80,7 @@
         "wk:page":"Tayasir"
     },
     "wof:country":"PS",
-    "wof:geomhash":"6a9bdd9d0e20de8d276dceaf4771f927",
+    "wof:geomhash":"203ab824d638708c757c87eb789a5373",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,22 +102,24 @@
         }
     ],
     "wof:id":101921155,
-    "wof:lastmodified":1566600604,
+    "wof:lastmodified":1621641423,
     "wof:name":"Tayasir",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",
     "wof:population":2323,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.39297485351562,
-    32.32737731933594,
-    35.39646530151367,
-    32.33083724975586
+    35.392975,
+    32.327377,
+    35.396465,
+    32.330837
 ],
-  "geometry": {"coordinates":[[[35.39365386962891,32.32795715332031],[35.39297485351562,32.32919311523438],[35.39346313476562,32.33067321777344],[35.39462661743164,32.33083724975586],[35.39530181884766,32.32910537719727],[35.39646530151367,32.32778549194336],[35.39461898803711,32.32737731933594],[35.39365386962891,32.32795715332031]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.393654,32.327957],[35.392975,32.329193],[35.393463,32.330673],[35.394627,32.330837],[35.395302,32.329105],[35.396465,32.327785],[35.394619,32.327377],[35.393654,32.327957]]],"type":"Polygon"}
 }

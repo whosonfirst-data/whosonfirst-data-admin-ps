@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":23159.960043,
-    "geom:bbox":"35.1800575256,31.635307312,35.182598114,31.6364784241",
-    "geom:latitude":31.635838,
+    "geom:bbox":"35.180058,31.635307,35.182598,31.636478",
+    "geom:latitude":31.635837,
     "geom:longitude":35.181167,
     "gn:population":1303,
     "iso:country":"PS",
@@ -18,7 +18,7 @@
     "mps:latitude":31.635878,
     "mps:longitude":35.181168,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u062d \u0631\u0628\u0627\u062d"
@@ -71,7 +71,7 @@
         "wd:id":"Q6754648"
     },
     "wof:country":"PS",
-    "wof:geomhash":"5f81ff49883c05548061e727dfd898a5",
+    "wof:geomhash":"afe04c56ada5e94551c883eea55d08b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,22 +93,24 @@
         }
     ],
     "wof:id":101922557,
-    "wof:lastmodified":1566600479,
+    "wof:lastmodified":1621641379,
     "wof:name":"Marah Rabah",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",
     "wof:population":1303,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.18005752563477,
-    31.63530731201172,
-    35.18259811401367,
-    31.63647842407227
+    35.180058,
+    31.635307,
+    35.182598,
+    31.636478
 ],
-  "geometry": {"coordinates":[[[35.18155288696289,31.63642311096191],[35.18259811401367,31.63558769226074],[35.18194580078125,31.63530921936035],[35.18096923828125,31.63530731201172],[35.18025207519531,31.63530731201172],[35.18005752563477,31.63625526428223],[35.18070602416992,31.63647842407227],[35.18155288696289,31.63642311096191]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.181553,31.636423],[35.182598,31.635588],[35.181946,31.635309],[35.180969,31.635307],[35.180252,31.635307],[35.180058,31.636255],[35.180706,31.636478],[35.181553,31.636423]]],"type":"Polygon"}
 }

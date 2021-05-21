@@ -149,13 +149,15 @@
         }
     ],
     "wof:id":101922401,
-    "wof:lastmodified":1621640638,
+    "wof:lastmodified":1621641339,
     "wof:name":"Battir",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1175613289
+    ],
     "wof:tags":[]
 },
   "bbox": [

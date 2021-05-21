@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3923.360791,
-    "geom:bbox":"34.3757514954,31.3954715729,34.3768463135,31.3964176178",
+    "geom:bbox":"34.375751,31.395472,34.376846,31.396418",
     "geom:latitude":31.395933,
     "geom:longitude":34.376308,
     "iso:country":"PS",
@@ -17,7 +17,7 @@
     "mps:latitude":31.395927,
     "mps:longitude":34.376316,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0628\u0644\u062d"
@@ -125,7 +125,7 @@
         "wd:id":"Q557383"
     },
     "wof:country":"PS",
-    "wof:geomhash":"8c03e456cd5132cf21c91430a7b10346",
+    "wof:geomhash":"5271b0016189f3c6f888a3282cb3ddef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,22 +147,24 @@
         }
     ],
     "wof:id":101920217,
-    "wof:lastmodified":1566600524,
+    "wof:lastmodified":1621641341,
     "wof:name":"Deir al Balah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:population":49751,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.37575149536133,
-    31.39547157287598,
-    34.37684631347656,
-    31.39641761779785
+    34.375751,
+    31.395472,
+    34.376846,
+    31.396418
 ],
-  "geometry": {"coordinates":[[[34.3760871887207,31.39547157287598],[34.37575149536133,31.39569091796875],[34.37663650512695,31.39641761779785],[34.37684631347656,31.3962230682373],[34.3760871887207,31.39547157287598]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.376087,31.395472],[34.375751,31.395691],[34.376637,31.396418],[34.376846,31.396223],[34.376087,31.395472]]],"type":"Polygon"}
 }

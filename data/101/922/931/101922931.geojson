@@ -73,13 +73,29 @@
         }
     ],
     "wof:id":101922931,
-    "wof:lastmodified":1621640653,
+    "wof:lastmodified":1621641429,
     "wof:name":"Az Zuweidin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922953,
+        101922937,
+        101922889,
+        101922893,
+        101922947,
+        101922925,
+        101922913,
+        101922959,
+        101922935,
+        101922951,
+        101922877,
+        101922891,
+        101922927,
+        101922945,
+        101922943
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":1175613229,
-    "wof:lastmodified":1621640637,
+    "wof:lastmodified":1621641335,
     "wof:name":"Hebron (Al Khalil)",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -215,7 +215,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         101922757,
-        101922739
+        101922739,
+        101922721
     ],
     "wof:tags":[]
 },

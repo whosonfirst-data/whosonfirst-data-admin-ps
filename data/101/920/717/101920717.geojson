@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":2349.208404,
-    "geom:bbox":"34.2605857849,31.2611103058,34.2612876892,31.2616882324",
+    "geom:bbox":"34.260586,31.26111,34.261288,31.261688",
     "geom:latitude":31.261404,
     "geom:longitude":34.260949,
     "gn:id":"350350,6968060,281102",
@@ -18,7 +18,7 @@
     "mps:latitude":31.261395,
     "mps:longitude":34.260943,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Rafah"
@@ -215,7 +215,7 @@
         "wd:id":"Q172343"
     },
     "wof:country":"PS",
-    "wof:geomhash":"4be5bb054c4cac431b7e22fca781a523",
+    "wof:geomhash":"e6917cd21738852bbc0b6bca0dd3962f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -237,20 +237,22 @@
         }
     ],
     "wof:id":101920717,
-    "wof:lastmodified":1566600551,
+    "wof:lastmodified":1621641420,
     "wof:name":"Rafah",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.26058578491211,
-    31.26111030578613,
-    34.26128768920898,
-    31.26168823242188
+    34.260586,
+    31.26111,
+    34.261288,
+    31.261688
 ],
-  "geometry": {"coordinates":[[[34.26076889038086,31.26111030578613],[34.26058578491211,31.26145553588867],[34.26118469238281,31.26168823242188],[34.26128768920898,31.26136207580566],[34.26076889038086,31.26111030578613]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.260769,31.26111],[34.260586,31.261456],[34.261185,31.261688],[34.261288,31.261362],[34.260769,31.26111]]],"type":"Polygon"}
 }

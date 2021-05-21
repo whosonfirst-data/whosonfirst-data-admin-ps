@@ -73,13 +73,15 @@
         }
     ],
     "wof:id":101921239,
-    "wof:lastmodified":1621640648,
+    "wof:lastmodified":1621641402,
     "wof:name":"El Far'a Camp",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101921231
+    ],
     "wof:tags":[]
 },
   "bbox": [
