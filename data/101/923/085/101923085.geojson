@@ -6,17 +6,17 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":16069.005523,
-    "geom:bbox":"35.1437339783,31.3864955902,35.1452064514,31.3883895874",
-    "geom:latitude":31.387483,
-    "geom:longitude":35.14444,
+    "geom:bbox":"35.138897,31.386496,35.145206,31.390642",
+    "geom:latitude":31.387947,
+    "geom:longitude":35.143248,
     "gn:population":228,
     "iso:country":"PS",
     "lbl:latitude":31.387473,
-    "lbl:longitude":35.144429,
+    "lbl:longitude":35.144428,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":31.387473,
-    "mps:longitude":35.144429,
+    "mps:longitude":35.144428,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -38,8 +38,11 @@
     "qs:pop":0,
     "qs:source":"EGlobalMap",
     "qs:type":"Built-Up Area",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"a42d07552491b064a1245514b7be2ba6",
+    "wof:geomhash":"3c4064fd858540b3c97a462e0324110e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101923085,
-    "wof:lastmodified":1566600472,
+    "wof:lastmodified":1621640649,
     "wof:name":"Khirbet al Fakheit",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -91,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.14373397827148,
-    31.38649559020996,
-    35.14520645141602,
-    31.38838958740234
+    35.138897,
+    31.386496,
+    35.145206,
+    31.390642
 ],
-  "geometry": {"coordinates":[[[35.14426040649414,31.38649559020996],[35.14373397827148,31.38730812072754],[35.14394378662109,31.38775825500488],[35.14436340332031,31.38838958740234],[35.14520645141602,31.38784980773926],[35.14488983154297,31.38712692260742],[35.14426040649414,31.38649559020996]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[35.14426,31.386496],[35.143734,31.387308],[35.143944,31.387758],[35.144363,31.38839],[35.145206,31.38785],[35.14489,31.387127],[35.14426,31.386496]]],[[[35.141525,31.387396],[35.141842,31.388119],[35.141842,31.388479],[35.142159,31.387758],[35.141525,31.387396]]],[[[35.139214,31.38938],[35.139,31.38983],[35.138897,31.3901],[35.139107,31.390642],[35.139526,31.389469],[35.139214,31.38938]]]],"type":"MultiPolygon"}
 }

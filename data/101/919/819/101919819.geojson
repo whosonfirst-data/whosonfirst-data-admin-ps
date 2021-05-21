@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000001,
+    "geom:area":0.000004,
     "geom:area_square_m":14586.206101,
-    "geom:bbox":"34.4176521301,31.4671115875,34.4200210571,31.469329834",
-    "geom:latitude":31.468259,
-    "geom:longitude":34.418866,
+    "geom:bbox":"34.413528,31.466749,34.422775,31.46933",
+    "geom:latitude":31.467984,
+    "geom:longitude":34.418302,
     "gn:id":"6968063,7870524",
     "iso:country":"PS",
-    "lbl:latitude":31.468266,
+    "lbl:latitude":31.468265,
     "lbl:longitude":34.418866,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
-    "mps:latitude":31.468266,
+    "mps:latitude":31.468265,
     "mps:longitude":34.418866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -56,8 +56,11 @@
     "qs:pop":0,
     "qs:source":"EGlobalMap",
     "qs:type":"Built-Up Area",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":31.4675,
@@ -79,7 +82,7 @@
         "wd:id":"Q573785"
     },
     "wof:country":"PS",
-    "wof:geomhash":"9bf716f0a1320a449a8267ba086caadf",
+    "wof:geomhash":"0a9084ccede9275edd6997ceda3da22f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101919819,
-    "wof:lastmodified":1566600561,
+    "wof:lastmodified":1621640650,
     "wof:name":"Al Mughraqa",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",
@@ -113,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.41765213012695,
-    31.46711158752441,
-    34.42002105712891,
-    31.46932983398438
+    34.413528,
+    31.466749,
+    34.422775,
+    31.46933
 ],
-  "geometry": {"coordinates":[[[34.41962051391602,31.46711158752441],[34.41765213012695,31.46916770935059],[34.41820526123047,31.46932983398438],[34.42002105712891,31.46740913391113],[34.41962051391602,31.46711158752441]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[34.414577,31.466749],[34.414104,31.46752],[34.413528,31.468222],[34.413998,31.468401],[34.4142,31.468082],[34.414558,31.467581],[34.414959,31.467756],[34.415276,31.467121],[34.414577,31.466749]]],[[[34.421764,31.467159],[34.421097,31.467743],[34.422161,31.468399],[34.422775,31.467842],[34.421764,31.467159]]],[[[34.419621,31.467112],[34.417652,31.469168],[34.418205,31.46933],[34.420021,31.467409],[34.419621,31.467112]]],[[[34.417854,31.467815],[34.41687,31.468988],[34.417259,31.469151],[34.41814,31.46805],[34.417854,31.467815]]]],"type":"MultiPolygon"}
 }
