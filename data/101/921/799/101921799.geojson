@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
     "geom:area_square_m":243568.766406,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":101921799,
-    "wof:lastmodified":1621641402,
+    "wof:lastmodified":1621890982,
     "wof:name":"Al Mazra'a ash Sharqiya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

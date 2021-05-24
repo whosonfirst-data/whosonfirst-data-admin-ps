@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":73155.794673,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":101921885,
-    "wof:lastmodified":1621641335,
+    "wof:lastmodified":1621890952,
     "wof:name":"Al Mazra'a al Qibliya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

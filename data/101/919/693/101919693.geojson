@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
     "geom:area_square_m":91148.005521,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":101919693,
-    "wof:lastmodified":1621641348,
+    "wof:lastmodified":1621890957,
     "wof:name":"Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

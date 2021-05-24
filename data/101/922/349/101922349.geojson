@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":19442.241611,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":101922349,
-    "wof:lastmodified":1621641352,
+    "wof:lastmodified":1621890959,
     "wof:name":"Al 'Ubeidiya",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

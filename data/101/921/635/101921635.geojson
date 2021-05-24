@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
     "geom:area_square_m":107691.425064,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":101921635,
-    "wof:lastmodified":1621641407,
+    "wof:lastmodified":1621890985,
     "wof:name":"Qabalan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

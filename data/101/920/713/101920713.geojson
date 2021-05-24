@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":5188.415737,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":101920713,
-    "wof:lastmodified":1621641394,
+    "wof:lastmodified":1621890978,
     "wof:name":"Al Shoka",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

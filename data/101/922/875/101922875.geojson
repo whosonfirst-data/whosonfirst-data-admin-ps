@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
     "geom:area_square_m":189186.656668,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":101922875,
-    "wof:lastmodified":1621641379,
+    "wof:lastmodified":1621890972,
     "wof:name":"Khallet al Maiyya",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

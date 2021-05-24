@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":9580.643953,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":101919965,
-    "wof:lastmodified":1621641431,
+    "wof:lastmodified":1621890996,
     "wof:name":"An Nuseirat Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

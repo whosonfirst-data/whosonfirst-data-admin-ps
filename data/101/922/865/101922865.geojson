@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":96.013752,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":101922865,
-    "wof:lastmodified":1621641401,
+    "wof:lastmodified":1621890982,
     "wof:name":"Yatta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

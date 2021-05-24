@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
     "geom:area_square_m":168753.53645,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":101919539,
-    "wof:lastmodified":1621641410,
+    "wof:lastmodified":1621890986,
     "wof:name":"Beit Lahiya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

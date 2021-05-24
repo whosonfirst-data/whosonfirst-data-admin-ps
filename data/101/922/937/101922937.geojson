@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":8502.633881,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":101922937,
-    "wof:lastmodified":1621641428,
+    "wof:lastmodified":1621890994,
     "wof:name":"Az Zuweidin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
     "geom:area_square_m":67681.352918,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":101921477,
-    "wof:lastmodified":1621641352,
+    "wof:lastmodified":1621890959,
     "wof:name":"Kafr Qalil",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

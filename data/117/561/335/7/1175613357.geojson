@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
     "geom:area_square_m":248828.81514,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1175613357,
-    "wof:lastmodified":1621641378,
+    "wof:lastmodified":1621890971,
     "wof:name":"'Asira ash Shamaliya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
     "geom:area_square_m":230409.445866,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":101922603,
-    "wof:lastmodified":1621641345,
+    "wof:lastmodified":1621890956,
     "wof:name":"Hitta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

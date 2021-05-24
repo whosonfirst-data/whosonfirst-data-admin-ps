@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":49.335464,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":101922715,
-    "wof:lastmodified":1621641399,
+    "wof:lastmodified":1621890980,
     "wof:name":"Taffuh",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

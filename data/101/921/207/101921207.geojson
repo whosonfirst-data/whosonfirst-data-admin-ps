@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7030.782866,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":101921207,
-    "wof:lastmodified":1621641384,
+    "wof:lastmodified":1621890974,
     "wof:name":"Tulkarm",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

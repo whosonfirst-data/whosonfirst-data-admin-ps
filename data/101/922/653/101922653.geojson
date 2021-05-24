@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
     "geom:area_square_m":187243.429883,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":101922653,
-    "wof:lastmodified":1621641353,
+    "wof:lastmodified":1621890960,
     "wof:name":"Halhul",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

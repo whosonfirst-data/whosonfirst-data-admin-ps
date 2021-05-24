@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":48816.685819,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":101922917,
-    "wof:lastmodified":1621641424,
+    "wof:lastmodified":1621890992,
     "wof:name":"Rabud",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

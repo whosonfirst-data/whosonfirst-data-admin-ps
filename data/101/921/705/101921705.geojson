@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
     "geom:area_square_m":200819.074983,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":101921705,
-    "wof:lastmodified":1621641335,
+    "wof:lastmodified":1621890952,
     "wof:name":"Bruqin",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

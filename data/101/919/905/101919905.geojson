@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":33518.335974,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":101919905,
-    "wof:lastmodified":1621641393,
+    "wof:lastmodified":1621890978,
     "wof:name":"Al Burj",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

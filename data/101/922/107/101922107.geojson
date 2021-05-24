@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":387.678556,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":101922107,
-    "wof:lastmodified":1621641412,
+    "wof:lastmodified":1621890987,
     "wof:name":"Beit Hanina",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

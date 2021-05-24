@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":5904.301505,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":101920465,
-    "wof:lastmodified":1621641370,
+    "wof:lastmodified":1621890967,
     "wof:name":"Bani Suheila",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

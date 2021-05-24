@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":15329.095591,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":101922043,
-    "wof:lastmodified":1621641367,
+    "wof:lastmodified":1621890966,
     "wof:name":"Jericho (Ariha)",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

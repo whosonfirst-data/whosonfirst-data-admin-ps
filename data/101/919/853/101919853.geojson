@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":4569.399533,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":101919853,
-    "wof:lastmodified":1621641405,
+    "wof:lastmodified":1621890984,
     "wof:name":"Beit Mirsim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

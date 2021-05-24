@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":12500.211715,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":101920543,
-    "wof:lastmodified":1621641421,
+    "wof:lastmodified":1621890991,
     "wof:name":"Khuza'a",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

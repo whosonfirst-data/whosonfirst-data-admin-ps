@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
     "geom:area_square_m":106101.381147,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":101922787,
-    "wof:lastmodified":1621641357,
+    "wof:lastmodified":1621890962,
     "wof:name":"Dura",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

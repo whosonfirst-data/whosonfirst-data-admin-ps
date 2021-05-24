@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":56535.856301,
@@ -237,7 +238,7 @@
         }
     ],
     "wof:id":101920615,
-    "wof:lastmodified":1621641418,
+    "wof:lastmodified":1621890990,
     "wof:name":"Rafah",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

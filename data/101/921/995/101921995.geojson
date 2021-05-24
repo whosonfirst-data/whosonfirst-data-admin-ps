@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
     "geom:area_square_m":41796.860122,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":101921995,
-    "wof:lastmodified":1621641422,
+    "wof:lastmodified":1621890991,
     "wof:name":"An Nuwei'ma",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

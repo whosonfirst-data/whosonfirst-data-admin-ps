@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
     "geom:area_square_m":124953.630558,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":101919629,
-    "wof:lastmodified":1621641355,
+    "wof:lastmodified":1621890960,
     "wof:name":"Jabalya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

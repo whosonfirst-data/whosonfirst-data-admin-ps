@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":20381.532356,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":101922995,
-    "wof:lastmodified":1621641378,
+    "wof:lastmodified":1621890971,
     "wof:name":"Khashem al Karem",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":5813.533181,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":101919837,
-    "wof:lastmodified":1621641430,
+    "wof:lastmodified":1621890995,
     "wof:name":"Beit ar Rush at Tahta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

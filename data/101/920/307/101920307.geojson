@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":17783.186468,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":101920307,
-    "wof:lastmodified":1621641388,
+    "wof:lastmodified":1621890975,
     "wof:name":"Al Qarara",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

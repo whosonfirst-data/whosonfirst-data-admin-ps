@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":33646.739522,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":101921735,
-    "wof:lastmodified":1621641353,
+    "wof:lastmodified":1621890959,
     "wof:name":"Mazari' an Nubani (Bani Zeid ash S",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
     "geom:area_square_m":58567.118767,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":101922545,
-    "wof:lastmodified":1621641373,
+    "wof:lastmodified":1621890969,
     "wof:name":"Jurat ash Sham'a",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
     "geom:area_square_m":249377.751384,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1175613289,
-    "wof:lastmodified":1621641339,
+    "wof:lastmodified":1621890954,
     "wof:name":"Battir",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

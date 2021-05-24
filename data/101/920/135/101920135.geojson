@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":22887.0417,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":101920135,
-    "wof:lastmodified":1621641390,
+    "wof:lastmodified":1621890976,
     "wof:name":"Adh Dhahiriya",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

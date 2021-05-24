@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":76676.43716,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":101920759,
-    "wof:lastmodified":1621641346,
+    "wof:lastmodified":1621890957,
     "wof:name":"Al Jalama",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

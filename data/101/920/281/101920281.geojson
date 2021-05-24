@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3302.762202,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":101920281,
-    "wof:lastmodified":1621641381,
+    "wof:lastmodified":1621890973,
     "wof:name":"Wadi as Salqa",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

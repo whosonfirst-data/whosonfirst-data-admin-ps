@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":49561.958904,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":101921681,
-    "wof:lastmodified":1621641398,
+    "wof:lastmodified":1621890980,
     "wof:name":"As Sawiya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":31597.859229,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":101921023,
-    "wof:lastmodified":1621641421,
+    "wof:lastmodified":1621890991,
     "wof:name":"Telfit",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

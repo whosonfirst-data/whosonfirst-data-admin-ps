@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":13123.606718,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":101919943,
-    "wof:lastmodified":1621641377,
+    "wof:lastmodified":1621890970,
     "wof:name":"Az Zawayda",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

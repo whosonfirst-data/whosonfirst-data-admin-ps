@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
     "geom:area_square_m":848532.515093,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":101921073,
-    "wof:lastmodified":1621641399,
+    "wof:lastmodified":1621890981,
     "wof:name":"Zeita",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

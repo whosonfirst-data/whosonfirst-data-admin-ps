@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
     "geom:area_square_m":139941.668204,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":101922765,
-    "wof:lastmodified":1621641389,
+    "wof:lastmodified":1621890976,
     "wof:name":"Bani Na'im",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

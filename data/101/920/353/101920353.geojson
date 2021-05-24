@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":21254.63639,
@@ -252,7 +253,7 @@
         }
     ],
     "wof:id":101920353,
-    "wof:lastmodified":1621641384,
+    "wof:lastmodified":1621890974,
     "wof:name":"Khan Yunis",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

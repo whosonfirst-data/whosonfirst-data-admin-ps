@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":1567.50418,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":101919593,
-    "wof:lastmodified":1621641378,
+    "wof:lastmodified":1621890971,
     "wof:name":"'Izbat Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

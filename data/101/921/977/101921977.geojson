@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":28384.852453,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":101921977,
-    "wof:lastmodified":1621641334,
+    "wof:lastmodified":1621890951,
     "wof:name":"Al Bira",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

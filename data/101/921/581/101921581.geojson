@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":47939.484258,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":101921581,
-    "wof:lastmodified":1621641345,
+    "wof:lastmodified":1621890956,
     "wof:name":"Jamma'in",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

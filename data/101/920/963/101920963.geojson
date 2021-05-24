@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000011,
     "geom:area_square_m":118982.897408,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":101920963,
-    "wof:lastmodified":1621641404,
+    "wof:lastmodified":1621890983,
     "wof:name":"Bir al Basha",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
