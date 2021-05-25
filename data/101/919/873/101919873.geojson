@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":17004.657465,
-    "geom:bbox":"34.3808097839,31.4504795074,34.3831291199,31.4518241882",
+    "geom:bbox":"34.38081,31.45048,34.383129,31.451824",
     "geom:latitude":31.451212,
     "geom:longitude":34.382059,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.451204,
     "mps:longitude":34.382076,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +49,7 @@
         "gp:id":56125659
     },
     "wof:country":"PS",
-    "wof:geomhash":"c8e0ee2e47d198ffdc440f298140caec",
+    "wof:geomhash":"cb49390714e32432e889f2a27fa881e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +71,22 @@
         }
     ],
     "wof:id":101919873,
-    "wof:lastmodified":1566600560,
+    "wof:lastmodified":1621890996,
     "wof:name":"An Nuseirat Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.38080978393555,
-    31.45047950744629,
-    34.38312911987305,
-    31.45182418823242
+    34.38081,
+    31.45048,
+    34.383129,
+    31.451824
 ],
-  "geometry": {"coordinates":[[[34.38206100463867,31.45047950744629],[34.38153457641602,31.45104598999023],[34.38114929199219,31.45095062255859],[34.38080978393555,31.45139122009277],[34.38254165649414,31.45182418823242],[34.38312911987305,31.45111656188965],[34.38206100463867,31.45047950744629]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.382061,31.45048],[34.381535,31.451046],[34.381149,31.450951],[34.38081,31.451391],[34.382542,31.451824],[34.383129,31.451117],[34.382061,31.45048]]],"type":"Polygon"}
 }

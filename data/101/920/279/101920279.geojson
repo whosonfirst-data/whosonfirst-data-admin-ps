@@ -6,16 +6,16 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":27417.218848,
-    "geom:bbox":"34.3580245972,31.3799152374,34.3608055115,31.3809185028",
-    "geom:latitude":31.380411,
-    "geom:longitude":34.359423,
+    "geom:bbox":"34.358025,31.379915,34.364967,31.382324",
+    "geom:latitude":31.380683,
+    "geom:longitude":34.360547,
     "iso:country":"PS",
     "lbl:latitude":31.380422,
-    "lbl:longitude":34.359423,
+    "lbl:longitude":34.359424,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":31.380422,
-    "mps:longitude":34.359423,
+    "mps:longitude":34.359424,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
@@ -31,8 +31,11 @@
     "qs:pop":0,
     "qs:source":"EGlobalMap",
     "qs:type":"Built-Up Area",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681213,
@@ -48,7 +51,10 @@
         "gp:id":1979600
     },
     "wof:country":"PS",
-    "wof:geomhash":"69654a5cceb3a5fa017d47bcd4df1e38",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"13ac6b4789dee719749ce1d01635c672",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +76,22 @@
         }
     ],
     "wof:id":101920279,
-    "wof:lastmodified":1566600541,
+    "wof:lastmodified":1621974950,
     "wof:name":"An Nuseirat Camp",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101920277
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    34.35802459716797,
-    31.37991523742676,
-    34.36080551147461,
-    31.38091850280762
+    34.358025,
+    31.379915,
+    34.364967,
+    31.382324
 ],
-  "geometry": {"coordinates":[[[34.36080551147461,31.37991523742676],[34.35907745361328,31.37993049621582],[34.35805130004883,31.37997055053711],[34.35802459716797,31.38081169128418],[34.35918045043945,31.38091850280762],[34.36068344116211,31.38090896606445],[34.36080551147461,31.37991523742676]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[34.360806,31.379915],[34.359077,31.37993],[34.358051,31.379971],[34.358025,31.380812],[34.35918,31.380919],[34.360683,31.380909],[34.360806,31.379915]]],[[[34.364315,31.381144],[34.363968,31.381231],[34.363842,31.381353],[34.36438,31.381805],[34.364502,31.382324],[34.364967,31.382223],[34.36488,31.381872],[34.364922,31.381456],[34.364677,31.38117],[34.364315,31.381144]]]],"type":"MultiPolygon"}
 }

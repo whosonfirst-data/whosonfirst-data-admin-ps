@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":73155.794673,
-    "geom:bbox":"35.1532058716,31.9537181854,35.1576538086,31.9563312531",
+    "geom:bbox":"35.153206,31.953718,35.157654,31.956331",
     "geom:latitude":31.954894,
     "geom:longitude":35.155044,
     "gn:population":6107,
@@ -18,7 +19,7 @@
     "mps:latitude":31.955085,
     "mps:longitude":35.15478,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -52,7 +53,7 @@
         "qs_pg:id":547115
     },
     "wof:country":"PS",
-    "wof:geomhash":"6a9fbc6a98760c2bdda30cb908f9d9fc",
+    "wof:geomhash":"c3ec6058322add8c5743c41a03ce5334",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,22 +75,24 @@
         }
     ],
     "wof:id":101921885,
-    "wof:lastmodified":1566600607,
+    "wof:lastmodified":1621890952,
     "wof:name":"Al Mazra'a al Qibliya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",
     "wof:population":6107,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921889
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.15320587158203,
-    31.9537181854248,
-    35.15765380859375,
-    31.95633125305176
+    35.153206,
+    31.953718,
+    35.157654,
+    31.956331
 ],
-  "geometry": {"coordinates":[[[35.15765380859375,31.95447731018066],[35.15656661987305,31.95388793945312],[35.15538024902344,31.95413970947266],[35.15419387817383,31.9537181854248],[35.15320587158203,31.95396995544434],[35.15340042114258,31.95540428161621],[35.15448760986328,31.95633125305176],[35.15616989135742,31.95582580566406],[35.15656661987305,31.95489883422852],[35.15765380859375,31.95447731018066]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.157654,31.954477],[35.156567,31.953888],[35.15538,31.95414],[35.154194,31.953718],[35.153206,31.95397],[35.1534,31.955404],[35.154488,31.956331],[35.15617,31.955826],[35.156567,31.954899],[35.157654,31.954477]]],"type":"Polygon"}
 }

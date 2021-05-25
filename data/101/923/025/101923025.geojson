@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":13108.687021,
-    "geom:bbox":"35.1282730103,31.3969497681,35.1298484802,31.3981227875",
+    "geom:bbox":"35.128273,31.39695,35.129848,31.398123",
     "geom:latitude":31.397493,
     "geom:longitude":35.128997,
     "gn:population":452,
@@ -18,7 +19,7 @@
     "mps:latitude":31.397536,
     "mps:longitude":35.128983,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -51,7 +52,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"a6e52fc41e7368cd272641a2ab5fb5c7",
+    "wof:geomhash":"f9c6aefce709db018775ea93d930ec27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,22 +74,24 @@
         }
     ],
     "wof:id":101923025,
-    "wof:lastmodified":1566600471,
+    "wof:lastmodified":1621890995,
     "wof:name":"Ma'in",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":452,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922985
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.12827301025391,
-    31.39694976806641,
-    35.12984848022461,
-    31.39812278747559
+    35.128273,
+    31.39695,
+    35.129848,
+    31.398123
 ],
-  "geometry": {"coordinates":[[[35.12921905517578,31.39694976806641],[35.12858581542969,31.39703941345215],[35.12827301025391,31.39703941345215],[35.12837600708008,31.39758110046387],[35.12858581542969,31.39803123474121],[35.12921524047852,31.39812278747559],[35.12984848022461,31.39731025695801],[35.12921905517578,31.39694976806641]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.129219,31.39695],[35.128586,31.397039],[35.128273,31.397039],[35.128376,31.397581],[35.128586,31.398031],[35.129215,31.398123],[35.129848,31.39731],[35.129219,31.39695]]],"type":"Polygon"}
 }

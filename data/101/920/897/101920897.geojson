@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":14.424418,
-    "geom:bbox":"35.1415519714,32.4534683228,35.1416358948,32.453540802",
+    "geom:bbox":"35.141552,32.453468,35.141636,32.453541",
     "geom:latitude":32.453517,
     "geom:longitude":35.141595,
     "gn:population":907,
@@ -18,7 +19,7 @@
     "mps:latitude":32.453677,
     "mps:longitude":35.141769,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u0631\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
@@ -77,7 +78,7 @@
         "wk:page":"Tura al-Gharbiya"
     },
     "wof:country":"PS",
-    "wof:geomhash":"1f707f33676b44868a77aec785f36f54",
+    "wof:geomhash":"3a261cd516731df8ddf61266a1341208",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,22 +100,24 @@
         }
     ],
     "wof:id":101920897,
-    "wof:lastmodified":1566600549,
+    "wof:lastmodified":1621890988,
     "wof:name":"Tura al Gharbiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:population":907,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1175613365
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.14155197143555,
-    32.45346832275391,
-    35.14163589477539,
-    32.45354080200195
+    35.141552,
+    32.453468,
+    35.141636,
+    32.453541
 ],
-  "geometry": {"coordinates":[[[35.14163589477539,32.45354080200195],[35.14155197143555,32.45346832275391],[35.14159774780273,32.45354080200195],[35.14163589477539,32.45354080200195]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.141636,32.453541],[35.141552,32.453468],[35.141598,32.453541],[35.141636,32.453541]]],"type":"Polygon"}
 }

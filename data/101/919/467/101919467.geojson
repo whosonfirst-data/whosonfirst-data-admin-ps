@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":4289.824419,
-    "geom:bbox":"34.9994163513,31.5787563324,35.0,31.5797958374",
+    "geom:bbox":"34.999416,31.578756,35.0,31.579796",
     "geom:latitude":31.579313,
     "geom:longitude":34.999775,
     "gn:population":14202,
@@ -18,7 +19,7 @@
     "mps:latitude":31.579361,
     "mps:longitude":34.999754,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0642\u0648\u0645\u064a\u0627"
@@ -89,7 +90,7 @@
         "wk:page":"Tarqumiyah"
     },
     "wof:country":"PS",
-    "wof:geomhash":"19b16dd70ddf9c6adef3b46d6ed8943f",
+    "wof:geomhash":"2e956dbe2e7d8688542bd76b892a353b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,22 +112,24 @@
         }
     ],
     "wof:id":101919467,
-    "wof:lastmodified":1566600575,
+    "wof:lastmodified":1621890963,
     "wof:name":"Tarqumiya",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":14202,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922685
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.99941635131836,
-    31.57875633239746,
+    34.999416,
+    31.578756,
     35.0,
-    31.57979583740234
+    31.579796
 ],
-  "geometry": {"coordinates":[[[35.0,31.57979583740234],[35.0,31.57875633239746],[34.99964141845703,31.57892417907715],[34.99941635131836,31.57960891723633],[35.0,31.57979583740234]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.0,31.579796],[35.0,31.578756],[34.999641,31.578924],[34.999416,31.579609],[35.0,31.579796]]],"type":"Polygon"}
 }

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":5157.149988,
-    "geom:bbox":"34.3807563782,31.4014644623,34.3821144104,31.4022636414",
+    "geom:bbox":"34.380756,31.401464,34.382114,31.402264",
     "geom:latitude":31.401831,
     "geom:longitude":34.381482,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.401935,
     "mps:longitude":34.381585,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0628\u0644\u062d"
@@ -125,7 +126,7 @@
         "wd:id":"Q557383"
     },
     "wof:country":"PS",
-    "wof:geomhash":"60ca800622aa9e11c77961317d2bada4",
+    "wof:geomhash":"00a0e0434f1e17086798eea20f5af22a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,22 +148,24 @@
         }
     ],
     "wof:id":101920173,
-    "wof:lastmodified":1566600531,
+    "wof:lastmodified":1621890955,
     "wof:name":"Deir al Balah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:population":49751,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.38075637817383,
-    31.40146446228027,
-    34.38211441040039,
-    31.40226364135742
+    34.380756,
+    31.401464,
+    34.382114,
+    31.402264
 ],
-  "geometry": {"coordinates":[[[34.38181304931641,31.40146446228027],[34.3813591003418,31.40180969238281],[34.38103866577148,31.40152168273926],[34.38075637817383,31.40170097351074],[34.38111114501953,31.40201950073242],[34.38121795654297,31.40195465087891],[34.38154983520508,31.40226364135742],[34.38211441040039,31.40174674987793],[34.38181304931641,31.40146446228027]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.381813,31.401464],[34.381359,31.40181],[34.381039,31.401522],[34.380756,31.401701],[34.381111,31.40202],[34.381218,31.401955],[34.38155,31.402264],[34.382114,31.401747],[34.381813,31.401464]]],"type":"Polygon"}
 }

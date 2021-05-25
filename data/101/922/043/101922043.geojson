@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":15329.095591,
-    "geom:bbox":"35.4877319336,31.857793808,35.489944458,31.8594207764",
+    "geom:bbox":"35.487732,31.857794,35.489944,31.859421",
     "geom:latitude":31.858501,
     "geom:longitude":35.488882,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.858462,
     "mps:longitude":35.488881,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +49,7 @@
         "gp:id":56122789
     },
     "wof:country":"PS",
-    "wof:geomhash":"83b811e3b5d5b601251dcfb74178cb53",
+    "wof:geomhash":"7522795a6b2f002090b0c376fe21f645",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +71,22 @@
         }
     ],
     "wof:id":101922043,
-    "wof:lastmodified":1566600503,
+    "wof:lastmodified":1621890966,
     "wof:name":"Jericho (Ariha)",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.48773193359375,
-    31.8577938079834,
-    35.48994445800781,
-    31.85942077636719
+    35.487732,
+    31.857794,
+    35.489944,
+    31.859421
 ],
-  "geometry": {"coordinates":[[[35.48941421508789,31.8577938079834],[35.48825454711914,31.85833740234375],[35.48773193359375,31.85942077636719],[35.48857498168945,31.85896873474121],[35.48952484130859,31.85869598388672],[35.48994445800781,31.85806274414062],[35.48941421508789,31.8577938079834]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.489414,31.857794],[35.488255,31.858337],[35.487732,31.859421],[35.488575,31.858969],[35.489525,31.858696],[35.489944,31.858063],[35.489414,31.857794]]],"type":"Polygon"}
 }

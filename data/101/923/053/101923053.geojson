@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":9903.369203,
-    "geom:bbox":"35.1566619873,31.3930854797,35.1575012207,31.3948001862",
+    "geom:bbox":"35.156662,31.393085,35.157501,31.3948",
     "geom:latitude":31.39406,
     "geom:longitude":35.157066,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.394091,
     "mps:longitude":35.157098,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +49,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"dcd1f5440c2a30eea5f611ca1b8ce9ea",
+    "wof:geomhash":"d26bd7bfe4cd27087f1afcc39a2c12e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +71,22 @@
         }
     ],
     "wof:id":101923053,
-    "wof:lastmodified":1566600472,
+    "wof:lastmodified":1621890992,
     "wof:name":"Khirbet al Maq'ura",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923045
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.15666198730469,
-    31.39308547973633,
-    35.15750122070312,
-    31.39480018615723
+    35.156662,
+    31.393085,
+    35.157501,
+    31.3948
 ],
-  "geometry": {"coordinates":[[[35.15697860717773,31.39308547973633],[35.1568717956543,31.3931770324707],[35.1568717956543,31.39362716674805],[35.15666198730469,31.39425849914551],[35.15666198730469,31.39480018615723],[35.15739822387695,31.39461898803711],[35.15750122070312,31.39380836486816],[35.15697860717773,31.39308547973633]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.156979,31.393085],[35.156872,31.393177],[35.156872,31.393627],[35.156662,31.394258],[35.156662,31.3948],[35.157398,31.394619],[35.157501,31.393808],[35.156979,31.393085]]],"type":"Polygon"}
 }

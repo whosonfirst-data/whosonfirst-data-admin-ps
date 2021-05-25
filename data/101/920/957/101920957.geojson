@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":16980.282946,
-    "geom:bbox":"35.3673591614,32.4265403748,35.3693351746,32.4279518127",
+    "geom:bbox":"35.367359,32.42654,35.369335,32.427952",
     "geom:latitude":32.427239,
     "geom:longitude":35.368199,
     "gn:population":1968,
@@ -18,7 +19,7 @@
     "mps:latitude":32.427286,
     "mps:longitude":35.368184,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0644\u0642\u0645\u0648\u0633"
@@ -75,7 +76,7 @@
         "wk:page":"Jalqamus"
     },
     "wof:country":"PS",
-    "wof:geomhash":"efa729bc6bb34a9cbe1f1e21f20077a9",
+    "wof:geomhash":"7e1e40553d8f8fc485caf1a8d08d7daa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,22 +98,24 @@
         }
     ],
     "wof:id":101920957,
-    "wof:lastmodified":1566600535,
+    "wof:lastmodified":1621890979,
     "wof:name":"Jalqamus",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:population":1968,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920969
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.36735916137695,
-    32.42654037475586,
-    35.36933517456055,
-    32.42795181274414
+    35.367359,
+    32.42654,
+    35.369335,
+    32.427952
 ],
-  "geometry": {"coordinates":[[[35.36746215820312,32.42654037475586],[35.36735916137695,32.42751312255859],[35.36850357055664,32.42795181274414],[35.36933517456055,32.42706680297852],[35.36746215820312,32.42654037475586]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.367462,32.42654],[35.367359,32.427513],[35.368504,32.427952],[35.369335,32.427067],[35.367462,32.42654]]],"type":"Polygon"}
 }

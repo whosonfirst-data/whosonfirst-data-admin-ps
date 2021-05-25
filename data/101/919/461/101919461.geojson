@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":895.437117,
-    "geom:bbox":"34.9997329712,31.608505249,35.0,31.6089763641",
+    "geom:bbox":"34.999733,31.608505,35.0,31.608976",
     "geom:latitude":31.608784,
-    "geom:longitude":34.99989,
+    "geom:longitude":34.999891,
     "iso:country":"PS",
     "lbl:latitude":31.608798,
     "lbl:longitude":34.999876,
@@ -17,7 +18,7 @@
     "mps:latitude":31.608798,
     "mps:longitude":34.999876,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u064a\u0644\u0629"
@@ -66,7 +67,7 @@
         "wd:id":"Q7267724"
     },
     "wof:country":"PS",
-    "wof:geomhash":"77cde0e1f0d95cf88c5d0a21ccada75b",
+    "wof:geomhash":"b173f1ad69a4025e26e2d89585d394da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,20 +89,22 @@
         }
     ],
     "wof:id":101919461,
-    "wof:lastmodified":1566600576,
+    "wof:lastmodified":1621890993,
     "wof:name":"Qila",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.99973297119141,
-    31.60850524902344,
+    34.999733,
+    31.608505,
     35.0,
-    31.60897636413574
+    31.608976
 ],
-  "geometry": {"coordinates":[[[35.0,31.60897636413574],[35.0,31.60850524902344],[34.99991989135742,31.60857772827148],[34.99973297119141,31.60876083374023],[34.99975967407227,31.60894393920898],[35.0,31.60897636413574]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.0,31.608976],[35.0,31.608505],[34.99992,31.608578],[34.999733,31.608761],[34.99976,31.608944],[35.0,31.608976]]],"type":"Polygon"}
 }

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":96.013752,
-    "geom:bbox":"35.1203804016,31.4527702332,35.1209068298,31.4529075623",
+    "geom:bbox":"35.12038,31.45277,35.120907,31.452908",
     "geom:latitude":31.452833,
     "geom:longitude":35.120577,
     "gn:population":41425,
@@ -18,7 +19,7 @@
     "mps:latitude":31.452807,
     "mps:longitude":35.120456,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u064a\u0637\u0627"
@@ -122,7 +123,7 @@
         "wk:page":"Yatta, Hebron"
     },
     "wof:country":"PS",
-    "wof:geomhash":"c08cc1f8d4a5a62a5cd58bd125c54cc0",
+    "wof:geomhash":"b5acb53819f28c94ff943e70e507928a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,22 +145,24 @@
         }
     ],
     "wof:id":101922865,
-    "wof:lastmodified":1566600506,
+    "wof:lastmodified":1621890982,
     "wof:name":"Yatta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":41425,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922871
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.12038040161133,
-    31.4527702331543,
-    35.12090682983398,
-    31.45290756225586
+    35.12038,
+    31.45277,
+    35.120907,
+    31.452908
 ],
-  "geometry": {"coordinates":[[[35.12038040161133,31.4527702331543],[35.12044525146484,31.45282173156738],[35.12090682983398,31.45290756225586],[35.12038040161133,31.4527702331543]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.12038,31.45277],[35.120445,31.452822],[35.120907,31.452908],[35.12038,31.45277]]],"type":"Polygon"}
 }

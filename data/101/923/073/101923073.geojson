@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":6360.538064,
-    "geom:bbox":"35.1262779236,31.3902740479,35.1276473999,31.3909950256",
+    "geom:bbox":"35.126278,31.390274,35.127647,31.390995",
     "geom:latitude":31.390634,
     "geom:longitude":35.126955,
     "gn:population":117,
@@ -18,7 +19,7 @@
     "mps:latitude":31.39067,
     "mps:longitude":35.126967,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0628\u064a\u0631 \u0627\u0644\u0639\u062f"
@@ -57,7 +58,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"487f6de47fbe026b846ed70aa3f71ea6",
+    "wof:geomhash":"d4aefaada1420f6a5763fc990c1f08e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,22 +80,24 @@
         }
     ],
     "wof:id":101923073,
-    "wof:lastmodified":1566600474,
+    "wof:lastmodified":1621890983,
     "wof:name":"Khirbet Bir al 'Idd",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":117,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923069
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.12627792358398,
-    31.39027404785156,
-    35.12764739990234,
-    31.39099502563477
+    35.126278,
+    31.390274,
+    35.127647,
+    31.390995
 ],
-  "geometry": {"coordinates":[[[35.12628173828125,31.39027404785156],[35.12627792358398,31.39063453674316],[35.12712097167969,31.39099502563477],[35.12764739990234,31.39081573486328],[35.12764739990234,31.39054489135742],[35.12628173828125,31.39027404785156]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.126282,31.390274],[35.126278,31.390635],[35.127121,31.390995],[35.127647,31.390816],[35.127647,31.390545],[35.126282,31.390274]]],"type":"Polygon"}
 }

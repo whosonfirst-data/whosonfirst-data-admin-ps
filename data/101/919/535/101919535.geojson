@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":1597.912323,
-    "geom:bbox":"34.4851074219,31.5476150513,34.4856948853,31.5481338501",
+    "geom:bbox":"34.485107,31.547615,34.485695,31.548134",
     "geom:latitude":31.547861,
     "geom:longitude":34.485387,
     "gn:population":56919,
@@ -18,7 +19,7 @@
     "mps:latitude":31.547848,
     "mps:longitude":34.485387,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u0627\u0647\u064a\u0627"
@@ -129,7 +130,7 @@
         "wk:page":"Beit Lahia"
     },
     "wof:country":"PS",
-    "wof:geomhash":"26029d97065d8987ec5fe3ca9b52dad1",
+    "wof:geomhash":"05fce78331a6f8c4f8cf5354471f2a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,22 +152,24 @@
         }
     ],
     "wof:id":101919535,
-    "wof:lastmodified":1566600558,
+    "wof:lastmodified":1621890985,
     "wof:name":"Beit Lahiya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:population":59540,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.485107421875,
-    31.54761505126953,
-    34.48569488525391,
-    31.54813385009766
+    34.485107,
+    31.547615,
+    34.485695,
+    31.548134
 ],
-  "geometry": {"coordinates":[[[34.4853630065918,31.54761505126953],[34.485107421875,31.54794502258301],[34.48535537719727,31.54813385009766],[34.48569488525391,31.54774856567383],[34.4853630065918,31.54761505126953]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.485363,31.547615],[34.485107,31.547945],[34.485355,31.548134],[34.485695,31.547749],[34.485363,31.547615]]],"type":"Polygon"}
 }

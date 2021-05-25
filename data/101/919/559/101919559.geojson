@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":1537.756825,
-    "geom:bbox":"34.5276908875,31.5457057953,34.5282859802,31.54621315",
+    "geom:bbox":"34.527691,31.545706,34.528286,31.546213",
     "geom:latitude":31.545959,
     "geom:longitude":34.527961,
     "gn:population":37392,
@@ -18,7 +19,7 @@
     "mps:latitude":31.54598,
     "mps:longitude":34.527996,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062d\u0627\u0646\u0648\u0646"
@@ -137,7 +138,7 @@
         "wk:page":"Beit Hanoun"
     },
     "wof:country":"PS",
-    "wof:geomhash":"f9a96b27d50715cf7a703da3531429cd",
+    "wof:geomhash":"a15a65da2ab8a1aa67e85942db05ab13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,22 +160,24 @@
         }
     ],
     "wof:id":101919559,
-    "wof:lastmodified":1566600557,
+    "wof:lastmodified":1621890957,
     "wof:name":"Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:population":37392,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.52769088745117,
-    31.54570579528809,
-    34.52828598022461,
-    31.54621315002441
+    34.527691,
+    31.545706,
+    34.528286,
+    31.546213
 ],
-  "geometry": {"coordinates":[[[34.52785873413086,31.54570579528809],[34.52769088745117,31.54584693908691],[34.52785491943359,31.5460147857666],[34.52778244018555,31.5461254119873],[34.52782440185547,31.54614067077637],[34.52791976928711,31.54621315002441],[34.52828598022461,31.54598426818848],[34.52785873413086,31.54570579528809]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.527859,31.545706],[34.527691,31.545847],[34.527855,31.546015],[34.527782,31.546125],[34.527824,31.546141],[34.52792,31.546213],[34.528286,31.545984],[34.527859,31.545706]]],"type":"Polygon"}
 }

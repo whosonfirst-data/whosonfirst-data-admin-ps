@@ -3,11 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":15054.384409,
-    "geom:bbox":"34.3274726868,31.3505516052,34.3296966553,31.3520565033",
-    "geom:latitude":31.351328,
+    "geom:bbox":"34.327473,31.350552,34.329697,31.352057",
+    "geom:latitude":31.351329,
     "geom:longitude":34.328621,
     "gn:population":31272,
     "iso:country":"PS",
@@ -18,7 +19,7 @@
     "mps:latitude":31.351413,
     "mps:longitude":34.328788,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u0647\u064a\u0644\u0627"
@@ -120,7 +121,7 @@
         "wk:page":"Bani Suheila"
     },
     "wof:country":"PS",
-    "wof:geomhash":"ea1aef32bfca9606776f64b8461c399e",
+    "wof:geomhash":"5d03fb227564fd2f26900e98eb94dcde",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -142,22 +143,24 @@
         }
     ],
     "wof:id":101920379,
-    "wof:lastmodified":1566600530,
+    "wof:lastmodified":1621890967,
     "wof:name":"Bani Suheila",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:population":31272,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920409
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.32747268676758,
-    31.35055160522461,
-    34.32969665527344,
-    31.3520565032959
+    34.327473,
+    31.350552,
+    34.329697,
+    31.352057
 ],
-  "geometry": {"coordinates":[[[34.32925796508789,31.35055160522461],[34.32826995849609,31.35132026672363],[34.32797622680664,31.35104370117188],[34.32753372192383,31.35140228271484],[34.32747268676758,31.35148048400879],[34.32815933227539,31.3520565032959],[34.32841873168945,31.35170364379883],[34.32891845703125,31.35184478759766],[34.32969665527344,31.35083198547363],[34.32925796508789,31.35055160522461]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.329258,31.350552],[34.32827,31.35132],[34.327976,31.351044],[34.327534,31.351402],[34.327473,31.35148],[34.328159,31.352057],[34.328419,31.351704],[34.328918,31.351845],[34.329697,31.350832],[34.329258,31.350552]]],"type":"Polygon"}
 }

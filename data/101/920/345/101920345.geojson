@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":8608.348763,
-    "geom:bbox":"34.9205627441,31.357175827,34.9218254089,31.3583469391",
+    "geom:bbox":"34.920563,31.357176,34.921825,31.358347",
     "geom:latitude":31.357776,
     "geom:longitude":34.92113,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.357761,
     "mps:longitude":34.921122,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -46,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"PS",
-    "wof:geomhash":"784a09024a12b6482c1eebedb88c4081",
+    "wof:geomhash":"28f1937bd4e06d0afed4dbbcdcc25ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +69,22 @@
         }
     ],
     "wof:id":101920345,
-    "wof:lastmodified":1566600550,
+    "wof:lastmodified":1621890960,
     "wof:name":"'Arab al Fureijat",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920361
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.92056274414062,
-    31.35717582702637,
-    34.92182540893555,
-    31.35834693908691
+    34.920563,
+    31.357176,
+    34.921825,
+    31.358347
 ],
-  "geometry": {"coordinates":[[[34.92140579223633,31.35717582702637],[34.92066955566406,31.35762596130371],[34.92056274414062,31.3581657409668],[34.9206657409668,31.35834693908691],[34.92108917236328,31.35825729370117],[34.92182540893555,31.35762786865234],[34.92140579223633,31.35717582702637]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.921406,31.357176],[34.92067,31.357626],[34.920563,31.358166],[34.920666,31.358347],[34.921089,31.358257],[34.921825,31.357628],[34.921406,31.357176]]],"type":"Polygon"}
 }

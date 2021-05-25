@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":25640.067856,
-    "geom:bbox":"34.3225326538,31.2846488953,34.3262023926,31.2864894867",
+    "geom:bbox":"34.322533,31.284649,34.326202,31.286489",
     "geom:latitude":31.285565,
     "geom:longitude":34.324389,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.285571,
     "mps:longitude":34.324389,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u062e\u0627\u0631\u064a"
@@ -77,7 +78,7 @@
         "wd:id":"Q4702406"
     },
     "wof:country":"PS",
-    "wof:geomhash":"00d1c3e8cfeddd18700c9c92f6c45904",
+    "wof:geomhash":"d90957b2a8c6df19ca77026f68b7294a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,20 +100,22 @@
         }
     ],
     "wof:id":101920657,
-    "wof:lastmodified":1566600530,
+    "wof:lastmodified":1621890981,
     "wof:name":"Al Fukhari",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920643
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.32253265380859,
-    31.28464889526367,
-    34.32620239257812,
-    31.28648948669434
+    34.322533,
+    31.284649,
+    34.326202,
+    31.286489
 ],
-  "geometry": {"coordinates":[[[34.32281494140625,31.28464889526367],[34.32253265380859,31.28519439697266],[34.32575607299805,31.28648948669434],[34.32620239257812,31.28584098815918],[34.32281494140625,31.28464889526367]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.322815,31.284649],[34.322533,31.285194],[34.325756,31.286489],[34.326202,31.285841],[34.322815,31.284649]]],"type":"Polygon"}
 }

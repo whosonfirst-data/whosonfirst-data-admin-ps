@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000001,
+    "geom:area":0.000002,
     "geom:area_square_m":10170.396842,
-    "geom:bbox":"35.158870697,31.3938083649,35.1607627869,31.3948020935",
-    "geom:latitude":31.394374,
-    "geom:longitude":35.159862,
+    "geom:bbox":"35.156662,31.393085,35.16444,31.395885",
+    "geom:latitude":31.394462,
+    "geom:longitude":35.159658,
     "iso:country":"PS",
     "lbl:latitude":31.394383,
-    "lbl:longitude":35.160007,
+    "lbl:longitude":35.160006,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":31.394383,
-    "mps:longitude":35.160007,
+    "mps:longitude":35.160006,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
@@ -31,8 +31,11 @@
     "qs:pop":0,
     "qs:source":"EGlobalMap",
     "qs:type":"Built-Up Area",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681427,
@@ -48,7 +51,10 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"6ce6b10707c111daab0cf6fa63b0dc4e",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"cc4b96cc9e87d8da809a549aeec76ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +76,23 @@
         }
     ],
     "wof:id":101923045,
-    "wof:lastmodified":1566600473,
+    "wof:lastmodified":1621974943,
     "wof:name":"Khirbet al Maq'ura",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101923053,
+        101923043
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    35.15887069702148,
-    31.39380836486816,
-    35.16076278686523,
-    31.39480209350586
+    35.156662,
+    31.393085,
+    35.16444,
+    31.395885
 ],
-  "geometry": {"coordinates":[[[35.15887069702148,31.39380836486816],[35.15918350219727,31.39452934265137],[35.15981674194336,31.39471054077148],[35.16055297851562,31.39480209350586],[35.16076278686523,31.39443969726562],[35.16012954711914,31.39398956298828],[35.15960693359375,31.39416885375977],[35.15887069702148,31.39380836486816]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[35.156979,31.393085],[35.156872,31.393177],[35.156872,31.393627],[35.156662,31.394258],[35.156662,31.3948],[35.157398,31.394619],[35.157501,31.393808],[35.156979,31.393085]]],[[[35.158871,31.393808],[35.159184,31.394529],[35.159817,31.394711],[35.160553,31.394802],[35.160763,31.39444],[35.16013,31.39399],[35.159607,31.394169],[35.158871,31.393808]]],[[[35.163704,31.394894],[35.163284,31.395615],[35.163601,31.395885],[35.16444,31.394983],[35.163704,31.394894]]]],"type":"MultiPolygon"}
 }

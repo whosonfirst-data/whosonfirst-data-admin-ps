@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":2015.935918,
-    "geom:bbox":"34.4126739502,31.4297275543,34.4134483337,31.4301433563",
+    "geom:bbox":"34.412674,31.429728,34.413448,31.430143",
     "geom:latitude":31.429931,
     "geom:longitude":34.413065,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.429914,
     "mps:longitude":34.413065,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -46,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"PS",
-    "wof:geomhash":"46e0252e2737db8f2df3771ef1cd203c",
+    "wof:geomhash":"60fdcb148f3dfea3db0b82ce1d3d250f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +69,22 @@
         }
     ],
     "wof:id":101920001,
-    "wof:lastmodified":1566600530,
+    "wof:lastmodified":1621890979,
     "wof:name":"Al Bureij Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919981
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.41267395019531,
-    31.42972755432129,
-    34.41344833374023,
-    31.43014335632324
+    34.412674,
+    31.429728,
+    34.413448,
+    31.430143
 ],
-  "geometry": {"coordinates":[[[34.41324615478516,31.42972755432129],[34.41267395019531,31.42985534667969],[34.4128303527832,31.43014335632324],[34.41289138793945,31.43010711669922],[34.41321563720703,31.43001937866211],[34.41330718994141,31.43012619018555],[34.41344833374023,31.42998123168945],[34.41324615478516,31.42972755432129]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.413246,31.429728],[34.412674,31.429855],[34.41283,31.430143],[34.412891,31.430107],[34.413216,31.430019],[34.413307,31.430126],[34.413448,31.429981],[34.413246,31.429728]]],"type":"Polygon"}
 }

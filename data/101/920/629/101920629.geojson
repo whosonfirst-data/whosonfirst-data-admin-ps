@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":20489.240636,
-    "geom:bbox":"34.3035583496,31.2899875641,34.3052024841,31.2916183472",
+    "geom:bbox":"34.303558,31.289988,34.305202,31.291618",
     "geom:latitude":31.29084,
     "geom:longitude":34.304347,
     "gn:population":6211,
@@ -18,7 +19,7 @@
     "mps:latitude":31.290842,
     "mps:longitude":34.304347,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0648\u0643"
@@ -83,7 +84,7 @@
         "wd:id":"Q59624"
     },
     "wof:country":"PS",
-    "wof:geomhash":"ebd53a09911733a192882341cbbe76f1",
+    "wof:geomhash":"65b7342b70e3bb60042b79c72f636930",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,22 +106,24 @@
         }
     ],
     "wof:id":101920629,
-    "wof:lastmodified":1566600525,
+    "wof:lastmodified":1621890987,
     "wof:name":"Al Bayuk",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",
     "wof:population":6211,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920673
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.30355834960938,
-    31.28998756408691,
-    34.30520248413086,
-    31.29161834716797
+    34.303558,
+    31.289988,
+    34.305202,
+    31.291618
 ],
-  "geometry": {"coordinates":[[[34.30367660522461,31.28998756408691],[34.30355834960938,31.29134559631348],[34.30501174926758,31.29161834716797],[34.30520248413086,31.29044914245605],[34.30367660522461,31.28998756408691]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.303677,31.289988],[34.303558,31.291346],[34.305012,31.291618],[34.305202,31.290449],[34.303677,31.289988]]],"type":"Polygon"}
 }

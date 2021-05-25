@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
     "geom:area_square_m":105151.177152,
-    "geom:bbox":"35.4759979248,32.1440010071,35.4808692932,32.1473808289",
+    "geom:bbox":"35.475998,32.144001,35.480869,32.147381",
     "geom:latitude":32.145597,
     "geom:longitude":35.478356,
     "gn:population":3666,
@@ -18,7 +19,7 @@
     "mps:latitude":32.145554,
     "mps:longitude":35.478356,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0641\u062a\u0644\u0643"
@@ -77,7 +78,7 @@
         "wk:page":"Al-Jiftlik"
     },
     "wof:country":"PS",
-    "wof:geomhash":"ff19c9b26bd6035a2b8872636bc50bd1",
+    "wof:geomhash":"9d1ab389305ac4434e2b8d68ede02a34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,22 +100,24 @@
         }
     ],
     "wof:id":101921561,
-    "wof:lastmodified":1566600585,
+    "wof:lastmodified":1621890982,
     "wof:name":"Al Jiftlik",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",
     "wof:population":3666,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921547
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.47599792480469,
-    32.14400100708008,
-    35.48086929321289,
-    32.14738082885742
+    35.475998,
+    32.144001,
+    35.480869,
+    32.147381
 ],
-  "geometry": {"coordinates":[[[35.47599792480469,32.14564514160156],[35.47622680664062,32.14670562744141],[35.47713470458984,32.14738082885742],[35.48019409179688,32.1461181640625],[35.48086929321289,32.14447784423828],[35.47916793823242,32.14400100708008],[35.47780990600586,32.14438629150391],[35.47724151611328,32.144775390625],[35.47599792480469,32.14564514160156]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.475998,32.145645],[35.476227,32.146706],[35.477135,32.147381],[35.480194,32.146118],[35.480869,32.144478],[35.479168,32.144001],[35.47781,32.144386],[35.477242,32.144775],[35.475998,32.145645]]],"type":"Polygon"}
 }

@@ -3,11 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":62.177444,
-    "geom:bbox":"35.0483512878,31.5526695251,35.0485572815,31.5530166626",
-    "geom:latitude":31.552879,
+    "geom:bbox":"35.048351,31.55267,35.048557,31.553017",
+    "geom:latitude":31.55288,
     "geom:longitude":35.048444,
     "gn:population":9480,
     "iso:country":"PS",
@@ -18,7 +19,7 @@
     "mps:latitude":31.552929,
     "mps:longitude":35.048419,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0641\u0648\u062d"
@@ -80,7 +81,7 @@
         "wk:page":"Taffuh"
     },
     "wof:country":"PS",
-    "wof:geomhash":"be46fcea62fae96b2dceb960309e0962",
+    "wof:geomhash":"4fd2a9b579a7bb545eca28e1d323c92f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,22 +103,24 @@
         }
     ],
     "wof:id":101922725,
-    "wof:lastmodified":1566600491,
+    "wof:lastmodified":1621890980,
     "wof:name":"Taffuh",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":9480,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.0483512878418,
-    31.55266952514648,
-    35.04855728149414,
-    31.55301666259766
+    35.048351,
+    31.55267,
+    35.048557,
+    31.553017
 ],
-  "geometry": {"coordinates":[[[35.0483512878418,31.55301666259766],[35.04842376708984,31.55295181274414],[35.04855728149414,31.55266952514648],[35.0483512878418,31.55301666259766]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.048351,31.553017],[35.048424,31.552952],[35.048557,31.55267],[35.048351,31.553017]]],"type":"Polygon"}
 }

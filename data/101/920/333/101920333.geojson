@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":2180.063195,
-    "geom:bbox":"34.3271141052,31.3620090485,34.32787323,31.3625526428",
+    "geom:bbox":"34.327114,31.362009,34.327873,31.362553",
     "geom:latitude":31.362287,
-    "geom:longitude":34.327474,
+    "geom:longitude":34.327473,
     "gn:population":173183,
     "iso:country":"PS",
     "lbl:latitude":31.36228,
@@ -18,7 +19,7 @@
     "mps:latitude":31.36228,
     "mps:longitude":34.327467,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u0646 \u064a\u0648\u0646\u0633"
@@ -230,7 +231,7 @@
         "wk:page":"Khan Yunis"
     },
     "wof:country":"PS",
-    "wof:geomhash":"885f33ea4b49293b0f8ad4f0964cfc7e",
+    "wof:geomhash":"aca9f582e2f79f607769e992dcdaf4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -252,22 +253,24 @@
         }
     ],
     "wof:id":101920333,
-    "wof:lastmodified":1566600539,
+    "wof:lastmodified":1621890975,
     "wof:name":"Khan Yunis",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:population":173183,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920355
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.32711410522461,
-    31.36200904846191,
-    34.32787322998047,
-    31.36255264282227
+    34.327114,
+    31.362009,
+    34.327873,
+    31.362553
 ],
-  "geometry": {"coordinates":[[[34.32746887207031,31.36200904846191],[34.32711410522461,31.36229705810547],[34.327392578125,31.36255264282227],[34.32787322998047,31.36230087280273],[34.32746887207031,31.36200904846191]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.327469,31.362009],[34.327114,31.362297],[34.327393,31.362553],[34.327873,31.362301],[34.327469,31.362009]]],"type":"Polygon"}
 }

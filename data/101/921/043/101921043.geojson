@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":52072.920096,
-    "geom:bbox":"35.2909469604,32.3871765137,35.2941398621,32.389289856",
+    "geom:bbox":"35.290947,32.387177,35.29414,32.38929",
     "geom:latitude":32.388225,
     "geom:longitude":35.292599,
     "gn:population":2187,
@@ -18,7 +19,7 @@
     "mps:latitude":32.388208,
     "mps:longitude":35.292599,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0633\u0644\u064a\u0629"
@@ -87,7 +88,7 @@
         "wk:page":"Misilyah"
     },
     "wof:country":"PS",
-    "wof:geomhash":"4449c4eb109a86fd58dc6fd7fe566acd",
+    "wof:geomhash":"c9c3a8d8581a379055c978de0329b56a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,22 +110,24 @@
         }
     ],
     "wof:id":101921043,
-    "wof:lastmodified":1566600608,
+    "wof:lastmodified":1621890991,
     "wof:name":"Misliya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:population":2187,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921061
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.29094696044922,
-    32.38717651367188,
-    35.29413986206055,
-    32.38928985595703
+    35.290947,
+    32.387177,
+    35.29414,
+    32.38929
 ],
-  "geometry": {"coordinates":[[[35.29094696044922,32.38745498657227],[35.2912712097168,32.38814163208008],[35.29159545898438,32.38919830322266],[35.29230117797852,32.38928985595703],[35.29300308227539,32.38910675048828],[35.29403305053711,32.38906097412109],[35.29413986206055,32.38791275024414],[35.29305648803711,32.38726806640625],[35.29240798950195,32.38717651367188],[35.29094696044922,32.38745498657227]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.290947,32.387455],[35.291271,32.388142],[35.291595,32.389198],[35.292301,32.38929],[35.293003,32.389107],[35.294033,32.389061],[35.29414,32.387913],[35.293056,32.387268],[35.292408,32.387177],[35.290947,32.387455]]],"type":"Polygon"}
 }

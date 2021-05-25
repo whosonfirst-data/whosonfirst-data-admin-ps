@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":8594.016736,
-    "geom:bbox":"34.3578643799,31.422372818,34.3594245911,31.4233474731",
+    "geom:bbox":"34.357864,31.422373,34.359425,31.423347",
     "geom:latitude":31.422885,
     "geom:longitude":34.358638,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.422814,
     "mps:longitude":34.358756,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0628\u0644\u062d"
@@ -126,7 +127,7 @@
         "wd:id":"Q557383"
     },
     "wof:country":"PS",
-    "wof:geomhash":"a31910e26e08eb1b5b1fb7cc400beac7",
+    "wof:geomhash":"50dd86ef39a8e7da8fc89ffc8cb28ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,22 +149,24 @@
         }
     ],
     "wof:id":101920067,
-    "wof:lastmodified":1566600548,
+    "wof:lastmodified":1621890956,
     "wof:name":"Deir al Balah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:population":49751,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.35786437988281,
-    31.42237281799316,
-    34.35942459106445,
-    31.42334747314453
+    34.357864,
+    31.422373,
+    34.359425,
+    31.423347
 ],
-  "geometry": {"coordinates":[[[34.35870742797852,31.42237281799316],[34.35786437988281,31.42293739318848],[34.35831451416016,31.42334747314453],[34.35837554931641,31.42334175109863],[34.35867691040039,31.42317581176758],[34.35883331298828,31.42327308654785],[34.35915374755859,31.42305564880371],[34.35942459106445,31.42281913757324],[34.35870742797852,31.42237281799316]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.358707,31.422373],[34.357864,31.422937],[34.358315,31.423347],[34.358376,31.423342],[34.358677,31.423176],[34.358833,31.423273],[34.359154,31.423056],[34.359425,31.422819],[34.358707,31.422373]]],"type":"Polygon"}
 }

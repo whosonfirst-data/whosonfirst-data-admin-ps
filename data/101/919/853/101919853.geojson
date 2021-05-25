@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":4569.399533,
-    "geom:bbox":"34.9134941101,31.4564609528,34.9143829346,31.4571342468",
+    "geom:bbox":"34.913494,31.456461,34.914383,31.457134",
     "geom:latitude":31.45677,
     "geom:longitude":34.913919,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.456798,
     "mps:longitude":34.913883,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tell Beit Mirsim"
@@ -62,7 +63,7 @@
         "wd:id":"Q2402197"
     },
     "wof:country":"PS",
-    "wof:geomhash":"e989c1f936009abbfab8c35902453826",
+    "wof:geomhash":"3a0972923e7e2e303dbbe926f6c7f5fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,20 +74,22 @@
         }
     ],
     "wof:id":101919853,
-    "wof:lastmodified":1566600575,
+    "wof:lastmodified":1621890984,
     "wof:name":"Beit Mirsim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.91349411010742,
-    31.45646095275879,
-    34.91438293457031,
-    31.45713424682617
+    34.913494,
+    31.456461,
+    34.914383,
+    31.457134
 ],
-  "geometry": {"coordinates":[[[34.91351699829102,31.45657730102539],[34.91351699829102,31.45676231384277],[34.91349411010742,31.45699882507324],[34.91398620605469,31.45713424682617],[34.91412353515625,31.45698356628418],[34.91436004638672,31.4567813873291],[34.91438293457031,31.45652961730957],[34.91400909423828,31.45646095275879],[34.91351699829102,31.45657730102539]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.913517,31.456577],[34.913517,31.456762],[34.913494,31.456999],[34.913986,31.457134],[34.914124,31.456984],[34.91436,31.456781],[34.914383,31.45653],[34.914009,31.456461],[34.913517,31.456577]]],"type":"Polygon"}
 }

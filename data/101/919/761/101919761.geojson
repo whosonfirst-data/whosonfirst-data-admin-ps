@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":16388.039815,
-    "geom:bbox":"34.4873275757,31.4975013733,34.489112854,31.4991512299",
+    "geom:bbox":"34.487328,31.497501,34.489113,31.499151",
     "geom:latitude":31.498301,
-    "geom:longitude":34.488188,
+    "geom:longitude":34.488189,
     "gn:population":410000,
     "iso:country":"PS",
     "lbl:latitude":31.498297,
@@ -18,7 +19,7 @@
     "mps:latitude":31.498297,
     "mps:longitude":34.488188,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Gaza"
@@ -361,7 +362,7 @@
         "wd:id":"Q47492"
     },
     "wof:country":"PS",
-    "wof:geomhash":"9194991a5435def2708fec6b4d01c366",
+    "wof:geomhash":"c62826785fbb9cd606298d249878691f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -383,22 +384,24 @@
         }
     ],
     "wof:id":101919761,
-    "wof:lastmodified":1566600572,
+    "wof:lastmodified":1621890993,
     "wof:name":"Gaza",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",
     "wof:population":410000,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919639
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.48732757568359,
-    31.49750137329102,
-    34.48911285400391,
-    31.4991512298584
+    34.487328,
+    31.497501,
+    34.489113,
+    31.499151
 ],
-  "geometry": {"coordinates":[[[34.48847198486328,31.49750137329102],[34.48732757568359,31.49811553955078],[34.48784255981445,31.4991512298584],[34.48911285400391,31.49837493896484],[34.48847198486328,31.49750137329102]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.488472,31.497501],[34.487328,31.498116],[34.487843,31.499151],[34.489113,31.498375],[34.488472,31.497501]]],"type":"Polygon"}
 }

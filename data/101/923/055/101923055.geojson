@@ -3,11 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":2348.498062,
-    "geom:bbox":"35.1449928284,31.3928108215,35.1459388733,31.3933506012",
-    "geom:latitude":31.393131,
+    "geom:bbox":"35.144993,31.392811,35.145939,31.393351",
+    "geom:latitude":31.393132,
     "geom:longitude":35.145488,
     "iso:country":"PS",
     "lbl:latitude":31.393103,
@@ -17,7 +18,7 @@
     "mps:latitude":31.393103,
     "mps:longitude":35.145495,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -49,7 +50,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"19ff212e27bb2dd70a612d1c4d2a36b7",
+    "wof:geomhash":"29ebaee8bce78a831571cd0359efbd51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +72,22 @@
         }
     ],
     "wof:id":101923055,
-    "wof:lastmodified":1566600472,
+    "wof:lastmodified":1621890977,
     "wof:name":"Khirbet at Tabban",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.14499282836914,
-    31.3928108215332,
-    35.14593887329102,
-    31.39335060119629
+    35.144993,
+    31.392811,
+    35.145939,
+    31.393351
 ],
-  "geometry": {"coordinates":[[[35.1455192565918,31.3928108215332],[35.14499282836914,31.39326095581055],[35.14530563354492,31.39326095581055],[35.14593887329102,31.39335060119629],[35.1455192565918,31.3928108215332]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.145519,31.392811],[35.144993,31.393261],[35.145306,31.393261],[35.145939,31.393351],[35.145519,31.392811]]],"type":"Polygon"}
 }

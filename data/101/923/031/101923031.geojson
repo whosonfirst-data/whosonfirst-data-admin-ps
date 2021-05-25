@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":2902.174271,
-    "geom:bbox":"35.2175369263,31.3964347839,35.2182731628,31.3972473145",
+    "geom:bbox":"35.217537,31.396435,35.218273,31.397247",
     "geom:latitude":31.39681,
     "geom:longitude":35.217928,
     "gn:population":179,
@@ -18,7 +19,7 @@
     "mps:latitude":31.39687,
     "mps:longitude":35.217878,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -52,7 +53,7 @@
         "qs_pg:id":744098
     },
     "wof:country":"PS",
-    "wof:geomhash":"b01a929c918a7829c5dbd5d749a06071",
+    "wof:geomhash":"7268f3a5695eb0805f13c5043922f9ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,22 +75,24 @@
         }
     ],
     "wof:id":101923031,
-    "wof:lastmodified":1566600472,
+    "wof:lastmodified":1621890956,
     "wof:name":"Khirbet Tawil ash Shih",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":179,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923087
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.21753692626953,
-    31.39643478393555,
-    35.2182731628418,
-    31.39724731445312
+    35.217537,
+    31.396435,
+    35.218273,
+    31.397247
 ],
-  "geometry": {"coordinates":[[[35.2182731628418,31.39643478393555],[35.21806335449219,31.39643478393555],[35.21753692626953,31.39688682556152],[35.21795654296875,31.39724731445312],[35.2182731628418,31.39643478393555]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.218273,31.396435],[35.218063,31.396435],[35.217537,31.396887],[35.217957,31.397247],[35.218273,31.396435]]],"type":"Polygon"}
 }

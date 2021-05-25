@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":8333.619147,
-    "geom:bbox":"34.2665901184,31.2544727325,34.2685089111,31.2567424774",
+    "geom:bbox":"34.26659,31.254473,34.268509,31.256742",
     "geom:latitude":31.255644,
-    "geom:longitude":34.267524,
+    "geom:longitude":34.267525,
     "gn:id":"350350,6968060,281102",
     "iso:country":"PS",
     "lbl:latitude":31.255648,
@@ -18,7 +19,7 @@
     "mps:latitude":31.255648,
     "mps:longitude":34.26751,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Rafah"
@@ -215,7 +216,7 @@
         "wd:id":"Q172343"
     },
     "wof:country":"PS",
-    "wof:geomhash":"108db8c3dbffbcecd426ed3fc472e8d3",
+    "wof:geomhash":"fa50f6fd8cf444a6e59960c7e0939d83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -237,20 +238,22 @@
         }
     ],
     "wof:id":101920733,
-    "wof:lastmodified":1566600536,
+    "wof:lastmodified":1621890989,
     "wof:name":"Rafah",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.2665901184082,
-    31.25447273254395,
-    34.26850891113281,
-    31.25674247741699
+    34.26659,
+    31.254473,
+    34.268509,
+    31.256742
 ],
-  "geometry": {"coordinates":[[[34.26834487915039,31.25447273254395],[34.26754760742188,31.25537490844727],[34.26703262329102,31.2559757232666],[34.2665901184082,31.25655555725098],[34.26686477661133,31.25674247741699],[34.26736450195312,31.25606727600098],[34.26789093017578,31.25537872314453],[34.26850891113281,31.25473403930664],[34.26834487915039,31.25447273254395]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.268345,31.254473],[34.267548,31.255375],[34.267033,31.255976],[34.26659,31.256556],[34.266865,31.256742],[34.267365,31.256067],[34.267891,31.255379],[34.268509,31.254734],[34.268345,31.254473]]],"type":"Polygon"}
 }

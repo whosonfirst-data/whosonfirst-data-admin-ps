@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":5904.301505,
-    "geom:bbox":"34.3247871399,31.3290405273,34.3261680603,31.3299884796",
+    "geom:bbox":"34.324787,31.329041,34.326168,31.329988",
     "geom:latitude":31.329492,
     "geom:longitude":34.325512,
     "gn:population":31272,
@@ -18,7 +19,7 @@
     "mps:latitude":31.329495,
     "mps:longitude":34.325513,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u0647\u064a\u0644\u0627"
@@ -125,7 +126,7 @@
         "wk:page":"Bani Suheila"
     },
     "wof:country":"PS",
-    "wof:geomhash":"e4c9c59c1fe04723e8c34191a098ae1f",
+    "wof:geomhash":"103a748c1a9f40f0563c020eddf94e9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,22 +148,24 @@
         }
     ],
     "wof:id":101920465,
-    "wof:lastmodified":1566600530,
+    "wof:lastmodified":1621890967,
     "wof:name":"Bani Suheila",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:population":31272,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920409
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.32478713989258,
-    31.32904052734375,
-    34.32616806030273,
-    31.32998847961426
+    34.324787,
+    31.329041,
+    34.326168,
+    31.329988
 ],
-  "geometry": {"coordinates":[[[34.32509613037109,31.32904052734375],[34.32478713989258,31.32932472229004],[34.32592391967773,31.32998847961426],[34.32616806030273,31.32955551147461],[34.32509613037109,31.32904052734375]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.325096,31.329041],[34.324787,31.329325],[34.325924,31.329988],[34.326168,31.329556],[34.325096,31.329041]]],"type":"Polygon"}
 }

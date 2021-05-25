@@ -1,0 +1,18 @@
+{
+  "id": 101920523,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"quattroshapes",
+    "src:geom":"quattroshapes",
+    "wof:geomhash":"d3c92606dd713557bb4d30c314faff0b",
+    "wof:id":101920523,
+    "wof:repo":"whosonfirst-data-admin-ps"
+},
+  "bbox": [
+    34.309635,
+    31.311356,
+    34.31216,
+    31.312735
+],
+  "geometry": {"coordinates":[[[34.309635,31.311356],[34.309635,31.311615],[34.309639,31.311892],[34.310921,31.312275],[34.312099,31.312735],[34.31216,31.312113],[34.310955,31.311731],[34.309635,31.311356]]],"type":"Polygon"}
+}

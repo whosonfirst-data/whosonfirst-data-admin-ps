@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":689.077849,
-    "geom:bbox":"35.2238807678,31.8782043457,35.2249412537,31.8785457611",
+    "geom:bbox":"35.223881,31.878204,35.224941,31.878546",
     "geom:latitude":31.878375,
     "geom:longitude":35.224284,
     "gn:id":"285108,8052424",
@@ -18,7 +19,7 @@
     "mps:latitude":31.878395,
     "mps:longitude":35.224191,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0631\u0629"
@@ -145,7 +146,7 @@
         "wd:id":"Q311326"
     },
     "wof:country":"PS",
-    "wof:geomhash":"e09315a175cdd31f1daa9b87f18cd057",
+    "wof:geomhash":"3bcee257d268a87acec94c4aac4c7d83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,20 +168,22 @@
         }
     ],
     "wof:id":101922005,
-    "wof:lastmodified":1566600508,
+    "wof:lastmodified":1621890951,
     "wof:name":"Al Bira",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921975
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.22388076782227,
-    31.87820434570312,
-    35.22494125366211,
-    31.8785457611084
+    35.223881,
+    31.878204,
+    35.224941,
+    31.878546
 ],
-  "geometry": {"coordinates":[[[35.22388076782227,31.8785457611084],[35.22494125366211,31.87820434570312],[35.22402954101562,31.87837409973145],[35.22388076782227,31.8785457611084]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.223881,31.878546],[35.224941,31.878204],[35.22403,31.878374],[35.223881,31.878546]]],"type":"Polygon"}
 }

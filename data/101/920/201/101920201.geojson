@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3321.703168,
-    "geom:bbox":"34.3784446716,31.3987884521,34.3793296814,31.3995075226",
+    "geom:bbox":"34.378445,31.398788,34.37933,31.399508",
     "geom:latitude":31.399151,
-    "geom:longitude":34.378884,
+    "geom:longitude":34.378885,
     "iso:country":"PS",
     "lbl:latitude":31.399154,
     "lbl:longitude":34.378889,
@@ -17,7 +18,7 @@
     "mps:latitude":31.399154,
     "mps:longitude":34.378889,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0628\u0644\u062d"
@@ -125,7 +126,7 @@
         "wd:id":"Q557383"
     },
     "wof:country":"PS",
-    "wof:geomhash":"f5399ccffbc53f6d91bdf09981e136c1",
+    "wof:geomhash":"e5fb6fd5496fa559a439326076af56e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,22 +148,24 @@
         }
     ],
     "wof:id":101920201,
-    "wof:lastmodified":1566600547,
+    "wof:lastmodified":1621890956,
     "wof:name":"Deir al Balah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:population":49751,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.37844467163086,
-    31.39878845214844,
-    34.37932968139648,
-    31.39950752258301
+    34.378445,
+    31.398788,
+    34.37933,
+    31.399508
 ],
-  "geometry": {"coordinates":[[[34.37878036499023,31.39878845214844],[34.37844467163086,31.39913940429688],[34.37898254394531,31.39950752258301],[34.37932968139648,31.39917373657227],[34.37878036499023,31.39878845214844]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.37878,31.398788],[34.378445,31.399139],[34.378983,31.399508],[34.37933,31.399174],[34.37878,31.398788]]],"type":"Polygon"}
 }

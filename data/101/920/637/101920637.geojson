@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":9418.164158,
-    "geom:bbox":"34.2731704712,31.2894535065,34.2746315002,31.2905464172",
+    "geom:bbox":"34.27317,31.289454,34.274632,31.290546",
     "geom:latitude":31.290007,
     "geom:longitude":34.273857,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.290018,
     "mps:longitude":34.273858,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +49,7 @@
         "gp:id":1979609
     },
     "wof:country":"PS",
-    "wof:geomhash":"fccd0b5abc52f4c8a726d814fe3b78da",
+    "wof:geomhash":"a069ec7199049bcf25a194de6c5d39db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +71,22 @@
         }
     ],
     "wof:id":101920637,
-    "wof:lastmodified":1566600546,
+    "wof:lastmodified":1621890971,
     "wof:name":"Khirbt Al 'Adass",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.27317047119141,
-    31.28945350646973,
-    34.27463150024414,
-    31.29054641723633
+    34.27317,
+    31.289454,
+    34.274632,
+    31.290546
 ],
-  "geometry": {"coordinates":[[[34.27331161499023,31.28945350646973],[34.27317047119141,31.29012489318848],[34.27429580688477,31.29054641723633],[34.27463150024414,31.28993606567383],[34.27331161499023,31.28945350646973]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.273312,31.289454],[34.27317,31.290125],[34.274296,31.290546],[34.274632,31.289936],[34.273312,31.289454]]],"type":"Polygon"}
 }

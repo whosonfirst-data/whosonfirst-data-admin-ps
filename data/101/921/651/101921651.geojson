@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":70156.267846,
-    "geom:bbox":"35.2732925415,32.1015892029,35.2811393738,32.1032600403",
+    "geom:bbox":"35.273293,32.101589,35.281139,32.10326",
     "geom:latitude":32.102496,
-    "geom:longitude":35.277073,
+    "geom:longitude":35.277074,
     "gn:population":7043,
     "iso:country":"PS",
     "lbl:latitude":32.102516,
@@ -18,7 +19,7 @@
     "mps:latitude":32.102516,
     "mps:longitude":35.27746,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0628\u0644\u0627\u0646"
@@ -77,7 +78,7 @@
         "wk:page":"Qabalan"
     },
     "wof:country":"PS",
-    "wof:geomhash":"67f6bb6e12acc2646ae386bd4f55eedb",
+    "wof:geomhash":"b8048e5d0587df972cc28e6d7f081e68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,22 +100,24 @@
         }
     ],
     "wof:id":101921651,
-    "wof:lastmodified":1566600592,
+    "wof:lastmodified":1621890984,
     "wof:name":"Qabalan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",
     "wof:population":7043,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.27329254150391,
-    32.10158920288086,
-    35.2811393737793,
-    32.1032600402832
+    35.273293,
+    32.101589,
+    35.281139,
+    32.10326
 ],
-  "geometry": {"coordinates":[[[35.27329254150391,32.10158920288086],[35.2746467590332,32.10279846191406],[35.27701187133789,32.1032600402832],[35.27829742431641,32.10314178466797],[35.2811393737793,32.10290908813477],[35.27944946289062,32.10222244262695],[35.27762222290039,32.10176086425781],[35.27579498291016,32.10233688354492],[35.27457809448242,32.10158920288086],[35.27329254150391,32.10158920288086]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.273293,32.101589],[35.274647,32.102798],[35.277012,32.10326],[35.278297,32.103142],[35.281139,32.102909],[35.279449,32.102222],[35.277622,32.101761],[35.275795,32.102337],[35.274578,32.101589],[35.273293,32.101589]]],"type":"Polygon"}
 }

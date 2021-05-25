@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":22999.356896,
-    "geom:bbox":"35.228302002,32.415927887,35.2309913635,32.4174880981",
+    "geom:bbox":"35.228302,32.415928,35.230991,32.417488",
     "geom:latitude":32.416585,
     "geom:longitude":35.229818,
     "gn:population":1291,
@@ -18,7 +19,7 @@
     "mps:latitude":32.416437,
     "mps:longitude":35.229481,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0627\u0644\u0628\u0627\u0634\u0627"
@@ -75,7 +76,7 @@
         "wk:page":"Bir al-Basha"
     },
     "wof:country":"PS",
-    "wof:geomhash":"9ba9c5f155c6e14d9668b20631067b29",
+    "wof:geomhash":"b23c544663626adc7c5a6b4f9a3cd8f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,22 +98,24 @@
         }
     ],
     "wof:id":101920985,
-    "wof:lastmodified":1566600534,
+    "wof:lastmodified":1621890983,
     "wof:name":"Bir al Basha",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:population":1291,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.22830200195312,
-    32.41592788696289,
-    35.23099136352539,
-    32.41748809814453
+    35.228302,
+    32.415928,
+    35.230991,
+    32.417488
 ],
-  "geometry": {"coordinates":[[[35.22858428955078,32.41592788696289],[35.22830200195312,32.41646575927734],[35.22929382324219,32.41688537597656],[35.22999954223633,32.41670608520508],[35.23028182983398,32.41748809814453],[35.23099136352539,32.41736602783203],[35.23099136352539,32.41676712036133],[35.23056411743164,32.41616821289062],[35.22858428955078,32.41592788696289]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.228584,32.415928],[35.228302,32.416466],[35.229294,32.416885],[35.23,32.416706],[35.230282,32.417488],[35.230991,32.417366],[35.230991,32.416767],[35.230564,32.416168],[35.228584,32.415928]]],"type":"Polygon"}
 }

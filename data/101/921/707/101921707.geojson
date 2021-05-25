@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":55023.962709,
-    "geom:bbox":"35.1805343628,32.071472168,35.18384552,32.0739593506",
+    "geom:bbox":"35.180534,32.071472,35.183846,32.073959",
     "geom:latitude":32.072822,
-    "geom:longitude":35.181969,
+    "geom:longitude":35.18197,
     "gn:population":9452,
     "iso:country":"PS",
     "lbl:latitude":32.072786,
@@ -18,7 +19,7 @@
     "mps:latitude":32.072786,
     "mps:longitude":35.181804,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0641\u064a\u062a"
@@ -116,7 +117,7 @@
         "wk:page":"Salfit"
     },
     "wof:country":"PS",
-    "wof:geomhash":"918317ad2b937d8f026f4ca5b86dacf1",
+    "wof:geomhash":"a678c7e13c802351f364cd9ea40ce107",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,22 +139,24 @@
         }
     ],
     "wof:id":101921707,
-    "wof:lastmodified":1566600586,
+    "wof:lastmodified":1621890987,
     "wof:name":"Salfit",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",
     "wof:population":9452,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921701
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.18053436279297,
-    32.07147216796875,
-    35.18384552001953,
-    32.07395935058594
+    35.180534,
+    32.071472,
+    35.183846,
+    32.073959
 ],
-  "geometry": {"coordinates":[[[35.18077087402344,32.07395935058594],[35.18218994140625,32.07362365722656],[35.18368911743164,32.07368850708008],[35.18384552001953,32.07288360595703],[35.18258285522461,32.07221221923828],[35.18179702758789,32.07147216796875],[35.18053436279297,32.07194519042969],[35.18077087402344,32.07395935058594]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.180771,32.073959],[35.18219,32.073624],[35.183689,32.073689],[35.183846,32.072884],[35.182583,32.072212],[35.181797,32.071472],[35.180534,32.071945],[35.180771,32.073959]]],"type":"Polygon"}
 }

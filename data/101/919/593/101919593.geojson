@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":1567.50418,
-    "geom:bbox":"34.524684906,31.5434551239,34.5251998901,31.5440883636",
+    "geom:bbox":"34.524685,31.543455,34.5252,31.544088",
     "geom:latitude":31.543781,
     "geom:longitude":34.524935,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.543704,
     "mps:longitude":34.524978,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -49,7 +50,7 @@
         "gp:id":1979608
     },
     "wof:country":"PS",
-    "wof:geomhash":"c279f941c2c88e3c7f9ecc665df49c03",
+    "wof:geomhash":"ab4de61ffc252ce6e9711c215f5c4d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +72,22 @@
         }
     ],
     "wof:id":101919593,
-    "wof:lastmodified":1566600556,
+    "wof:lastmodified":1621890971,
     "wof:name":"'Izbat Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919601
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.52468490600586,
-    31.54345512390137,
-    34.52519989013672,
-    31.54408836364746
+    34.524685,
+    31.543455,
+    34.5252,
+    31.544088
 ],
-  "geometry": {"coordinates":[[[34.52489852905273,31.54345512390137],[34.52472305297852,31.54358100891113],[34.52493286132812,31.54380226135254],[34.52468490600586,31.5439338684082],[34.52487182617188,31.54408836364746],[34.52519989013672,31.5438117980957],[34.52489852905273,31.54345512390137]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.524899,31.543455],[34.524723,31.543581],[34.524933,31.543802],[34.524685,31.543934],[34.524872,31.544088],[34.5252,31.543812],[34.524899,31.543455]]],"type":"Polygon"}
 }

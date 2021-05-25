@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":26485.015055,
-    "geom:bbox":"34.3047866821,31.3012695312,34.3068313599,31.3028259277",
-    "geom:latitude":31.301966,
-    "geom:longitude":34.305844,
+    "geom:bbox":"34.304787,31.30127,34.306831,31.302826",
+    "geom:latitude":31.301967,
+    "geom:longitude":34.305843,
     "iso:country":"PS",
     "lbl:latitude":31.301972,
     "lbl:longitude":34.305844,
@@ -17,7 +18,7 @@
     "mps:latitude":31.301972,
     "mps:longitude":34.305844,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -49,7 +50,7 @@
         "gp:id":1979609
     },
     "wof:country":"PS",
-    "wof:geomhash":"9c8148a568e2a020efa98c49d11d0438",
+    "wof:geomhash":"e43995883f4663cdeb43f235aec19dee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +72,22 @@
         }
     ],
     "wof:id":101920555,
-    "wof:lastmodified":1566600536,
+    "wof:lastmodified":1621890972,
     "wof:name":"Umm Kameil",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.30478668212891,
-    31.30126953125,
-    34.30683135986328,
-    31.30282592773438
+    34.304787,
+    31.30127,
+    34.306831,
+    31.302826
 ],
-  "geometry": {"coordinates":[[[34.30480194091797,31.30126953125],[34.30481338500977,31.30203819274902],[34.30478668212891,31.30235290527344],[34.30674743652344,31.30282592773438],[34.30683135986328,31.30139923095703],[34.30480194091797,31.30126953125]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.304802,31.30127],[34.304813,31.302038],[34.304787,31.302353],[34.306747,31.302826],[34.306831,31.301399],[34.304802,31.30127]]],"type":"Polygon"}
 }

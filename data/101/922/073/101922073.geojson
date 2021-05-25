@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":5000.079356,
-    "geom:bbox":"35.4759750366,31.8488922119,35.4770278931,31.8500671387",
-    "geom:latitude":31.849504,
-    "geom:longitude":35.476572,
+    "geom:bbox":"35.475975,31.848892,35.477028,31.850067",
+    "geom:latitude":31.849503,
+    "geom:longitude":35.476571,
     "iso:country":"PS",
     "lbl:latitude":31.849488,
     "lbl:longitude":35.476613,
@@ -17,7 +18,7 @@
     "mps:latitude":31.849488,
     "mps:longitude":35.476613,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +49,7 @@
         "gp:id":56122789
     },
     "wof:country":"PS",
-    "wof:geomhash":"2f13bdba230202b9a1855e4841caed0a",
+    "wof:geomhash":"e8207af7d54a00e07ce0b47ea1a550ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +71,22 @@
         }
     ],
     "wof:id":101922073,
-    "wof:lastmodified":1566600500,
+    "wof:lastmodified":1621890966,
     "wof:name":"Jericho (Ariha)",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.47597503662109,
-    31.84889221191406,
-    35.47702789306641,
-    31.85006713867188
+    35.475975,
+    31.848892,
+    35.477028,
+    31.850067
 ],
-  "geometry": {"coordinates":[[[35.47671127319336,31.84889221191406],[35.47597503662109,31.85006713867188],[35.47671508789062,31.84979438781738],[35.4768180847168,31.84961318969727],[35.47702789306641,31.84925270080566],[35.47671127319336,31.84889221191406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.476711,31.848892],[35.475975,31.850067],[35.476715,31.849794],[35.476818,31.849613],[35.477028,31.849253],[35.476711,31.848892]]],"type":"Polygon"}
 }

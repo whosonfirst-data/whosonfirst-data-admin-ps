@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":15167.155299,
-    "geom:bbox":"34.9163665771,31.3545513153,34.918258667,31.3559036255",
+    "geom:bbox":"34.916367,31.354551,34.918259,31.355904",
     "geom:latitude":31.355292,
     "geom:longitude":34.917219,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.355322,
     "mps:longitude":34.917204,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -46,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"PS",
-    "wof:geomhash":"e7fdcffc5ba886e229bb1455de5a19cd",
+    "wof:geomhash":"27490ec44eab914060b4fa02aacd81f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +69,22 @@
         }
     ],
     "wof:id":101920363,
-    "wof:lastmodified":1566600521,
+    "wof:lastmodified":1621890960,
     "wof:name":"'Arab al Fureijat",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920361
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.91636657714844,
-    31.35455131530762,
-    34.91825866699219,
-    31.35590362548828
+    34.916367,
+    31.354551,
+    34.918259,
+    31.355904
 ],
-  "geometry": {"coordinates":[[[34.91731643676758,31.35455131530762],[34.91668319702148,31.35482025146484],[34.91636657714844,31.3554515838623],[34.91667938232422,31.35572242736816],[34.91731262207031,31.35590362548828],[34.91773223876953,31.3557243347168],[34.91825866699219,31.35536575317383],[34.91762924194336,31.35500335693359],[34.91731643676758,31.35455131530762]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.917316,31.354551],[34.916683,31.35482],[34.916367,31.355452],[34.916679,31.355722],[34.917313,31.355904],[34.917732,31.355724],[34.918259,31.355366],[34.917629,31.355003],[34.917316,31.354551]]],"type":"Polygon"}
 }

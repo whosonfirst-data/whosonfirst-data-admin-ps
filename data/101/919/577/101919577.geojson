@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":1758.787812,
-    "geom:bbox":"34.4898643494,31.5446166992,34.4904327393,31.5450897217",
+    "geom:bbox":"34.489864,31.544617,34.490433,31.54509",
     "geom:latitude":31.544865,
     "geom:longitude":34.49014,
     "gn:population":168568,
@@ -18,7 +19,7 @@
     "mps:latitude":31.544862,
     "mps:longitude":34.490126,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062c\u0628\u0627\u0644\u064a\u0627"
@@ -134,7 +135,7 @@
         "wk:page":"Jabalia"
     },
     "wof:country":"PS",
-    "wof:geomhash":"ceaf463e4694f88b8a7d0189e8420762",
+    "wof:geomhash":"cc46ee4837512e271f4810f78a741d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,22 +157,24 @@
         }
     ],
     "wof:id":101919577,
-    "wof:lastmodified":1566600580,
+    "wof:lastmodified":1621890961,
     "wof:name":"Jabalya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:population":168568,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.48986434936523,
-    31.54461669921875,
-    34.49043273925781,
-    31.54508972167969
+    34.489864,
+    31.544617,
+    34.490433,
+    31.54509
 ],
-  "geometry": {"coordinates":[[[34.49028015136719,31.54461669921875],[34.48986434936523,31.54477500915527],[34.48995590209961,31.54508972167969],[34.49043273925781,31.54497528076172],[34.49028015136719,31.54461669921875]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.49028,31.544617],[34.489864,31.544775],[34.489956,31.54509],[34.490433,31.544975],[34.49028,31.544617]]],"type":"Polygon"}
 }

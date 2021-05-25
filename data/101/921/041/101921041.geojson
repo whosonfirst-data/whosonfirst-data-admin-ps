@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
     "geom:area_square_m":45985.484422,
-    "geom:bbox":"35.1360549927,32.3887901306,35.1386795044,32.3911743164",
+    "geom:bbox":"35.136055,32.38879,35.13868,32.391174",
     "geom:latitude":32.389885,
     "geom:longitude":35.137298,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":32.389931,
     "mps:longitude":35.137273,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0631\u0627\u0639\u064a"
@@ -71,7 +72,7 @@
         "wd:id":"Q2898490"
     },
     "wof:country":"PS",
-    "wof:geomhash":"faa7cdc4d50e71d66c2440890c609870",
+    "wof:geomhash":"3093fa56f5494e5a2276f858c1ad7ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,20 +94,22 @@
         }
     ],
     "wof:id":101921041,
-    "wof:lastmodified":1566600588,
+    "wof:lastmodified":1621890957,
     "wof:name":"Kafr Ra'i",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921097
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.13605499267578,
-    32.38879013061523,
-    35.13867950439453,
-    32.39117431640625
+    35.136055,
+    32.38879,
+    35.13868,
+    32.391174
 ],
-  "geometry": {"coordinates":[[[35.13605499267578,32.38974380493164],[35.13661575317383,32.39117431640625],[35.13755416870117,32.39101791381836],[35.13867950439453,32.3899040222168],[35.1383056640625,32.38879013061523],[35.13755416870117,32.38894653320312],[35.1362419128418,32.38894653320312],[35.13605499267578,32.38974380493164]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.136055,32.389744],[35.136616,32.391174],[35.137554,32.391018],[35.13868,32.389904],[35.138306,32.38879],[35.137554,32.388947],[35.136242,32.388947],[35.136055,32.389744]]],"type":"Polygon"}
 }

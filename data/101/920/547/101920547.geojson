@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":17463.522578,
-    "geom:bbox":"34.3271942139,31.3041057587,34.3288383484,31.3060417175",
+    "geom:bbox":"34.327194,31.304106,34.328838,31.306042",
     "geom:latitude":31.305056,
     "geom:longitude":34.328018,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.305062,
     "mps:longitude":34.328019,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u062e\u0627\u0631\u064a"
@@ -77,7 +78,7 @@
         "wd:id":"Q4702406"
     },
     "wof:country":"PS",
-    "wof:geomhash":"f9f1bd29083c353060fdd6441ec671b3",
+    "wof:geomhash":"ec8a56d7e4afbfb2217be8897cf02759",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,20 +100,22 @@
         }
     ],
     "wof:id":101920547,
-    "wof:lastmodified":1566600550,
+    "wof:lastmodified":1621890982,
     "wof:name":"Al Fukhari",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920643
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.32719421386719,
-    31.30410575866699,
-    34.32883834838867,
-    31.3060417175293
+    34.327194,
+    31.304106,
+    34.328838,
+    31.306042
 ],
-  "geometry": {"coordinates":[[[34.32796096801758,31.30410575866699],[34.32753753662109,31.30462837219238],[34.32719421386719,31.30525970458984],[34.32773971557617,31.30567359924316],[34.32808685302734,31.3060417175293],[34.32883834838867,31.30495643615723],[34.32844543457031,31.30451393127441],[34.32796096801758,31.30410575866699]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.327961,31.304106],[34.327538,31.304628],[34.327194,31.30526],[34.32774,31.305674],[34.328087,31.306042],[34.328838,31.304956],[34.328445,31.304514],[34.327961,31.304106]]],"type":"Polygon"}
 }

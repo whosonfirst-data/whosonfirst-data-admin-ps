@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3643.371115,
-    "geom:bbox":"34.4918670654,31.5570011139,34.4928245544,31.5577545166",
+    "geom:bbox":"34.491867,31.557001,34.492825,31.557755",
     "geom:latitude":31.55733,
     "geom:longitude":34.492314,
     "gn:population":56919,
@@ -18,7 +19,7 @@
     "mps:latitude":31.557303,
     "mps:longitude":34.492194,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u0627\u0647\u064a\u0627"
@@ -129,7 +130,7 @@
         "wk:page":"Beit Lahia"
     },
     "wof:country":"PS",
-    "wof:geomhash":"983dfa8f4e9fb1f79241ce2dbba7c24a",
+    "wof:geomhash":"236fd6f09caf8aebabdde7e2da3f82ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,22 +152,24 @@
         }
     ],
     "wof:id":101919497,
-    "wof:lastmodified":1566600563,
+    "wof:lastmodified":1621890985,
     "wof:name":"Beit Lahiya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:population":59540,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.49186706542969,
-    31.5570011138916,
-    34.49282455444336,
-    31.55775451660156
+    34.491867,
+    31.557001,
+    34.492825,
+    31.557755
 ],
-  "geometry": {"coordinates":[[[34.4927978515625,31.5570011138916],[34.4920539855957,31.5571346282959],[34.49186706542969,31.55771636962891],[34.49214935302734,31.55775451660156],[34.49237823486328,31.55732345581055],[34.49282455444336,31.55734634399414],[34.4927978515625,31.5570011138916]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.492798,31.557001],[34.492054,31.557135],[34.491867,31.557716],[34.492149,31.557755],[34.492378,31.557323],[34.492825,31.557346],[34.492798,31.557001]]],"type":"Polygon"}
 }

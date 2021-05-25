@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":21578.495872,
-    "geom:bbox":"35.1787376404,31.6088409424,35.1807174683,31.6106243134",
+    "geom:bbox":"35.178738,31.608841,35.180717,31.610624",
     "geom:latitude":31.609737,
     "geom:longitude":35.179626,
     "gn:population":8151,
@@ -18,7 +19,7 @@
     "mps:latitude":31.609803,
     "mps:longitude":35.179544,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u064a\u0648\u062e"
@@ -77,7 +78,7 @@
         "wd:id":"Q4804345"
     },
     "wof:country":"PS",
-    "wof:geomhash":"d12db1210ae21b77f74fdeb528508dc0",
+    "wof:geomhash":"5e0fcdace8d784f512588c14d1454c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,22 +100,24 @@
         }
     ],
     "wof:id":101922627,
-    "wof:lastmodified":1566600484,
+    "wof:lastmodified":1621890967,
     "wof:name":"Ash Shuyukh",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":8151,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922689
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.17873764038086,
-    31.60884094238281,
-    35.18071746826172,
-    31.61062431335449
+    35.178738,
+    31.608841,
+    35.180717,
+    31.610624
 ],
-  "geometry": {"coordinates":[[[35.17936325073242,31.61062431335449],[35.17962265014648,31.6104907989502],[35.1806640625,31.60995674133301],[35.18071746826172,31.60955429077148],[35.17983245849609,31.60919761657715],[35.17899703979492,31.60884094238281],[35.17873764038086,31.60982131958008],[35.17936325073242,31.61062431335449]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.179363,31.610624],[35.179623,31.610491],[35.180664,31.609957],[35.180717,31.609554],[35.179832,31.609198],[35.178997,31.608841],[35.178738,31.609821],[35.179363,31.610624]]],"type":"Polygon"}
 }

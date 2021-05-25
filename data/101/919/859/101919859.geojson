@@ -4,19 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000006,
+    "geom:area":0.000014,
     "geom:area_square_m":61147.361081,
-    "geom:bbox":"34.4222335815,31.4542064667,34.4248657227,31.4576663971",
-    "geom:latitude":31.45594,
-    "geom:longitude":34.423677,
+    "geom:bbox":"34.422234,31.454206,34.430447,31.459927",
+    "geom:latitude":31.456978,
+    "geom:longitude":34.425763,
     "gn:population":2880,
     "iso:country":"PS",
-    "lbl:latitude":31.455983,
-    "lbl:longitude":34.423702,
+    "lbl:latitude":31.458412,
+    "lbl:longitude":34.425253,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":31.455983,
-    "mps:longitude":34.423702,
+    "mps:latitude":31.458412,
+    "mps:longitude":34.425253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -53,8 +53,11 @@
     "qs:pop":0,
     "qs:source":"EGlobalMap",
     "qs:type":"Built-Up Area",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,10 @@
         "wk:page":"Juhor ad-Dik"
     },
     "wof:country":"PS",
-    "wof:geomhash":"72af99401464eabb50bbc93282fc2aa2",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e818f7742c43b8491e01ecbed425326f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":101919859,
-    "wof:lastmodified":1566600562,
+    "wof:lastmodified":1621974951,
     "wof:name":"Juhor ad Dik",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",
@@ -104,14 +110,17 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101919857,
+        101919849
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    34.42223358154297,
-    31.4542064666748,
-    34.42486572265625,
-    31.45766639709473
+    34.422234,
+    31.454206,
+    34.430447,
+    31.459927
 ],
-  "geometry": {"coordinates":[[[34.42223358154297,31.45541572570801],[34.42280960083008,31.45766639709473],[34.42484664916992,31.45665740966797],[34.42486572265625,31.4542064666748],[34.42223358154297,31.45541572570801]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[34.429028,31.455357],[34.428288,31.458109],[34.430435,31.457815],[34.430447,31.456387],[34.429028,31.455357]]],[[[34.422234,31.455416],[34.42281,31.457666],[34.424847,31.456657],[34.424866,31.454206],[34.422234,31.455416]]],[[[34.426514,31.456669],[34.423393,31.459101],[34.424698,31.459927],[34.426983,31.457489],[34.426514,31.456669]]]],"type":"MultiPolygon"}
 }

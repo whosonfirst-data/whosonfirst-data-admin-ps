@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":14611.220016,
-    "geom:bbox":"34.3258323669,31.3755073547,34.3276481628,31.3770332336",
+    "geom:bbox":"34.325832,31.375507,34.327648,31.377033",
     "geom:latitude":31.3763,
     "geom:longitude":34.32678,
     "gn:population":19500,
@@ -18,7 +19,7 @@
     "mps:latitude":31.376309,
     "mps:longitude":34.326793,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0627\u0631\u0629"
@@ -96,7 +97,7 @@
         "wk:page":"Al-Qarara"
     },
     "wof:country":"PS",
-    "wof:geomhash":"d231ee143ea2e415cd7154b13c8d5c3d",
+    "wof:geomhash":"6d7d28592d7256a76738f6e5b3c1387b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,22 +119,24 @@
         }
     ],
     "wof:id":101920289,
-    "wof:lastmodified":1566600523,
+    "wof:lastmodified":1621890976,
     "wof:name":"Al Qarara",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:population":16900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920321
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.32583236694336,
-    31.37550735473633,
-    34.3276481628418,
-    31.37703323364258
+    34.325832,
+    31.375507,
+    34.327648,
+    31.377033
 ],
-  "geometry": {"coordinates":[[[34.32698059082031,31.37550735473633],[34.32583236694336,31.37636375427246],[34.32670593261719,31.37703323364258],[34.3276481628418,31.3763542175293],[34.32698059082031,31.37550735473633]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.326981,31.375507],[34.325832,31.376364],[34.326706,31.377033],[34.327648,31.376354],[34.326981,31.375507]]],"type":"Polygon"}
 }

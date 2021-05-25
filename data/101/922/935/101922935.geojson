@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7974.56917,
-    "geom:bbox":"35.1790428162,31.4264659882,35.1807289124,31.4273681641",
+    "geom:bbox":"35.179043,31.426466,35.180729,31.427368",
     "geom:latitude":31.426839,
-    "geom:longitude":35.179794,
+    "geom:longitude":35.179793,
     "iso:country":"PS",
     "lbl:latitude":31.426833,
     "lbl:longitude":35.179781,
@@ -17,7 +18,7 @@
     "mps:latitude":31.426833,
     "mps:longitude":35.179781,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +49,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"aa4faa27cfd78ec562b212c962498145",
+    "wof:geomhash":"4e3c0d7418631b242ce3cd074b69242e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +71,22 @@
         }
     ],
     "wof:id":101922935,
-    "wof:lastmodified":1566600497,
+    "wof:lastmodified":1621890994,
     "wof:name":"Az Zuweidin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.17904281616211,
-    31.42646598815918,
-    35.18072891235352,
-    31.4273681640625
+    35.179043,
+    31.426466,
+    35.180729,
+    31.427368
 ],
-  "geometry": {"coordinates":[[[35.18072891235352,31.42646598815918],[35.17999267578125,31.42646598815918],[35.17935943603516,31.42664527893066],[35.17904281616211,31.4270076751709],[35.17956924438477,31.4273681640625],[35.18020248413086,31.42691612243652],[35.18072891235352,31.42646598815918]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.180729,31.426466],[35.179993,31.426466],[35.179359,31.426645],[35.179043,31.427008],[35.179569,31.427368],[35.180202,31.426916],[35.180729,31.426466]]],"type":"Polygon"}
 }

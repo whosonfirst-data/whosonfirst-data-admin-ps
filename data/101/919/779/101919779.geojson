@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":48762.972512,
-    "geom:bbox":"34.4354171753,31.4864273071,34.4385757446,31.4895992279",
-    "geom:latitude":31.488066,
-    "geom:longitude":34.436992,
+    "geom:bbox":"34.435417,31.486427,34.438576,31.489599",
+    "geom:latitude":31.488065,
+    "geom:longitude":34.436993,
     "gn:population":410000,
     "iso:country":"PS",
     "lbl:latitude":31.488039,
@@ -18,7 +19,7 @@
     "mps:latitude":31.488039,
     "mps:longitude":34.437016,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Gaza"
@@ -361,7 +362,7 @@
         "wd:id":"Q47492"
     },
     "wof:country":"PS",
-    "wof:geomhash":"db6f0375df9197613af32c144ff95586",
+    "wof:geomhash":"2ca04ac86141292cb98bc528020391bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -383,22 +384,24 @@
         }
     ],
     "wof:id":101919779,
-    "wof:lastmodified":1566600569,
+    "wof:lastmodified":1621890993,
     "wof:name":"Gaza",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",
     "wof:population":410000,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919639
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.43541717529297,
-    31.48642730712891,
-    34.43857574462891,
-    31.48959922790527
+    34.435417,
+    31.486427,
+    34.438576,
+    31.489599
 ],
-  "geometry": {"coordinates":[[[34.43743515014648,31.48642730712891],[34.43629837036133,31.48764991760254],[34.43541717529297,31.48879623413086],[34.43630981445312,31.48959922790527],[34.43776702880859,31.48847961425781],[34.43857574462891,31.48769569396973],[34.43801116943359,31.48706245422363],[34.43743515014648,31.48642730712891]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.437435,31.486427],[34.436298,31.48765],[34.435417,31.488796],[34.43631,31.489599],[34.437767,31.48848],[34.438576,31.487696],[34.438011,31.487062],[34.437435,31.486427]]],"type":"Polygon"}
 }

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":6395.876915,
-    "geom:bbox":"35.1758918762,31.4243907928,35.1770477295,31.4252929688",
+    "geom:bbox":"35.175892,31.424391,35.177048,31.425293",
     "geom:latitude":31.424876,
     "geom:longitude":35.176542,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.424874,
     "mps:longitude":35.176579,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +49,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"653ffc33f00a1892ff1fe9f892fbcbdf",
+    "wof:geomhash":"0d590616aa3c3eb6a4f73a2c99abaff8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +71,22 @@
         }
     ],
     "wof:id":101922943,
-    "wof:lastmodified":1566600515,
+    "wof:lastmodified":1621890995,
     "wof:name":"Az Zuweidin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.1758918762207,
-    31.42439079284668,
-    35.17704772949219,
-    31.42529296875
+    35.175892,
+    31.424391,
+    35.177048,
+    31.425293
 ],
-  "geometry": {"coordinates":[[[35.17673110961914,31.42439079284668],[35.1758918762207,31.42502212524414],[35.17610168457031,31.42529296875],[35.17694091796875,31.42511177062988],[35.17704772949219,31.42448043823242],[35.17673110961914,31.42439079284668]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.176731,31.424391],[35.175892,31.425022],[35.176102,31.425293],[35.176941,31.425112],[35.177048,31.42448],[35.176731,31.424391]]],"type":"Polygon"}
 }

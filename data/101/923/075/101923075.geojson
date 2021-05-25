@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3524.780047,
-    "geom:bbox":"35.2104911804,31.3895797729,35.2111244202,31.3904819489",
+    "geom:bbox":"35.210491,31.38958,35.211124,31.390482",
     "geom:latitude":31.390091,
     "geom:longitude":35.210749,
     "gn:population":179,
@@ -18,7 +19,7 @@
     "mps:latitude":31.390105,
     "mps:longitude":35.210732,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -51,7 +52,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"0b400961135ec40c91675c66eb14951a",
+    "wof:geomhash":"846af1474e8c84d5b0ac7e87d7f2fb87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,22 +74,24 @@
         }
     ],
     "wof:id":101923075,
-    "wof:lastmodified":1566600474,
+    "wof:lastmodified":1621890956,
     "wof:name":"Khirbet Tawil ash Shih",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":179,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923087
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.21049118041992,
-    31.38957977294922,
-    35.21112442016602,
-    31.39048194885254
+    35.210491,
+    31.38958,
+    35.211124,
+    31.390482
 ],
-  "geometry": {"coordinates":[[[35.2107048034668,31.38957977294922],[35.21049118041992,31.38985061645508],[35.21049118041992,31.39030265808105],[35.21080780029297,31.39048194885254],[35.21112442016602,31.39030265808105],[35.2107048034668,31.38957977294922]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.210705,31.38958],[35.210491,31.389851],[35.210491,31.390303],[35.210808,31.390482],[35.211124,31.390303],[35.210705,31.38958]]],"type":"Polygon"}
 }

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3842.169682,
-    "geom:bbox":"34.3904647827,31.4243144989,34.391708374,31.424747467",
+    "geom:bbox":"34.390465,31.424314,34.391708,31.424747",
     "geom:latitude":31.424492,
     "geom:longitude":34.391068,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.424524,
     "mps:longitude":34.391061,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +49,7 @@
         "gp:id":56125660
     },
     "wof:country":"PS",
-    "wof:geomhash":"b631d21c6b301d33e37b1fd890469630",
+    "wof:geomhash":"4a04cbe880b0116550c88327a78bf47e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +71,22 @@
         }
     ],
     "wof:id":101920051,
-    "wof:lastmodified":1566600548,
+    "wof:lastmodified":1621890965,
     "wof:name":"Al Maghazi Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.39046478271484,
-    31.42431449890137,
-    34.39170837402344,
-    31.42474746704102
+    34.390465,
+    31.424314,
+    34.391708,
+    31.424747
 ],
-  "geometry": {"coordinates":[[[34.39046478271484,31.42431449890137],[34.39050674438477,31.42460823059082],[34.39083480834961,31.42457008361816],[34.39091873168945,31.42474746704102],[34.39159774780273,31.42460060119629],[34.39170837402344,31.42448997497559],[34.39157485961914,31.42434501647949],[34.39046478271484,31.42431449890137]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.390465,31.424314],[34.390507,31.424608],[34.390835,31.42457],[34.390919,31.424747],[34.391598,31.424601],[34.391708,31.42449],[34.391575,31.424345],[34.390465,31.424314]]],"type":"Polygon"}
 }

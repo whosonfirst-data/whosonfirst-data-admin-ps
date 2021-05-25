@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7852.879575,
-    "geom:bbox":"35.1534004211,31.3996696472,35.1549758911,31.4007511139",
+    "geom:bbox":"35.1534,31.39967,35.154976,31.400751",
     "geom:latitude":31.400348,
     "geom:longitude":35.154165,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.400435,
     "mps:longitude":35.154165,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0635\u0627\u0631\u0648\u0631\u0629"
@@ -55,7 +56,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"c8068a51571c7f4ee5cacd9c4757cda8",
+    "wof:geomhash":"c63870972438f3f83c40d79d54fd39bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +78,22 @@
         }
     ],
     "wof:id":101923017,
-    "wof:lastmodified":1566600474,
+    "wof:lastmodified":1621890988,
     "wof:name":"Khirbet Sarura",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.15340042114258,
-    31.3996696472168,
-    35.15497589111328,
-    31.4007511138916
+    35.1534,
+    31.39967,
+    35.154976,
+    31.400751
 ],
-  "geometry": {"coordinates":[[[35.15340042114258,31.3996696472168],[35.15350341796875,31.40056991577148],[35.15455627441406,31.4007511138916],[35.15486907958984,31.40021133422852],[35.15497589111328,31.39984893798828],[35.15434646606445,31.40020942687988],[35.15361022949219,31.40011978149414],[35.15340042114258,31.3996696472168]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.1534,31.39967],[35.153503,31.40057],[35.154556,31.400751],[35.154869,31.400211],[35.154976,31.399849],[35.154346,31.400209],[35.15361,31.40012],[35.1534,31.39967]]],"type":"Polygon"}
 }

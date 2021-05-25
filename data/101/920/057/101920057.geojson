@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":1891.318486,
-    "geom:bbox":"34.3911132812,31.4231853485,34.3918685913,31.423658371",
+    "geom:bbox":"34.391113,31.423185,34.391869,31.423658",
     "geom:latitude":31.423411,
     "geom:longitude":34.391412,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.423423,
     "mps:longitude":34.391297,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -48,7 +49,7 @@
         "gp:id":56125660
     },
     "wof:country":"PS",
-    "wof:geomhash":"851dfd92c6807743ef2a816fbf9c2892",
+    "wof:geomhash":"f0878f658946749ade7688826e825f53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +71,22 @@
         }
     ],
     "wof:id":101920057,
-    "wof:lastmodified":1566600547,
+    "wof:lastmodified":1621890965,
     "wof:name":"Al Maghazi Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.39111328125,
-    31.42318534851074,
-    34.39186859130859,
-    31.42365837097168
+    34.391113,
+    31.423185,
+    34.391869,
+    31.423658
 ],
-  "geometry": {"coordinates":[[[34.39134216308594,31.42318534851074],[34.39111328125,31.42328071594238],[34.39116287231445,31.42365837097168],[34.39186859130859,31.42339324951172],[34.39176177978516,31.42324829101562],[34.39145278930664,31.42337608337402],[34.39134216308594,31.42318534851074]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.391342,31.423185],[34.391113,31.423281],[34.391163,31.423658],[34.391869,31.423393],[34.391762,31.423248],[34.391453,31.423376],[34.391342,31.423185]]],"type":"Polygon"}
 }

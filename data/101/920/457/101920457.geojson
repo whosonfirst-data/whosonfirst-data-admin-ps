@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":19424.453465,
-    "geom:bbox":"34.322807312,31.3321800232,34.3250198364,31.3341579437",
+    "geom:bbox":"34.322807,31.33218,34.32502,31.334158",
     "geom:latitude":31.333137,
     "geom:longitude":34.323936,
     "gn:population":31272,
@@ -18,7 +19,7 @@
     "mps:latitude":31.333136,
     "mps:longitude":34.323935,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u0647\u064a\u0644\u0627"
@@ -119,7 +120,7 @@
         "wk:page":"Bani Suheila"
     },
     "wof:country":"PS",
-    "wof:geomhash":"d56ee5bb885db6bded21db1234721d7c",
+    "wof:geomhash":"b2561ca29359eae51727e2e5f7947b7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,22 +142,24 @@
         }
     ],
     "wof:id":101920457,
-    "wof:lastmodified":1566600547,
+    "wof:lastmodified":1621890968,
     "wof:name":"Bani Suheila",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:population":31272,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920409
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.32280731201172,
-    31.33218002319336,
-    34.32501983642578,
-    31.33415794372559
+    34.322807,
+    31.33218,
+    34.32502,
+    31.334158
 ],
-  "geometry": {"coordinates":[[[34.32365798950195,31.33218002319336],[34.32280731201172,31.33250045776367],[34.32425689697266,31.33415794372559],[34.32501983642578,31.33366584777832],[34.32365798950195,31.33218002319336]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.323658,31.33218],[34.322807,31.3325],[34.324257,31.334158],[34.32502,31.333666],[34.323658,31.33218]]],"type":"Polygon"}
 }

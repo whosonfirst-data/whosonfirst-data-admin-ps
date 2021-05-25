@@ -4,19 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000001,
+    "geom:area":0.000003,
     "geom:area_square_m":12270.398731,
-    "geom:bbox":"35.2930870056,31.7494049072,35.2943458557,31.7507266998",
-    "geom:latitude":31.750091,
-    "geom:longitude":35.293821,
+    "geom:bbox":"35.283031,31.749405,35.294346,31.758175",
+    "geom:latitude":31.753498,
+    "geom:longitude":35.287649,
     "gn:population":715,
     "iso:country":"PS",
-    "lbl:latitude":31.750071,
-    "lbl:longitude":35.293834,
+    "lbl:latitude":31.75327,
+    "lbl:longitude":35.284677,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
-    "mps:latitude":31.750071,
-    "mps:longitude":35.293834,
+    "mps:latitude":31.75327,
+    "mps:longitude":35.284677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -65,8 +65,11 @@
     "qs:pop":0,
     "qs:source":"EGlobalMap",
     "qs:type":"Built-Up Area",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":581,
@@ -85,7 +88,10 @@
         "wd:id":"Q4540439"
     },
     "wof:country":"PS",
-    "wof:geomhash":"755e73a7cbd889bd0d8ebbe52e8bea26",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"11ac81501b3feed624520470a03ec484",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":101922267,
-    "wof:lastmodified":1566600489,
+    "wof:lastmodified":1621974945,
     "wof:name":"'Arab al Jahalin",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",
@@ -115,14 +121,17 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101922259,
+        101922263
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    35.29308700561523,
-    31.74940490722656,
-    35.29434585571289,
-    31.7507266998291
+    35.283031,
+    31.749405,
+    35.294346,
+    31.758175
 ],
-  "geometry": {"coordinates":[[[35.29308700561523,31.74981880187988],[35.29367065429688,31.7507266998291],[35.29434585571289,31.7507266998291],[35.29434585571289,31.74973487854004],[35.29366683959961,31.74940490722656],[35.29308700561523,31.74981880187988]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[35.293087,31.749819],[35.293671,31.750727],[35.294346,31.750727],[35.294346,31.749735],[35.293667,31.749405],[35.293087,31.749819]]],[[[35.283997,31.75338],[35.284966,31.75404],[35.285156,31.753378],[35.284866,31.752304],[35.283997,31.75338]]],[[[35.283321,31.756851],[35.283031,31.757761],[35.283905,31.758175],[35.284195,31.757843],[35.284096,31.757017],[35.283321,31.756851]]]],"type":"MultiPolygon"}
 }

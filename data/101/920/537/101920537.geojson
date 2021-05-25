@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7376.161794,
-    "geom:bbox":"34.3149261475,31.3056774139,34.3158035278,31.306728363",
+    "geom:bbox":"34.314926,31.305677,34.315804,31.306728",
     "geom:latitude":31.306193,
     "geom:longitude":34.31537,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.306202,
     "mps:longitude":34.315366,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0627\u0639 \u0627\u0644\u0642\u0631\u064a\u0646"
@@ -55,7 +56,7 @@
         "gp:id":1979609
     },
     "wof:country":"PS",
-    "wof:geomhash":"57e56a7f05335127669faf5c4c94bf55",
+    "wof:geomhash":"234e20cc54c9343fbd97b4bc6cfd8600",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +78,22 @@
         }
     ],
     "wof:id":101920537,
-    "wof:lastmodified":1566600535,
+    "wof:lastmodified":1621890965,
     "wof:name":"Qa' al Qurein",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920523
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.31492614746094,
-    31.30567741394043,
-    34.31580352783203,
-    31.30672836303711
+    34.314926,
+    31.305677,
+    34.315804,
+    31.306728
 ],
-  "geometry": {"coordinates":[[[34.31504058837891,31.30567741394043],[34.31492614746094,31.30611610412598],[34.31493377685547,31.30648803710938],[34.31571197509766,31.30672836303711],[34.31580352783203,31.30623054504395],[34.31572723388672,31.3057689666748],[34.31539154052734,31.3057918548584],[34.31504058837891,31.30567741394043]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.315041,31.305677],[34.314926,31.306116],[34.314934,31.306488],[34.315712,31.306728],[34.315804,31.306231],[34.315727,31.305769],[34.315392,31.305792],[34.315041,31.305677]]],"type":"Polygon"}
 }

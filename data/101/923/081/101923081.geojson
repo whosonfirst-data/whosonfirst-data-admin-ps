@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":2412.794499,
-    "geom:bbox":"35.1415252686,31.3873958588,35.1421585083,31.3884792328",
+    "geom:bbox":"35.141525,31.387396,35.142159,31.388479",
     "geom:latitude":31.387848,
     "geom:longitude":35.141868,
     "gn:population":228,
@@ -18,7 +19,7 @@
     "mps:latitude":31.387844,
     "mps:longitude":35.141922,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -51,7 +52,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"5944ab7fcf8e962f3f2fb94416750114",
+    "wof:geomhash":"065d0ff288fd03962abd35ac33a7eb92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,22 +74,24 @@
         }
     ],
     "wof:id":101923081,
-    "wof:lastmodified":1566600474,
+    "wof:lastmodified":1621890983,
     "wof:name":"Khirbet al Fakheit",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:population":228,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101923085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.14152526855469,
-    31.38739585876465,
-    35.14215850830078,
-    31.38847923278809
+    35.141525,
+    31.387396,
+    35.142159,
+    31.388479
 ],
-  "geometry": {"coordinates":[[[35.14152526855469,31.38739585876465],[35.14184188842773,31.38811874389648],[35.14184188842773,31.38847923278809],[35.14215850830078,31.38775825500488],[35.14152526855469,31.38739585876465]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.141525,31.387396],[35.141842,31.388119],[35.141842,31.388479],[35.142159,31.387758],[35.141525,31.387396]]],"type":"Polygon"}
 }

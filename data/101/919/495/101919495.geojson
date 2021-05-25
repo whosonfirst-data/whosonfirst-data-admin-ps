@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":12184.401566,
-    "geom:bbox":"34.4947433472,31.5574188232,34.4963340759,31.5586509705",
+    "geom:bbox":"34.494743,31.557419,34.496334,31.558651",
     "geom:latitude":31.557973,
     "geom:longitude":34.495539,
     "gn:population":56919,
@@ -18,7 +19,7 @@
     "mps:latitude":31.557749,
     "mps:longitude":34.495633,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u0627\u0647\u064a\u0627"
@@ -129,7 +130,7 @@
         "wk:page":"Beit Lahia"
     },
     "wof:country":"PS",
-    "wof:geomhash":"5297ef1a2a7d3e9d4ea97dff90f53d5d",
+    "wof:geomhash":"d9187263775ae0f67f32ccacd1011266",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,22 +152,24 @@
         }
     ],
     "wof:id":101919495,
-    "wof:lastmodified":1566600576,
+    "wof:lastmodified":1621890986,
     "wof:name":"Beit Lahiya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",
     "wof:population":59540,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.49474334716797,
-    31.55741882324219,
-    34.49633407592773,
-    31.55865097045898
+    34.494743,
+    31.557419,
+    34.496334,
+    31.558651
 ],
-  "geometry": {"coordinates":[[[34.49620819091797,31.55741882324219],[34.49474334716797,31.55767250061035],[34.49495315551758,31.55865097045898],[34.4953727722168,31.55860710144043],[34.49533843994141,31.55797386169434],[34.49576568603516,31.5579833984375],[34.49586486816406,31.55838966369629],[34.49633407592773,31.55838203430176],[34.49620819091797,31.55741882324219]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.496208,31.557419],[34.494743,31.557673],[34.494953,31.558651],[34.495373,31.558607],[34.495338,31.557974],[34.495766,31.557983],[34.495865,31.55839],[34.496334,31.558382],[34.496208,31.557419]]],"type":"Polygon"}
 }

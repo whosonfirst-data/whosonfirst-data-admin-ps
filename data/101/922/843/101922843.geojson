@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":1125.154261,
-    "geom:bbox":"35.1284599304,31.4582653046,35.1289596558,31.4590568542",
+    "geom:bbox":"35.12846,31.458265,35.12896,31.459057",
     "geom:latitude":31.458728,
     "geom:longitude":35.128727,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":31.458814,
     "mps:longitude":35.128782,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0631 \u0627\u0644\u0639\u0631\u0648\u0633"
@@ -55,7 +56,7 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
-    "wof:geomhash":"9c4ed7fda84eaa79efffd9f6543448ae",
+    "wof:geomhash":"c3d08680706b0b02ad0c8f418f8edf90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +78,22 @@
         }
     ],
     "wof:id":101922843,
-    "wof:lastmodified":1566600485,
+    "wof:lastmodified":1621890952,
     "wof:name":"Biyar al 'Arus",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101922837
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.12845993041992,
-    31.45826530456543,
-    35.12895965576172,
-    31.45905685424805
+    35.12846,
+    31.458265,
+    35.12896,
+    31.459057
 ],
-  "geometry": {"coordinates":[[[35.12876510620117,31.45905685424805],[35.12895965576172,31.45887184143066],[35.12846374511719,31.45826530456543],[35.12845993041992,31.45826721191406],[35.12876510620117,31.45905685424805]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.128765,31.459057],[35.12896,31.458872],[35.128464,31.458265],[35.12846,31.458267],[35.128765,31.459057]]],"type":"Polygon"}
 }

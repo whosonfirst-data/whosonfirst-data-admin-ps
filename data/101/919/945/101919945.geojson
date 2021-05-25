@@ -3,12 +3,13 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7121.733131,
-    "geom:bbox":"34.351852417,31.4376926422,34.3537559509,31.4389877319",
+    "geom:bbox":"34.351852,31.437693,34.353756,31.438988",
     "geom:latitude":31.438328,
-    "geom:longitude":34.3528,
+    "geom:longitude":34.352799,
     "iso:country":"PS",
     "lbl:latitude":31.438324,
     "lbl:longitude":34.3528,
@@ -17,7 +18,7 @@
     "mps:latitude":31.438324,
     "mps:longitude":34.3528,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0648\u0627\u064a\u062f\u0629"
@@ -94,7 +95,7 @@
         "wk:page":"Az-Zawayda"
     },
     "wof:country":"PS",
-    "wof:geomhash":"a5f6055be114a0f1a7614da57f80d676",
+    "wof:geomhash":"98beb632c343033e875c8c2adfe7efad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +117,22 @@
         }
     ],
     "wof:id":101919945,
-    "wof:lastmodified":1566600579,
+    "wof:lastmodified":1621890970,
     "wof:name":"Az Zawayda",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101920053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.35185241699219,
-    31.43769264221191,
-    34.35375595092773,
-    31.43898773193359
+    34.351852,
+    31.437693,
+    34.353756,
+    31.438988
 ],
-  "geometry": {"coordinates":[[[34.3535041809082,31.43769264221191],[34.35185241699219,31.4387092590332],[34.35200119018555,31.43898773193359],[34.35375595092773,31.43796730041504],[34.3535041809082,31.43769264221191]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.353504,31.437693],[34.351852,31.438709],[34.352001,31.438988],[34.353756,31.437967],[34.353504,31.437693]]],"type":"Polygon"}
 }

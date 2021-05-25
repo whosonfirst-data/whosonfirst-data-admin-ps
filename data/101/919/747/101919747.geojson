@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":8356.161256,
-    "geom:bbox":"34.4393692017,31.5013751984,34.4413948059,31.5027446747",
+    "geom:bbox":"34.439369,31.501375,34.441395,31.502745",
     "geom:latitude":31.50205,
     "geom:longitude":34.440345,
     "gn:population":410000,
@@ -18,7 +19,7 @@
     "mps:latitude":31.502044,
     "mps:longitude":34.440348,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Gaza"
@@ -361,7 +362,7 @@
         "wd:id":"Q47492"
     },
     "wof:country":"PS",
-    "wof:geomhash":"c1ee47a957c34d6c30e6dd5363a475da",
+    "wof:geomhash":"0a81a01f5c53c765263a2f040f129c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -383,22 +384,24 @@
         }
     ],
     "wof:id":101919747,
-    "wof:lastmodified":1566600567,
+    "wof:lastmodified":1621890992,
     "wof:name":"Gaza",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",
     "wof:population":410000,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101919639
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.43936920166016,
-    31.50137519836426,
-    34.4413948059082,
-    31.50274467468262
+    34.439369,
+    31.501375,
+    34.441395,
+    31.502745
 ],
-  "geometry": {"coordinates":[[[34.44106292724609,31.50137519836426],[34.44012069702148,31.50197601318359],[34.43936920166016,31.50236129760742],[34.43954086303711,31.50260162353516],[34.43968963623047,31.50274467468262],[34.44021224975586,31.50233840942383],[34.4413948059082,31.50163841247559],[34.44118881225586,31.50148773193359],[34.44106292724609,31.50137519836426]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.441063,31.501375],[34.440121,31.501976],[34.439369,31.502361],[34.439541,31.502602],[34.43969,31.502745],[34.440212,31.502338],[34.441395,31.501638],[34.441189,31.501488],[34.441063,31.501375]]],"type":"Polygon"}
 }

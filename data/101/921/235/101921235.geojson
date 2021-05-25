@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-05-24",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
     "geom:area_square_m":62247.52257,
-    "geom:bbox":"35.0252342224,32.2940826416,35.029132843,32.2964019775",
+    "geom:bbox":"35.025234,32.294083,35.029133,32.296402",
     "geom:latitude":32.295226,
     "geom:longitude":35.027433,
     "iso:country":"PS",
@@ -17,7 +18,7 @@
     "mps:latitude":32.295148,
     "mps:longitude":35.02747,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0627\u0644\u062e\u0644\u0627\u0644"
@@ -55,7 +56,7 @@
         "gp:id":1937300
     },
     "wof:country":"PS",
-    "wof:geomhash":"6569ed9d8d87d67c0b8eda4c3d9951e6",
+    "wof:geomhash":"c29005e4b8c3cab0c09c0118a6a20843",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +78,22 @@
         }
     ],
     "wof:id":101921235,
-    "wof:lastmodified":1566600592,
+    "wof:lastmodified":1621890990,
     "wof:name":"'Izbat al Khilal",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101921219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    35.02523422241211,
-    32.29408264160156,
-    35.02913284301758,
-    32.29640197753906
+    35.025234,
+    32.294083,
+    35.029133,
+    32.296402
 ],
-  "geometry": {"coordinates":[[[35.0265998840332,32.29408264160156],[35.02523422241211,32.29548645019531],[35.02659606933594,32.29598617553711],[35.02903366088867,32.29640197753906],[35.02913284301758,32.29541015625],[35.02845001220703,32.29425048828125],[35.0265998840332,32.29408264160156]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.0266,32.294083],[35.025234,32.295486],[35.026596,32.295986],[35.029034,32.296402],[35.029133,32.29541],[35.02845,32.29425],[35.0266,32.294083]]],"type":"Polygon"}
 }
