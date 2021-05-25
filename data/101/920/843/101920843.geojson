@@ -74,6 +74,9 @@
         "wk:page":"Araqah"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"24d1e3929c5a2432290e1865107ff014",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101920843,
-    "wof:lastmodified":1621641392,
+    "wof:lastmodified":1621974949,
     "wof:name":"Al 'Araqa",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

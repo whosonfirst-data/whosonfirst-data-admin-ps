@@ -74,6 +74,9 @@
         "wd:id":"Q4802836"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ad3caa179533eac690cb58f9fa7242c",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101921689,
-    "wof:lastmodified":1621641398,
+    "wof:lastmodified":1621974953,
     "wof:name":"As Sawiya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

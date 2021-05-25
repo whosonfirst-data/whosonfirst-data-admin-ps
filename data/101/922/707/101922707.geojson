@@ -83,6 +83,9 @@
         "wk:page":"Beit Kahil"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"06d12a64016e3fa24742f933a49bc687",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101922707,
-    "wof:lastmodified":1621641403,
+    "wof:lastmodified":1621974944,
     "wof:name":"Beit Kahil",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

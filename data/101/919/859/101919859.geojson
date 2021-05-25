@@ -77,6 +77,9 @@
         "wk:page":"Juhor ad-Dik"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e818f7742c43b8491e01ecbed425326f",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101919859,
-    "wof:lastmodified":1621641426,
+    "wof:lastmodified":1621974951,
     "wof:name":"Juhor ad Dik",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",

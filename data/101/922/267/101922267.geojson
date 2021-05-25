@@ -88,6 +88,9 @@
         "wd:id":"Q4540439"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"11ac81501b3feed624520470a03ec484",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101922267,
-    "wof:lastmodified":1621641421,
+    "wof:lastmodified":1621974945,
     "wof:name":"'Arab al Jahalin",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wk:page":"Kufeirit"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"889ac69c79035d043cbe31549c768f42",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101920933,
-    "wof:lastmodified":1621641406,
+    "wof:lastmodified":1621974950,
     "wof:name":"Kufeirit",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

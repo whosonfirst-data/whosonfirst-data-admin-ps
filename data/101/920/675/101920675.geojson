@@ -51,6 +51,9 @@
         "gp:id":1979609
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"16360c9bcaa0260520bbe2f91f948e85",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101920675,
-    "wof:lastmodified":1621641377,
+    "wof:lastmodified":1621974948,
     "wof:name":"Khirbt Al 'Adass",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

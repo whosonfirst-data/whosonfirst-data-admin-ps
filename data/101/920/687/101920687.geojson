@@ -218,6 +218,9 @@
         "wd:id":"Q172343"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e4f164ef8c14cef283347045bcd3c417",
     "wof:hierarchy":[
         {
@@ -240,7 +243,7 @@
         }
     ],
     "wof:id":101920687,
-    "wof:lastmodified":1621641420,
+    "wof:lastmodified":1621974948,
     "wof:name":"Rafah",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

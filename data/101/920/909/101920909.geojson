@@ -85,6 +85,9 @@
         "wd:id":"Q3380916"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b447279d7ecf8c23ac3c379bc269f88",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101920909,
-    "wof:lastmodified":1621641391,
+    "wof:lastmodified":1621974948,
     "wof:name":"Deir Abu Da'if",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

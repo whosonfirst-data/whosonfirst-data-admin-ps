@@ -78,6 +78,9 @@
         "wk:page":"Tura al-Gharbiya"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d560965c32dd20930b09689400a63536",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1175613365,
-    "wof:lastmodified":1621641414,
+    "wof:lastmodified":1621974942,
     "wof:name":"Tura al Gharbiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

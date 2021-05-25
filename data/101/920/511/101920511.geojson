@@ -75,6 +75,9 @@
         "wd:id":"Q7267988"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f5fb17e02bb63ded926d06c57f69cb5",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101920511,
-    "wof:lastmodified":1621641415,
+    "wof:lastmodified":1621974949,
     "wof:name":"Qizan an Najjar",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

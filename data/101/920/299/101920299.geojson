@@ -54,6 +54,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f1e5b1c63de0db2fbb0fbbb3e90d225",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101920299,
-    "wof:lastmodified":1621641378,
+    "wof:lastmodified":1621974950,
     "wof:name":"Ar Ramadin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

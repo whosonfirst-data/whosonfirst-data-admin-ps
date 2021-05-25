@@ -54,6 +54,9 @@
         "qs_pg:id":744069
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"346a801022e3e5118918ae0b3d4e16e8",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101922745,
-    "wof:lastmodified":1621641402,
+    "wof:lastmodified":1621974948,
     "wof:name":"Ar Rawa'in",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

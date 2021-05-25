@@ -68,6 +68,9 @@
         "wd:id":"Q15236034"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb492e01071f1c557505be7fd4a4a56f",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101922905,
-    "wof:lastmodified":1621641379,
+    "wof:lastmodified":1621974946,
     "wof:name":"Khallet al Maiyya",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

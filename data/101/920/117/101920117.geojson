@@ -51,6 +51,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97e679d1fc380583f81432865f3e42ea",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101920117,
-    "wof:lastmodified":1621641391,
+    "wof:lastmodified":1621974949,
     "wof:name":"Somara",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

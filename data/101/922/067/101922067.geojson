@@ -80,6 +80,9 @@
         "wd:id":"Q6191988"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"463ded0dc0f32ea6f81a3d80baab58bc",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101922067,
-    "wof:lastmodified":1621641431,
+    "wof:lastmodified":1621974947,
     "wof:name":"Al Jib",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

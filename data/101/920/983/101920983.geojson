@@ -63,7 +63,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"049ac434d7f4e58c703b6a1dfc39698b",
     "wof:hierarchy":[
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":101920983,
-    "wof:lastmodified":1621641335,
+    "wof:lastmodified":1621974949,
     "wof:name":"Al Mughayyir",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

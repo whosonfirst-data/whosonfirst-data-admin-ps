@@ -77,6 +77,9 @@
         "wd:id":"Q2898490"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3dbefff7ef84831b2c2bdf0d77e9fc39",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101921097,
-    "wof:lastmodified":1621641347,
+    "wof:lastmodified":1621974953,
     "wof:name":"Kafr Ra'i",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

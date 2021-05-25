@@ -127,6 +127,9 @@
         "wd:id":"Q2915285"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"04465d489ee6856f9c2998f77475dacc",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101922401,
-    "wof:lastmodified":1621641339,
+    "wof:lastmodified":1621974945,
     "wof:name":"Battir",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -377,6 +377,9 @@
         "wk:page":"Ramallah"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6af8000af9092d349720c2a0b971148a",
     "wof:hierarchy":[
         {
@@ -399,7 +402,7 @@
         }
     ],
     "wof:id":101921973,
-    "wof:lastmodified":1621641380,
+    "wof:lastmodified":1621974955,
     "wof:name":"Ramallah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

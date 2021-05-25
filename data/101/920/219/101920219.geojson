@@ -51,6 +51,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c5c7e32c4cc94b25b99602f33a142a31",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101920219,
-    "wof:lastmodified":1621641423,
+    "wof:lastmodified":1621974948,
     "wof:name":"'Anab al Kabir",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

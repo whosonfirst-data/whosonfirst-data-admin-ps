@@ -51,6 +51,9 @@
         "gp:id":1936768
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3af5ed0da9950e3c9f1cf375c8156f83",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101922527,
-    "wof:lastmodified":1621641369,
+    "wof:lastmodified":1621974945,
     "wof:name":"Khallet 'Afana",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

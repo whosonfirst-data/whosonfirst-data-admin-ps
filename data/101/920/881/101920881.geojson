@@ -216,6 +216,9 @@
         "wk:page":"Jenin"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fceff40a1c4316affe3e8f59a4397f70",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1621641338,
+    "wof:lastmodified":1621974949,
     "wof:name":"Jenin",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -79,6 +79,9 @@
         "wd:id":"Q4702883"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"472bcc0840b3efbaae2168a22ee911eb",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101921821,
-    "wof:lastmodified":1621641402,
+    "wof:lastmodified":1621974953,
     "wof:name":"Al Mazra'a ash Sharqiya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

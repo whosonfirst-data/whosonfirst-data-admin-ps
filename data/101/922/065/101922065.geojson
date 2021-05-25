@@ -76,6 +76,9 @@
         "wd:id":"Q2905320"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"93769bbcfc56b944992bb28a7d85b9f1",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101922065,
-    "wof:lastmodified":1621641379,
+    "wof:lastmodified":1621974945,
     "wof:name":"Bir Nabala",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

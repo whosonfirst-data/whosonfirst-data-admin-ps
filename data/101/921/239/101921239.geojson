@@ -51,6 +51,9 @@
         "gp:id":1937304
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d9543f7352c85bea61faf7b208954f7e",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101921239,
-    "wof:lastmodified":1621641402,
+    "wof:lastmodified":1621974954,
     "wof:name":"El Far'a Camp",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

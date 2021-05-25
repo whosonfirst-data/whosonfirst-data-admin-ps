@@ -77,6 +77,9 @@
         "wd:id":"Q4702965"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d6f8f617da2a29a64b1fc48f5272d5cf",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101920119,
-    "wof:lastmodified":1621641362,
+    "wof:lastmodified":1621974949,
     "wof:name":"Al Musaddar",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

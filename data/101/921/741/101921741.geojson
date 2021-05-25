@@ -51,6 +51,9 @@
         "gp:id":1937300
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bd447480a3060ecae79aa2eb9d181930",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101921741,
-    "wof:lastmodified":1621641353,
+    "wof:lastmodified":1621974954,
     "wof:name":"Mazari' an Nubani (Bani Zeid ash S",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

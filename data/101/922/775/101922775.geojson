@@ -99,6 +99,9 @@
         "wk:page":"Bani Na'im"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9377731118930b7ee9f3e548f7c19fdf",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101922775,
-    "wof:lastmodified":1621641390,
+    "wof:lastmodified":1621974947,
     "wof:name":"Bani Na'im",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

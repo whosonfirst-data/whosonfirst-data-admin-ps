@@ -77,6 +77,9 @@
         "wk:page":"Yatma"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f6287ca633e001d1d0eff4b2895c3df",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101921645,
-    "wof:lastmodified":1621641338,
+    "wof:lastmodified":1621974953,
     "wof:name":"Yatma",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

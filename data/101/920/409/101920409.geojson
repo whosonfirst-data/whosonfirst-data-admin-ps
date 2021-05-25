@@ -122,6 +122,9 @@
         "wk:page":"Bani Suheila"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d8a644122a20b9d795428e19cfa841e",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101920409,
-    "wof:lastmodified":1621641371,
+    "wof:lastmodified":1621974949,
     "wof:name":"Bani Suheila",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

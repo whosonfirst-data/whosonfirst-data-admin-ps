@@ -110,6 +110,9 @@
         "wk:page":"As-Samu"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a2996a301937619606e5a9ac844e26d1",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101923095,
-    "wof:lastmodified":1621641368,
+    "wof:lastmodified":1621974944,
     "wof:name":"As Samu'",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

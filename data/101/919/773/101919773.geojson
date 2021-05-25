@@ -49,6 +49,9 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c1fb1039a877097e51015d8e8a88f888",
     "wof:hierarchy":[
         {
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101919773,
-    "wof:lastmodified":1621641336,
+    "wof:lastmodified":1621974952,
     "wof:name":"As Sikka",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

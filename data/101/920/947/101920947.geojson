@@ -51,6 +51,9 @@
         "gp:id":1937299
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae97f3e8f62d8a9e322f4f76944148ea",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101920947,
-    "wof:lastmodified":1621641381,
+    "wof:lastmodified":1621974949,
     "wof:name":"Masqufet al Hajj Mas'ud",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

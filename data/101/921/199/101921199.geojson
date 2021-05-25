@@ -192,7 +192,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"9b8509bd36aa94df36f2576582fdefca",
     "wof:hierarchy":[
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":101921199,
-    "wof:lastmodified":1621641336,
+    "wof:lastmodified":1621974954,
     "wof:name":"Tubas",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

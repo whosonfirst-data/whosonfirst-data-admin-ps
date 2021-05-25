@@ -69,6 +69,9 @@
         "wk:page":"Deir Razih"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58e87ea8e9177474a2f028c99b2b4f8d",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101922819,
-    "wof:lastmodified":1621641377,
+    "wof:lastmodified":1621974945,
     "wof:name":"Deir Razih",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

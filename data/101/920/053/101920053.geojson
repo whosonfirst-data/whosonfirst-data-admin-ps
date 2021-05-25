@@ -97,6 +97,9 @@
         "wk:page":"Az-Zawayda"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e5477e43506f628016b930928a88834c",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101920053,
-    "wof:lastmodified":1621641377,
+    "wof:lastmodified":1621974949,
     "wof:name":"Az Zawayda",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

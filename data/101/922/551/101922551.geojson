@@ -84,6 +84,9 @@
         "wk:page":"Surif"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"820975c4d650edc4c28f06b6108bcfaf",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101922551,
-    "wof:lastmodified":1621641373,
+    "wof:lastmodified":1621974944,
     "wof:name":"Surif",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

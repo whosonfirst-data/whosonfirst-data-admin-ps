@@ -51,6 +51,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c0989f5d3a20558518053c059ec6838e",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101922763,
-    "wof:lastmodified":1621641362,
+    "wof:lastmodified":1621974944,
     "wof:name":"Kureise",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

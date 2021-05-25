@@ -51,6 +51,9 @@
         "gp:id":56125661
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4dfc52a99fc24852c11c140bc011fde5",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101919981,
-    "wof:lastmodified":1621641398,
+    "wof:lastmodified":1621974952,
     "wof:name":"Al Bureij Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

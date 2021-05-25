@@ -81,6 +81,9 @@
         "wd:id":"Q4703304"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bb44617d8c0ca663034e303b9983170",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101922385,
-    "wof:lastmodified":1621641352,
+    "wof:lastmodified":1621974945,
     "wof:name":"Al 'Ubeidiya",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

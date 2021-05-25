@@ -134,7 +134,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"dfa5b92f78c631c75aad5a2fb0a6e9a7",
     "wof:hierarchy":[
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":101922871,
-    "wof:lastmodified":1621641402,
+    "wof:lastmodified":1621974946,
     "wof:name":"Yatta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

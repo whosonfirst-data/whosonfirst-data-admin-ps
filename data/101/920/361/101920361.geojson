@@ -49,6 +49,9 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59f4c8ec0e407c6f92011fae91cf9695",
     "wof:hierarchy":[
         {
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101920361,
-    "wof:lastmodified":1621641354,
+    "wof:lastmodified":1621974949,
     "wof:name":"'Arab al Fureijat",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -143,6 +143,9 @@
         "wk:page":"Beit Hanoun"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b3fb64ff253fe163721dd29c6bd7751",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101919687,
-    "wof:lastmodified":1621641351,
+    "wof:lastmodified":1621974951,
     "wof:name":"Beit Hanun",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

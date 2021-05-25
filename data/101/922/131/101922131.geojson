@@ -88,7 +88,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "wof:geomhash":"1a9fc9f18c857e8254dd8e283f2a5089",
     "wof:hierarchy":[
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":101922131,
-    "wof:lastmodified":1621641412,
+    "wof:lastmodified":1621974946,
     "wof:name":"Beit Hanina",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

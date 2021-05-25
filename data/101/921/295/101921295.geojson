@@ -89,7 +89,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"5728beb9b9605086bf2d87554a2cbcb8",
     "wof:hierarchy":[
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":101921295,
-    "wof:lastmodified":1621641339,
+    "wof:lastmodified":1621974953,
     "wof:name":"Tammun",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

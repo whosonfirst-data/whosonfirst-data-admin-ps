@@ -78,6 +78,9 @@
         "wk:page":"Kafr Qallil"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dcba66bdf4c8a9f835e92f9b6d8d1d31",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101921439,
-    "wof:lastmodified":1621641353,
+    "wof:lastmodified":1621974953,
     "wof:name":"Kafr Qalil",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

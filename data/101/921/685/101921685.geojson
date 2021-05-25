@@ -83,6 +83,9 @@
         "wk:page":"Qusra"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3023cddac4b351c685e8005977f58ccf",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101921685,
-    "wof:lastmodified":1621641361,
+    "wof:lastmodified":1621974954,
     "wof:name":"Qusra",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

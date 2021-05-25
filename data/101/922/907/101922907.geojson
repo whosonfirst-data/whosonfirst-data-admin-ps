@@ -78,6 +78,9 @@
         "wk:page":"Rabud"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"22f6bb2548720027d9d31aed10bd705e",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101922907,
-    "wof:lastmodified":1621641424,
+    "wof:lastmodified":1621974944,
     "wof:name":"Rabud",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -74,6 +74,9 @@
         "wd:id":"Q6314948"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"88eaafc4e0a6e9890444a77d82b4b701",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101922541,
-    "wof:lastmodified":1621641373,
+    "wof:lastmodified":1621974947,
     "wof:name":"Jurat ash Sham'a",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -54,6 +54,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2e124e10e4d47ef15770d53197c5b9d",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101919799,
-    "wof:lastmodified":1621641364,
+    "wof:lastmodified":1621974951,
     "wof:name":"Marah al Baqqar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -54,6 +54,9 @@
         "gp:id":1937180
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"27e05b3d3104ea11be7f3692ee085864",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101921889,
-    "wof:lastmodified":1621641335,
+    "wof:lastmodified":1621974952,
     "wof:name":"Al Mazra'a al Qibliya",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

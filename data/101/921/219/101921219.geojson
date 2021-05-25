@@ -52,6 +52,9 @@
         "gp:id":1937300
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1592d110a5abf8227668ac2636bc7b0b",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101921219,
-    "wof:lastmodified":1621641421,
+    "wof:lastmodified":1621974953,
     "wof:name":"'Izbat al Khilal",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

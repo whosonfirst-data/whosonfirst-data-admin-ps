@@ -76,7 +76,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d67a0eb1ac9783a178abc65abe4b968c",
     "wof:hierarchy":[
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":101919787,
-    "wof:lastmodified":1621641402,
+    "wof:lastmodified":1621974952,
     "wof:name":"Al Majd",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -51,6 +51,9 @@
         "gp:id":56125660
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45e373837cd3982460cfeaf4de840d9e",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101920089,
-    "wof:lastmodified":1621641364,
+    "wof:lastmodified":1621974950,
     "wof:name":"Al Maghazi Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

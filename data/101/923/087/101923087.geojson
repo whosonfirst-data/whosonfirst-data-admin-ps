@@ -61,6 +61,10 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "whosonfirst"
+    ],
     "wof:geomhash":"7d3cc137b2f3d580717b1c256eb44ecf",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101923087,
-    "wof:lastmodified":1621641346,
+    "wof:lastmodified":1621974943,
     "wof:name":"Khirbet Tawil ash Shih",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

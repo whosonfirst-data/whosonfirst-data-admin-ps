@@ -81,6 +81,9 @@
         "wk:page":"Bruqin"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"914ad3a10b4e646c7a565ab4c4a6f5c8",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101921687,
-    "wof:lastmodified":1621641336,
+    "wof:lastmodified":1621974953,
     "wof:name":"Bruqin",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

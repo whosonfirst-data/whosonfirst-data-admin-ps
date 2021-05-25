@@ -71,6 +71,9 @@
         "wd:id":"Q8068604"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ce85a5f27ae5ef6efc65a33319370ba",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101921081,
-    "wof:lastmodified":1621641399,
+    "wof:lastmodified":1621974954,
     "wof:name":"Zeita",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

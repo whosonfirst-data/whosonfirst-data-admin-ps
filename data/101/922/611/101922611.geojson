@@ -86,6 +86,9 @@
         "wk:page":"Beit Fajjar"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7ba7f1cdd0faed2a3c4db9ad00d41e7",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101922611,
-    "wof:lastmodified":1621641394,
+    "wof:lastmodified":1621974945,
     "wof:name":"Beit Fajjar",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

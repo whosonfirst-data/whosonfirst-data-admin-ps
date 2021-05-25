@@ -104,7 +104,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "wof:geomhash":"1c8af6fa48f75bfecb006a2c3514bbb7",
     "wof:hierarchy":[
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":101922041,
-    "wof:lastmodified":1621641427,
+    "wof:lastmodified":1621974944,
     "wof:name":"Qalandiya",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

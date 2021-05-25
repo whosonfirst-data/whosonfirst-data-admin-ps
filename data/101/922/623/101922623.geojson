@@ -73,6 +73,9 @@
         "wd:id":"Q7267724"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"094ba10077e55d0ce3ae8be049ba4180",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101922623,
-    "wof:lastmodified":1621641426,
+    "wof:lastmodified":1621974946,
     "wof:name":"Qila",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

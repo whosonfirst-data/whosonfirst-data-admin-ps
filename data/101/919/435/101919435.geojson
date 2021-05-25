@@ -152,6 +152,9 @@
         "wk:page":"Qalqilya"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3efc3aefa01a293938175af8a881571f",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101919435,
-    "wof:lastmodified":1621641339,
+    "wof:lastmodified":1621974952,
     "wof:name":"Qalqiliya",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

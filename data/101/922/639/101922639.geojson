@@ -101,6 +101,9 @@
         "wk:page":"Beit Ummar"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c9840572c7f849467919aadd90d56b6",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101922639,
-    "wof:lastmodified":1621641422,
+    "wof:lastmodified":1621974947,
     "wof:name":"Beit Ummar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

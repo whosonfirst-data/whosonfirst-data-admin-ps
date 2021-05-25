@@ -86,6 +86,9 @@
         "wd:id":"Q1814855"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"70c3cbb3fd664b865a60a42e45bcffc0",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101920427,
-    "wof:lastmodified":1621641360,
+    "wof:lastmodified":1621974950,
     "wof:name":"'Abasan al Jadida",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

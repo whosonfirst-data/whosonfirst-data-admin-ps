@@ -99,6 +99,9 @@
         "wk:page":"Al-Yamun"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b33d04ca804d9c1dae454a1bfe6720e7",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1175613439,
-    "wof:lastmodified":1621641404,
+    "wof:lastmodified":1621974943,
     "wof:name":"Al Yamun",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

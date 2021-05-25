@@ -68,6 +68,9 @@
         "wd:id":"Q7697199"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a158e7c6a9558fbb1ff076ce1f427ff5",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101921017,
-    "wof:lastmodified":1621641421,
+    "wof:lastmodified":1621974954,
     "wof:name":"Telfit",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

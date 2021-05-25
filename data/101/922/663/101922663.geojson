@@ -58,6 +58,9 @@
         "gp:id":56123335
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f50f286c374eebcf34199ee685a6ff19",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101922663,
-    "wof:lastmodified":1621641431,
+    "wof:lastmodified":1621974947,
     "wof:name":"'Irqan Turad",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

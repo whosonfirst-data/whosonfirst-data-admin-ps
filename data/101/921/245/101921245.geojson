@@ -67,6 +67,9 @@
         "qs_pg:id":547043
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d8c0693d26b41654f66ee4082201119",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101921245,
-    "wof:lastmodified":1621641423,
+    "wof:lastmodified":1621974952,
     "wof:name":"Kafa",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

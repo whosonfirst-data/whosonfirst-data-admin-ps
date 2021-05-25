@@ -54,6 +54,9 @@
         "gp:id":1937300
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0bcced7f2c5228968ad64b719f1427e2",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101921111,
-    "wof:lastmodified":1621641431,
+    "wof:lastmodified":1621974953,
     "wof:name":"Ar Rama",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -90,6 +90,9 @@
         "wk:page":"Wadi as-Salqa"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57878cad681b5e89531c566a0cfa4884",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101920241,
-    "wof:lastmodified":1621641383,
+    "wof:lastmodified":1621974950,
     "wof:name":"Wadi as Salqa",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

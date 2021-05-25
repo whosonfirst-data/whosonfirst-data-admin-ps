@@ -65,6 +65,9 @@
         "wd:id":"Q5872652"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f0f6fc3b09a2e68a44141bd461fa0111",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101922609,
-    "wof:lastmodified":1621641346,
+    "wof:lastmodified":1621974947,
     "wof:name":"Hitta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

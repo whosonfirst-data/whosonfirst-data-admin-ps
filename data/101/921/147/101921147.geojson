@@ -80,6 +80,9 @@
         "wk:page":"Tayasir"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"abbdfa54da5e3305fb21b167ef5213a2",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101921147,
-    "wof:lastmodified":1621641423,
+    "wof:lastmodified":1621974955,
     "wof:name":"Tayasir",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

@@ -65,6 +65,9 @@
         "wd:id":"Q2402197"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa2770ac82a927144cfbb913efcfe8ab",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101919875,
-    "wof:lastmodified":1621641405,
+    "wof:lastmodified":1621974951,
     "wof:name":"Beit Mirsim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

@@ -74,6 +74,9 @@
         "wd:id":"Q5509818"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7fdd0afb8da46b3e799c3eaf954850f6",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1175613187,
-    "wof:lastmodified":1621641427,
+    "wof:lastmodified":1621974943,
     "wof:name":"Furush Beit Dajan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

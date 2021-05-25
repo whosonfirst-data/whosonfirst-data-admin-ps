@@ -86,7 +86,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"dc1f36c6f3e174eb2fa9e6f2e03e7555",
     "wof:hierarchy":[
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":101921665,
-    "wof:lastmodified":1621641407,
+    "wof:lastmodified":1621974954,
     "wof:name":"Qabalan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

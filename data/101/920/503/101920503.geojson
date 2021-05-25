@@ -113,6 +113,9 @@
         "wk:page":"Abasan al-Kabira"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c9e37bab07a312af718597d35dd2c7ad",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101920503,
-    "wof:lastmodified":1621641372,
+    "wof:lastmodified":1621974948,
     "wof:name":"'Abasan al Kabira",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

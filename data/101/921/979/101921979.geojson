@@ -71,6 +71,9 @@
         "wd:id":"Q4749688"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"824209627fbf97d27c4aef409a097931",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101921979,
-    "wof:lastmodified":1621641422,
+    "wof:lastmodified":1621974953,
     "wof:name":"An Nuwei'ma",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

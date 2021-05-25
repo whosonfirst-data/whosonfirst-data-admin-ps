@@ -101,6 +101,9 @@
         "wk:page":"Birzeit"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"859091ea1ffa8de7eafaa27c6be301b8",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101921875,
-    "wof:lastmodified":1621641392,
+    "wof:lastmodified":1621974953,
     "wof:name":"Bir Zeit",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -54,6 +54,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d738a9b0a501aae16ead68c2184aada",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101922985,
-    "wof:lastmodified":1621641430,
+    "wof:lastmodified":1621974946,
     "wof:name":"Ma'in",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

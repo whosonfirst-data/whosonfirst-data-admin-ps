@@ -51,6 +51,9 @@
         "gp:id":56125659
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa932878fc9d85ea8d9074686ab22bc7",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101919935,
-    "wof:lastmodified":1621641435,
+    "wof:lastmodified":1621974951,
     "wof:name":"An Nuseirat Camp",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

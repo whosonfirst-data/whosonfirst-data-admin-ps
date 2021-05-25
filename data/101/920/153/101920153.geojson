@@ -129,6 +129,9 @@
         "wd:id":"Q557383"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"25bd1c344235b71da35dcf8f8aab30af",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101920153,
-    "wof:lastmodified":1621641345,
+    "wof:lastmodified":1621974949,
     "wof:name":"Deir al Balah",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

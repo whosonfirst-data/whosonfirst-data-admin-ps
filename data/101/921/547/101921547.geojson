@@ -83,7 +83,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"00fed37b1795f2956ea1d0d2d07ce330",
     "wof:hierarchy":[
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":101921547,
-    "wof:lastmodified":1621641403,
+    "wof:lastmodified":1621974955,
     "wof:name":"Al Jiftlik",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

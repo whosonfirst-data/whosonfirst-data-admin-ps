@@ -83,6 +83,9 @@
         "wk:page":"Asira ash-Shamaliya"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7834e59415db48b18105b89f9bcbbecf",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101921357,
-    "wof:lastmodified":1621641378,
+    "wof:lastmodified":1621974954,
     "wof:name":"'Asira ash Shamaliya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -87,6 +87,9 @@
         "wd:id":"Q1814882"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f2fa954c627996b31ee8c66d1f90c79",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101920575,
-    "wof:lastmodified":1621641422,
+    "wof:lastmodified":1621974949,
     "wof:name":"Khuza'a",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

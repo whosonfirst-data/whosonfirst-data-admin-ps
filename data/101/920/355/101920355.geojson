@@ -233,6 +233,9 @@
         "wk:page":"Khan Yunis"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"98729c6c894733c011150de9cdf7b161",
     "wof:hierarchy":[
         {
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":101920355,
-    "wof:lastmodified":1621641387,
+    "wof:lastmodified":1621974948,
     "wof:name":"Khan Yunis",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
         "wk:page":"Shokat as-Sufi"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ee1464aec31fb242a90904c03241ede",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101920701,
-    "wof:lastmodified":1621641394,
+    "wof:lastmodified":1621974948,
     "wof:name":"Al Shoka",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

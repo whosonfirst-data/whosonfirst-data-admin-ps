@@ -119,6 +119,9 @@
         "wk:page":"Salfit"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a46dfd50f692282c2ff54e4595fb32a2",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101921701,
-    "wof:lastmodified":1621641412,
+    "wof:lastmodified":1621974952,
     "wof:name":"Salfit",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

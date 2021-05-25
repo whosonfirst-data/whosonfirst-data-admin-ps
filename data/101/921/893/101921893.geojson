@@ -81,6 +81,9 @@
         "wk:page":"Deir Qaddis"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"baf33f9feaa53a36d606c776de503346",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101921893,
-    "wof:lastmodified":1621641394,
+    "wof:lastmodified":1621974953,
     "wof:name":"Deir Qaddis",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

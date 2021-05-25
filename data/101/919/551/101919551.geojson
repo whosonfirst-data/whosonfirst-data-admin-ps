@@ -132,6 +132,9 @@
         "wk:page":"Beit Lahia"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f5ad1b38951a7468981f33c15c3451c",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101919551,
-    "wof:lastmodified":1621641412,
+    "wof:lastmodified":1621974951,
     "wof:name":"Beit Lahiya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

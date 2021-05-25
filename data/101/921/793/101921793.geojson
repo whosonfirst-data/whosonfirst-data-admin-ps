@@ -51,6 +51,9 @@
         "gp:id":1937300
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47a10dea1be852b053d0359795792bd7",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101921793,
-    "wof:lastmodified":1621641363,
+    "wof:lastmodified":1621974954,
     "wof:name":"An Nabi Salih (Bani Zeid al gharbi",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

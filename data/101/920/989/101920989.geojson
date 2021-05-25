@@ -78,6 +78,9 @@
         "wk:page":"Bir al-Basha"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3efd7050ce472ab951595598e334e486",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101920989,
-    "wof:lastmodified":1621641404,
+    "wof:lastmodified":1621974950,
     "wof:name":"Bir al Basha",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

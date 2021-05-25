@@ -79,6 +79,9 @@
         "wd:id":"Q7504651"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb36c87d8a75d159ae13fc2f7c299d55",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101921299,
-    "wof:lastmodified":1621641406,
+    "wof:lastmodified":1621974955,
     "wof:name":"Shufa",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

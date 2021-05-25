@@ -80,6 +80,9 @@
         "wd:id":"Q4702406"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fdc974e5323f83c558f467dffebac5b3",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101920643,
-    "wof:lastmodified":1621641401,
+    "wof:lastmodified":1621974948,
     "wof:name":"Al Fukhari",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

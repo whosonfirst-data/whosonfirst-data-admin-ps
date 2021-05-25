@@ -150,6 +150,9 @@
         "wk:page":"Tulkarm"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1cdb675ad49a712feb752ae21c619978",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101921181,
-    "wof:lastmodified":1621641384,
+    "wof:lastmodified":1621974953,
     "wof:name":"Tulkarm",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

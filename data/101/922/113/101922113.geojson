@@ -51,7 +51,8 @@
     "wof:concordances":{},
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "wof:geomhash":"178e88f70a16d58186ff11bd33271c41",
     "wof:hierarchy":[
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101922113,
-    "wof:lastmodified":1621641426,
+    "wof:lastmodified":1621974948,
     "wof:name":"Ar Ram & Dahiyat al Bareed",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

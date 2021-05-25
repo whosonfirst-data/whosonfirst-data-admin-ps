@@ -51,6 +51,9 @@
         "gp:id":1937300
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c16b75ebe1181c46a31aa503b669743",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101921335,
-    "wof:lastmodified":1621641368,
+    "wof:lastmodified":1621974954,
     "wof:name":"Al 'Aqrabaniya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

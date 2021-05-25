@@ -77,6 +77,9 @@
         "wk:page":"Jalqamus"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6be1dcc0fda56215f9c04d83af5c73e5",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101920969,
-    "wof:lastmodified":1621641395,
+    "wof:lastmodified":1621974950,
     "wof:name":"Jalqamus",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

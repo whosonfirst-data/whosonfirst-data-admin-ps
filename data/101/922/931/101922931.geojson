@@ -51,6 +51,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a01b96922ec50c246b7e25667df8774f",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101922931,
-    "wof:lastmodified":1621641429,
+    "wof:lastmodified":1621974944,
     "wof:name":"Az Zuweidin",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -83,6 +83,9 @@
         "wd:id":"Q4804345"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b726d099385e95cc0ad51809d520cff4",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101922689,
-    "wof:lastmodified":1621641370,
+    "wof:lastmodified":1621974945,
     "wof:name":"Ash Shuyukh",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

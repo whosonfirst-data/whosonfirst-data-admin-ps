@@ -137,6 +137,9 @@
         "wk:page":"Jabalia"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fbee1f748a6d4e6a0398e6be8185bb9a",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101919623,
-    "wof:lastmodified":1621641357,
+    "wof:lastmodified":1621974951,
     "wof:name":"Jabalya",
     "wof:parent_id":1091913267,
     "wof:placetype":"locality",

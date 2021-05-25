@@ -92,6 +92,9 @@
         "wk:page":"Misilyah"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b33377e923b48b0d729b437a83be4f86",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101921061,
-    "wof:lastmodified":1621641422,
+    "wof:lastmodified":1621974954,
     "wof:name":"Misliya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

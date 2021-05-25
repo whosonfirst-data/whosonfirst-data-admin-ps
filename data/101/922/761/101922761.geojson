@@ -86,6 +86,9 @@
         "wk:page":"Taffuh"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35040dcc8232f3099bc2b0b2cd9a1eca",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101922761,
-    "wof:lastmodified":1621641399,
+    "wof:lastmodified":1621974946,
     "wof:name":"Taffuh",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

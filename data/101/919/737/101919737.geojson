@@ -73,6 +73,9 @@
         "wd:id":"Q5252523"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a70e3bfc4d4d743a475292957bb831b2",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101919737,
-    "wof:lastmodified":1621641337,
+    "wof:lastmodified":1621974951,
     "wof:name":"Deir Samit",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

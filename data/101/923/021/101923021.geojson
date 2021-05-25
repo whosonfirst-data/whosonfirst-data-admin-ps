@@ -58,6 +58,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0455caf29dd647e24c87ecc8628105eb",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101923021,
-    "wof:lastmodified":1621641380,
+    "wof:lastmodified":1621974944,
     "wof:name":"Khirbet Shuweika",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

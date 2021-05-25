@@ -76,6 +76,9 @@
         "wd:id":"Q6754648"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"20282ca8b65f287de177b990daeab7ef",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101922567,
-    "wof:lastmodified":1621641379,
+    "wof:lastmodified":1621974944,
     "wof:name":"Marah Rabah",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

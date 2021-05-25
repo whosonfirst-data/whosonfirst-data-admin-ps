@@ -84,6 +84,9 @@
         "wk:page":"Beit Surik"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"567a5233e7aec48a1f21b34432e5a8f5",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101922169,
-    "wof:lastmodified":1621641347,
+    "wof:lastmodified":1621974944,
     "wof:name":"Beit Surik",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

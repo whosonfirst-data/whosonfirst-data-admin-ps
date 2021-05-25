@@ -58,6 +58,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"648296a2b324aab4eb56aeeeac9a09b2",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101922665,
-    "wof:lastmodified":1621641431,
+    "wof:lastmodified":1621974947,
     "wof:name":"Al Baqqar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

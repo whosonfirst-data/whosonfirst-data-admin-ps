@@ -86,6 +86,9 @@
         "wd:id":"Q59624"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57c28dff495a740d7b09b5e4431ab998",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101920673,
-    "wof:lastmodified":1621641414,
+    "wof:lastmodified":1621974948,
     "wof:name":"Al Bayuk",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

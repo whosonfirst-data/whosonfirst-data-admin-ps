@@ -52,6 +52,9 @@
         "gp:id":1937307
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72c9db4ef99caf69ceb4f007e9a8752c",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101923091,
-    "wof:lastmodified":1621641423,
+    "wof:lastmodified":1621974943,
     "wof:name":"Haribat an Nabi",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

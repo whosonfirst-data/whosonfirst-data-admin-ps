@@ -80,6 +80,9 @@
         "wd:id":"Q2916287"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d9eba89ebcb167ba131dbd9b186dc50",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1175613407,
-    "wof:lastmodified":1621641421,
+    "wof:lastmodified":1621974942,
     "wof:name":"Sur Bahir",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

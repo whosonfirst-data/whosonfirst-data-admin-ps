@@ -84,6 +84,9 @@
         "wk:page":"Jamma'in"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ad969b2bb6aadba4070a26515a484ed",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101921599,
-    "wof:lastmodified":1621641345,
+    "wof:lastmodified":1621974954,
     "wof:name":"Jamma'in",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

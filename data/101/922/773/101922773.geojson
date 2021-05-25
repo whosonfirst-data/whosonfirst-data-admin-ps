@@ -117,6 +117,9 @@
         "wk:page":"Dura, Hebron"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e9bf0c207f22aff231d1835bb4e9875",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101922773,
-    "wof:lastmodified":1621641357,
+    "wof:lastmodified":1621974948,
     "wof:name":"Dura",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

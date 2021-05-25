@@ -82,6 +82,9 @@
         "wd:id":"Q573785"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a9084ccede9275edd6997ceda3da22f",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101919819,
-    "wof:lastmodified":1621641407,
+    "wof:lastmodified":1621974951,
     "wof:name":"Al Mughraqa",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",

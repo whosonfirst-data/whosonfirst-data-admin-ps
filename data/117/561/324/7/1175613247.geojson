@@ -51,6 +51,9 @@
         "gp:id":56122344
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a36de9dbb353df763b11ab0ebd706c09",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1175613247,
-    "wof:lastmodified":1621641421,
+    "wof:lastmodified":1621974942,
     "wof:name":"Khirbet Jubara",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

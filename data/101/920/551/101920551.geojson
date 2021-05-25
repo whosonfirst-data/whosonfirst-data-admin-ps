@@ -52,6 +52,9 @@
         "gp:id":1979609
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7fd9d820db9a1efcdb122cd6615df1c",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101920551,
-    "wof:lastmodified":1621641380,
+    "wof:lastmodified":1621974948,
     "wof:name":"Umm Kameil",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

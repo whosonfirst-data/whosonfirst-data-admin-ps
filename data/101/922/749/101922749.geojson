@@ -70,6 +70,9 @@
         "wd:id":"Q4703309"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b159d4ba19f48fc6add004ad2c55d88",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101922749,
-    "wof:lastmodified":1621641427,
+    "wof:lastmodified":1621974945,
     "wof:name":"Al 'Uddeisa",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

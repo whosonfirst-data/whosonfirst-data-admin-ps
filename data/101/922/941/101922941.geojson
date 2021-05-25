@@ -80,6 +80,9 @@
         "wd:id":"Q406552"
     },
     "wof:country":"PS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36a082ec84aec03716bf90c9124a1589",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101922941,
-    "wof:lastmodified":1621641336,
+    "wof:lastmodified":1621974945,
     "wof:name":"Khurisa",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

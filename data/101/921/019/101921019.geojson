@@ -121,7 +121,8 @@
     },
     "wof:country":"PS",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "wof:geomhash":"d06949cee6cb869b6ece638f64862aec",
     "wof:hierarchy":[
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":101921019,
-    "wof:lastmodified":1621641427,
+    "wof:lastmodified":1621974954,
     "wof:name":"Qabatiya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
