@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Gaza ash Shamaliyah"
     ],
+    "name:fra_x_preferred":[
+        "Gaza-Nord"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1091913267,
-    "wof:lastmodified":1617130356,
+    "wof:lastmodified":1627522519,
     "wof:name":"North Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",
