@@ -51,6 +51,9 @@
     "name:bel_x_preferred":[
         "\u0406\u0435\u0440\u0443\u0441\u0430\u043b\u0456\u043c\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u09b0\u09c1\u099c\u09be\u09b2\u09c7\u09ae"
+    ],
     "name:bre_x_preferred":[
         "Distrig Jeruzalem"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:deu_x_preferred":[
         "Bezirk Jerusalem"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc"
     ],
     "name:eng_x_preferred":[
         "Jerusalem"
@@ -104,6 +110,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u0930\u0942\u0936\u0932\u0947\u092e"
     ],
     "name:hun_x_preferred":[
         "Jeruzs\u00e1lemi k\u00f6rzet"
@@ -277,7 +286,7 @@
         }
     ],
     "wof:id":421200701,
-    "wof:lastmodified":1617130933,
+    "wof:lastmodified":1636494852,
     "wof:name":"Jerusalem",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

@@ -143,6 +143,9 @@
         "Gaza"
     ],
     "name:hun_x_preferred":[
+        "Gaza"
+    ],
+    "name:hun_x_variant":[
         "G\u00e1za"
     ],
     "name:hye_x_preferred":[
@@ -487,7 +490,7 @@
         }
     ],
     "wof:id":101919639,
-    "wof:lastmodified":1621974951,
+    "wof:lastmodified":1636494852,
     "wof:name":"Gaza",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",
