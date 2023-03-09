@@ -489,6 +489,9 @@
     "name:ori_x_variant":[
         "\u0b2a\u0b3e\u0b32\u0b47\u0b37\u0b4d\u0b1f\u0b3e\u0b07\u0b28"
     ],
+    "name:pan_x_preferred":[
+        "\u0a2b\u0a3f\u0a32\u0a3f\u0a38\u0a24\u0a40\u0a28"
+    ],
     "name:pli_x_preferred":[
         "\u092b\u093f\u0932\u093f\u0938\u094d\u0924\u0940\u0928"
     ],
@@ -948,7 +951,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1617827371,
+    "wof:lastmodified":1678302200,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
