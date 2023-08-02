@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0628\u0631\u0648\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0628\u0631\u0648\u062f"
+    ],
     "name:bul_x_preferred":[
         "\u042f\u0431\u0440\u0443\u0434"
     ],
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101921839,
-    "wof:lastmodified":1621974955,
+    "wof:lastmodified":1690856005,
     "wof:name":"Yabrud",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

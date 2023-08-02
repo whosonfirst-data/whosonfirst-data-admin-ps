@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0635\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0641\u0631 \u0635\u0648\u0631"
+    ],
     "name:cat_x_preferred":[
         "Kafr Sur"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1126043579,
-    "wof:lastmodified":1566600630,
+    "wof:lastmodified":1690856025,
     "wof:name":"Kafr \u015e\u016br",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

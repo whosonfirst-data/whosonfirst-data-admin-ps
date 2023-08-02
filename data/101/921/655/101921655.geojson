@@ -26,6 +26,9 @@
     "name:ara_x_variant":[
         "\u0633\u0631\u0637\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0631\u0637\u0647"
+    ],
     "name:cat_x_preferred":[
         "Sarta"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101921655,
-    "wof:lastmodified":1621974954,
+    "wof:lastmodified":1690856003,
     "wof:name":"Sarta",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

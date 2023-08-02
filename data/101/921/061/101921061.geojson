@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0633\u0644\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0633\u0644\u064a\u0647"
+    ],
     "name:cat_x_preferred":[
         "Misilyah"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Misilyah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e1\u05d9\u05dc\u05d9\u05d4"
     ],
     "name:kor_x_preferred":[
         "\ubbf8\uc2e4\uc57c"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":101921061,
-    "wof:lastmodified":1621974954,
+    "wof:lastmodified":1690856004,
     "wof:name":"Misliya",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

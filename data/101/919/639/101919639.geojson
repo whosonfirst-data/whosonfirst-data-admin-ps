@@ -32,11 +32,17 @@
     "name:ara_x_preferred":[
         "\u063a\u0632\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u063a\u0632\u0647"
+    ],
     "name:ast_x_preferred":[
         "Gaza"
     ],
     "name:aze_x_preferred":[
         "Q\u0259zza"
+    ],
+    "name:aze_x_variant":[
+        "Q\u0259zz\u0259"
     ],
     "name:bak_x_preferred":[
         "\u0492\u04d9\u0437\u0437\u04d9"
@@ -46,6 +52,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0997\u09be\u099c\u09be \u09b8\u09bf\u099f\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u0997\u09be\u099c\u09be"
     ],
     "name:bos_x_preferred":[
         "Gaza"
@@ -68,14 +77,23 @@
     "name:ckb_x_preferred":[
         "\u063a\u06d5\u0632\u0632\u06d5"
     ],
+    "name:cor_x_preferred":[
+        "Gaza"
+    ],
     "name:cym_x_preferred":[
         "Gaza"
+    ],
+    "name:cym_x_variant":[
+        "Dinas Gaza"
     ],
     "name:dan_x_preferred":[
         "Gaza"
     ],
     "name:deu_x_preferred":[
         "Gaza"
+    ],
+    "name:diq_x_preferred":[
+        "\u011eeza"
     ],
     "name:dut_x_variant":[
         "Gaza"
@@ -127,6 +145,9 @@
     "name:gla_x_preferred":[
         "G\u00e0sa"
     ],
+    "name:gle_x_preferred":[
+        "Cathair Gaza"
+    ],
     "name:glg_x_preferred":[
         "Gaza"
     ],
@@ -150,6 +171,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0542\u0561\u0566\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0561\u0566\u0561"
     ],
     "name:ind_x_preferred":[
         "Gaza"
@@ -194,6 +218,9 @@
         "Gaza"
     ],
     "name:lit_x_preferred":[
+        "Gaza"
+    ],
+    "name:lmo_x_preferred":[
         "Gaza"
     ],
     "name:mai_x_preferred":[
@@ -280,6 +307,9 @@
     "name:spa_x_variant":[
         "Gaza"
     ],
+    "name:sqi_x_preferred":[
+        "Gaza"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0430\u0437\u0430"
     ],
@@ -309,6 +339,12 @@
     ],
     "name:urd_x_preferred":[
         "\u063a\u0632\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "G\u02bbazza"
+    ],
+    "name:vec_x_preferred":[
+        "Gaza"
     ],
     "name:vep_x_preferred":[
         "Gaz"
@@ -490,7 +526,7 @@
         }
     ],
     "wof:id":101919639,
-    "wof:lastmodified":1636494852,
+    "wof:lastmodified":1690855975,
     "wof:name":"Gaza",
     "wof:parent_id":1091913297,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0628\u062a\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u062a\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Battir"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a4\u09cd\u09a4\u09bf\u09b0"
     ],
@@ -35,6 +41,9 @@
     "name:ces_x_preferred":[
         "Battir"
     ],
+    "name:dag_x_preferred":[
+        "Battir"
+    ],
     "name:deu_x_preferred":[
         "Battir"
     ],
@@ -44,7 +53,16 @@
     "name:fas_x_preferred":[
         "\u0628\u062a\u06cc\u0631"
     ],
+    "name:fat_x_preferred":[
+        "Battir"
+    ],
+    "name:fin_x_preferred":[
+        "Battir"
+    ],
     "name:fra_x_preferred":[
+        "Battir"
+    ],
+    "name:gur_x_preferred":[
         "Battir"
     ],
     "name:heb_x_preferred":[
@@ -52,6 +70,9 @@
     ],
     "name:hrv_x_preferred":[
         "Battir"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u057f\u056b\u0580"
     ],
     "name:ind_x_preferred":[
         "Battir"
@@ -62,11 +83,17 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30c6\u30a3\u30a2"
     ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30c6\u30a3\u30fc\u30eb"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e2\u10d8\u10e0\u10d8"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f\u0d7c"
+    ],
+    "name:mlt_x_preferred":[
+        "Battir"
     ],
     "name:nld_x_preferred":[
         "Battir"
@@ -89,8 +116,14 @@
     "name:tur_x_preferred":[
         "Battir"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u062a\u06cc\u0631"
+    ],
     "name:vie_x_preferred":[
         "Battir"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5730\u5c14"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -152,7 +185,7 @@
         }
     ],
     "wof:id":101922401,
-    "wof:lastmodified":1621974945,
+    "wof:lastmodified":1690855949,
     "wof:name":"Battir",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0639\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Beit Awwa"
+    ],
     "name:cat_x_preferred":[
         "Beit Awwa"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1126043489,
-    "wof:lastmodified":1566600628,
+    "wof:lastmodified":1690856022,
     "wof:name":"Bayt \u2018Aww\u0101",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

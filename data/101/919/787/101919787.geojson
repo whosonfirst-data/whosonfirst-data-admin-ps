@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u062c\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u062c\u062f"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0645\u062c\u062f"
+    ],
     "name:cat_x_preferred":[
         "Al-Majd"
     ],
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":101919787,
-    "wof:lastmodified":1621974952,
+    "wof:lastmodified":1690855976,
     "wof:name":"Al Majd",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

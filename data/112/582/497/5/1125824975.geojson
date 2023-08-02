@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0635\u064a\u0631\u0629 \u0627\u0644\u0642\u0628\u0644\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0635\u064a\u0631\u0629 \u0627\u0644\u0642\u0628\u0644\u064a\u0647"
+    ],
     "name:cat_x_preferred":[
         "Asira al-Qibliya"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125824975,
-    "wof:lastmodified":1566600642,
+    "wof:lastmodified":1690856045,
     "wof:name":"\u2018A\u015f\u012brah al Qibl\u012byah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0645\u0627\u0639\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0645\u0627\u0639\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Jamma'in"
+    ],
     "name:cat_x_preferred":[
         "Jamma'in"
     ],
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":101921599,
-    "wof:lastmodified":1621974954,
+    "wof:lastmodified":1690855996,
     "wof:name":"Jamma'in",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

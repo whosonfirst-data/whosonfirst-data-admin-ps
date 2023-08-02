@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0627\u0644\u0628\u0627\u0634\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631 \u0627\u0644\u0628\u0627\u0634\u0627"
+    ],
     "name:cat_x_preferred":[
         "Bir al-Basha"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125775137,
-    "wof:lastmodified":1566600652,
+    "wof:lastmodified":1690856061,
     "wof:name":"B\u012br al B\u0101sh\u0101",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

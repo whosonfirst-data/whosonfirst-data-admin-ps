@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u0639\u062a\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u062a\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Attil"
+    ],
     "name:cat_x_preferred":[
         "Attil"
     ],
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125898179,
-    "wof:lastmodified":1566600636,
+    "wof:lastmodified":1690856037,
     "wof:name":"\u2018Att\u012bl",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0633\u062d\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0633\u062d\u0647"
+    ],
     "name:cat_x_preferred":[
         "Mas-ha"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125838925,
-    "wof:lastmodified":1566600654,
+    "wof:lastmodified":1690856063,
     "wof:name":"Mas\u1e29ah",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

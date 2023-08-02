@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0639\u0648\u0631 \u0627\u0644\u062a\u062d\u062a\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u0987\u09a4 \u0989\u09b0 \u0986\u09b2-\u09a4\u09be\u09b9\u09a4\u09be"
+    ],
     "name:cat_x_preferred":[
         "Beit Ur al-Tahta"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt \u2018\u016ar at Ta\u1e29t\u0101"
     ],
     "name:eng_x_preferred":[
         "Beit Ur al-Tahta"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125839159,
-    "wof:lastmodified":1566600654,
+    "wof:lastmodified":1690856064,
     "wof:name":"Bayt \u2018\u016ar at Ta\u1e29t\u0101",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

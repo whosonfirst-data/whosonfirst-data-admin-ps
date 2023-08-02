@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7918.670712,
-    "geom:bbox":"35.0010147095,31.3746204376,35.002117157,31.3755664825",
+    "geom:bbox":"35.001015,31.37462,35.002117,31.375566",
     "geom:latitude":31.375079,
     "geom:longitude":35.001607,
     "iso:country":"PS",
@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0632\u0646\u0648\u062a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0632\u0646\u0648\u062a\u0647"
+    ],
     "name:cat_x_preferred":[
         "Khirbet Zanuta"
     ],
     "name:eng_x_preferred":[
         "Khirbet Zanuta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05e8\u05d1\u05ea \u05d6\u05e0\u05d5\u05d8\u05d4"
     ],
     "name:nld_x_preferred":[
         "Khirbet Zanuta"
@@ -66,7 +72,7 @@
         "wd:id":"Q6401765"
     },
     "wof:country":"PS",
-    "wof:geomhash":"d804a59a8c80c650d42bd4ba8a72f801",
+    "wof:geomhash":"62f7b53490f7440f666defae03ec0c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101923103,
-    "wof:lastmodified":1566600471,
+    "wof:lastmodified":1690855943,
     "wof:name":"Khirbet Zanuta",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
@@ -98,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.00101470947266,
-    31.37462043762207,
-    35.00211715698242,
-    31.37556648254395
+    35.001015,
+    31.37462,
+    35.002117,
+    31.375566
 ],
-  "geometry": {"coordinates":[[[35.00101470947266,31.37480926513672],[35.00112533569336,31.37537574768066],[35.00200653076172,31.37556648254395],[35.00211715698242,31.37462043762207],[35.00101470947266,31.37480926513672]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.001015,31.374809],[35.001125,31.375376],[35.002007,31.375566],[35.002117,31.37462],[35.001015,31.374809]]],"type":"Polygon"}
 }

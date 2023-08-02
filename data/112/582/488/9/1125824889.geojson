@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Rujeib"
     ],
+    "name:nob_x_preferred":[
+        "Rujeib"
+    ],
     "name:pol_x_preferred":[
         "Rud\u017cajb"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125824889,
-    "wof:lastmodified":1566600644,
+    "wof:lastmodified":1690856049,
     "wof:name":"R\u016bjayb",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

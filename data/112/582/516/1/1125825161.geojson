@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u064a\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062c\u064a\u0628"
+    ],
     "name:cat_x_preferred":[
         "Al-Jib"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125825161,
-    "wof:lastmodified":1566600644,
+    "wof:lastmodified":1690856047,
     "wof:name":"Al J\u012bb",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

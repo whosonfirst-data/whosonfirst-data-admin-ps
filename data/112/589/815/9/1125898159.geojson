@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0627\u0648\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0632\u0627\u0648\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Zawiya"
+    ],
     "name:cat_x_preferred":[
         "Zawiya"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125898159,
-    "wof:lastmodified":1566600637,
+    "wof:lastmodified":1690856037,
     "wof:name":"Az Z\u0101wiyah",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

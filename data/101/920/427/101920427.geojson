@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u0635\u063a\u064a\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u0635\u063a\u064a\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Abasan al-Saghira"
+    ],
     "name:cat_x_preferred":[
         "Abasan al-Saghira"
     ],
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":101920427,
-    "wof:lastmodified":1621974950,
+    "wof:lastmodified":1690855969,
     "wof:name":"'Abasan al Jadida",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

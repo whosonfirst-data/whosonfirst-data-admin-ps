@@ -26,10 +26,19 @@
     "name:ara_x_variant":[
         "\u0646\u0648\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0648\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nuba"
+    ],
     "name:cat_x_preferred":[
         "Nuba"
     ],
     "name:eng_x_preferred":[
+        "Nuba"
+    ],
+    "name:fra_x_preferred":[
         "Nuba"
     ],
     "name:heb_x_preferred":[
@@ -40,6 +49,9 @@
     ],
     "name:pol_x_preferred":[
         "Nuba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0628\u0627"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1175613431,
-    "wof:lastmodified":1621974943,
+    "wof:lastmodified":1690855942,
     "wof:name":"Nuba",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

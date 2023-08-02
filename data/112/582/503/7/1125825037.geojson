@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u0642\u0637\u0646\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0637\u0646\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Qatanna"
+    ],
     "name:cat_x_preferred":[
         "Qatanna"
     ],
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1125825037,
-    "wof:lastmodified":1566600641,
+    "wof:lastmodified":1690856042,
     "wof:name":"Qatanne",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

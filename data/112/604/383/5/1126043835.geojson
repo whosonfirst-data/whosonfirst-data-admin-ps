@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0627\u0646\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0646\u064a\u0647"
+    ],
     "name:cat_x_preferred":[
         "Al-Janiya"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1126043835,
-    "wof:lastmodified":1566600628,
+    "wof:lastmodified":1690856022,
     "wof:name":"Al J\u0101niyah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

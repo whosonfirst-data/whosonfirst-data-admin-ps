@@ -28,6 +28,12 @@
     "name:cat_x_preferred":[
         "Tell"
     ],
+    "name:ceb_x_preferred":[
+        "Till"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Tell"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:nld_x_preferred":[
         "Tell"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u043b"
     ],
     "name:spa_x_preferred":[
         "Tell"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1126023901,
-    "wof:lastmodified":1566600625,
+    "wof:lastmodified":1690856017,
     "wof:name":"Till",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

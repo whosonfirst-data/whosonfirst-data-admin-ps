@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u062d\u0637\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u062d\u0637\u0628"
+    ],
     "name:cat_x_preferred":[
         "Deir al-Hatab"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1126023943,
-    "wof:lastmodified":1566600626,
+    "wof:lastmodified":1690856018,
     "wof:name":"Dayr al \u1e28a\u0163ab",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

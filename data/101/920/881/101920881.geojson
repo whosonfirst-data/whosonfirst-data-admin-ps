@@ -23,6 +23,15 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0646\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Jenin"
+    ],
+    "name:aze_x_preferred":[
+        "Cenin"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09a8\u09bf\u09a8"
     ],
@@ -47,8 +56,14 @@
     "name:deu_x_preferred":[
         "Dschenin"
     ],
+    "name:diq_x_preferred":[
+        "Cenin"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03ad\u03bd\u03b9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b6\u03b5\u03bd\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Jenin"
@@ -122,6 +137,9 @@
     "name:nob_x_preferred":[
         "Jenin"
     ],
+    "name:oss_x_preferred":[
+        "\u0414\u0436\u0435\u043d\u0438\u043d"
+    ],
     "name:pnb_x_preferred":[
         "\u062c\u0646\u06cc\u0646"
     ],
@@ -129,6 +147,9 @@
         "D\u017canin"
     ],
     "name:por_x_preferred":[
+        "Jenin"
+    ],
+    "name:ron_x_preferred":[
         "Jenin"
     ],
     "name:rus_x_preferred":[
@@ -146,6 +167,9 @@
     "name:spa_x_preferred":[
         "Yen\u00edn"
     ],
+    "name:srp_x_preferred":[
+        "\u040f\u0435\u043d\u0438\u043d"
+    ],
     "name:swe_x_preferred":[
         "Jenin"
     ],
@@ -157,6 +181,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e08\u0e19\u0e34\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0d\u0e34\u0e19\u0e35\u0e19"
     ],
     "name:tur_x_preferred":[
         "Cenin"
@@ -244,7 +271,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1621974949,
+    "wof:lastmodified":1690855965,
     "wof:name":"Jenin",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

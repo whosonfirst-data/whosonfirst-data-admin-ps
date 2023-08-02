@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Bethlehem"
     ],
+    "name:aka_x_preferred":[
+        "Betlehem"
+    ],
     "name:amh_x_preferred":[
         "\u1264\u1270 \u120d\u1214\u121d"
     ],
@@ -52,6 +55,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09a5\u09c7\u09b2\u09b9\u09be\u09ae"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7\u09a5\u09b2\u09c7\u09b9\u09c7\u09ae"
+    ],
     "name:bjn_x_preferred":[
         "Baitul Lahmi"
     ],
@@ -73,8 +79,14 @@
     "name:ces_x_preferred":[
         "Betl\u00e9m"
     ],
+    "name:chv_x_preferred":[
+        "\u0412\u0438\u0444\u043b\u0435\u0435\u043c"
+    ],
     "name:ckb_x_preferred":[
         "\u0628\u06d5\u06cc\u062a \u0644\u06d5\u062d\u0645"
+    ],
+    "name:cor_x_preferred":[
+        "Bethlem"
     ],
     "name:cos_x_preferred":[
         "Betlemme"
@@ -90,6 +102,9 @@
     ],
     "name:deu_x_variant":[
         "Bethlehem"
+    ],
+    "name:diq_x_preferred":[
+        "Beytullahim"
     ],
     "name:dsb_x_preferred":[
         "Betlehem"
@@ -169,6 +184,12 @@
     "name:hyw_x_preferred":[
         "\u0532\u0565\u0569\u0572\u0565\u0570\u0567\u0574"
     ],
+    "name:ile_x_preferred":[
+        "Bethlem"
+    ],
+    "name:ina_x_preferred":[
+        "Bethlehem"
+    ],
     "name:ind_x_preferred":[
         "Betlehem"
     ],
@@ -193,11 +214,17 @@
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10d8\u10d7-\u10da\u10d0\u10f0\u10db\u10d8"
     ],
+    "name:kcg_x_preferred":[
+        "Ba\u0331italami"
+    ],
     "name:kor_x_preferred":[
         "\ubca0\ub4e4\ub808\ud5f4"
     ],
     "name:krc_x_preferred":[
         "\u0412\u0438\u0444\u043b\u0435\u0435\u043c"
+    ],
+    "name:kur_x_preferred":[
+        "Bethlehem"
     ],
     "name:lat_x_preferred":[
         "Bethleem"
@@ -235,11 +262,20 @@
     "name:mlg_x_preferred":[
         "Betlehema"
     ],
+    "name:mlt_x_preferred":[
+        "Betlem"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u0435\u0442\u043b\u0435\u0445\u0435\u043c"
     ],
+    "name:mri_x_preferred":[
+        "Peterehema"
+    ],
     "name:msa_x_preferred":[
         "Baitullaham"
+    ],
+    "name:mya_x_preferred":[
+        "\u1017\u1000\u103a\u101c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nah_x_preferred":[
         "Belen"
@@ -280,6 +316,9 @@
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u062a \u0627\u0644\u0644\u062d\u0645"
     ],
+    "name:pnb_x_variant":[
+        "\u0628\u06cc\u062a \u0644\u062d\u0645"
+    ],
     "name:pol_x_preferred":[
         "Betlejem"
     ],
@@ -301,6 +340,9 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u0444\u043b\u0435\u0435\u043c"
     ],
+    "name:sah_x_preferred":[
+        "\u0411\u044d\u0442\u043b\u044d\u04bb\u044d\u043c"
+    ],
     "name:scn_x_preferred":[
         "Betlemmi"
     ],
@@ -312,6 +354,12 @@
     ],
     "name:slv_x_preferred":[
         "Betlehem"
+    ],
+    "name:smn_x_preferred":[
+        "Betlehem"
+    ],
+    "name:som_x_preferred":[
+        "Baytulaxam"
     ],
     "name:spa_x_preferred":[
         "Bel\u00e9n"
@@ -473,7 +521,7 @@
         }
     ],
     "wof:id":101922341,
-    "wof:lastmodified":1621974945,
+    "wof:lastmodified":1690855952,
     "wof:name":"Bethlehem (Beit Lahm)",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

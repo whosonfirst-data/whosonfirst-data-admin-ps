@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u0643\u0641\u0644 \u062d\u0627\u0631\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0641\u0644 \u062d\u0627\u0631\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Kefl Hares"
+    ],
     "name:cat_x_preferred":[
         "Kifl Haris"
     ],
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1125861463,
-    "wof:lastmodified":1566600636,
+    "wof:lastmodified":1690856035,
     "wof:name":"Kifil \u1e28\u0101ris",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

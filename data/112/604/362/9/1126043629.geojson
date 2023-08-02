@@ -28,6 +28,9 @@
     "name:ara_x_variant":[
         "\u062c\u0627\u0644\u0648\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0644\u0648\u062f"
+    ],
     "name:cat_x_preferred":[
         "Jalud"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Jalud"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\ufedf\ufeed\ufea9"
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05dc\u05d5\u05d3"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1126043629,
-    "wof:lastmodified":1566600627,
+    "wof:lastmodified":1690856020,
     "wof:name":"J\u0101l\u016bd",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

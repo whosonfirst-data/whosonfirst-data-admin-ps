@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0638\u0627\u0647\u0631\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Al Dahiriya"
+    ],
     "name:cat_x_preferred":[
         "Ad-Dhahiriya"
     ],
@@ -41,10 +44,14 @@
         "Ad-Dhahiriya"
     ],
     "name:eng_x_variant":[
-        "ad-Dhahiriya"
+        "ad-Dhahiriya",
+        "Al Dahiriya"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0638\u0627\u0647\u0631\u06cc\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Adh Dhahiriya"
     ],
     "name:fra_x_preferred":[
         "Ad-Dhahiriya"
@@ -132,7 +139,7 @@
         }
     ],
     "wof:id":1125898165,
-    "wof:lastmodified":1566600636,
+    "wof:lastmodified":1690856036,
     "wof:name":"Az\u0327 Z\u0327\u0101hir\u012byah",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

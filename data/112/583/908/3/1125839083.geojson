@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0642\u0648\u0639\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0642\u0648\u0639\u0647"
+    ],
     "name:cat_x_preferred":[
         "Faqqua"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125839083,
-    "wof:lastmodified":1566600653,
+    "wof:lastmodified":1690856062,
     "wof:name":"Faqq\u016b\u2018ah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

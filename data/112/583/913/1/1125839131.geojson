@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0633\u0648\u0631\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u0648\u0631\u064a\u0643"
+    ],
     "name:cat_x_preferred":[
         "Beit Surik"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125839131,
-    "wof:lastmodified":1566600654,
+    "wof:lastmodified":1690856065,
     "wof:name":"Bayt S\u016br\u012bk",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

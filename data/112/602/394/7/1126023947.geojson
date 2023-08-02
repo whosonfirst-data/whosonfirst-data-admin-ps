@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u063a\u0635\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u062c\u0635\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "Deir al-Ghusun"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:und_x_variant":[
         "Dayr al Ghu\u015fn"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u064a\u0631 \u063a\u0635\u0648\u0646"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1126023947,
-    "wof:lastmodified":1566600626,
+    "wof:lastmodified":1690856018,
     "wof:name":"Dayr al Ghu\u015f\u016bn",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

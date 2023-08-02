@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0628\u064a\u062f\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0628\u064a\u062f\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "al-Ubeidiya"
+    ],
     "name:cat_x_preferred":[
         "Al-Ubeidiya"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb-\u039f\u03c5\u03bc\u03c0\u03b5\u03ca\u03bd\u03c4\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Al-Ubeidiya"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":101922385,
-    "wof:lastmodified":1621974945,
+    "wof:lastmodified":1690855953,
     "wof:name":"Al 'Ubeidiya",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

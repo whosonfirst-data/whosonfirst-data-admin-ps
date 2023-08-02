@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0623\u0628\u0648 \u0645\u0634\u0639\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0628\u0648 \u0645\u0634\u0639\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Deir Abu Mash'al"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u0987\u09b0 \u0986\u09ac\u09c1 \u09ae\u09be\u09b6\u0986\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Deir Abu Mash'al"
     ],
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125890953,
-    "wof:lastmodified":1566600637,
+    "wof:lastmodified":1690856038,
     "wof:name":"Dayr Ab\u016b Mash\u2018al",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u0642\u0644\u0642\u064a\u0644\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0644\u0642\u064a\u0644\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Qalqilya"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b\u043a\u0438\u043b\u0438\u044f"
+    ],
     "name:cat_x_preferred":[
         "Qalqilya"
     ],
@@ -33,6 +42,9 @@
     ],
     "name:ces_x_preferred":[
         "Kalk\u00edlija"
+    ],
+    "name:cym_x_preferred":[
+        "Qalqilya"
     ],
     "name:dan_x_preferred":[
         "Qalqilya"
@@ -55,7 +67,13 @@
     "name:fas_x_preferred":[
         "\u0642\u0644\u0642\u06cc\u0644\u06cc\u0647"
     ],
+    "name:fin_x_preferred":[
+        "Qalqiliya"
+    ],
     "name:fra_x_preferred":[
+        "Qalqilya"
+    ],
+    "name:gle_x_preferred":[
         "Qalqilya"
     ],
     "name:heb_x_preferred":[
@@ -183,7 +201,7 @@
         }
     ],
     "wof:id":1125825061,
-    "wof:lastmodified":1566600644,
+    "wof:lastmodified":1690856048,
     "wof:name":"Qalq\u012blyah",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

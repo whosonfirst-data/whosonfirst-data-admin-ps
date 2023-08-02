@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u062f\u0648\u0631\u0627 \u0627\u0644\u0642\u0631\u0639"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0631\u0627 \u0627\u0644\u0642\u0631\u0639"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c1\u09b0\u09be \u0986\u09b2-\u0995\u09be\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Dura al-Qar'"
     ],
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125839095,
-    "wof:lastmodified":1566600652,
+    "wof:lastmodified":1690856061,
     "wof:name":"D\u016br\u0101 al Qar\u2018",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0627\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0648\u0627\u062a\u0627"
+    ],
     "name:cat_x_preferred":[
         "Zawata"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Zawata"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0627\u062a\u0627"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d0\u05d5\u05d5\u05d0\u05ea\u05d0"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1126043333,
-    "wof:lastmodified":1566600632,
+    "wof:lastmodified":1690856027,
     "wof:name":"Zaw\u0101t\u0101",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

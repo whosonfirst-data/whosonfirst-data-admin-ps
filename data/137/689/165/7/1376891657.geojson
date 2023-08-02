@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062d\u0632\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0632\u0645\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Hizma"
+    ],
     "name:cat_x_preferred":[
         "Hizma"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1376891657,
-    "wof:lastmodified":1566600620,
+    "wof:lastmodified":1690856013,
     "wof:name":"Hizma",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

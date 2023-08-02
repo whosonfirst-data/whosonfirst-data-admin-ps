@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0631\u0629 \u0627\u0644\u0634\u0645\u0639\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0631\u0629 \u0627\u0644\u0634\u0645\u0639\u0647"
+    ],
     "name:cat_x_preferred":[
         "Jurat ash-Sham'a"
+    ],
+    "name:ceb_x_preferred":[
+        "J\u016brat ash Sham\u2018ah"
     ],
     "name:eng_x_preferred":[
         "Jurat ash-Sham'a"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1126043619,
-    "wof:lastmodified":1566600630,
+    "wof:lastmodified":1690856024,
     "wof:name":"J\u016brat ash Sham\u2018ah",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

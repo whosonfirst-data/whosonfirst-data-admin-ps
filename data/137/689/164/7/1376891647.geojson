@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Sur Baher"
     ],
+    "name:spa_x_preferred":[
+        "Sur Baher"
+    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0631 \u0628\u0627\u06c1\u0631"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1376891647,
-    "wof:lastmodified":1566600620,
+    "wof:lastmodified":1690856014,
     "wof:name":"Sur Bahir",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

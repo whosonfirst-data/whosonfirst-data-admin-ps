@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0635\u0641\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0635\u0641\u0627"
+    ],
     "name:cat_x_preferred":[
         "Saffa"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125824857,
-    "wof:lastmodified":1566600641,
+    "wof:lastmodified":1690856043,
     "wof:name":"\u015eaff\u0101",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

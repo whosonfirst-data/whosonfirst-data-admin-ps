@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u0639\u0632\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0632\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Azzoun"
+    ],
     "name:cat_x_preferred":[
         "Azzun"
     ],
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125839283,
-    "wof:lastmodified":1566600657,
+    "wof:lastmodified":1690856068,
     "wof:name":"\u2018Azz\u016bn",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

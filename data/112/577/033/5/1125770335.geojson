@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0636\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062e\u0636\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "al-Khader"
+    ],
     "name:cat_x_preferred":[
         "Al-Khader"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Kha\u1e11ir"
     ],
     "name:eng_x_preferred":[
         "Al-Khader"
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":1125770335,
-    "wof:lastmodified":1566600651,
+    "wof:lastmodified":1690856061,
     "wof:name":"Al Khadar",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

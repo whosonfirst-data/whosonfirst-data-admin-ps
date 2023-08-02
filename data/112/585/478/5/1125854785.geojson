@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u062d\u0648\u0633\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0648\u0633\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Husan"
+    ],
     "name:cat_x_preferred":[
         "Husan"
     ],
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125854785,
-    "wof:lastmodified":1566600647,
+    "wof:lastmodified":1690856053,
     "wof:name":"\u1e28\u016bs\u0101n",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

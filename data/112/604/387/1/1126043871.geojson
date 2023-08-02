@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0639\u0648\u062c\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u062c\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Al-Auja"
+    ],
     "name:cat_x_preferred":[
         "Al-Auja"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d5\u05d2'\u05d4 \u05d0-\u05ea\u05d7\u05ea\u05d0"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30a2\u30a6\u30b8\u30e3"
     ],
     "name:nld_x_preferred":[
         "Al-Auja"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1126043871,
-    "wof:lastmodified":1566600632,
+    "wof:lastmodified":1690856028,
     "wof:name":"Al \u2018Awj\u0101",
     "wof:parent_id":1091913007,
     "wof:placetype":"locality",

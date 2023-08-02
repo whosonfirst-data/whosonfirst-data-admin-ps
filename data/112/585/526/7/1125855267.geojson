@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0641\u0648\u0631\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0641\u0648\u0631\u064a\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Beit Furik"
+    ],
     "name:cat_x_preferred":[
         "Beit Furik"
     ],
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125855267,
-    "wof:lastmodified":1566600647,
+    "wof:lastmodified":1690856054,
     "wof:name":"Bayt F\u016br\u012bk",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

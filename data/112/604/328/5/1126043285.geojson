@@ -64,6 +64,9 @@
     "name:und_x_variant":[
         "Nu\u1e63eir\u0101"
     ],
+    "name:zho_x_preferred":[
+        "\u52aa\u8cfd\u62c9\u7279\u71df\u5730"
+    ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
     "qs_pg:gn_fcode":"PPL",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1126043285,
-    "wof:lastmodified":1566600633,
+    "wof:lastmodified":1690856029,
     "wof:name":"An Nu\u015fayr\u0101t",
     "wof:parent_id":1091913317,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0639\u0642\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u0642\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Kafr 'Aqab"
+    ],
     "name:cat_x_preferred":[
         "Kafr 'Aqab"
     ],
@@ -41,6 +47,12 @@
         "Kafr 'Aqab"
     ],
     "name:nno_x_preferred":[
+        "Kafr Aqab"
+    ],
+    "name:nob_x_preferred":[
+        "Kafr \u2019Aqab"
+    ],
+    "name:spa_x_preferred":[
         "Kafr Aqab"
     ],
     "name:und_x_variant":[
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":101922001,
-    "wof:lastmodified":1621974945,
+    "wof:lastmodified":1690855952,
     "wof:name":"Kafr 'Aqab",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

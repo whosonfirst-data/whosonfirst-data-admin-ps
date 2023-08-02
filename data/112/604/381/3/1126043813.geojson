@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639\u0647 \u0627\u0644\u0634\u0631\u0642\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Al-Mazra'a ash-Sharqiya"
+    ],
     "name:cat_x_preferred":[
         "Al-Mazra'a ash-Sharqiya"
     ],
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1126043813,
-    "wof:lastmodified":1566600633,
+    "wof:lastmodified":1690856030,
     "wof:name":"Al Mazra\u2018ah ash Sharq\u012byah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

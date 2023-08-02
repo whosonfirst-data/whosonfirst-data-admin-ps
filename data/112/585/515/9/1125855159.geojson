@@ -25,11 +25,17 @@
     "name:ara_x_preferred":[
         "\u0625\u0645\u0627\u062a\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645\u0627\u062a\u064a\u0646"
+    ],
     "name:cat_x_preferred":[
         "Immatain"
     ],
     "name:eng_x_preferred":[
         "Immatain"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0627\u062a\u06cc\u0646"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05de\u05d0\u05ea\u05d9\u05df"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125855159,
-    "wof:lastmodified":1566600649,
+    "wof:lastmodified":1690856058,
     "wof:name":"Imm\u0101t\u012bn",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

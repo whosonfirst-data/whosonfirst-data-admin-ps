@@ -28,6 +28,9 @@
     "name:ara_x_variant":[
         "\u0648\u0627\u062f\u064a \u0641\u0648\u0643\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0627\u062f\u0649 \u0641\u0648\u0643\u064a\u0646"
+    ],
     "name:cat_x_preferred":[
         "Wadi Fukin"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125824659,
-    "wof:lastmodified":1566600643,
+    "wof:lastmodified":1690856046,
     "wof:name":"W\u0101d\u012b F\u016bk\u012bn",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

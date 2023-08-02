@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0637\u0645\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0637\u0645\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Tammun"
+    ],
     "name:cat_x_preferred":[
         "Tammun"
     ],
@@ -30,6 +36,9 @@
         "\u0162amm\u016bn"
     ],
     "name:eng_x_preferred":[
+        "Tammun"
+    ],
+    "name:fin_x_preferred":[
         "Tammun"
     ],
     "name:heb_x_preferred":[
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":101921295,
-    "wof:lastmodified":1621974953,
+    "wof:lastmodified":1690855988,
     "wof:name":"Tammun",
     "wof:parent_id":1091913213,
     "wof:placetype":"locality",

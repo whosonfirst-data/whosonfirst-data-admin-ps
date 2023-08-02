@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0632\u064a\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631\u0632\u064a\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Birzeit"
+    ],
     "name:cat_x_preferred":[
         "Bir Zeit"
     ],
@@ -41,14 +47,23 @@
     "name:epo_x_preferred":[
         "Bir Zeit"
     ],
+    "name:eus_x_preferred":[
+        "Bir Zeit"
+    ],
     "name:fra_x_preferred":[
         "Bir Zeit"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05e8 \u05d6\u05d9\u05ea"
     ],
+    "name:ind_x_preferred":[
+        "Birzeit"
+    ],
     "name:ita_x_preferred":[
         "Bir Zeit"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30eb\u30bc\u30a4\u30c8"
     ],
     "name:nld_x_preferred":[
         "Bir Zeit"
@@ -56,11 +71,17 @@
     "name:nno_x_preferred":[
         "Bir Zeit"
     ],
+    "name:nob_x_preferred":[
+        "Bir Zeit"
+    ],
     "name:pol_x_preferred":[
         "Bir Zajt"
     ],
     "name:spa_x_preferred":[
         "Birzeit"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5c14\u5bb0\u7279"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -126,7 +147,7 @@
         }
     ],
     "wof:id":101921875,
-    "wof:lastmodified":1621974953,
+    "wof:lastmodified":1690855985,
     "wof:name":"Bir Zeit",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

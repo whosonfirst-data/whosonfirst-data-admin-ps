@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0627\u0648\u0629 \u0628\u0646\u064a \u0632\u064a\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0631\u0627\u0648\u0629 \u0628\u0646\u0649 \u0632\u064a\u062f"
+    ],
     "name:cat_x_preferred":[
         "Qarawat Bani Zeid"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125825055,
-    "wof:lastmodified":1566600641,
+    "wof:lastmodified":1690856042,
     "wof:name":"Qar\u0101wat Ban\u012b Zayd",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

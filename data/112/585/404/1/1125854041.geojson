@@ -25,13 +25,25 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0628\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0431\u0430\u0440"
+    ],
     "name:cat_x_preferred":[
         "Kobar"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u016bbar"
     ],
     "name:dan_x_preferred":[
         "Kobar"
     ],
     "name:eng_x_preferred":[
+        "Kobar"
+    ],
+    "name:fra_x_preferred":[
         "Kobar"
     ],
     "name:heb_x_preferred":[
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1125854041,
-    "wof:lastmodified":1566600649,
+    "wof:lastmodified":1690856056,
     "wof:name":"K\u016bbar",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

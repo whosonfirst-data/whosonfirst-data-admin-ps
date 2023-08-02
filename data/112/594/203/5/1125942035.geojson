@@ -25,7 +25,13 @@
     "name:ara_x_preferred":[
         "\u062d\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u062a\u0627"
+    ],
     "name:eng_x_preferred":[
+        "Hatta"
+    ],
+    "name:ind_x_preferred":[
         "Hatta"
     ],
     "name:pol_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:und_x_variant":[
         "Khirbat \u1e28a\u0163\u0163ah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u062a\u0627"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1125942035,
-    "wof:lastmodified":1566600623,
+    "wof:lastmodified":1690856015,
     "wof:name":"\u1e28att\u0101",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

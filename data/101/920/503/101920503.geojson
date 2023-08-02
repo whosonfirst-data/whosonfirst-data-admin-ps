@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0628\u0633\u0627\u0646 \u0627\u0644\u0643\u0628\u064a\u0631\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Abasan al-Kabera"
+    ],
     "name:cat_x_preferred":[
         "Abasan al-Kabira"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101920503,
-    "wof:lastmodified":1621974948,
+    "wof:lastmodified":1690855963,
     "wof:name":"'Abasan al Kabira",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

@@ -61,6 +61,9 @@
     "name:spa_x_preferred":[
         "Beit Safafa"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0421\u0430\u0444\u0430\u0444\u0430"
+    ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
     "qs:a1":"*",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1376891653,
-    "wof:lastmodified":1566600620,
+    "wof:lastmodified":1690856014,
     "wof:name":"Beit Safafa",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

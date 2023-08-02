@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0642\u0631\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0642\u0631\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Aqraba"
+    ],
     "name:cat_x_preferred":[
         "Aqraba"
     ],
@@ -32,6 +38,12 @@
         "\u2018Aqrab\u0101"
     ],
     "name:eng_x_preferred":[
+        "Aqraba"
+    ],
+    "name:fin_x_preferred":[
+        "Aqraba"
+    ],
+    "name:fra_x_preferred":[
         "Aqraba"
     ],
     "name:heb_x_preferred":[
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1126023973,
-    "wof:lastmodified":1566600625,
+    "wof:lastmodified":1690856017,
     "wof:name":"\u2018Aqrab\u0101",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

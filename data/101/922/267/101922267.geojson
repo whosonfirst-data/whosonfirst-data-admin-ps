@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0631\u0628 \u0627\u0644\u062c\u0647\u0627\u0644\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0631\u0628 \u0627\u0644\u063a\u0647\u0627\u0644\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09ac \u0986\u09b2-\u099c\u09be\u09b9\u09be\u09b2\u09bf\u09a8"
+    ],
     "name:cat_x_preferred":[
         "Arab al-Jahalin"
     ],
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":101922267,
-    "wof:lastmodified":1621974945,
+    "wof:lastmodified":1690855951,
     "wof:name":"'Arab al Jahalin",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

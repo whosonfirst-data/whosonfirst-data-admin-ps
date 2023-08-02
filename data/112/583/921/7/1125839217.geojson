@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0625\u062c\u0632\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u062c\u0632\u0627"
+    ],
     "name:cat_x_preferred":[
         "Beit Ijza"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125839217,
-    "wof:lastmodified":1566600657,
+    "wof:lastmodified":1690856068,
     "wof:name":"Bayt Ijz\u0101",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

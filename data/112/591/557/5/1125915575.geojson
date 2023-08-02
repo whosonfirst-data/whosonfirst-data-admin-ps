@@ -29,6 +29,9 @@
         "\u062e\u0631\u0633\u0627",
         "\u0643\u0631\u0632\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0631\u0632\u0647"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u0437\u0430\u0445"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125915575,
-    "wof:lastmodified":1566600638,
+    "wof:lastmodified":1690856040,
     "wof:name":"Khurs\u0101",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",
