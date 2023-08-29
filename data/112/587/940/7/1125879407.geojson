@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0627\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0627\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Al-Qarara"
+    ],
     "name:cat_x_preferred":[
         "Al-Qarara"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:fra_x_preferred":[
         "Al Qarara"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05e7\u05e8\u05d0\u05e8\u05d4"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30fb\u30ab\u30e9\u30e9"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1125879407,
-    "wof:lastmodified":1566600638,
+    "wof:lastmodified":1690856039,
     "wof:name":"Al Qar\u0101rah",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

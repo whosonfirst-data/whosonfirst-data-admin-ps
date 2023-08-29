@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
     "geom:area_square_m":187803.486616,
-    "geom:bbox":"35.2354011536,32.0675086975,35.2433128357,32.0721168518",
+    "geom:bbox":"35.235401,32.067509,35.243313,32.072117",
     "geom:latitude":32.07002,
-    "geom:longitude":35.23956,
+    "geom:longitude":35.239559,
     "gn:population":2439,
     "iso:country":"PS",
     "lbl:latitude":32.069741,
@@ -23,11 +23,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u0628\u0646 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0644\u0628\u0646 \u0627\u0644\u0634\u0631\u0642\u064a\u0647"
+    ],
     "name:cat_x_preferred":[
         "Al-Lubban ash-Sharqiya"
     ],
     "name:ceb_x_preferred":[
         "Al Lubban ash Sharq\u012byah"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Lubban ash-Sharqiya"
     ],
     "name:eng_x_preferred":[
         "Al-Lubban ash-Sharqiya"
@@ -38,8 +44,14 @@
     "name:fas_x_variant":[
         "\u0627\u0644\u0644\u0628\u0646 \u0627\u0644\u0634\u0631\u0642\u06cc\u0629"
     ],
+    "name:fra_x_preferred":[
+        "Al-Lubban ash-Sharqiya"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d1\u05d0\u05df \u05d0-\u05e9\u05e8\u05e7\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Lubban ash-Sharqiya"
     ],
     "name:nld_x_preferred":[
         "Al-Lubban ash-Sharqiya"
@@ -49,6 +61,12 @@
     ],
     "name:pol_x_preferred":[
         "Al-Lubban asz-Szarkijja"
+    ],
+    "name:por_x_preferred":[
+        "Al-Lubban ash-Sharqiya"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Lubban ash-Sharqiya"
     ],
     "name:und_x_variant":[
         "Lubban esh Sharqiya"
@@ -90,7 +108,7 @@
         "wk:page":"Al-Lubban ash-Sharqiya"
     },
     "wof:country":"PS",
-    "wof:geomhash":"2f088b4d283300122b1dbc2963edffe1",
+    "wof:geomhash":"396fe86417d3a32d1779f932776d3741",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":101921709,
-    "wof:lastmodified":1566600586,
+    "wof:lastmodified":1690855979,
     "wof:name":"Al Lubban ash Sharqiya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",
@@ -124,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.23540115356445,
-    32.06750869750977,
-    35.24331283569336,
-    32.07211685180664
+    35.235401,
+    32.067509,
+    35.243313,
+    32.072117
 ],
-  "geometry": {"coordinates":[[[35.23979568481445,32.06750869750977],[35.23898315429688,32.06843185424805],[35.23709106445312,32.06969833374023],[35.23540115356445,32.06964111328125],[35.23560333251953,32.07090759277344],[35.23743057250977,32.07107925415039],[35.23857879638672,32.07183074951172],[35.23966217041016,32.07107925415039],[35.24074172973633,32.07211685180664],[35.24202728271484,32.07107925415039],[35.24331283569336,32.06998443603516],[35.24222946166992,32.068603515625],[35.24128341674805,32.06958389282227],[35.24060440063477,32.06785583496094],[35.23979568481445,32.06750869750977]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.239796,32.067509],[35.238983,32.068432],[35.237091,32.069698],[35.235401,32.069641],[35.235603,32.070908],[35.237431,32.071079],[35.238579,32.071831],[35.239662,32.071079],[35.240742,32.072117],[35.242027,32.071079],[35.243313,32.069984],[35.242229,32.068604],[35.241283,32.069584],[35.240604,32.067856],[35.239796,32.067509]]],"type":"Polygon"}
 }

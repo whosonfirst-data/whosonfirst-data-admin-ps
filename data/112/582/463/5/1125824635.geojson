@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0632\u0639\u062a\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0639\u062a\u0631\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Za'atara"
+    ],
     "name:cat_x_preferred":[
         "Za'atara"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05e2\u05ea\u05e8\u05d4"
+    ],
+    "name:msa_x_preferred":[
+        "Za'atara"
     ],
     "name:nno_x_preferred":[
         "Za'atara"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1125824635,
-    "wof:lastmodified":1566600642,
+    "wof:lastmodified":1690856044,
     "wof:name":"Za\u2018tarah",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

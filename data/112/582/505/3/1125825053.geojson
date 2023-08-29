@@ -25,11 +25,20 @@
     "name:ara_x_preferred":[
         "\u0639\u0646\u0632\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0646\u0632\u0647"
+    ],
     "name:cat_x_preferred":[
         "Anzah"
     ],
+    "name:ceb_x_preferred":[
+        "\u2018Anzah"
+    ],
     "name:eng_x_preferred":[
         "Anzah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e0\u05d6\u05d4"
     ],
     "name:nld_x_preferred":[
         "Anzah"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125825053,
-    "wof:lastmodified":1566600641,
+    "wof:lastmodified":1690856042,
     "wof:name":"\u2018Anzah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

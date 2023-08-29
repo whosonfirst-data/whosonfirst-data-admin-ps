@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0642\u0648\u0645\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Tarqumiyah"
+    ],
     "name:cat_x_preferred":[
         "Tarqumiyah"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:und_x_variant":[
         "Tarq\u016bmiya"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0642\u0648\u0645\u06cc\u0627"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":101922685,
-    "wof:lastmodified":1621974946,
+    "wof:lastmodified":1690855956,
     "wof:name":"Tarqumiya",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

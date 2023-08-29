@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0643\u0629 \u0627\u0644\u0635\u0648\u0641\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0648\u0643\u0629 \u0627\u0644\u0635\u0648\u0641\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Shokat as-Sufi"
+    ],
     "name:cat_x_preferred":[
         "Shokat as-Sufi"
     ],
     "name:eng_x_preferred":[
         "Shokat as-Sufi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u06a9\u062a \u0627\u0644\u0635\u0648\u0641\u06cc"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d5\u05e7\u05d0\u05d8 \u05d0\u05e1 \u05e1\u05d5\u05e4\u05d9"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":101920701,
-    "wof:lastmodified":1621974948,
+    "wof:lastmodified":1690855963,
     "wof:name":"Al Shoka",
     "wof:parent_id":1091913365,
     "wof:placetype":"locality",

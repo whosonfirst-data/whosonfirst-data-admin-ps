@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0648\u0639"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0648\u0639"
+    ],
+    "name:ast_x_preferred":[
+        "as-Samu"
+    ],
     "name:cat_x_preferred":[
         "As-Samu"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0648\u0639"
+    ],
+    "name:fin_x_preferred":[
+        "As Samu'"
     ],
     "name:fra_x_preferred":[
         "As-Samu"
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":101923095,
-    "wof:lastmodified":1621974944,
+    "wof:lastmodified":1690855943,
     "wof:name":"As Samu'",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

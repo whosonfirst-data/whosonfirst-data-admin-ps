@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0635\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0635\u0631\u0647"
+    ],
     "name:cat_x_preferred":[
         "Qusra"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125825025,
-    "wof:lastmodified":1566600641,
+    "wof:lastmodified":1690856041,
     "wof:name":"Qu\u015frah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

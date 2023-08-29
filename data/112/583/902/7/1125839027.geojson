@@ -28,8 +28,14 @@
     "name:ara_x_variant":[
         "\u0625\u0630\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Idhna"
+    ],
     "name:cat_x_preferred":[
         "Idhna"
+    ],
+    "name:ces_x_preferred":[
+        "Izna"
     ],
     "name:deu_x_preferred":[
         "Idhna"
@@ -39,6 +45,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0630\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Idhna"
     ],
     "name:fra_x_preferred":[
         "Idhna"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125839027,
-    "wof:lastmodified":1566600655,
+    "wof:lastmodified":1690856066,
     "wof:name":"Idhn\u0101",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0635\u064a\u0631\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0635\u064a\u0631\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Asira ash-Shamaliya"
+    ],
     "name:cat_x_preferred":[
         "Asira ash-Shamaliya"
     ],
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":101921357,
-    "wof:lastmodified":1621974954,
+    "wof:lastmodified":1690855995,
     "wof:name":"'Asira ash Shamaliya",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

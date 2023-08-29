@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0635\u0631\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0635\u0631\u064a\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u0441\u0430\u0440\u0438\u043d"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1126043665,
-    "wof:lastmodified":1566600630,
+    "wof:lastmodified":1690856025,
     "wof:name":"Usarin",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

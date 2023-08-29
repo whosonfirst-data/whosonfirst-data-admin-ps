@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Tell Beit Mirsim"
     ],
+    "name:fra_x_preferred":[
+        "Tell Beit Mirsim"
+    ],
     "name:heb_x_preferred":[
         "\u05ea\u05dc \u05d1\u05d9\u05ea \u05de\u05d9\u05e8\u05e1\u05d9\u05dd"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101919875,
-    "wof:lastmodified":1621974951,
+    "wof:lastmodified":1690855973,
     "wof:name":"Beit Mirsim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

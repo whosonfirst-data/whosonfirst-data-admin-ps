@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0639\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0644\u0639\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bal'a"
+    ],
     "name:cat_x_preferred":[
         "Bal'a"
     ],
     "name:eng_x_preferred":[
         "Bal'a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0639\u0647"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05e2\u05d0"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":101921161,
-    "wof:lastmodified":1621974952,
+    "wof:lastmodified":1690855978,
     "wof:name":"Bal'a",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

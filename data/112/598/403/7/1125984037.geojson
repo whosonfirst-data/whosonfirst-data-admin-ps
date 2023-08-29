@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u062c\u0631\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631 \u062c\u0631\u064a\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u0987\u09b0 \u099c\u09be\u09b0\u09bf\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Deir Jarir"
     ],
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125984037,
-    "wof:lastmodified":1566600639,
+    "wof:lastmodified":1690856040,
     "wof:name":"Dayr Jar\u012br",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

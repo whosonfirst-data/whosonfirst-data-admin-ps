@@ -35,11 +35,20 @@
     "name:deu_x_preferred":[
         "Pisgat Ze\u2019ev"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03c3\u03b3\u03ba\u03ac\u03c4 \u0396\u03b5\u03ad\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Pisgat Ze'ev"
     ],
+    "name:fra_x_preferred":[
+        "Pisgat Ze\u2019ev"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05e1\u05d2\u05ea \u05d6\u05d0\u05d1"
+    ],
+    "name:nob_x_preferred":[
+        "Pisgat Ze'ev"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0441\u0433\u0430\u0442-\u0417\u0435\u044d\u0432"
@@ -128,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314133,
+    "wof:lastmodified":1690855926,
     "wof:name":"Pisgat Ze'ev",
     "wof:parent_id":101922113,
     "wof:placetype":"neighbourhood",

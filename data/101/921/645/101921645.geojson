@@ -26,6 +26,9 @@
     "name:ara_x_variant":[
         "\u064a\u062a\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u062a\u0645\u0627"
+    ],
     "name:cat_x_preferred":[
         "Yatma"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Yatma"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u062a\u0645\u0627"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05ea\u05de\u05d0"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":101921645,
-    "wof:lastmodified":1621974953,
+    "wof:lastmodified":1690855983,
     "wof:name":"Yatma",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

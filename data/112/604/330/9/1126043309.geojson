@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u0647\u064a\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Bani Suheila"
+    ],
     "name:cat_x_preferred":[
         "Bani Suheila"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1126043309,
-    "wof:lastmodified":1566600627,
+    "wof:lastmodified":1690856020,
     "wof:name":"Ban\u012b Suhayl\u0101",
     "wof:parent_id":1091913333,
     "wof:placetype":"locality",

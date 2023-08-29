@@ -25,11 +25,17 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0642\u0627\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0642\u0627\u062f"
+    ],
     "name:cat_x_preferred":[
         "Beit Qad"
     ],
     "name:eng_x_preferred":[
         "Bayt Qad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u0642\u0627\u062f"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05e7\u05d0\u05d3"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125839181,
-    "wof:lastmodified":1566600656,
+    "wof:lastmodified":1690856068,
     "wof:name":"Bayt Q\u0101d",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

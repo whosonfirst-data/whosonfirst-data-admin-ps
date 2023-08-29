@@ -28,10 +28,16 @@
     "name:ara_x_variant":[
         "\u0639\u0627\u0628\u0648\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0627\u0628\u0648\u062f"
+    ],
     "name:cat_x_preferred":[
         "Aboud"
     ],
     "name:eng_x_preferred":[
+        "Aboud"
+    ],
+    "name:fin_x_preferred":[
         "Aboud"
     ],
     "name:fra_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d0\u05d1\u05d5\u05d3"
+    ],
+    "name:ind_x_preferred":[
+        "Aboud"
     ],
     "name:nld_x_preferred":[
         "Aboud"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1126043741,
-    "wof:lastmodified":1566600633,
+    "wof:lastmodified":1690856029,
     "wof:name":"\u2018\u0100b\u016bd",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

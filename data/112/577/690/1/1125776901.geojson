@@ -25,14 +25,26 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0648\u062d\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u062d\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "al-Dawha"
+    ],
     "name:cat_x_preferred":[
         "Al-Dawha"
+    ],
+    "name:ceb_x_preferred":[
+        "Ad Daw\u1e29ah"
     ],
     "name:eng_x_preferred":[
         "Al-Dawha"
     ],
     "name:eng_x_variant":[
         "al-Dawha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u062d\u0647"
     ],
     "name:nld_x_preferred":[
         "Al-Dawha"
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":1125776901,
-    "wof:lastmodified":1566600651,
+    "wof:lastmodified":1690856061,
     "wof:name":"Ad Daw\u1e29ah",
     "wof:parent_id":1091912933,
     "wof:placetype":"locality",

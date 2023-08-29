@@ -28,6 +28,9 @@
     "name:ara_x_variant":[
         "\u0639\u0648\u0631\u064a\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0648\u0631\u064a\u0641"
+    ],
     "name:cat_x_preferred":[
         "Urif"
     ],
@@ -44,6 +47,9 @@
         "Urif"
     ],
     "name:pol_x_preferred":[
+        "Urif"
+    ],
+    "name:spa_x_preferred":[
         "Urif"
     ],
     "qs_pg:aaroncc":"PS",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125824665,
-    "wof:lastmodified":1566600646,
+    "wof:lastmodified":1690856052,
     "wof:name":"\u2018\u016ar\u012bf",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

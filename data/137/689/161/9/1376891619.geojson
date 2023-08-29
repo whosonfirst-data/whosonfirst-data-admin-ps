@@ -28,8 +28,14 @@
     "name:ces_x_preferred":[
         "Bejt Chanina"
     ],
+    "name:deu_x_preferred":[
+        "Beit Hanina"
+    ],
     "name:eng_x_preferred":[
         "Beit Hanina"
+    ],
+    "name:epo_x_preferred":[
+        "Beit \u0124anina"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062a \u062d\u0646\u06cc\u0646\u0627"
@@ -49,11 +55,20 @@
     "name:nno_x_preferred":[
         "Beit Hanina"
     ],
+    "name:nob_x_preferred":[
+        "Beit Hanina"
+    ],
     "name:spa_x_preferred":[
         "Beit Hanina"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062a \u062d\u0646\u06cc\u0646\u0627"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d7\u05e0\u05d9\u05e0\u05d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u7279-\u54c8\u5c3c\u7eb3"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":1376891619,
-    "wof:lastmodified":1566600619,
+    "wof:lastmodified":1690856013,
     "wof:name":"Beit Hanina",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

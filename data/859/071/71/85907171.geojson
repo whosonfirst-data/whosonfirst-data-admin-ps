@@ -53,6 +53,12 @@
     "name:por_x_preferred":[
         "Kiryat HaMemshala"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b \u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kiryat HaMemshal\u00e1"
+    ],
     "name:yid_x_preferred":[
         "\u05e7\u05e8\u05d9\u05ea \u05d4\u05de\u05de\u05e9\u05dc\u05d4"
     ],
@@ -117,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314133,
+    "wof:lastmodified":1690855925,
     "wof:name":"Kiryat Ha-memshala",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

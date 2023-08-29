@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u0631\u064a\u062d\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u0631\u064a\u062d\u0627\u0646"
+    ],
     "name:cat_x_preferred":[
         "Umm ar-Rihan"
+    ],
+    "name:ceb_x_preferred":[
+        "Umm ar R\u012b\u1e29\u0101n"
     ],
     "name:eng_x_preferred":[
         "Umm ar-Rihan"
@@ -45,6 +51,9 @@
     ],
     "name:und_x_variant":[
         "Khirbat Um er Rih\u0101n"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u59c6\u00b7\u745e\u6f22"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1126043449,
-    "wof:lastmodified":1566600633,
+    "wof:lastmodified":1690856030,
     "wof:name":"Umm ar R\u012b\u1e29\u0101n",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u062d\u0628\u0644\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0628\u0644\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Hableh"
+    ],
     "name:cat_x_preferred":[
         "Hableh"
     ],
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125825071,
-    "wof:lastmodified":1566600644,
+    "wof:lastmodified":1690856049,
     "wof:name":"\u1e28ablah",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

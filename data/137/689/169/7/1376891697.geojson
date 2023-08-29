@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0634\u0639\u0641\u0627\u0637"
     ],
+    "name:cat_x_preferred":[
+        "Shuafat"
+    ],
     "name:ces_x_preferred":[
         "\u0160u'afat"
+    ],
+    "name:deu_x_preferred":[
+        "Schu'fat"
     ],
     "name:eng_x_preferred":[
         "Shuafat"
@@ -37,8 +43,14 @@
     "name:ind_x_preferred":[
         "Shuafat"
     ],
+    "name:ita_x_preferred":[
+        "Shuafat"
+    ],
     "name:mkd_x_preferred":[
         "\u0428\u0443\u0430\u0444\u0430\u0442"
+    ],
+    "name:nob_x_preferred":[
+        "Shuafat"
     ],
     "name:pol_x_preferred":[
         "Szuafat"
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":1376891697,
-    "wof:lastmodified":1566600619,
+    "wof:lastmodified":1690856013,
     "wof:name":"Shu'fat",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

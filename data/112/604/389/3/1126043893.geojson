@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0628\u0648\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0628\u0648\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ac\u0989\u0987\u09a8"
+    ],
     "name:cat_x_preferred":[
         "Abwein"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:und_x_variant":[
         "\u2018Ibwein"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5e03\u6eab"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1126043893,
-    "wof:lastmodified":1566600632,
+    "wof:lastmodified":1690856028,
     "wof:name":"\u2018Ibwayn",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

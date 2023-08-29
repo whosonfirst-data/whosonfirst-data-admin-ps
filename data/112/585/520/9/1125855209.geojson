@@ -25,7 +25,13 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u0987\u09a4\u09bf\u09a8"
+    ],
     "name:cat_x_preferred":[
+        "Beitin"
+    ],
+    "name:deu_x_preferred":[
         "Beitin"
     ],
     "name:eng_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125855209,
-    "wof:lastmodified":1566600648,
+    "wof:lastmodified":1690856055,
     "wof:name":"Bayt\u012bn",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

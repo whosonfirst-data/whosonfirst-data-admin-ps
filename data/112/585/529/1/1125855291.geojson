@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062f\u062c\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u062f\u062c\u0646"
+    ],
     "name:cat_x_preferred":[
         "Beit Dajan"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt Dajan"
     ],
     "name:eng_x_preferred":[
         "Beit Dajan"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125855291,
-    "wof:lastmodified":1566600648,
+    "wof:lastmodified":1690856055,
     "wof:name":"Bayt Dajan",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

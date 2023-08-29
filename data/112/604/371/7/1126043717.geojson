@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0623\u0628\u0648 \u0641\u0644\u0627\u062d"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0628\u0648 \u0641\u0644\u0627\u062d"
+    ],
     "name:cat_x_preferred":[
         "Khirbet Abu Falah"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1126043717,
-    "wof:lastmodified":1566600629,
+    "wof:lastmodified":1690856022,
     "wof:name":"Khirbat Ab\u016b Fal\u0101\u1e29",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0639\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0639\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Sa'ir"
+    ],
     "name:cat_x_preferred":[
         "Sa'ir"
     ],
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":101922677,
-    "wof:lastmodified":1621974946,
+    "wof:lastmodified":1690855957,
     "wof:name":"Sa'ir",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u064a\u062e \u062c\u0631\u0627\u062d"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u062e \u062c\u0631\u0627\u062d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09c7\u0996 \u099c\u09be\u09b0\u09b0\u09be\u09b9"
+    ],
+    "name:cat_x_preferred":[
+        "Sheikh Jarrah"
+    ],
     "name:ces_x_preferred":[
         "\u0160ejch D\u017earach"
     ],
@@ -31,11 +40,35 @@
     "name:eng_x_preferred":[
         "Sheikh Jarrah"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u062c\u0631\u0627\u062d"
+    ],
+    "name:fin_x_preferred":[
+        "Sheikh Jarrah"
+    ],
+    "name:fra_x_preferred":[
+        "Cheikh Jarrah"
+    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05d9\u05d7' \u05d2'\u05e8\u05d0\u05d7"
     ],
+    "name:ind_x_preferred":[
+        "Sheikh Jarrah"
+    ],
+    "name:ita_x_preferred":[
+        "Sheikh Jarrah"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30a7\u30a4\u30d5\u30e4\u30e9"
+    ],
+    "name:msa_x_preferred":[
+        "Sheikh Jarrah"
+    ],
+    "name:nob_x_preferred":[
+        "Sheikh Jarrah"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u06cc\u062e \u062c\u0631\u0627\u062d"
     ],
     "name:pol_x_preferred":[
         "Szajch D\u017carrah"
@@ -43,8 +76,26 @@
     "name:por_x_preferred":[
         "Sheikh Jarrah"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0439\u0445-\u0414\u0436\u0430\u0440\u0440\u0430\u0445"
+    ],
     "name:spa_x_preferred":[
         "Sheij Jarrah"
+    ],
+    "name:sqi_x_preferred":[
+        "Shejh Xharah"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e0a\u0e0a\u0e31\u0e22\u0e04\u0e4c\u0e0d\u0e31\u0e23\u0e23\u0e2d\u0e2b\u0e4c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0448-\u0428\u0435\u0439\u0445-\u0414\u0436\u0430\u0440\u0440\u0430\u0445"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u062e \u062c\u0631\u0627\u062d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c22\u8d6b\u00b7\u8d3e\u62c9"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -87,7 +138,7 @@
         }
     ],
     "wof:id":1376891705,
-    "wof:lastmodified":1566600620,
+    "wof:lastmodified":1690856014,
     "wof:name":"Sheikh Jarrah",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

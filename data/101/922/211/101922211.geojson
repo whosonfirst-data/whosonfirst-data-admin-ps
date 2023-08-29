@@ -40,6 +40,9 @@
     "name:mkd_x_preferred":[
         "\u0410\u0442 \u0422\u0443\u0440"
     ],
+    "name:nob_x_preferred":[
+        "At-Tur"
+    ],
     "name:pol_x_preferred":[
         "At Tur"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:und_x_variant":[
         "\u1e6cur"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0-\u05d8\u05d5\u05e8"
     ],
     "qs:a0":"Palestine",
     "qs:a0_lc":"PSE",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101922211,
-    "wof:lastmodified":1621974944,
+    "wof:lastmodified":1690855946,
     "wof:name":"At Tur",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

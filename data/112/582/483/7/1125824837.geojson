@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0644\u0645"
+    ],
     "name:cat_x_preferred":[
         "Salim"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u0101lim"
     ],
     "name:eng_x_preferred":[
         "Salim"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125824837,
-    "wof:lastmodified":1566600642,
+    "wof:lastmodified":1690856044,
     "wof:name":"S\u0101lim",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

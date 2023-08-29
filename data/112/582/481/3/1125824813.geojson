@@ -28,6 +28,9 @@
     "name:ara_x_variant":[
         "\u0635\u0627\u0646\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0635\u0627\u0646\u0648\u0631"
+    ],
     "name:cat_x_preferred":[
         "Sanur"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:pol_x_preferred":[
         "Sanur"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u52aa\u723e"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125824813,
-    "wof:lastmodified":1566600645,
+    "wof:lastmodified":1690856049,
     "wof:name":"\u015e\u0101n\u016br",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

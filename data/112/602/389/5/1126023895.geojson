@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0637\u0644\u0648\u0632\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0637\u0644\u0648\u0632\u0647"
+    ],
     "name:cat_x_preferred":[
         "Talluza"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Talluza"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0644\u0648\u0632\u0647"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05dc\u05d5\u05d6\u05d4"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1126023895,
-    "wof:lastmodified":1566600626,
+    "wof:lastmodified":1690856019,
     "wof:name":"\u0162all\u016bzah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

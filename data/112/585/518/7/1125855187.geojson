@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u0642\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0644\u0642\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Beit Liqya"
+    ],
     "name:cat_x_preferred":[
         "Beit Liqya"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125855187,
-    "wof:lastmodified":1566600648,
+    "wof:lastmodified":1690856054,
     "wof:name":"Bayt Liqy\u0101",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

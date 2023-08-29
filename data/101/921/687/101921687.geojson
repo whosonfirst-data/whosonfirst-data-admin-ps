@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0642\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0648\u0642\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Bruqin"
+    ],
     "name:cat_x_preferred":[
         "Bruqin"
     ],
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":101921687,
-    "wof:lastmodified":1621974953,
+    "wof:lastmodified":1690855985,
     "wof:name":"Bruqin",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

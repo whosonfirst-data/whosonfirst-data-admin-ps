@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u064a \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062d\u0649 \u0627\u0644\u0645\u0633\u0644\u0645"
+    ],
     "name:aze_x_preferred":[
         "M\u00fcs\u0259lman m\u0259h\u0259ll\u0259si"
     ],
@@ -38,14 +41,23 @@
     "name:ces_x_preferred":[
         "Muslimsk\u00e1 \u010dtvr\u0165"
     ],
+    "name:ces_x_variant":[
+        "Muslimsk\u00e1 \u010ctvr\u0165"
+    ],
     "name:deu_x_preferred":[
         "Muslimisches Viertel von Jerusalem"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03c3\u03bf\u03c5\u03bb\u03bc\u03b1\u03bd\u03b9\u03ba\u03ae \u03c3\u03c5\u03bd\u03bf\u03b9\u03ba\u03af\u03b1 \u03c4\u03b7\u03c2 \u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc"
     ],
     "name:eng_x_preferred":[
         "Moslem Quarter"
     ],
     "name:eng_x_variant":[
         "Muslim Quarter"
+    ],
+    "name:eus_x_preferred":[
+        "Auzo musulmana"
     ],
     "name:fin_x_preferred":[
         "Jerusalemin muslimikortteli"
@@ -68,8 +80,14 @@
     "name:ind_x_preferred":[
         "Bagian Muslim"
     ],
+    "name:ita_x_preferred":[
+        "Quartiere musulmano"
+    ],
     "name:jav_x_preferred":[
         "Kampung Muslim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30b9\u30ea\u30e0\u8857\u533a"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0443\u0441\u043b\u0438\u043c\u0430\u043d\u0441\u043a\u0430 \u043d\u0430\u0441\u0435\u043b\u0431\u0430"
@@ -103,6 +121,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0b87\u0b9a\u0bc1\u0bb2\u0bbe\u0bae\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tur_x_preferred":[
+        "M\u00fcsl\u00fcman Mahallesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u0443\u043b\u044c\u043c\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0633\u0644\u0645 \u0645\u062d\u0644\u06c1"
@@ -172,7 +196,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314133,
+    "wof:lastmodified":1690855925,
     "wof:name":"Moslem Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

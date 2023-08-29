@@ -28,6 +28,15 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0633\u064a\u0644\u0629 \u0627\u0644\u062d\u0627\u0631\u062b\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u064a\u0644\u0647 \u0627\u0644\u062d\u0627\u0631\u062b\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Silat al-Harithiya"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u09b2\u09be\u09a4 \u0986\u09b2 \u09b9\u09be\u09b0\u09bf\u09b8\u09bf\u09af\u09bc\u09be"
+    ],
     "name:cat_x_preferred":[
         "Silat al-Harithiya"
     ],
@@ -48,6 +57,9 @@
     ],
     "name:pol_x_preferred":[
         "Silat al-Harisijja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043b\u0430\u0442-\u044d\u043b\u044c-\u0425\u0430\u0440\u0438\u0441\u0438\u044f"
     ],
     "name:und_x_variant":[
         "Silat al Harithiya"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1126023919,
-    "wof:lastmodified":1566600625,
+    "wof:lastmodified":1690856017,
     "wof:name":"S\u012blat al \u1e28\u0101rith\u012byah",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

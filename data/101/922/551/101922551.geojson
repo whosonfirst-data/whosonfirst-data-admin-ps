@@ -23,13 +23,25 @@
     "name:ara_x_preferred":[
         "\u0635\u0648\u0631\u064a\u0641"
     ],
+    "name:ast_x_preferred":[
+        "Surif"
+    ],
     "name:cat_x_preferred":[
         "Surif"
     ],
     "name:ceb_x_preferred":[
         "\u015e\u016br\u012bf"
     ],
+    "name:ces_x_preferred":[
+        "S\u00far\u00edf"
+    ],
     "name:eng_x_preferred":[
+        "Surif"
+    ],
+    "name:fin_x_preferred":[
+        "Surif"
+    ],
+    "name:gle_x_preferred":[
         "Surif"
     ],
     "name:heb_x_preferred":[
@@ -39,6 +51,9 @@
         "Surif"
     ],
     "name:nno_x_preferred":[
+        "Surif"
+    ],
+    "name:nob_x_preferred":[
         "Surif"
     ],
     "name:pol_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":101922551,
-    "wof:lastmodified":1621974944,
+    "wof:lastmodified":1690855944,
     "wof:name":"Surif",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

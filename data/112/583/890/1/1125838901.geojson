@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0632\u0644\u0629 \u0639\u064a\u0633\u0649"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0632\u0644\u0629 \u0639\u064a\u0633\u0649"
+    ],
     "name:cat_x_preferred":[
         "Nazlat 'Isa"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125838901,
-    "wof:lastmodified":1566600656,
+    "wof:lastmodified":1690856067,
     "wof:name":"Nazlat \u2018\u012as\u00e1",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0628\u0633\u0637\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0628\u0633\u0637\u064a\u0647"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0435\u0431\u0430\u0441\u0442\u044b\u044f"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:und_x_variant":[
         "Shomron"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5df4\u65af\u8482\u4e9a"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1125824871,
-    "wof:lastmodified":1566600645,
+    "wof:lastmodified":1690856050,
     "wof:name":"Sabas\u0163\u012byah",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

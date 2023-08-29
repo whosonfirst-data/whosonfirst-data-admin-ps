@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0642\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0642\u0628\u0627"
+    ],
     "name:cat_x_preferred":[
         "Shuqba"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1126023927,
-    "wof:lastmodified":1566600626,
+    "wof:lastmodified":1690856018,
     "wof:name":"Shuqb\u0101",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

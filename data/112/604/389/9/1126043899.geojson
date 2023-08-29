@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0642\u0634"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u0634"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ac\u09c1 \u0995\u09be\u09b6"
+    ],
     "name:cat_x_preferred":[
         "Abu Qash"
     ],
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1126043899,
-    "wof:lastmodified":1566600632,
+    "wof:lastmodified":1690856028,
     "wof:name":"Ab\u016b Qashsh",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

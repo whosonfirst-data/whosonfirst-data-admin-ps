@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0642\u064a\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u064a\u0631\u0647"
+    ],
     "name:cat_x_preferred":[
         "Qira"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125838041,
-    "wof:lastmodified":1566600654,
+    "wof:lastmodified":1690856064,
     "wof:name":"Q\u012brah",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

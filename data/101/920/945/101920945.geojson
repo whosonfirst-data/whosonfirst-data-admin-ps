@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0639\u0628\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Ya'bad"
+    ],
     "name:cat_x_preferred":[
         "Ya'bad"
     ],
@@ -50,6 +53,9 @@
         "Ya'bad"
     ],
     "name:nno_x_preferred":[
+        "Ya'bad"
+    ],
+    "name:nob_x_preferred":[
         "Ya'bad"
     ],
     "name:pol_x_preferred":[
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":101920945,
-    "wof:lastmodified":1621974950,
+    "wof:lastmodified":1690855971,
     "wof:name":"Ya'bad",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",

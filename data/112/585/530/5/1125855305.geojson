@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0623\u0648\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0648\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Beit Ula"
+    ],
     "name:cat_x_preferred":[
         "Beit Ula"
     ],
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125855305,
-    "wof:lastmodified":1566600648,
+    "wof:lastmodified":1690856055,
     "wof:name":"Bayt \u016al\u0101",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

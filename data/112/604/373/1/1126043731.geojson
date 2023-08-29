@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0633\u064a\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0633\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u0987\u09a4 \u09b8\u09c0\u09b0\u09be\u09b9"
+    ],
     "name:cat_x_preferred":[
         "Beit Sira"
     ],
@@ -32,6 +38,9 @@
         "Bayt S\u012br\u0101"
     ],
     "name:eng_x_preferred":[
+        "Beit Sira"
+    ],
+    "name:fra_x_preferred":[
         "Beit Sira"
     ],
     "name:heb_x_preferred":[
@@ -51,6 +60,9 @@
     ],
     "name:und_x_variant":[
         "Beit S\u012br\u0101"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u7279\u9521\u62c9"
     ],
     "qs_pg:aaroncc":"PS",
     "qs_pg:gn_country":"PS",
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1126043731,
-    "wof:lastmodified":1566600632,
+    "wof:lastmodified":1690856028,
     "wof:name":"Bayt S\u012br\u0101",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

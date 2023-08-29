@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Sur Baher"
     ],
+    "name:spa_x_preferred":[
+        "Sur Baher"
+    ],
     "name:und_x_variant":[
         "S\u016br B\u0101hit"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1175613407,
-    "wof:lastmodified":1621974942,
+    "wof:lastmodified":1690855933,
     "wof:name":"Sur Bahir",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

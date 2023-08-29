@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Sharafat"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0627\u0641\u062a"
+    ],
     "name:hin_x_preferred":[
         "\u0936\u0930\u093e\u092b\u093c\u0924"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1376891655,
-    "wof:lastmodified":1566600620,
+    "wof:lastmodified":1690856014,
     "wof:name":"Sharafat",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

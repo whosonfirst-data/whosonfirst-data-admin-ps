@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0648\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0631\u064a\u0648\u062a"
+    ],
     "name:cat_x_preferred":[
         "Qaryut"
     ],
@@ -34,10 +37,16 @@
     "name:eng_x_preferred":[
         "Qaryut"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u06cc\u0648\u062a"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d5\u05ea"
     ],
     "name:nld_x_preferred":[
+        "Qaryut"
+    ],
+    "name:nob_x_preferred":[
         "Qaryut"
     ],
     "name:und_x_variant":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1125825047,
-    "wof:lastmodified":1566600641,
+    "wof:lastmodified":1690856042,
     "wof:name":"Qary\u016bt",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u0642\u0641\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0641\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Qaffin"
+    ],
     "name:cat_x_preferred":[
         "Qaffin"
     ],
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125861407,
-    "wof:lastmodified":1566600636,
+    "wof:lastmodified":1690856035,
     "wof:name":"Qaff\u012bn",
     "wof:parent_id":1091913233,
     "wof:placetype":"locality",

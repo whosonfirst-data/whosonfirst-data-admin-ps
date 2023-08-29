@@ -28,6 +28,9 @@
     "name:ara_x_variant":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u062f\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u064a\u0647"
+    ],
     "name:cat_x_preferred":[
         "Al-Midya"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1126043809,
-    "wof:lastmodified":1566600632,
+    "wof:lastmodified":1690856029,
     "wof:name":"Al Midyah",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

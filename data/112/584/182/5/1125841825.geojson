@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0648\u0646\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Beitunia"
+    ],
     "name:cat_x_preferred":[
         "Beitunia"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062a\u0648\u0646\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Beitunia"
     ],
     "name:fra_x_preferred":[
         "Beitunia"
@@ -57,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Beitunia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0442\u0443\u043d\u0438\u0458\u0430"
     ],
     "name:tur_x_preferred":[
         "Beytunya"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1125841825,
-    "wof:lastmodified":1566600650,
+    "wof:lastmodified":1690856059,
     "wof:name":"Bayt\u016bny\u0101",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

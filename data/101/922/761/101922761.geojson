@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0641\u0648\u062d"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0641\u0648\u062d"
+    ],
+    "name:ast_x_preferred":[
+        "Taffuh"
+    ],
     "name:cat_x_preferred":[
         "Taffuh"
     ],
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":101922761,
-    "wof:lastmodified":1621974946,
+    "wof:lastmodified":1690855955,
     "wof:name":"Taffuh",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

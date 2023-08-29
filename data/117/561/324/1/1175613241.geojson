@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Az-Za'ayyem"
     ],
+    "name:ceb_x_preferred":[
+        "Az Za\u2018ayyim"
+    ],
     "name:eng_x_preferred":[
         "Az-Za'ayyem"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1175613241,
-    "wof:lastmodified":1621974942,
+    "wof:lastmodified":1690855932,
     "wof:name":"Az Za'ayyem",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

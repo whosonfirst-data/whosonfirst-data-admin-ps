@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0625\u064a\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u064a\u0628\u0627"
+    ],
     "name:cat_x_preferred":[
         "Beit Iba"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125855247,
-    "wof:lastmodified":1566600649,
+    "wof:lastmodified":1690856057,
     "wof:name":"Bayt \u012ab\u0101",
     "wof:parent_id":1091913091,
     "wof:placetype":"locality",

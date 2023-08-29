@@ -28,11 +28,20 @@
     "name:ara_x_variant":[
         "\u0628\u064a\u062a \u0623\u0645\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0645\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Beit Ummar"
+    ],
     "name:cat_x_preferred":[
         "Beit Ummar"
     ],
     "name:ceb_x_preferred":[
         "Bayt \u016ammar"
+    ],
+    "name:deu_x_preferred":[
+        "Beit Ummar"
     ],
     "name:eng_x_preferred":[
         "Beit Ummar"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125855221,
-    "wof:lastmodified":1566600649,
+    "wof:lastmodified":1690856057,
     "wof:name":"Bayt \u016ammar",
     "wof:parent_id":1091912955,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0628\u0644\u0648\u0637"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631 \u0628\u0644\u0648\u0637"
+    ],
+    "name:ast_x_preferred":[
+        "Deir Ballut"
+    ],
     "name:cat_x_preferred":[
         "Deir Ballut"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125825123,
-    "wof:lastmodified":1566600647,
+    "wof:lastmodified":1690856052,
     "wof:name":"Dayr Ball\u016b\u0163",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",
