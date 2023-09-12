@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.582271,
-    "geom:area_square_m":6111572785.36174,
+    "geom:area_square_m":6111572785.360783,
     "geom:bbox":"34.218699,31.221104,35.574052,32.552088",
     "geom:latitude":31.912439,
     "geom:longitude":35.205008,
@@ -13,6 +13,9 @@
     "iso:country":"PS",
     "itu:country_code":[
         "970"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "disputed territory"
     ],
     "label:eng_x_preferred_shortcode":[
         "PS"
@@ -987,7 +990,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"970",
     "statoids:ds":"",
     "statoids:fifa":"PLE",
@@ -1033,7 +1037,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"d900566c785eedc78acd5a1b7fa3d46d",
+    "wof:geomhash":"e2ed61640fbd728d39ee3884ef7c3ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1047,12 +1051,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690855927,
+    "wof:lastmodified":1694492224,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":3800000,
-    "wof:population_rank":12,
+    "wof:population":4685306,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:shortcode":"PS",
     "wof:superseded_by":[],
