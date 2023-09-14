@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034831,
-    "geom:area_square_m":367589069.146662,
+    "geom:area_square_m":367588887.179814,
     "geom:bbox":"34.218699,31.220052,34.5678,31.594539",
     "geom:latitude":31.406507,
     "geom:longitude":34.376782,
@@ -13,6 +13,9 @@
     "iso:country":"PS",
     "label:eng_x_preferred_longname":[
         "Gaza Strip District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "GZ"
@@ -540,7 +543,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f6b5ee114ae6508fed11c564f2bb09a8",
+    "wof:geomhash":"a67049240db76f0e9e26df061ee36a29",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -564,7 +567,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690855927,
+    "wof:lastmodified":1694493129,
     "wof:name":"Gaza Strip",
     "wof:parent_id":1159339485,
     "wof:placetype":"region",
