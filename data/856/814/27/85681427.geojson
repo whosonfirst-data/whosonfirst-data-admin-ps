@@ -518,6 +518,7 @@
         "gn:id":285153,
         "gp:id":23424988,
         "hasc:id":"PS.WE",
+        "iso:code":"PS-WBK",
         "iso:id":"PS-WBK",
         "marc:id":"wj",
         "nyt:id":"63257233507740230531",
@@ -525,6 +526,7 @@
         "wd:id":"Q36678",
         "wk:page":"West Bank"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PS",
     "wof:geom_alt":[
         "quattroshapes"
@@ -553,7 +555,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493255,
+    "wof:lastmodified":1695884778,
     "wof:name":"West Bank",
     "wof:parent_id":1159339487,
     "wof:placetype":"region",
