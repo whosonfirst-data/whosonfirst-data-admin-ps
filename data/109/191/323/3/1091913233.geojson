@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023626,
-    "geom:area_square_m":246896355.166589,
+    "geom:area_square_m":246896288.551609,
     "geom:bbox":"35.007263,32.196713,35.168476,32.458208",
     "geom:latitude":32.313303,
     "geom:longitude":35.083081,
@@ -152,12 +152,13 @@
     "wof:concordances":{
         "hasc:id":"PS.WE.TL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892703,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"8349b9c54bacda4b719f25615495db21",
+    "wof:geomhash":"168aae0f0606200aa320e9bcfe253849",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":1091913233,
-    "wof:lastmodified":1617130011,
+    "wof:lastmodified":1695886579,
     "wof:name":"Tulkarm",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

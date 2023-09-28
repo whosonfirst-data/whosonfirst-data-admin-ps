@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061633,
-    "geom:area_square_m":648871321.63108,
+    "geom:area_square_m":648871480.26852,
     "geom:bbox":"35.04883,31.463121,35.481675,31.744763",
     "geom:latitude":31.632878,
     "geom:longitude":35.295711,
@@ -416,12 +416,13 @@
     "wof:concordances":{
         "hasc:id":"PS.WE.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892684,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"2de97ba66670b351e047843939141b01",
+    "wof:geomhash":"2cbc49d8278f96d7161c55cd56db7571",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -441,7 +442,7 @@
         }
     ],
     "wof:id":1091912933,
-    "wof:lastmodified":1642551756,
+    "wof:lastmodified":1695886510,
     "wof:name":"Bethlehem",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038569,
-    "geom:area_square_m":403096849.477895,
+    "geom:area_square_m":403096810.708523,
     "geom:bbox":"35.317118,32.176221,35.574052,32.412915",
     "geom:latitude":32.303364,
     "geom:longitude":35.464258,
@@ -122,12 +122,13 @@
     "wof:concordances":{
         "hasc:id":"PS.WE.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892701,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"7e2dd8968d23c994b3d978ea822250bc",
+    "wof:geomhash":"955db0706073e56be0a4b0b27e12b7dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1091913213,
-    "wof:lastmodified":1617129862,
+    "wof:lastmodified":1695886557,
     "wof:name":"Tubas",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

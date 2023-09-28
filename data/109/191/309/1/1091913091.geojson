@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057853,
-    "geom:area_square_m":605448946.651069,
+    "geom:area_square_m":605448946.650595,
     "geom:bbox":"35.138201411,32.033056936,35.470923958,32.325658927",
     "geom:latitude":32.183095,
     "geom:longitude":35.298128,
@@ -221,12 +221,13 @@
     "wof:concordances":{
         "hasc:id":"PS.WE.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892692,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"9b7b3f9194cf5878498b4fef5c94af44",
+    "wof:geomhash":"9a6018e6618d4cc8ae74a8287be28195",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -246,7 +247,7 @@
         }
     ],
     "wof:id":1091913091,
-    "wof:lastmodified":1582314137,
+    "wof:lastmodified":1695886423,
     "wof:name":"Nablus",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

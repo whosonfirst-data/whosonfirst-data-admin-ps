@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005783,
-    "geom:area_square_m":60941445.035669,
+    "geom:area_square_m":60941435.292572,
     "geom:bbox":"34.452267,31.49884,34.5678,31.594539",
     "geom:latitude":31.544148,
     "geom:longitude":34.509673,
@@ -71,12 +71,13 @@
     "wof:concordances":{
         "hasc:id":"PS.GZ.GS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892705,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"34ae0e3c5ec8ba9f360765c4e387b729",
+    "wof:geomhash":"52d712d791f30f8d078e0e44078bd6c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091913267,
-    "wof:lastmodified":1627522519,
+    "wof:lastmodified":1695886163,
     "wof:name":"North Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

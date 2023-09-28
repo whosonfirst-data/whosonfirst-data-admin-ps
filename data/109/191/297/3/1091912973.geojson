@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055861,
-    "geom:area_square_m":583053741.494757,
+    "geom:area_square_m":583053569.876085,
     "geom:bbox":"35.07203,32.300298,35.428696,32.552088",
     "geom:latitude":32.42282,
     "geom:longitude":35.255922,
@@ -167,12 +167,13 @@
     "wof:concordances":{
         "hasc:id":"PS.WE.JN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892687,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"0b2e1712851d358c860119aa828ef4a3",
+    "wof:geomhash":"2e329051a43ee8c1b1bfcdb6bfead15e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":1091912973,
-    "wof:lastmodified":1617129939,
+    "wof:lastmodified":1695886571,
     "wof:name":"Jenin",
     "wof:parent_id":85681427,
     "wof:placetype":"county",
