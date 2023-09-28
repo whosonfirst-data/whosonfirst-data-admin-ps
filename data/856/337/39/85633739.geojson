@@ -1023,12 +1023,14 @@
         "hasc:id":"PS",
         "icao:code":"SU-Y",
         "ioc:id":"PLE",
+        "iso:code":"PS",
         "m49:code":"275",
         "ne:adm0_a3":"PSX",
         "ne:id":1159320899,
         "qs_pg:id":616321,
         "wd:id":"Q219060"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PS",
     "wof:country_alpha3":"PSE",
     "wof:geom_alt":[
@@ -1051,7 +1053,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639679,
+    "wof:lastmodified":1695881337,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
