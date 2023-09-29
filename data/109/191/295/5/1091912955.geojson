@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094552,
-    "geom:area_square_m":996992651.164669,
+    "geom:area_square_m":996992598.683641,
     "geom:bbox":"34.880274,31.342602,35.355859,31.670944",
     "geom:latitude":31.488181,
     "geom:longitude":35.092066,
@@ -278,12 +278,13 @@
     "wof:concordances":{
         "hasc:id":"PS.WE.HE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892685,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"a5e9c72bc4575c1e2af79a8310ce4aff",
+    "wof:geomhash":"df62d00bbfae1899783b7046aa32ba56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -303,7 +304,7 @@
         }
     ],
     "wof:id":1091912955,
-    "wof:lastmodified":1617131441,
+    "wof:lastmodified":1695886620,
     "wof:name":"Hebron",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

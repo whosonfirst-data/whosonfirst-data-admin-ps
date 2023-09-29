@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005649,
-    "geom:area_square_m":59607368.238975,
+    "geom:area_square_m":59607327.911046,
     "geom:bbox":"34.297417,31.374341,34.426462,31.467056",
     "geom:latitude":31.420629,
     "geom:longitude":34.369337,
@@ -71,12 +71,13 @@
     "wof:concordances":{
         "hasc:id":"PS.GZ.DB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892708,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"8406411de1a89c0f392b940086617635",
+    "wof:geomhash":"14e0f247f9010930cdc7256f9545867c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091913317,
-    "wof:lastmodified":1627522519,
+    "wof:lastmodified":1695886163,
     "wof:name":"Deir Al-Balah",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

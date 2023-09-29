@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010124,
-    "geom:area_square_m":106924069.586168,
+    "geom:area_square_m":106924110.974599,
     "geom:bbox":"34.245853,31.260867,34.3735,31.394583",
     "geom:latitude":31.336443,
     "geom:longitude":34.318941,
@@ -71,12 +71,13 @@
     "wof:concordances":{
         "hasc:id":"PS.GZ.KY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892709,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"6b00952e42f9ae49fe54528f38fff164",
+    "wof:geomhash":"8fd383896537cdcb872fae01db8f412d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091913333,
-    "wof:lastmodified":1627522519,
+    "wof:lastmodified":1695886163,
     "wof:name":"Khan Younis",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

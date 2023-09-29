@@ -532,6 +532,7 @@
         "gn:id":281132,
         "gp:id":23424838,
         "hasc:id":"PS.GZ",
+        "iso:code":"PS-GZZ",
         "iso:id":"PS-GZZ",
         "marc:id":"gz",
         "nyt:id":"N49255557356717107211",
@@ -539,6 +540,7 @@
         "wd:id":"Q762573",
         "wk:page":"Gaza Strip"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PS",
     "wof:geom_alt":[
         "quattroshapes"
@@ -567,7 +569,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493129,
+    "wof:lastmodified":1695884331,
     "wof:name":"Gaza Strip",
     "wof:parent_id":1159339485,
     "wof:placetype":"region",

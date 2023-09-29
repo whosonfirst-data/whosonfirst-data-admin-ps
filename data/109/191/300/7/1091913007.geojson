@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056885,
-    "geom:area_square_m":596712836.898732,
+    "geom:area_square_m":596712836.898911,
     "geom:bbox":"35.361586513,31.740400398,35.569580738,32.195995063",
     "geom:latitude":31.968186,
     "geom:longitude":35.472898,
@@ -272,12 +272,13 @@
     "wof:concordances":{
         "hasc:id":"PS.WE.JC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892690,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"5de39ed8dd6ba3aab6f80eff5df98215",
+    "wof:geomhash":"66735933e4323dc433c0eeeb38d8488d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -297,7 +298,7 @@
         }
     ],
     "wof:id":1091913007,
-    "wof:lastmodified":1582314136,
+    "wof:lastmodified":1695886423,
     "wof:name":"Jericho",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

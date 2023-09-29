@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007176,
-    "geom:area_square_m":75670443.990468,
+    "geom:area_square_m":75670481.204155,
     "geom:bbox":"34.375751,31.427833,34.51194,31.547039",
     "geom:latitude":31.488316,
     "geom:longitude":34.445547,
@@ -155,12 +155,13 @@
     "wof:concordances":{
         "hasc:id":"PS.GZ.GZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892706,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"1bb1b380525f367091ffbb4187e60be6",
+    "wof:geomhash":"25a7e2e207707d44d4fdcae14fbb4ba5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1091913297,
-    "wof:lastmodified":1636494852,
+    "wof:lastmodified":1695886621,
     "wof:name":"Gaza",
     "wof:parent_id":85681213,
     "wof:placetype":"county",

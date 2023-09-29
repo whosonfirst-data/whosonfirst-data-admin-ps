@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026816,
-    "geom:area_square_m":281795159.056393,
+    "geom:area_square_m":281795110.241328,
     "geom:bbox":"35.082937,31.716372,35.491788,31.88656",
     "geom:latitude":31.804462,
     "geom:longitude":35.289121,
@@ -294,12 +294,13 @@
         "qs_pg:id":891888,
         "wd:id":"Q192232"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1459010035,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3dae20d1f0e5fed6f412452994bf89a0",
+    "wof:geomhash":"87166e5451b6522911d8021e89e072ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -319,7 +320,7 @@
         }
     ],
     "wof:id":421200701,
-    "wof:lastmodified":1690856015,
+    "wof:lastmodified":1695886621,
     "wof:name":"Jerusalem",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

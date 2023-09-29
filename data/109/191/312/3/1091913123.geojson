@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015913,
-    "geom:area_square_m":166535741.691049,
+    "geom:area_square_m":166535752.187444,
     "geom:bbox":"34.957012,32.107316,35.194954,32.25447",
     "geom:latitude":32.183818,
     "geom:longitude":35.068613,
@@ -146,12 +146,13 @@
     "wof:concordances":{
         "hasc:id":"PS.WE.QA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892696,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"65f3bca7281e96b0b72393f2b7e86596",
+    "wof:geomhash":"2d4c3ba304bdc72088f559ed016c01cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1091913123,
-    "wof:lastmodified":1617131168,
+    "wof:lastmodified":1695886611,
     "wof:name":"Qalqilya",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

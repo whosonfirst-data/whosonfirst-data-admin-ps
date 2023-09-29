@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077392,
-    "geom:area_square_m":811909306.768749,
+    "geom:area_square_m":811909301.703172,
     "geom:bbox":"34.979027,31.828959,35.431373,32.069738",
     "geom:latitude":31.95956,
     "geom:longitude":35.206823,
@@ -323,12 +323,13 @@
     "wof:concordances":{
         "hasc:id":"PS.WE.RB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PS",
     "wof:created":1473892698,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"15830f3e8f443d9c033ccaa6218945d6",
+    "wof:geomhash":"7aa660fc74b1b5c75582d0ceca54ff81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -348,7 +349,7 @@
         }
     ],
     "wof:id":1091913137,
-    "wof:lastmodified":1617130939,
+    "wof:lastmodified":1695886607,
     "wof:name":"Ramallah",
     "wof:parent_id":85681427,
     "wof:placetype":"county",
