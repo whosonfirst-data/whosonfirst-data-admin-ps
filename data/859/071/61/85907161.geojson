@@ -11,6 +11,7 @@
     "geom:longitude":35.23109,
     "gn:id":"",
     "iso:country":"PS",
+    "lbl:bbox":"35.224975,31.771063,35.234975,31.781063",
     "lbl:latitude":31.775537,
     "lbl:longitude":35.2306,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:ara_x_preferred":[
         "\u062d\u0627\u0631\u0629 \u0627\u0644\u0623\u0631\u0645\u0646"
@@ -167,10 +169,29 @@
     "qs:woe_lau":0,
     "qs:woe_local":1968222,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Armenian Quarter",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Jerusalem",
+    "qs_pg:photos":13376,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":59,
+    "qs_pg:photos_9r":18,
+    "qs_pg:photos_all":13376,
+    "qs_pg:photos_sr":26,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897018,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22724641,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":5655,
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Jerusalem",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672551,
         102191569,
@@ -183,6 +204,14 @@
         "gp:id":22724641,
         "qs_pg:id":897018,
         "wd:id":"Q1645501"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22724641
+        ],
+        "qs_pg:id":[
+            897018
+        ]
     },
     "wof:country":"PS",
     "wof:geomhash":"e0424cff91a1c4078272c2c075f43f6b",
@@ -200,13 +229,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690855925,
+    "wof:lastmodified":1706240614,
     "wof:name":"Armenian Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126084467
+    ],
     "wof:tags":[]
 },
   "bbox": [
