@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"34.99097,32.13266,34.99097,32.13266",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u0430\u043d\u0438\u0442"
@@ -78,7 +80,7 @@
         "wk:page":"Oranit"
     },
     "wof:country":"PS",
-    "wof:geomhash":"6cfdd2f8e41f87451f58485174f1f457",
+    "wof:geomhash":"35a1df776d20e5e748106463e5b44287",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,20 +102,22 @@
         }
     ],
     "wof:id":1226173127,
-    "wof:lastmodified":1566600662,
+    "wof:lastmodified":1706239786,
     "wof:name":"Oranit",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125995105
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     34.99097,
-    32.13265999999999,
+    32.13266,
     34.99097,
-    32.13265999999999
+    32.13266
 ],
-  "geometry": {"coordinates":[34.99097,32.13265999999999],"type":"Point"}
+  "geometry": {"coordinates":[34.99097,32.13266],"type":"Point"}
 }

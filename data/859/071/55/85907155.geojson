@@ -9,11 +9,14 @@
     "geom:bbox":"35.229034,31.774182,35.239239,31.784217",
     "geom:latitude":31.779145,
     "geom:longitude":35.233827,
+    "gn:country":"IL",
     "gn:elevation":760,
+    "gn:fcode":"PPLX",
     "gn:latitude":31.77667,
     "gn:longitude":35.23417,
     "gn:population":36000,
     "iso:country":"PS",
+    "lbl:bbox":"35.22917,31.77167,35.23917,31.78167",
     "lbl:latitude":31.777708,
     "lbl:longitude":35.232774,
     "lbl:max_zoom":18.0,
@@ -27,6 +30,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0644\u062f\u0629 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
@@ -284,11 +288,35 @@
     "qs:woe_lau":0,
     "qs:woe_local":1968222,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6945291,
+    "qs_pg:gn_pop":36000,
+    "qs_pg:name":"Old City",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Jerusalem",
+    "qs_pg:photos":20686,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":92,
+    "qs_pg:photos_9r":21,
+    "qs_pg:photos_all":20686,
+    "qs_pg:photos_sr":27,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":161012,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22724638,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":3113,
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Jerusalem",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672551,
         102191569,
@@ -303,6 +331,20 @@
         "qs_pg:id":161012,
         "wd:id":"Q213274",
         "wk:page":"Old City (Jerusalem)"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6945291
+        ],
+        "gp:id":[
+            22724638
+        ],
+        "qs_pg:id":[
+            161012
+        ],
+        "wd:id":[
+            "Q213274"
+        ]
     },
     "wof:country":"PS",
     "wof:geomhash":"22ef63b0f0e68291d2b1546d3e7b4b87",
@@ -320,7 +362,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690855925,
+    "wof:lastmodified":1706240614,
     "wof:name":"Old City",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",
@@ -328,7 +370,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126104095
+    ],
     "wof:tags":[]
 },
   "bbox": [

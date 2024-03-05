@@ -11,6 +11,7 @@
     "geom:longitude":35.225857,
     "gn:id":"",
     "iso:country":"PS",
+    "lbl:bbox":"35.21794,31.748203,35.22794,31.758203",
     "lbl:latitude":31.75073,
     "lbl:longitude":35.223812,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:bar_x_preferred":[
         "Arnona"
@@ -83,10 +85,29 @@
     "qs:woe_lau":0,
     "qs:woe_local":1968222,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Arnona",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Jerusalem",
+    "qs_pg:photos":332,
+    "qs_pg:photos_1k":67,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":332,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241886,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22724713,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":439,
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Jerusalem",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672551,
         102191569,
@@ -99,6 +120,14 @@
         "gp:id":22724713,
         "qs_pg:id":241886,
         "wd:id":"Q2918536"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22724713
+        ],
+        "qs_pg:id":[
+            241886
+        ]
     },
     "wof:country":"PS",
     "wof:geomhash":"db8d93c1bf0505c3a695aaec863e7482",
@@ -116,13 +145,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690855926,
+    "wof:lastmodified":1706240614,
     "wof:name":"Arnona",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126102919
+    ],
     "wof:tags":[]
 },
   "bbox": [

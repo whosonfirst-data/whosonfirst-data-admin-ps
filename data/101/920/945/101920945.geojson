@@ -9,7 +9,21 @@
     "geom:bbox":"35.145912,32.433994,35.182968,32.455177",
     "geom:latitude":32.4437,
     "geom:longitude":35.166505,
+    "gn:admin1_code":"WE",
+    "gn:asciiname":"Ya'bad",
+    "gn:country_code":"PS",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870560,
+    "gn:latitude":32.44651,
+    "gn:longitude":35.17037,
+    "gn:modification_date":"2011-06-20",
+    "gn:name":"Ya'bad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
     "iso:country":"PS",
+    "lbl:bbox":"35.15037,32.42651,35.19037,32.46651",
     "lbl:latitude":32.44648,
     "lbl:longitude":35.168328,
     "lbl:max_zoom":18.0,
@@ -107,6 +121,14 @@
         "wd:id":"Q1828708",
         "wk:page":"Ya'bad"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7870560
+        ],
+        "wk:page":[
+            "Ya%27bad"
+        ]
+    },
     "wof:country":"PS",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -133,13 +155,15 @@
         }
     ],
     "wof:id":101920945,
-    "wof:lastmodified":1690855971,
+    "wof:lastmodified":1706240614,
     "wof:name":"Ya'bad",
     "wof:parent_id":1091912973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ps",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343797925
+    ],
     "wof:tags":[]
 },
   "bbox": [
