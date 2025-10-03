@@ -523,6 +523,7 @@
     "name:nld_x_variant":[
         "Palestina",
         "Palestijnse Gebieden",
+        "Palestijnse gebieden",
         "Staat Palestina"
     ],
     "name:nno_x_preferred":[
@@ -651,7 +652,8 @@
         "Palestina"
     ],
     "name:spa_x_variant":[
-        "Territorios Palestinos"
+        "Territorios Palestinos",
+        "Palestine"
     ],
     "name:sqi_x_preferred":[
         "Palestina"
@@ -1051,7 +1053,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1758530810,
+    "wof:lastmodified":1759526678,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
