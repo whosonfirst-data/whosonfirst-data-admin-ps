@@ -649,11 +649,11 @@
         "Falastiin Daanka galbeed iyo Qasa"
     ],
     "name:spa_x_preferred":[
-        "Palestine"
+        "Palestina"
     ],
     "name:spa_x_variant":[
         "Territorios Palestinos",
-        "Palestina"
+        "Palestine"
     ],
     "name:sqi_x_preferred":[
         "Palestina"
@@ -1039,7 +1039,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"e2ed61640fbd728d39ee3884ef7c3ff7",
+    "wof:geomhash":"d900566c785eedc78acd5a1b7fa3d46d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1053,7 +1053,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1695881337,
+    "wof:lastmodified":1759526678,
     "wof:name":"Palestine",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
