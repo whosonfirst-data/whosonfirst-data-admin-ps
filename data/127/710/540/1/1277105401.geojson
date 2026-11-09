@@ -54,7 +54,7 @@
         "wk:page":"Canada_Park"
     },
     "wof:country":"PS",
-    "wof:geomhash":"1125520c9ee9c57fc63e472a23010fe7",
+    "wof:geomhash":"829a7ab1203f35b95c0c037f99e6215d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     35.0,
     31.83333
 ],
-  "geometry": {"coordinates":[35.0,31.83333],"type":"Point"}
+  "geometry": {"coordinates":[35,31.83333],"type":"Point"}
 }

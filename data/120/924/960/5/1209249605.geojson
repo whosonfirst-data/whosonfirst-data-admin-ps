@@ -60,7 +60,7 @@
         "wk:page":"Mekhora"
     },
     "wof:country":"PS",
-    "wof:geomhash":"c063d5637888ca28ccb56299e01b90dc",
+    "wof:geomhash":"c34d7bec97b0291a0890c7d31c20c58f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     35.42285,
     32.16484000000001
 ],
-  "geometry": {"coordinates":[35.42285,32.16484000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.42285,32.16484],"type":"Point"}
 }

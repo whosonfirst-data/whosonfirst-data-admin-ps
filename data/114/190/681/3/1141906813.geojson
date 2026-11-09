@@ -127,7 +127,7 @@
     "wof:concordances":{},
     "wof:country":"PS",
     "wof:created":1499130642,
-    "wof:geomhash":"61998e58c37aa0318dc7820667e100fd",
+    "wof:geomhash":"06410f871b2d95bbd00d09fbd82db92a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,5 +164,5 @@
     35.09557328160338,
     31.54059287416607
 ],
-  "geometry": {"coordinates":[35.09557328160338,31.54059287416607],"type":"Point"}
+  "geometry": {"coordinates":[35.095573,31.540593],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"%27Arab_al-Rashayida"
     },
     "wof:country":"PS",
-    "wof:geomhash":"1916996d056c81adb64432acaa1cf19d",
+    "wof:geomhash":"ea629a23ee6a591b43c506e2646c7e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     35.34735999999999,
     31.75292
 ],
-  "geometry": {"coordinates":[35.34735999999999,31.75292],"type":"Point"}
+  "geometry": {"coordinates":[35.34736,31.75292],"type":"Point"}
 }

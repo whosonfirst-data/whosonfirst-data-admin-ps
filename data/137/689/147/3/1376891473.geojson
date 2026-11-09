@@ -71,7 +71,7 @@
         "wk:page":"Kalandia"
     },
     "wof:country":"PS",
-    "wof:geomhash":"df4e612eebe258e15c5cdc409c77ad59",
+    "wof:geomhash":"f193f0ac03f84303a44186971f2c5bd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,5 +102,5 @@
     35.21667,
     31.86667000000001
 ],
-  "geometry": {"coordinates":[35.21667,31.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.21667,31.86667],"type":"Point"}
 }

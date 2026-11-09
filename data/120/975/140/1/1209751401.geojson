@@ -50,7 +50,7 @@
         "gn:id":281206
     },
     "wof:country":"PS",
-    "wof:geomhash":"1675c47e46274d11caec46afe133cbdc",
+    "wof:geomhash":"f17026369627b74962aca9eb32a89ece",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.0,
     32.2
 ],
-  "geometry": {"coordinates":[35.0,32.2],"type":"Point"}
+  "geometry": {"coordinates":[35,32.2],"type":"Point"}
 }
