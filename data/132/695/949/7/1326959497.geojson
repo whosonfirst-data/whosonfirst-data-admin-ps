@@ -61,7 +61,7 @@
         "wk:page":"Al-Zaitounah"
     },
     "wof:country":"PS",
-    "wof:geomhash":"66f658ef7a629362c12762022431ecb8",
+    "wof:geomhash":"27daf66550d0bce89f95290131e3147c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     35.16528,
     31.95667000000001
 ],
-  "geometry": {"coordinates":[35.16528,31.95667000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.16528,31.95667],"type":"Point"}
 }

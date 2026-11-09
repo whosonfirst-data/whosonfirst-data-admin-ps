@@ -56,7 +56,7 @@
     },
     "wof:country":"PS",
     "wof:created":1497309431,
-    "wof:geomhash":"3130658978aa5e6f9c4321af4ba81657",
+    "wof:geomhash":"f1ec2c5a524e43a9138b355b687986e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.231845,
     31.7849595
 ],
-  "geometry": {"coordinates":[35.231845,31.7849595],"type":"Point"}
+  "geometry": {"coordinates":[35.231845,31.78496],"type":"Point"}
 }

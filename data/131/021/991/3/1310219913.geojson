@@ -59,7 +59,7 @@
         "wk:page":"Al-Uddeisa"
     },
     "wof:country":"PS",
-    "wof:geomhash":"6f026b90b18319fdf2335cfef394fc14",
+    "wof:geomhash":"4414bb091bd5c73db31297e931975355",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     35.13995999999999,
     31.54796
 ],
-  "geometry": {"coordinates":[35.13995999999999,31.54796],"type":"Point"}
+  "geometry": {"coordinates":[35.13996,31.54796],"type":"Point"}
 }

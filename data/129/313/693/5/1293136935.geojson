@@ -78,7 +78,7 @@
         "wk:page":"Mevo_Horon"
     },
     "wof:country":"PS",
-    "wof:geomhash":"057fc72fbb0b26dbc45bf6829553cd48",
+    "wof:geomhash":"31fe9e584ea0559b1dcc8f4a734ab04a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,5 +104,5 @@
     35.03333,
     31.86667000000001
 ],
-  "geometry": {"coordinates":[35.03333,31.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.03333,31.86667],"type":"Point"}
 }

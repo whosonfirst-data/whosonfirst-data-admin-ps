@@ -87,7 +87,7 @@
         "wk:page":"Gilgal"
     },
     "wof:country":"PS",
-    "wof:geomhash":"3b06465ae7fc12348a8b8378ed6f12af",
+    "wof:geomhash":"d107eddc94b682ecbfc7b3912bae6470",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -124,5 +124,5 @@
     35.41667,
     32.0
 ],
-  "geometry": {"coordinates":[35.41667,32.0],"type":"Point"}
+  "geometry": {"coordinates":[35.41667,32],"type":"Point"}
 }

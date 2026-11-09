@@ -49,7 +49,7 @@
         "wk:page":"Al-Ramadien"
     },
     "wof:country":"PS",
-    "wof:geomhash":"850c78bd1cd69670b5f37d41aa81d217",
+    "wof:geomhash":"7f508152563fbff25992ec2ac615ac41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     34.90557,
     31.37559000000001
 ],
-  "geometry": {"coordinates":[34.90557,31.37559000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.90557,31.37559],"type":"Point"}
 }

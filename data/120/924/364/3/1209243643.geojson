@@ -68,7 +68,7 @@
         "wk:page":"Al-Kum"
     },
     "wof:country":"PS",
-    "wof:geomhash":"267a0937acf152e26ab6eb54ab790f5c",
+    "wof:geomhash":"0ed92ea69686b794f94af28616913b68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,5 +107,5 @@
     34.96064000000001,
     31.53123
 ],
-  "geometry": {"coordinates":[34.96064000000001,31.53123],"type":"Point"}
+  "geometry": {"coordinates":[34.96064,31.53123],"type":"Point"}
 }
