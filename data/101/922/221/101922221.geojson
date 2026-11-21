@@ -10,8 +10,8 @@
     "geom:latitude":31.769506,
     "geom:longitude":35.252833,
     "iso:country":"PS",
-    "lbl:latitude":31.769565,
-    "lbl:longitude":35.249417,
+    "lbl:latitude":31.769853,
+    "lbl:longitude":35.252776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":31.769565,
@@ -66,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":665,
     "wof:belongsto":[
         102191569,
