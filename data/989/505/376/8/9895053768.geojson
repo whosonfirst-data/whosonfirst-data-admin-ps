@@ -1,0 +1,88 @@
+{
+  "id": 9895053768,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33298,32.23419,35.33298,32.23419",
+    "geom:latitude":32.23419,
+    "geom:longitude":35.33298,
+    "iso:country":"PS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12494107: name \"Elon Moreh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12494107"
+        },
+        {
+            "citation":"GeoNames populated place 12494107: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12494107"
+        },
+        {
+            "citation":"GeoNames populated place 12494107: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12494107"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091913091 (Nablus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632315,
+        85633739,
+        85681427,
+        102191569,
+        136253049,
+        1091913091,
+        1159339487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12494107
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"a34b71e24a7f3dbcaa166e475d987e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":9895053768,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":9895053768,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":9895053768,
+    "wof:lastmodified":1795735197,
+    "wof:name":"Elon Moreh",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33298,
+    32.23419,
+    35.33298,
+    32.23419
+],
+  "geometry": {"coordinates":[35.33298,32.23419],"type":"Point"}
+}

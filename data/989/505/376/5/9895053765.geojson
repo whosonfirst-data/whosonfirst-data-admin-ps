@@ -1,0 +1,88 @@
+{
+  "id": 9895053765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43708,31.67901,35.43708,31.67901",
+    "geom:latitude":31.67901,
+    "geom:longitude":35.43708,
+    "iso:country":"PS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11979658: name \"Avnat\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11979658"
+        },
+        {
+            "citation":"GeoNames populated place 11979658: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11979658"
+        },
+        {
+            "citation":"GeoNames populated place 11979658: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11979658"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091912933 (Bethlehem), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632315,
+        85633739,
+        85681427,
+        102191569,
+        136253049,
+        1091912933,
+        1159339487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11979658
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"63eda29b3f6d1f3be6011e7d3e6d3c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":9895053765,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":9895053765,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":9895053765,
+    "wof:lastmodified":1795735197,
+    "wof:name":"Avnat",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43708,
+    31.67901,
+    35.43708,
+    31.67901
+],
+  "geometry": {"coordinates":[35.43708,31.67901],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 9895053764,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.30941,32.17474,35.30941,32.17474",
+    "geom:latitude":32.17474,
+    "geom:longitude":35.30941,
+    "gn:population":1238,
+    "iso:country":"PS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11778032: name \"Itamar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11778032"
+        },
+        {
+            "citation":"GeoNames populated place 11778032: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11778032"
+        },
+        {
+            "citation":"GeoNames populated place 11778032: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11778032"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091913091 (Nablus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632315,
+        85633739,
+        85681427,
+        102191569,
+        136253049,
+        1091913091,
+        1159339487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11778032
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"cef762f33afa9d1cace6d0d854764dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":9895053764,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913091,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":9895053764,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":9895053764,
+    "wof:lastmodified":1795735197,
+    "wof:name":"Itamar",
+    "wof:parent_id":1091913091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.30941,
+    32.17474,
+    35.30941,
+    32.17474
+],
+  "geometry": {"coordinates":[35.30941,32.17474],"type":"Point"}
+}

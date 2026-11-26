@@ -1,0 +1,88 @@
+{
+  "id": 9895053763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4875,31.55941,34.4875,31.55941",
+    "geom:latitude":31.55941,
+    "geom:longitude":34.4875,
+    "iso:country":"PS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670414: name \"Atatra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670414"
+        },
+        {
+            "citation":"GeoNames populated place 11670414: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670414"
+        },
+        {
+            "citation":"GeoNames populated place 11670414: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670414"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091913267 (North Gaza), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632315,
+        85633739,
+        85681213,
+        102191569,
+        136253049,
+        1091913267,
+        1159339485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670414
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f3d5f521073266a3ed016826fea8847e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":9895053763,
+            "region_id":85681213
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913267,
+            "disputed_id":1159339485,
+            "empire_id":136253049,
+            "locality_id":9895053763,
+            "region_id":85681213
+        }
+    ],
+    "wof:id":9895053763,
+    "wof:lastmodified":1795735197,
+    "wof:name":"Atatra",
+    "wof:parent_id":1091913267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4875,
+    31.55941,
+    34.4875,
+    31.55941
+],
+  "geometry": {"coordinates":[34.4875,31.55941],"type":"Point"}
+}
