@@ -1,0 +1,89 @@
+{
+  "id": 9895053767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01656,31.92892,35.01656,31.92892",
+    "geom:latitude":31.92892,
+    "geom:longitude":35.01656,
+    "gn:population":2488,
+    "iso:country":"PS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12156577: name \"Ganei Modi'in\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12156577"
+        },
+        {
+            "citation":"GeoNames populated place 12156577: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12156577"
+        },
+        {
+            "citation":"GeoNames populated place 12156577: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12156577"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091913137 (Ramallah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632315,
+        85633739,
+        85681427,
+        102191569,
+        136253049,
+        1091913137,
+        1159339487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12156577
+    },
+    "wof:country":"PS",
+    "wof:geomhash":"f2acae9e178dff49679a683fbc265e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":9895053767,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":9895053767,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":9895053767,
+    "wof:lastmodified":1795735197,
+    "wof:name":"Ganei Modi'in",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ps",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01656,
+    31.92892,
+    35.01656,
+    31.92892
+],
+  "geometry": {"coordinates":[35.01656,31.92892],"type":"Point"}
+}
